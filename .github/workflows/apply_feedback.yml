@@ -1,0 +1,36 @@
+name: Apply Feedback
+
+on:
+  schedule:
+    # Run daily at 09:00 UTC (5:00 AM ET), before digest
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  feedback:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Apply feedback from issues
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/apply_feedback.py
+
+      - name: Commit updated seeds
+        run: |
+          git config user.name "Paper Digest Bot"
+          git config user.email "bot@paper-digest"
+          git add state/
+          git diff --staged --quiet || git commit -m "Update learned seeds from feedback"
+          git push

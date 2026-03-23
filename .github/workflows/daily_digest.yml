@@ -35,6 +35,6 @@ jobs:
         run: |
           git config user.name "Paper Digest Bot"
           git config user.email "bot@paper-digest"
-          git add output/
+          git add output/ state/
           git diff --staged --quiet || git commit -m "Add digest for $(date +%Y-%m-%d)"
           git push

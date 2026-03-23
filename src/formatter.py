@@ -5,11 +5,15 @@ Format ranked papers into a readable digest.
 from datetime import datetime
 from typing import List, Dict
 
+from feedback import generate_feedback_links
+
 
 class DigestFormatter:
     """Format papers into a tiered markdown digest."""
 
     def format(self, papers: List[Dict]) -> str:
+        # Generate feedback links for all papers
+        self._feedback_links = generate_feedback_links(papers)
         date_str = datetime.now().strftime("%Y-%m-%d (%A)")
 
         must_read = [p for p in papers if p.get("tier") == "must_read"]
@@ -79,6 +83,11 @@ class DigestFormatter:
 
         if paper.get("external_signals"):
             lines.append(f"🔗 **External:** {paper['external_signals']}\n")
+
+        # Feedback links
+        fb = self._feedback_links.get(title, {})
+        if fb:
+            lines.append(f"[👍 Useful]({fb['thumbs_up']}) | [👎 Not relevant]({fb['thumbs_down']})\n")
 
         if detailed and paper.get("abstract"):
             abstract = paper["abstract"][:500]
