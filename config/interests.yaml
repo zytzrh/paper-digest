@@ -20,7 +20,12 @@ keywords:
     - LLM personalization
     - personalized agent
     - agent memory
+    - agentic rl
+    - agentic reinforcement learning
+    - rl agent
+    - reward shaping agent
   secondary:  # Medium relevance - related areas
+    - reinforcement learning from human feedback
     - graph neural network
     - diffusion model
     - score matching
