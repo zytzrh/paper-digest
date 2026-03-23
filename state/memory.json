@@ -1,0 +1,32 @@
+{
+  "2603.20155v1": {
+    "title": "Beyond Single Tokens: Distilling Discrete Diffusion Models via Discrete MMD",
+    "arxiv_id": "2603.20155v1",
+    "tier": "must_read",
+    "date_shown": "2026-03-23T10:52:16.100233"
+  },
+  "2603.19677v1": {
+    "title": "GoAgent: Group-of-Agents Communication Topology Generation for LLM-based Multi-Agent Systems",
+    "arxiv_id": "2603.19677v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-23T10:52:16.100233"
+  },
+  "2603.19584v1": {
+    "title": "PowerLens: Taming LLM Agents for Safe and Personalized Mobile Power Management",
+    "arxiv_id": "2603.19584v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-23T10:52:16.100233"
+  },
+  "2603.13395": {
+    "title": "COT-FM: Cluster-wise Optimal Transport Flow Matching",
+    "arxiv_id": "2603.13395",
+    "tier": "must_read",
+    "date_shown": "2026-03-23T10:52:16.100233"
+  },
+  "2603.19227": {
+    "title": "Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer",
+    "arxiv_id": "2603.19227",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-23T10:52:16.100233"
+  }
+}
