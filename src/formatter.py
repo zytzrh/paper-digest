@@ -56,7 +56,9 @@ class DigestFormatter:
         lines = [f"### {title}\n"]
         lines.append(f"**Authors:** {authors}")
 
-        if arxiv_id:
+        if paper.get("blog_url"):
+            lines.append(f"**Link:** [{paper.get('blog_name', 'Blog')}]({paper['blog_url']})")
+        elif arxiv_id:
             lines.append(f"**Link:** [arXiv:{arxiv_id}](https://arxiv.org/abs/{arxiv_id})")
 
         if paper.get("cites_seed"):
@@ -71,6 +73,12 @@ class DigestFormatter:
 
         if paper.get("insight"):
             lines.append(f"\n💡 **Insight:** {paper['insight']}\n")
+
+        if paper.get("deep_review"):
+            lines.append(f"📖 **Deep Review:**\n{paper['deep_review']}\n")
+
+        if paper.get("external_signals"):
+            lines.append(f"🔗 **External:** {paper['external_signals']}\n")
 
         if detailed and paper.get("abstract"):
             abstract = paper["abstract"][:500]

@@ -1,0 +1,30 @@
+# Curated AI research blogs to follow
+# Each entry needs: name, feed_url (RSS/Atom)
+
+blogs:
+  - name: "Lilian Weng"
+    feed_url: "https://lilianweng.github.io/index.xml"
+
+  - name: "The Gradient"
+    feed_url: "https://thegradient.pub/rss/"
+
+  - name: "Google AI Blog"
+    feed_url: "https://blog.google/technology/ai/rss/"
+
+  - name: "OpenAI Blog"
+    feed_url: "https://openai.com/blog/rss.xml"
+
+  - name: "DeepMind Blog"
+    feed_url: "https://deepmind.google/blog/rss.xml"
+
+  - name: "Anthropic Research"
+    feed_url: "https://www.anthropic.com/feed.xml"
+
+  - name: "Hugging Face Blog"
+    feed_url: "https://huggingface.co/blog/feed.xml"
+
+  - name: "Sebastian Ruder"
+    feed_url: "https://newsletter.ruder.io/feed"
+
+  - name: "Papers with Code"
+    feed_url: "https://paperswithcode.com/latest.atom"
