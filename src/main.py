@@ -3,7 +3,11 @@ Paper Digest - Daily research paper digest with citation tracking and smart filt
 """
 
 import asyncio
+import os
 from datetime import datetime
+from dotenv import load_dotenv
+
+load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
 
 from collectors import ArxivCollector, SemanticScholarCollector, HuggingFaceCollector
 from filters import KeywordFilter, CitationFilter

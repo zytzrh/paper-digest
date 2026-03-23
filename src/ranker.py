@@ -53,33 +53,39 @@ class LLMRanker:
 - Seed papers (core research direction):
 {seed_titles}
 
-Below are {len(candidates)} candidate papers. Score each from 1-10 for relevance and assign a tier:
-- "must_read": Directly relevant to current research, cites seed papers, or from tracked authors
-- "worth_noting": Related to research direction, potentially useful
-- "trending": Hot in the community but not directly related
-- "skip": Not relevant enough
+Below are {len(candidates)} candidate papers. For each paper:
+1. Score from 1-10 for relevance
+2. Assign a tier:
+   - "must_read": Directly relevant to current research, cites seed papers, or from tracked authors
+   - "worth_noting": Related to research direction, potentially useful
+   - "trending": Hot in the community but not directly related
+   - "skip": Not relevant enough
+3. Write an "insight" in Chinese that includes:
+   - 核心方法/贡献（1-2句话）
+   - 与我研究的潜在联系
+   - 可以brainstorm的方向或启发（如果有的话）
 
 Papers:
 {papers_text}
 
 Respond in JSON format:
 [
-  {{"index": 1, "score": 9, "tier": "must_read", "reason": "brief reason"}},
+  {{"index": 1, "score": 9, "tier": "must_read", "reason": "brief reason in English", "insight": "中文洞察：核心方法...与你研究的联系...可以思考的方向..."}},
   ...
 ]
 
-Only include papers with tier != "skip". Be selective - must_read should have at most 2-3 papers."""
+Only include papers with tier != "skip". Be selective - must_read should have at most 2-3 papers.
+For must_read papers, write detailed insights (3-5 sentences). For worth_noting, keep insights brief (1-2 sentences)."""
 
-        response = self.client.messages.create(
-            model="claude-haiku-4-5-20251001",
-            max_tokens=2000,
-            messages=[{"role": "user", "content": prompt}],
-        )
-
-        # Parse response
         try:
+            response = self.client.messages.create(
+                model="claude-haiku-4-5-20251001",
+                max_tokens=4000,
+                messages=[{"role": "user", "content": prompt}],
+            )
+
+            # Parse response
             text = response.content[0].text
-            # Extract JSON from response
             json_start = text.find("[")
             json_end = text.rfind("]") + 1
             rankings = json.loads(text[json_start:json_end])
@@ -90,17 +96,38 @@ Only include papers with tier != "skip". Be selective - must_read should have at
                     candidates[idx]["llm_score"] = r["score"]
                     candidates[idx]["tier"] = r["tier"]
                     candidates[idx]["reason"] = r["reason"]
-        except (json.JSONDecodeError, KeyError, IndexError):
-            # Fallback: use heuristic scoring for tiers
-            for p in candidates[:2]:
-                p["tier"] = "must_read"
-                p["reason"] = "High heuristic score"
-            for p in candidates[2:7]:
-                p["tier"] = "worth_noting"
-                p["reason"] = "Keyword match"
-            for p in candidates[7:10]:
-                p["tier"] = "trending"
-                p["reason"] = "Community interest"
+                    candidates[idx]["insight"] = r.get("insight", "")
+        except Exception as e:
+            print(f"  LLM ranking failed ({e}), using heuristic fallback...")
+            self._heuristic_rank(candidates)
 
         # Return only tiered papers
         return [p for p in candidates if p.get("tier") and p["tier"] != "skip"]
+
+    def _heuristic_rank(self, candidates: List[Dict]):
+        """Fallback ranking when LLM is unavailable."""
+        for p in candidates:
+            score = p.get("heuristic_score", 0)
+
+            # Must-read: cites seed or seed author or very high score
+            if p.get("cites_seed") or p.get("seed_author") or score >= 10:
+                p["tier"] = "must_read"
+                if p.get("cites_seed"):
+                    p["reason"] = f"Cites your seed paper: {p['cites_seed']}"
+                elif p.get("seed_author"):
+                    p["reason"] = f"New work by tracked author: {p['seed_author']}"
+                else:
+                    p["reason"] = "Strong keyword match"
+
+            # Trending: high HF votes
+            elif p.get("hf_votes", 0) >= 10:
+                p["tier"] = "trending"
+                p["reason"] = f"Community buzz ({p['hf_votes']} HF votes)"
+
+            # Worth noting: moderate score
+            elif score >= 3:
+                p["tier"] = "worth_noting"
+                p["reason"] = "Keyword match"
+
+            else:
+                p["tier"] = "skip"

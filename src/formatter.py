@@ -69,6 +69,9 @@ class DigestFormatter:
         if reason:
             lines.append(f"**Why:** {reason}")
 
+        if paper.get("insight"):
+            lines.append(f"\n💡 **Insight:** {paper['insight']}\n")
+
         if detailed and paper.get("abstract"):
             abstract = paper["abstract"][:500]
             lines.append(f"\n> {abstract}...\n")
