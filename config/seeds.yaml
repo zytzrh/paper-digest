@@ -1,0 +1,34 @@
+# Seed Papers
+# These define your research direction. The system tracks:
+# 1. New papers that cite these
+# 2. New papers by these papers' authors
+# 3. Papers related to these topics
+#
+# Format:
+#   - title: Paper title
+#     arxiv_id: "XXXX.XXXXX"  (optional, for arXiv papers)
+#     semantic_scholar_id: "xxx"  (optional, looked up automatically)
+#     direction: which research direction this belongs to
+#     added: date added
+
+papers:
+  - title: "Flow Matching with General Discrete Paths"
+    arxiv_id: "2412.08054"
+    direction: flow-matching
+    added: 2026-03-22
+
+  - title: "Insertion Based Sequence Generation with Learnable Order Dynamics"
+    direction: insertion-generation
+    added: 2026-03-22
+    note: "Your ICML submission direction"
+
+  - title: "Breaking the Factorization Barrier in Diffusion Language Models"
+    direction: discrete-diffusion
+    added: 2026-03-22
+
+  - title: "Unifying Masked Diffusion Models with Various Generation Orders and Beyond"
+    direction: discrete-diffusion
+    added: 2026-03-22
+
+# Add more seed papers as you read them
+# Papers you mark as "must-read" in daily digests get auto-added here

@@ -1,0 +1,43 @@
+# Research Interests Configuration
+
+# arXiv categories to monitor
+arxiv_categories:
+  - cs.LG   # Machine Learning
+  - cs.AI   # Artificial Intelligence
+  - cs.CL   # Computation and Language
+  - stat.ML  # Statistics - Machine Learning
+
+# Keywords (match against title + abstract)
+# Papers matching these get boosted in ranking
+keywords:
+  primary:  # High relevance - core research
+    - flow matching
+    - discrete diffusion
+    - diffusion language model
+    - insertion based generation
+    - order generation
+    - multi-agent
+    - LLM personalization
+    - personalized agent
+    - agent memory
+  secondary:  # Medium relevance - related areas
+    - graph neural network
+    - diffusion model
+    - score matching
+    - denoising diffusion
+    - language model pretraining
+    - agent collaboration
+    - hierarchical memory
+    - retrieval augmented
+
+# Exclude papers matching these terms
+exclude_keywords:
+  - medical imaging
+  - drug discovery
+  - protein folding
+  - autonomous driving
+  - speech recognition
+
+# Authors to track (Semantic Scholar author IDs)
+# Add IDs after looking them up on semanticscholar.org
+tracked_authors: []

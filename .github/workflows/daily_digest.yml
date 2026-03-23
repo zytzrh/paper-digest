@@ -1,0 +1,37 @@
+name: Daily Paper Digest
+
+on:
+  schedule:
+    # Run daily at 10:00 UTC (6:00 AM ET)
+    - cron: '0 10 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Paper Digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python src/main.py
+
+      - name: Commit output
+        run: |
+          git config user.name "Paper Digest Bot"
+          git config user.email "bot@paper-digest"
+          git add output/
+          git diff --staged --quiet || git commit -m "Add digest for $(date +%Y-%m-%d)"
+          git push
