@@ -95,14 +95,20 @@ class SemanticScholarCollector:
                                 if not citing.get("title"):
                                     continue
                                 ext_ids = citing.get("externalIds", {})
+                                citing_arxiv = ext_ids.get("ArXiv", "")
+                                # Verify citation by checking the citing paper's references
+                                verified = await self._verify_citation(
+                                    session, citing_arxiv, ext_ids.get("CorpusId"), seed["title"]
+                                )
                                 papers.append({
                                     "title": citing["title"],
                                     "abstract": citing.get("abstract", ""),
                                     "authors": [a["name"] for a in citing.get("authors", [])],
-                                    "arxiv_id": ext_ids.get("ArXiv", ""),
+                                    "arxiv_id": citing_arxiv,
                                     "citation_count": citing.get("citationCount", 0),
                                     "source": "semantic_scholar",
-                                    "cites_seed": seed["title"],
+                                    "cites_seed": seed["title"] if verified else None,
+                                    "cites_seed_unverified": seed["title"] if not verified else None,
                                 })
                 except Exception:
                     continue
@@ -141,6 +147,27 @@ class SemanticScholarCollector:
                     continue
 
         return papers
+
+    async def _verify_citation(self, session, arxiv_id: str, corpus_id: str, seed_title: str) -> bool:
+        """Verify that a paper actually cites the seed by checking its references."""
+        seed_lower = seed_title.lower().strip()
+        paper_id = f"ArXiv:{arxiv_id}" if arxiv_id else (f"CorpusId:{corpus_id}" if corpus_id else None)
+        if not paper_id:
+            return False
+        try:
+            url = f"{self.base_url}/paper/{paper_id}/references"
+            params = {"fields": "title", "limit": 500}
+            async with session.get(url, params=params) as resp:
+                if resp.status == 200:
+                    data = await resp.json()
+                    for ref in data.get("data", []):
+                        ref_paper = ref.get("citedPaper", {})
+                        ref_title = (ref_paper.get("title") or "").lower().strip()
+                        if ref_title and ref_title == seed_lower:
+                            return True
+        except Exception:
+            pass
+        return False
 
 
 class HuggingFaceCollector:
