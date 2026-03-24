@@ -28,5 +28,59 @@
     "arxiv_id": "2603.19227",
     "tier": "worth_noting",
     "date_shown": "2026-03-23T10:52:16.100233"
+  },
+  "2603.21563v1": {
+    "title": "Counterfactual Credit Policy Optimization for Multi-Agent Collaboration",
+    "arxiv_id": "2603.21563v1",
+    "tier": "must_read",
+    "date_shown": "2026-03-24T10:51:53.338098"
+  },
+  "2603.21342": {
+    "title": "Generalized Discrete Diffusion from Snapshots",
+    "arxiv_id": "2603.21342",
+    "tier": "must_read",
+    "date_shown": "2026-03-24T10:51:53.338098"
+  },
+  "2603.22248v1": {
+    "title": "Confidence-Based Decoding is Provably Efficient for Diffusion Language Models",
+    "arxiv_id": "2603.22248v1",
+    "tier": "must_read",
+    "date_shown": "2026-03-24T10:51:53.338098"
+  },
+  "2603.22241v1": {
+    "title": "MemDLM: Memory-Enhanced DLM Training",
+    "arxiv_id": "2603.22241v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-24T10:51:53.338098"
+  },
+  "2603.22075v1": {
+    "title": "Autoregressive vs. Masked Diffusion Language Models: A Controlled Comparison",
+    "arxiv_id": "2603.22075v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-24T10:51:53.338098"
+  },
+  "2603.21972v1": {
+    "title": "Demystifying Reinforcement Learning for Long-Horizon Tool-Using Agents: A Comprehensive Recipe",
+    "arxiv_id": "2603.21972v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-24T10:51:53.338098"
+  },
+  "2603.21717v1": {
+    "title": "Uncertainty Quantification for Distribution-to-Distribution Flow Matching in Scientific Imaging",
+    "arxiv_id": "2603.21717v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-24T10:51:53.338098"
+  },
+  "2603.21065": {
+    "title": "LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning",
+    "arxiv_id": "2603.21065",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-24T10:51:53.338098"
+  },
+  "2603.21564v1": {
+    "title": "Toward a Theory of Hierarchical Memory for Language Agents",
+    "arxiv_id": "2603.21564v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-24T10:51:53.338098"
   }
 }
