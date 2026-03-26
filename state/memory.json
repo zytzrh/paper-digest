@@ -142,5 +142,59 @@
     "arxiv_id": "2603.21884",
     "tier": "worth_noting",
     "date_shown": "2026-03-25T10:47:17.750420"
+  },
+  "2603.24579v1": {
+    "title": "MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination",
+    "arxiv_id": "2603.24579v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-26T10:52:54.906668"
+  },
+  "2603.24428v1": {
+    "title": "Marchuk: Efficient Global Weather Forecasting from Mid-Range to Sub-Seasonal Scales via Flow Matching",
+    "arxiv_id": "2603.24428v1",
+    "tier": "must_read",
+    "date_shown": "2026-03-26T10:52:54.906668"
+  },
+  "2603.24366v1": {
+    "title": "CoordLight: Learning Decentralized Coordination for Network-Wide Traffic Signal Control",
+    "arxiv_id": "2603.24366v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-26T10:52:54.906668"
+  },
+  "2603.24324v1": {
+    "title": "Large Language Model Guided Incentive Aware Reward Design for Cooperative Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2603.24324v1",
+    "tier": "must_read",
+    "date_shown": "2026-03-26T10:52:54.906668"
+  },
+  "2603.24014v1": {
+    "title": "Language-Grounded Multi-Agent Planning for Personalized and Fair Participatory Urban Sensing",
+    "arxiv_id": "2603.24014v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-26T10:52:54.906668"
+  },
+  "2603.23943v1": {
+    "title": "ChargeFlow: Flow-Matching Refinement of Charge-Conditioned Electron Densities",
+    "arxiv_id": "2603.23943v1",
+    "tier": "must_read",
+    "date_shown": "2026-03-26T10:52:54.906668"
+  },
+  "2603.23838v1": {
+    "title": "Learning-guided Prioritized Planning for Lifelong Multi-Agent Path Finding in Warehouse Automation",
+    "arxiv_id": "2603.23838v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-26T10:52:54.906668"
+  },
+  "2603.24594v1": {
+    "title": "Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method",
+    "arxiv_id": "2603.24594v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-26T10:52:54.906668"
+  },
+  "2603.24495v1": {
+    "title": "Reflected diffusion models adapt to low-dimensional data",
+    "arxiv_id": "2603.24495v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-26T10:52:54.906668"
   }
 }
