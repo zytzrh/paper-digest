@@ -196,5 +196,47 @@
     "arxiv_id": "2603.24495v1",
     "tier": "worth_noting",
     "date_shown": "2026-03-26T10:52:54.906668"
+  },
+  "2603.25702v1": {
+    "title": "S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation",
+    "arxiv_id": "2603.25702v1",
+    "tier": "must_read",
+    "date_shown": "2026-03-27T10:45:29.756345"
+  },
+  "2603.25572v1": {
+    "title": "Cooperative Deep Reinforcement Learning for Fair RIS Allocation",
+    "arxiv_id": "2603.25572v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-27T10:45:29.756345"
+  },
+  "2603.25268v1": {
+    "title": "CRAFT: Grounded Multi-Agent Coordination Under Partial Information",
+    "arxiv_id": "2603.25268v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-27T10:45:29.756345"
+  },
+  "2603.25097v1": {
+    "title": "ElephantBroker: A Knowledge-Grounded Cognitive Runtime for Trustworthy AI Agents",
+    "arxiv_id": "2603.25097v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-27T10:45:29.756345"
+  },
+  "2603.18718": {
+    "title": "MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution",
+    "arxiv_id": "2603.18718",
+    "tier": "must_read",
+    "date_shown": "2026-03-27T10:45:29.756345"
+  },
+  "2603.24157": {
+    "title": "CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare",
+    "arxiv_id": "2603.24157",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-27T10:45:29.756345"
+  },
+  "2603.25730v1": {
+    "title": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
+    "arxiv_id": "2603.25730v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-27T10:45:29.756345"
   }
 }
