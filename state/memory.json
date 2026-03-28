@@ -238,5 +238,17 @@
     "arxiv_id": "2603.25730v1",
     "tier": "worth_noting",
     "date_shown": "2026-03-27T10:45:29.756345"
+  },
+  "2603.25100v1": {
+    "title": "From Logic Monopoly to Social Contract: Separation of Power and the Institutional Foundations for Autonomous Agent Economies",
+    "arxiv_id": "2603.25100v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-28T10:29:30.404147"
+  },
+  "2603.25001v1": {
+    "title": "Rethinking Failure Attribution in Multi-Agent Systems: A Multi-Perspective Benchmark and Evaluation",
+    "arxiv_id": "2603.25001v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-28T10:29:30.404147"
   }
 }
