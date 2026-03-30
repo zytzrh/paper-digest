@@ -250,5 +250,41 @@
     "arxiv_id": "2603.25001v1",
     "tier": "worth_noting",
     "date_shown": "2026-03-28T10:29:30.404147"
+  },
+  "2603.26211v1": {
+    "title": "Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding",
+    "arxiv_id": "2603.26211v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-30T11:00:46.300819"
+  },
+  "2603.20466": {
+    "title": "Diffutron: A Masked Diffusion Language Model for Turkish Language",
+    "arxiv_id": "2603.20466",
+    "tier": "must_read",
+    "date_shown": "2026-03-30T11:00:46.300819"
+  },
+  "2603.25702": {
+    "title": "S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation",
+    "arxiv_id": "2603.25702",
+    "tier": "must_read",
+    "date_shown": "2026-03-30T11:00:46.300819"
+  },
+  "2603.26512v1": {
+    "title": "CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation",
+    "arxiv_id": "2603.26512v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-30T11:00:46.300819"
+  },
+  "2603.25931v1": {
+    "title": "DiReCT: Disentangled Regularization of Contrastive Trajectories for Physics-Refined Video Generation",
+    "arxiv_id": "2603.25931v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-30T11:00:46.300819"
+  },
+  "2603.25872v1": {
+    "title": "DRiffusion: Draft-and-Refine Process Parallelizes Diffusion Models with Ease",
+    "arxiv_id": "2603.25872v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-03-30T11:00:46.300819"
   }
 }
