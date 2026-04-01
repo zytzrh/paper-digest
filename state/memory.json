@@ -340,5 +340,47 @@
     "arxiv_id": "2603.27304",
     "tier": "worth_noting",
     "date_shown": "2026-03-31T10:52:29.798432"
+  },
+  "2603.28088": {
+    "title": "GEMS: Agent-Native Multimodal Generation with Memory and Skills",
+    "arxiv_id": "2603.28088",
+    "tier": "must_read",
+    "date_shown": "2026-04-01T10:53:37.332438"
+  },
+  "2603.29632v1": {
+    "title": "An Empirical Study of Multi-Agent Collaboration for Automated Research",
+    "arxiv_id": "2603.29632v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-01T10:53:37.332438"
+  },
+  "2603.29426v1": {
+    "title": "Multi-AUV Cooperative Target Tracking Based on Supervised Diffusion-Aided Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2603.29426v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-01T10:53:37.332438"
+  },
+  "2603.29902v1": {
+    "title": "ATP-Bench: Towards Agentic Tool Planning for MLLM Interleaved Generation",
+    "arxiv_id": "2603.29902v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-01T10:53:37.332438"
+  },
+  "2603.29493v1": {
+    "title": "MemFactory: Unified Inference & Training Framework for Agent Memory",
+    "arxiv_id": "2603.29493v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-01T10:53:37.332438"
+  },
+  "2603.29469v1": {
+    "title": "iPoster: Content-Aware Layout Generation for Interactive Poster Design via Graph-Enhanced Diffusion Models",
+    "arxiv_id": "2603.29469v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-01T10:53:37.332438"
+  },
+  "2603.26599": {
+    "title": "VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward",
+    "arxiv_id": "2603.26599",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-01T10:53:37.332438"
   }
 }
