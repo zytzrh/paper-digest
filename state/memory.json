@@ -382,5 +382,47 @@
     "arxiv_id": "2603.26599",
     "tier": "worth_noting",
     "date_shown": "2026-04-01T10:53:37.332438"
+  },
+  "2604.02268v1": {
+    "title": "SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization",
+    "arxiv_id": "2604.02268v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-04T10:31:21.242481"
+  },
+  "2604.01707v1": {
+    "title": "Memory in the LLM Era: Modular Architectures and Strategies in a Unified Framework",
+    "arxiv_id": "2604.01707v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-04T10:31:21.242481"
+  },
+  "2604.01624v1": {
+    "title": "OSCAR: Orchestrated Self-verification and Cross-path Refinement",
+    "arxiv_id": "2604.01624v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-04T10:31:21.242481"
+  },
+  "2604.01622v1": {
+    "title": "Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models",
+    "arxiv_id": "2604.01622v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-04T10:31:21.242481"
+  },
+  "2604.01007": {
+    "title": "Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory",
+    "arxiv_id": "2604.01007",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-04T10:31:21.242481"
+  },
+  "2604.02028v1": {
+    "title": "Why Gaussian Diffusion Models Fail on Discrete Data?",
+    "arxiv_id": "2604.02028v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-04T10:31:21.242481"
+  },
+  "2604.01670v1": {
+    "title": "Hierarchical Memory Orchestration for Personalized Persistent Agents",
+    "arxiv_id": "2604.01670v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-04T10:31:21.242481"
   }
 }
