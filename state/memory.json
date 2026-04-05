@@ -424,5 +424,23 @@
     "arxiv_id": "2604.01670v1",
     "tier": "worth_noting",
     "date_shown": "2026-04-04T10:31:21.242481"
+  },
+  "2604.01658v1": {
+    "title": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery",
+    "arxiv_id": "2604.01658v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-05T10:31:27.930005"
+  },
+  "2604.01830v1": {
+    "title": "Physics Informed Reinforcement Learning with Gibbs Priors for Topology Control in Power Grids",
+    "arxiv_id": "2604.01830v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-05T10:31:27.930005"
+  },
+  "2603.30043": {
+    "title": "Video Models Reason Early: Exploiting Plan Commitment for Maze Solving",
+    "arxiv_id": "2603.30043",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-05T10:31:27.930005"
   }
 }
