@@ -442,5 +442,83 @@
     "arxiv_id": "2603.30043",
     "tier": "worth_noting",
     "date_shown": "2026-04-05T10:31:27.930005"
+  },
+  "2604.02721v1": {
+    "title": "GrandCode: Achieving Grandmaster Level in Competitive Programming via Agentic Reinforcement Learning",
+    "arxiv_id": "2604.02721v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-06T10:55:13.035509"
+  },
+  "2604.02560v1": {
+    "title": "Dependency-Guided Parallel Decoding in Discrete Diffusion Language Models",
+    "arxiv_id": "2604.02560v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-06T10:55:13.035509"
+  },
+  "2604.02770v1": {
+    "title": "Improving Role Consistency in Multi-Agent Collaboration via Quantitative Role Clarity",
+    "arxiv_id": "2604.02770v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-06T10:55:13.035509"
+  },
+  "2604.02718v1": {
+    "title": "Generative Frontiers: Why Evaluation Matters for Diffusion Language Models",
+    "arxiv_id": "2604.02718v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-06T10:55:13.035509"
+  },
+  "2604.02988v1": {
+    "title": "Self-Optimizing Multi-Agent Systems for Deep Research",
+    "arxiv_id": "2604.02988v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-06T10:55:13.035509"
+  },
+  "2604.02923v1": {
+    "title": "Council Mode: Mitigating Hallucination and Bias in LLMs via Multi-Agent Consensus",
+    "arxiv_id": "2604.02923v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-06T10:55:13.035509"
+  },
+  "2604.02863v1": {
+    "title": "EMS: Multi-Agent Voting via Efficient Majority-then-Stopping",
+    "arxiv_id": "2604.02863v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-06T10:55:13.035509"
+  },
+  "2604.02674v1": {
+    "title": "Do Agent Societies Develop Intellectual Elites? The Hidden Power Laws of Collective Cognition in LLM Multi-Agent Systems",
+    "arxiv_id": "2604.02674v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-06T10:55:13.035509"
+  },
+  "2604.02668v1": {
+    "title": "Too Polite to Disagree: Understanding Sycophancy Propagation in Multi-Agent Systems",
+    "arxiv_id": "2604.02668v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-06T10:55:13.035509"
+  },
+  "2604.02623v1": {
+    "title": "Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents",
+    "arxiv_id": "2604.02623v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-06T10:55:13.035509"
+  },
+  "2604.01487": {
+    "title": "AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks",
+    "arxiv_id": "2604.01487",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-06T10:55:13.035509"
+  },
+  "2604.01658": {
+    "title": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery",
+    "arxiv_id": "2604.01658",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-06T10:55:13.035509"
+  },
+  "2604.02986v1": {
+    "title": "Mitigating Reward Hacking in RLHF via Advantage Sign Robustness",
+    "arxiv_id": "2604.02986v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-06T10:55:13.035509"
   }
 }
