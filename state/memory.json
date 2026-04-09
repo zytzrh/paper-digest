@@ -688,5 +688,35 @@
     "arxiv_id": "2604.03266",
     "tier": "worth_noting",
     "date_shown": "2026-04-08T10:55:38.415441"
+  },
+  "2604.06757": {
+    "title": "FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching",
+    "arxiv_id": "2604.06757",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-09T10:57:19.602275"
+  },
+  "2604.06268": {
+    "title": "RAGEN-2: Reasoning Collapse in Agentic RL",
+    "arxiv_id": "2604.06268",
+    "tier": "must_read",
+    "date_shown": "2026-04-09T10:57:19.602275"
+  },
+  "2604.01622": {
+    "title": "Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models",
+    "arxiv_id": "2604.01622",
+    "tier": "must_read",
+    "date_shown": "2026-04-09T10:57:19.602275"
+  },
+  "2604.06916v1": {
+    "title": "FP4 Explore, BF16 Train: Diffusion Reinforcement Learning via Efficient Rollout Scaling",
+    "arxiv_id": "2604.06916v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-09T10:57:19.602275"
+  },
+  "2604.06779v1": {
+    "title": "FVD: Inference-Time Alignment of Diffusion Models via Fleming-Viot Resampling",
+    "arxiv_id": "2604.06779v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-09T10:57:19.602275"
   }
 }
