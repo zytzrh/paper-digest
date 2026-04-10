@@ -718,5 +718,47 @@
     "arxiv_id": "2604.06779v1",
     "tier": "worth_noting",
     "date_shown": "2026-04-09T10:57:19.602275"
+  },
+  "2604.08174v1": {
+    "title": "Value-Guidance MeanFlow for Offline Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2604.08174v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-10T10:52:57.219715"
+  },
+  "2604.08302v1": {
+    "title": "DMax: Aggressive Parallel Decoding for dLLMs",
+    "arxiv_id": "2604.08302v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-10T10:52:57.219715"
+  },
+  "2604.08203v1": {
+    "title": "MedVR: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning",
+    "arxiv_id": "2604.08203v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-10T10:52:57.219715"
+  },
+  "2604.07911v1": {
+    "title": "Dynamic Attentional Context Scoping: Agent-Triggered Focus Sessions for Isolated Per-Agent Steering in Multi-Agent LLM Orchestration",
+    "arxiv_id": "2604.07911v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-10T10:52:57.219715"
+  },
+  "2604.07877v1": {
+    "title": "MemReader: From Passive to Active Extraction for Long-Term Agent Memory",
+    "arxiv_id": "2604.07877v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-10T10:52:57.219715"
+  },
+  "2604.08256v1": {
+    "title": "HyperMem: Hypergraph Memory for Long-Term Conversations",
+    "arxiv_id": "2604.08256v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-10T10:52:57.219715"
+  },
+  "2604.08178v1": {
+    "title": "Aligning Agents via Planning: A Benchmark for Trajectory-Level Reward Modeling",
+    "arxiv_id": "2604.08178v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-10T10:52:57.219715"
   }
 }
