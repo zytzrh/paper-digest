@@ -760,5 +760,35 @@
     "arxiv_id": "2604.08178v1",
     "tier": "worth_noting",
     "date_shown": "2026-04-10T10:52:57.219715"
+  },
+  "2604.08465v1": {
+    "title": "From Safety Risk to Design Principle: Peer-Preservation in Multi-Agent LLM Systems and Its Implications for Orchestrated Democratic Discourse Analysis",
+    "arxiv_id": "2604.08465v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-11T10:32:29.070495"
+  },
+  "2604.08121v1": {
+    "title": "Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator",
+    "arxiv_id": "2604.08121v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-11T10:32:29.070495"
+  },
+  "2604.07927v1": {
+    "title": "EigentSearch-Q+: Enhancing Deep Research Agents with Structured Reasoning Tools",
+    "arxiv_id": "2604.07927v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-11T10:32:29.070495"
+  },
+  "2604.06392": {
+    "title": "Qualixar OS: A Universal Operating System for AI Agent Orchestration",
+    "arxiv_id": "2604.06392",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-11T10:32:29.070495"
+  },
+  "2604.07966": {
+    "title": "Lighting-grounded Video Generation with Renderer-based Agent Reasoning",
+    "arxiv_id": "2604.07966",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-11T10:32:29.070495"
   }
 }
