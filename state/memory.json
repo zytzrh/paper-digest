@@ -790,5 +790,53 @@
     "arxiv_id": "2604.07966",
     "tier": "worth_noting",
     "date_shown": "2026-04-11T10:32:29.070495"
+  },
+  "2604.09459v1": {
+    "title": "From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models",
+    "arxiv_id": "2604.09459v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-13T11:17:16.171679"
+  },
+  "2604.09523v1": {
+    "title": "Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL",
+    "arxiv_id": "2604.09523v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-13T11:17:16.171679"
+  },
+  "2604.09285v1": {
+    "title": "SAGE: A Service Agent Graph-guided Evaluation Benchmark",
+    "arxiv_id": "2604.09285v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-13T11:17:16.171679"
+  },
+  "2604.09159v1": {
+    "title": "Truncated Rectified Flow Policy for Reinforcement Learning with One-Step Sampling",
+    "arxiv_id": "2604.09159v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-13T11:17:16.171679"
+  },
+  "2604.08944v1": {
+    "title": "Multi-Agent Decision-Focused Learning via Value-Aware Sequential Communication",
+    "arxiv_id": "2604.08944v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-13T11:17:16.171679"
+  },
+  "2604.08931v1": {
+    "title": "Enhancing LLM Problem Solving via Tutor-Student Multi-Agent Interaction",
+    "arxiv_id": "2604.08931v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-13T11:17:16.171679"
+  },
+  "2604.09181v1": {
+    "title": "MixFlow: Mixed Source Distributions Improve Rectified Flows",
+    "arxiv_id": "2604.09181v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-13T11:17:16.171679"
+  },
+  "2604.09035v1": {
+    "title": "Advantage-Guided Diffusion for Model-Based Reinforcement Learning",
+    "arxiv_id": "2604.09035v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-13T11:17:16.171679"
   }
 }
