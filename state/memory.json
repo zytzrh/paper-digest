@@ -838,5 +838,71 @@
     "arxiv_id": "2604.09035v1",
     "tier": "worth_noting",
     "date_shown": "2026-04-13T11:17:16.171679"
+  },
+  "2604.11748v1": {
+    "title": "LangFlow: Continuous Diffusion Rivals Discrete in Language Modeling",
+    "arxiv_id": "2604.11748v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-14T11:02:05.179621"
+  },
+  "2604.11483v1": {
+    "title": "CAGenMol: Condition-Aware Diffusion Language Model for Goal-Directed Molecular Generation",
+    "arxiv_id": "2604.11483v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-14T11:02:05.179621"
+  },
+  "2604.09459": {
+    "title": "From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models",
+    "arxiv_id": "2604.09459",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-14T11:02:05.179621"
+  },
+  "2604.11523v1": {
+    "title": "PAC-BENCH: Evaluating Multi-Agent Collaboration under Privacy Constraints",
+    "arxiv_id": "2604.11523v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-14T11:02:05.179621"
+  },
+  "2604.11477v1": {
+    "title": "OOM-RL: Out-of-Money Reinforcement Learning Market-Driven Alignment for LLM-Based Multi-Agent Systems",
+    "arxiv_id": "2604.11477v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-14T11:02:05.179621"
+  },
+  "2604.11311v1": {
+    "title": "Learning Discrete Diffusion of Graphs via Free-Energy Gradient Flows",
+    "arxiv_id": "2604.11311v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-14T11:02:05.179621"
+  },
+  "2604.11734v1": {
+    "title": "Multi-ORFT: Stable Online Reinforcement Fine-Tuning for Multi-Agent Diffusion Planning in Cooperative Driving",
+    "arxiv_id": "2604.11734v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-14T11:02:05.179621"
+  },
+  "2604.11521v1": {
+    "title": "Continuous Adversarial Flow Models",
+    "arxiv_id": "2604.11521v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-14T11:02:05.179621"
+  },
+  "2604.11178v1": {
+    "title": "Probabilistic Prediction of Neural Dynamics via Autoregressive Flow Matching",
+    "arxiv_id": "2604.11178v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-14T11:02:05.179621"
+  },
+  "2604.02340": {
+    "title": "Not All Denoising Steps Are Equal: Model Scheduling for Faster Masked Diffusion Language Models",
+    "arxiv_id": "2604.02340",
+    "tier": "must_read",
+    "date_shown": "2026-04-14T11:02:05.179621"
+  },
+  "2604.11035": {
+    "title": "Introspective Diffusion Language Models",
+    "arxiv_id": "2604.11035",
+    "tier": "must_read",
+    "date_shown": "2026-04-14T11:02:05.179621"
   }
 }
