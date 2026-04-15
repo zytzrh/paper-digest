@@ -904,5 +904,23 @@
     "arxiv_id": "2604.11035",
     "tier": "must_read",
     "date_shown": "2026-04-14T11:02:05.179621"
+  },
+  "2604.12776v1": {
+    "title": "EvoSpark: Endogenous Interactive Agent Societies for Unified Long-Horizon Narrative Evolution",
+    "arxiv_id": "2604.12776v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-15T10:57:51.764181"
+  },
+  "2604.09746": {
+    "title": "CONSCIENTIA: Can LLM Agents Learn to Strategize? Emergent Deception and Trust in a Multi-Agent NYC Simulation",
+    "arxiv_id": "2604.09746",
+    "tier": "must_read",
+    "date_shown": "2026-04-15T10:57:51.764181"
+  },
+  "2604.12617v1": {
+    "title": "SOAR: Self-Correction for Optimal Alignment and Refinement in Diffusion Models",
+    "arxiv_id": "2604.12617v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-15T10:57:51.764181"
   }
 }
