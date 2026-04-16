@@ -922,5 +922,53 @@
     "arxiv_id": "2604.12617v1",
     "tier": "must_read",
     "date_shown": "2026-04-15T10:57:51.764181"
+  },
+  "2604.13685v1": {
+    "title": "EMGFlow: Robust and Efficient Surface Electromyography Synthesis via Flow Matching",
+    "arxiv_id": "2604.13685v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-16T11:01:26.467020"
+  },
+  "2604.14054v1": {
+    "title": "$π$-Play: Multi-Agent Self-Play via Privileged Self-Distillation without External Data",
+    "arxiv_id": "2604.14054v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-16T11:01:26.467020"
+  },
+  "2604.13472v1": {
+    "title": "Bridging MARL to SARL: An Order-Independent Multi-Agent Transformer via Latent Consensus",
+    "arxiv_id": "2604.13472v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-16T11:01:26.467020"
+  },
+  "2604.13427v1": {
+    "title": "A Unified Conditional Flow for Motion Generation, Editing, and Intra-Structural Retargeting",
+    "arxiv_id": "2604.13427v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-16T11:01:26.467020"
+  },
+  "2604.13413v1": {
+    "title": "Dataset-Level Metrics Attenuate Non-Determinism: A Fine-Grained Non-Determinism Evaluation in Diffusion Language Models",
+    "arxiv_id": "2604.13413v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-16T11:01:26.467020"
+  },
+  "2604.11548": {
+    "title": "SemaClaw: A Step Towards General-Purpose Personal AI Agents through Harness Engineering",
+    "arxiv_id": "2604.11548",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-16T11:01:26.467020"
+  },
+  "2604.13602v1": {
+    "title": "Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges",
+    "arxiv_id": "2604.13602v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-16T11:01:26.467020"
+  },
+  "2604.13470v1": {
+    "title": "Universality of Gaussian-Mixture Reverse Kernels in Conditional Diffusion",
+    "arxiv_id": "2604.13470v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-16T11:01:26.467020"
   }
 }
