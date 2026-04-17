@@ -970,5 +970,47 @@
     "arxiv_id": "2604.13470v1",
     "tier": "must_read",
     "date_shown": "2026-04-16T11:01:26.467020"
+  },
+  "2604.11748": {
+    "title": "LangFlow: Continuous Diffusion Rivals Discrete in Language Modeling",
+    "arxiv_id": "2604.11748",
+    "tier": "must_read",
+    "date_shown": "2026-04-17T10:54:23.233184"
+  },
+  "2604.15009v1": {
+    "title": "Towards Faster Language Model Inference Using Mixture-of-Experts Flow Matching",
+    "arxiv_id": "2604.15009v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-17T10:54:23.233184"
+  },
+  "2604.15082v1": {
+    "title": "Autonomous Evolution of EDA Tools: Multi-Agent Self-Evolved ABC",
+    "arxiv_id": "2604.15082v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-17T10:54:23.233184"
+  },
+  "2604.15034v1": {
+    "title": "Autogenesis: A Self-Evolving Agent Protocol",
+    "arxiv_id": "2604.15034v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-17T10:54:23.233184"
+  },
+  "2604.14877v1": {
+    "title": "Does RL Expand the Capability Boundary of LLM Agents? A PASS@(k,T) Analysis",
+    "arxiv_id": "2604.14877v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-17T10:54:23.233184"
+  },
+  "2604.04514": {
+    "title": "SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems",
+    "arxiv_id": "2604.04514",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-17T10:54:23.233184"
+  },
+  "2604.15311": {
+    "title": "LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories",
+    "arxiv_id": "2604.15311",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-17T10:54:23.233184"
   }
 }
