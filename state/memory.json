@@ -1012,5 +1012,23 @@
     "arxiv_id": "2604.15311",
     "tier": "worth_noting",
     "date_shown": "2026-04-17T10:54:23.233184"
+  },
+  "2604.15171v1": {
+    "title": "An Analysis of Regularization and Fokker-Planck Residuals in Diffusion Models for Image Generation",
+    "arxiv_id": "2604.15171v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-18T10:38:13.519650"
+  },
+  "2604.14790v1": {
+    "title": "Diffusion Crossover: Defining Evolutionary Recombination in Diffusion Models via Noise Sequence Interpolation",
+    "arxiv_id": "2604.14790v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-18T10:38:13.519650"
+  },
+  "2604.14698v1": {
+    "title": "Mean Flow Policy Optimization",
+    "arxiv_id": "2604.14698v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-18T10:38:13.519650"
   }
 }
