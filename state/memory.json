@@ -1030,5 +1030,65 @@
     "arxiv_id": "2604.14698v1",
     "tier": "must_read",
     "date_shown": "2026-04-18T10:38:13.519650"
+  },
+  "2604.15078v1": {
+    "title": "Where are the Humans? A Scoping Review of Fairness in Multi-agent AI Systems",
+    "arxiv_id": "2604.15078v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-19T10:37:40.599707"
+  },
+  "2604.15044v1": {
+    "title": "CoGrid & the Multi-User Gymnasium: A Framework for Multi-Agent Experimentation",
+    "arxiv_id": "2604.15044v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-19T10:37:40.599707"
+  },
+  "2604.14989v1": {
+    "title": "Dr.~RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement",
+    "arxiv_id": "2604.14989v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-19T10:37:40.599707"
+  },
+  "2604.14969v1": {
+    "title": "Discovering Novel LLM Experts via Task-Capability Coevolution",
+    "arxiv_id": "2604.14969v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-19T10:37:40.599707"
+  },
+  "2604.14687v1": {
+    "title": "M2-PALE: A Framework for Explaining Multi-Agent MCTS--Minimax Hybrids via Process Mining and LLMs",
+    "arxiv_id": "2604.14687v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-19T10:37:40.599707"
+  },
+  "2604.14683v1": {
+    "title": "DR$^{3}$-Eval: Towards Realistic and Reproducible Deep Research Evaluation",
+    "arxiv_id": "2604.14683v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-19T10:37:40.599707"
+  },
+  "2604.14615v1": {
+    "title": "CoDaS: AI Co-Data-Scientist for Biomarker Discovery via Wearable Sensors",
+    "arxiv_id": "2604.14615v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-19T10:37:40.599707"
+  },
+  "2604.11661": {
+    "title": "Towards Autonomous Mechanistic Reasoning in Virtual Cells",
+    "arxiv_id": "2604.11661",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-19T10:37:40.599707"
+  },
+  "2604.11969": {
+    "title": "Narrative-Driven Paper-to-Slide Generation via ArcDeck",
+    "arxiv_id": "2604.11969",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-19T10:37:40.599707"
+  },
+  "2604.11045": {
+    "title": "Sema Code: Decoupling AI Coding Agents into Programmable, Embeddable Infrastructure",
+    "arxiv_id": "2604.11045",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-19T10:37:40.599707"
   }
 }
