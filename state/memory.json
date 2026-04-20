@@ -1090,5 +1090,47 @@
     "arxiv_id": "2604.11045",
     "tier": "worth_noting",
     "date_shown": "2026-04-19T10:37:40.599707"
+  },
+  "2604.15694v1": {
+    "title": "Neural Continuous-Time Markov Chain: Discrete Diffusion via Decoupled Jump Timing and Direction",
+    "arxiv_id": "2604.15694v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-20T11:19:08.872555"
+  },
+  "2604.16022v1": {
+    "title": "SocialGrid: A Benchmark for Planning and Social Reasoning in Embodied Multi-Agent Systems",
+    "arxiv_id": "2604.16022v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-20T11:19:08.872555"
+  },
+  "2604.15972v1": {
+    "title": "Weak-Link Optimization for Multi-Agent Reasoning and Collaboration",
+    "arxiv_id": "2604.15972v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-20T11:19:08.872555"
+  },
+  "2604.15877v1": {
+    "title": "Experience Compression Spectrum: Unifying Memory, Skills, and Rules in LLM Agents",
+    "arxiv_id": "2604.15877v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-20T11:19:08.872555"
+  },
+  "2604.15750v1": {
+    "title": "DepCap: Adaptive Block-Wise Parallel Decoding for Efficient Diffusion LM Inference",
+    "arxiv_id": "2604.15750v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-20T11:19:08.872555"
+  },
+  "2604.13074": {
+    "title": "PersonaVLM: Long-Term Personalized Multimodal LLMs",
+    "arxiv_id": "2604.13074",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-20T11:19:08.872555"
+  },
+  "2604.16044": {
+    "title": "Elucidating the SNR-t Bias of Diffusion Probabilistic Models",
+    "arxiv_id": "2604.16044",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-20T11:19:08.872555"
   }
 }
