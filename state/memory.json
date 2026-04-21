@@ -1132,5 +1132,53 @@
     "arxiv_id": "2604.16044",
     "tier": "worth_noting",
     "date_shown": "2026-04-20T11:19:08.872555"
+  },
+  "2604.18471v1": {
+    "title": "NI Sampling: Accelerating Discrete Diffusion Sampling by Token Order Optimization",
+    "arxiv_id": "2604.18471v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-21T11:05:16.915635"
+  },
+  "2604.18401v1": {
+    "title": "StepPO: Step-Aligned Policy Optimization for Agentic Reinforcement Learning",
+    "arxiv_id": "2604.18401v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-21T11:05:16.915635"
+  },
+  "2604.18518v1": {
+    "title": "UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models",
+    "arxiv_id": "2604.18518v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-21T11:05:16.915635"
+  },
+  "2604.18344v1": {
+    "title": "One Pass for All: A Discrete Diffusion Model for Knowledge Graph Triple Set Prediction",
+    "arxiv_id": "2604.18344v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-21T11:05:16.915635"
+  },
+  "2604.18509v1": {
+    "title": "MASS-RAG: Multi-Agent Synthesis Retrieval-Augmented Generation",
+    "arxiv_id": "2604.18509v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-21T11:05:16.915635"
+  },
+  "2604.18356v1": {
+    "title": "ComPASS: Towards Personalized Agentic Social Support via Tool-Augmented Companionship",
+    "arxiv_id": "2604.18356v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-21T11:05:16.915635"
+  },
+  "2604.18190v1": {
+    "title": "Scalable Neighborhood-Based Multi-Agent Actor-Critic",
+    "arxiv_id": "2604.18190v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-21T11:05:16.915635"
+  },
+  "2604.14518": {
+    "title": "Mind DeepResearch Technical Report",
+    "arxiv_id": "2604.14518",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-21T11:05:16.915635"
   }
 }
