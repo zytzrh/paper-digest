@@ -1,88 +1,4 @@
 {
-  "2603.20155v1": {
-    "title": "Beyond Single Tokens: Distilling Discrete Diffusion Models via Discrete MMD",
-    "arxiv_id": "2603.20155v1",
-    "tier": "must_read",
-    "date_shown": "2026-03-23T10:52:16.100233"
-  },
-  "2603.19677v1": {
-    "title": "GoAgent: Group-of-Agents Communication Topology Generation for LLM-based Multi-Agent Systems",
-    "arxiv_id": "2603.19677v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-23T10:52:16.100233"
-  },
-  "2603.19584v1": {
-    "title": "PowerLens: Taming LLM Agents for Safe and Personalized Mobile Power Management",
-    "arxiv_id": "2603.19584v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-23T10:52:16.100233"
-  },
-  "2603.13395": {
-    "title": "COT-FM: Cluster-wise Optimal Transport Flow Matching",
-    "arxiv_id": "2603.13395",
-    "tier": "must_read",
-    "date_shown": "2026-03-23T10:52:16.100233"
-  },
-  "2603.19227": {
-    "title": "Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer",
-    "arxiv_id": "2603.19227",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-23T10:52:16.100233"
-  },
-  "2603.21563v1": {
-    "title": "Counterfactual Credit Policy Optimization for Multi-Agent Collaboration",
-    "arxiv_id": "2603.21563v1",
-    "tier": "must_read",
-    "date_shown": "2026-03-24T10:51:53.338098"
-  },
-  "2603.21342": {
-    "title": "Generalized Discrete Diffusion from Snapshots",
-    "arxiv_id": "2603.21342",
-    "tier": "must_read",
-    "date_shown": "2026-03-24T10:51:53.338098"
-  },
-  "2603.22248v1": {
-    "title": "Confidence-Based Decoding is Provably Efficient for Diffusion Language Models",
-    "arxiv_id": "2603.22248v1",
-    "tier": "must_read",
-    "date_shown": "2026-03-24T10:51:53.338098"
-  },
-  "2603.22241v1": {
-    "title": "MemDLM: Memory-Enhanced DLM Training",
-    "arxiv_id": "2603.22241v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-24T10:51:53.338098"
-  },
-  "2603.22075v1": {
-    "title": "Autoregressive vs. Masked Diffusion Language Models: A Controlled Comparison",
-    "arxiv_id": "2603.22075v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-24T10:51:53.338098"
-  },
-  "2603.21972v1": {
-    "title": "Demystifying Reinforcement Learning for Long-Horizon Tool-Using Agents: A Comprehensive Recipe",
-    "arxiv_id": "2603.21972v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-24T10:51:53.338098"
-  },
-  "2603.21717v1": {
-    "title": "Uncertainty Quantification for Distribution-to-Distribution Flow Matching in Scientific Imaging",
-    "arxiv_id": "2603.21717v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-24T10:51:53.338098"
-  },
-  "2603.21065": {
-    "title": "LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning",
-    "arxiv_id": "2603.21065",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-24T10:51:53.338098"
-  },
-  "2603.21564v1": {
-    "title": "Toward a Theory of Hierarchical Memory for Language Agents",
-    "arxiv_id": "2603.21564v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-24T10:51:53.338098"
-  },
   "2603.23398v1": {
     "title": "Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation",
     "arxiv_id": "2603.23398v1",
@@ -1180,5 +1096,65 @@
     "arxiv_id": "2604.14518",
     "tier": "worth_noting",
     "date_shown": "2026-04-21T11:05:16.915635"
+  },
+  "2604.18518": {
+    "title": "UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models",
+    "arxiv_id": "2604.18518",
+    "tier": "must_read",
+    "date_shown": "2026-04-23T11:07:00.858190"
+  },
+  "2604.20723v1": {
+    "title": "Tokenised Flow Matching for Hierarchical Simulation Based Inference",
+    "arxiv_id": "2604.20723v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-23T11:07:00.858190"
+  },
+  "2604.20714v1": {
+    "title": "Learning to Evolve: A Self-Improving Framework for Multi-Agent Systems via Textual Parameter Graph Optimization",
+    "arxiv_id": "2604.20714v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-23T11:07:00.858190"
+  },
+  "2604.20658v1": {
+    "title": "Cooperative Profiles Predict Multi-Agent LLM Team Performance in AI for Science Workflows",
+    "arxiv_id": "2604.20658v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-23T11:07:00.858190"
+  },
+  "2604.20300v1": {
+    "title": "FSFM: A Biologically-Inspired Framework for Selective Forgetting of Agent Memory",
+    "arxiv_id": "2604.20300v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-23T11:07:00.858190"
+  },
+  "2604.20261v1": {
+    "title": "Memory-Augmented LLM-based Multi-Agent System for Automated Feature Generation on Tabular Data",
+    "arxiv_id": "2604.20261v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-23T11:07:00.858190"
+  },
+  "2604.20133v1": {
+    "title": "EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation",
+    "arxiv_id": "2604.20133v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-23T11:07:00.858190"
+  },
+  "2604.20117v1": {
+    "title": "To Know is to Construct: Schema-Constrained Generation for Agent Memory",
+    "arxiv_id": "2604.20117v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-23T11:07:00.858190"
+  },
+  "2604.20796": {
+    "title": "LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model",
+    "arxiv_id": "2604.20796",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-23T11:07:00.858190"
+  },
+  "2604.20816v1": {
+    "title": "ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control",
+    "arxiv_id": "2604.20816v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-23T11:07:00.858190"
   }
 }
