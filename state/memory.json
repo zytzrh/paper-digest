@@ -1,64 +1,4 @@
 {
-  "2603.23398v1": {
-    "title": "Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation",
-    "arxiv_id": "2603.23398v1",
-    "tier": "trending",
-    "date_shown": "2026-03-25T10:47:17.750420"
-  },
-  "2603.23234v1": {
-    "title": "MemCollab: Cross-Agent Memory Collaboration via Contrastive Trajectory Distillation",
-    "arxiv_id": "2603.23234v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-25T10:47:17.750420"
-  },
-  "2603.23500": {
-    "title": "UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation",
-    "arxiv_id": "2603.23500",
-    "tier": "must_read",
-    "date_shown": "2026-03-25T10:47:17.750420"
-  },
-  "2603.21972": {
-    "title": "Demystifying Reinforcement Learning for Long-Horizon Tool-Using Agents: A Comprehensive Recipe",
-    "arxiv_id": "2603.21972",
-    "tier": "must_read",
-    "date_shown": "2026-03-25T10:47:17.750420"
-  },
-  "2603.22962v1": {
-    "title": "Asymptotic Learning Curves for Diffusion Models with Random Features Score and Manifold Data",
-    "arxiv_id": "2603.22962v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-25T10:47:17.750420"
-  },
-  "2603.23255v1": {
-    "title": "Permutation-Symmetrized Diffusion for Unconditional Molecular Generation",
-    "arxiv_id": "2603.23255v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-25T10:47:17.750420"
-  },
-  "2603.23184v1": {
-    "title": "ImplicitRM: Unbiased Reward Modeling from Implicit Preference Data for LLM alignment",
-    "arxiv_id": "2603.23184v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-25T10:47:17.750420"
-  },
-  "2603.23086v1": {
-    "title": "Policy-based Tuning of Autoregressive Image Models with Instance- and Distribution-Level Rewards",
-    "arxiv_id": "2603.23086v1",
-    "tier": "must_read",
-    "date_shown": "2026-03-25T10:47:17.750420"
-  },
-  "2603.22943v1": {
-    "title": "PersonalQ: Select, Quantize, and Serve Personalized Diffusion Models for Efficient Inference",
-    "arxiv_id": "2603.22943v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-25T10:47:17.750420"
-  },
-  "2603.21884": {
-    "title": "Not All Layers Are Created Equal: Adaptive LoRA Ranks for Personalized Image Generation",
-    "arxiv_id": "2603.21884",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-25T10:47:17.750420"
-  },
   "2603.24579v1": {
     "title": "MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination",
     "arxiv_id": "2603.24579v1",
@@ -1156,5 +1096,41 @@
     "arxiv_id": "2604.20816v1",
     "tier": "worth_noting",
     "date_shown": "2026-04-23T11:07:00.858190"
+  },
+  "2604.21794v1": {
+    "title": "Learning to Communicate: Toward End-to-End Optimization of Multi-Agent Language Systems",
+    "arxiv_id": "2604.21794v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-24T11:05:01.341643"
+  },
+  "2604.21590v1": {
+    "title": "AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use",
+    "arxiv_id": "2604.21590v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-24T11:05:01.341643"
+  },
+  "2604.21571v1": {
+    "title": "Separable Expert Architecture: Toward Privacy-Preserving LLM Personalization via Composable Adapters and Deletable User Proxies",
+    "arxiv_id": "2604.21571v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-24T11:05:01.341643"
+  },
+  "2604.19859": {
+    "title": "DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data",
+    "arxiv_id": "2604.19859",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-24T11:05:01.341643"
+  },
+  "2604.21748v1": {
+    "title": "StructMem: Structured Memory for Long-Horizon Behavior in LLMs",
+    "arxiv_id": "2604.21748v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-24T11:05:01.341643"
+  },
+  "2604.13602": {
+    "title": "Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges",
+    "arxiv_id": "2604.13602",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-24T11:05:01.341643"
   }
 }
