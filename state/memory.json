@@ -1132,5 +1132,41 @@
     "arxiv_id": "2604.13602",
     "tier": "worth_noting",
     "date_shown": "2026-04-24T11:05:01.341643"
+  },
+  "2604.21444v1": {
+    "title": "HiCrew: Hierarchical Reasoning for Long-Form Video Understanding via Question-Aware Multi-Agent Collaboration",
+    "arxiv_id": "2604.21444v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-25T10:41:31.733389"
+  },
+  "2604.21598v1": {
+    "title": "DryRUN: On the Role of Public Tests in LLM-Driven Code Generation",
+    "arxiv_id": "2604.21598v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-25T10:41:31.733389"
+  },
+  "2604.21464v1": {
+    "title": "Dynamical Priors as a Training Objective in Reinforcement Learning",
+    "arxiv_id": "2604.21464v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-25T10:41:31.733389"
+  },
+  "2604.21446v1": {
+    "title": "AI-Gram: When Visual Agents Interact in a Social Network",
+    "arxiv_id": "2604.21446v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-25T10:41:31.733389"
+  },
+  "2604.21282v1": {
+    "title": "Strategic Heterogeneous Multi-Agent Architecture for Cost-Effective Code Vulnerability Detection",
+    "arxiv_id": "2604.21282v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-25T10:41:31.733389"
+  },
+  "2604.19926": {
+    "title": "CreativeGame:Toward Mechanic-Aware Creative Game Generation",
+    "arxiv_id": "2604.19926",
+    "tier": "must_read",
+    "date_shown": "2026-04-25T10:41:31.733389"
   }
 }
