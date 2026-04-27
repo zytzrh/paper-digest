@@ -1,58 +1,4 @@
 {
-  "2603.25702v1": {
-    "title": "S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation",
-    "arxiv_id": "2603.25702v1",
-    "tier": "must_read",
-    "date_shown": "2026-03-27T10:45:29.756345"
-  },
-  "2603.25572v1": {
-    "title": "Cooperative Deep Reinforcement Learning for Fair RIS Allocation",
-    "arxiv_id": "2603.25572v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-27T10:45:29.756345"
-  },
-  "2603.25268v1": {
-    "title": "CRAFT: Grounded Multi-Agent Coordination Under Partial Information",
-    "arxiv_id": "2603.25268v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-27T10:45:29.756345"
-  },
-  "2603.25097v1": {
-    "title": "ElephantBroker: A Knowledge-Grounded Cognitive Runtime for Trustworthy AI Agents",
-    "arxiv_id": "2603.25097v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-27T10:45:29.756345"
-  },
-  "2603.18718": {
-    "title": "MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution",
-    "arxiv_id": "2603.18718",
-    "tier": "must_read",
-    "date_shown": "2026-03-27T10:45:29.756345"
-  },
-  "2603.24157": {
-    "title": "CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare",
-    "arxiv_id": "2603.24157",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-27T10:45:29.756345"
-  },
-  "2603.25730v1": {
-    "title": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
-    "arxiv_id": "2603.25730v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-27T10:45:29.756345"
-  },
-  "2603.25100v1": {
-    "title": "From Logic Monopoly to Social Contract: Separation of Power and the Institutional Foundations for Autonomous Agent Economies",
-    "arxiv_id": "2603.25100v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-28T10:29:30.404147"
-  },
-  "2603.25001v1": {
-    "title": "Rethinking Failure Attribution in Multi-Agent Systems: A Multi-Perspective Benchmark and Evaluation",
-    "arxiv_id": "2603.25001v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-28T10:29:30.404147"
-  },
   "2603.26211v1": {
     "title": "Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding",
     "arxiv_id": "2603.26211v1",
@@ -1126,5 +1072,35 @@
     "arxiv_id": "2604.21221v1",
     "tier": "worth_noting",
     "date_shown": "2026-04-26T10:43:03.522025"
+  },
+  "2604.22748v1": {
+    "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+    "arxiv_id": "2604.22748v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-27T11:42:54.967581"
+  },
+  "2604.22446v1": {
+    "title": "From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company",
+    "arxiv_id": "2604.22446v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-27T11:42:54.967581"
+  },
+  "2604.22154v1": {
+    "title": "Reliable Self-Harm Risk Screening via Adaptive Multi-Agent LLM Systems",
+    "arxiv_id": "2604.22154v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-27T11:42:54.967581"
+  },
+  "2604.22085v1": {
+    "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
+    "arxiv_id": "2604.22085v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-27T11:42:54.967581"
+  },
+  "2604.22152": {
+    "title": "dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model",
+    "arxiv_id": "2604.22152",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-27T11:42:54.967581"
   }
 }
