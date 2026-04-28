@@ -1102,5 +1102,35 @@
     "arxiv_id": "2604.22152",
     "tier": "worth_noting",
     "date_shown": "2026-04-27T11:42:54.967581"
+  },
+  "2604.23994v1": {
+    "title": "When to Commit? Towards Variable-Size Self-Contained Blocks for Discrete Diffusion Language Models",
+    "arxiv_id": "2604.23994v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-28T11:44:29.739469"
+  },
+  "2604.24698v1": {
+    "title": "The Chameleon's Limit: Investigating Persona Collapse and Homogenization in Large Language Models",
+    "arxiv_id": "2604.24698v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-28T11:44:29.739469"
+  },
+  "2604.24357v1": {
+    "title": "DPRM: A Plug-in Doob h transform-induced Token-Ordering Module for Diffusion Language Models",
+    "arxiv_id": "2604.24357v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-28T11:44:29.739469"
+  },
+  "2604.24104v1": {
+    "title": "Factual and Edit-Sensitive Graph-to-Sequence Generation via Graph-Aware Adaptive Noising",
+    "arxiv_id": "2604.24104v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-28T11:44:29.739469"
+  },
+  "2604.22085": {
+    "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
+    "arxiv_id": "2604.22085",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-28T11:44:29.739469"
   }
 }
