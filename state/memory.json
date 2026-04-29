@@ -1,40 +1,4 @@
 {
-  "2603.26211v1": {
-    "title": "Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding",
-    "arxiv_id": "2603.26211v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-30T11:00:46.300819"
-  },
-  "2603.20466": {
-    "title": "Diffutron: A Masked Diffusion Language Model for Turkish Language",
-    "arxiv_id": "2603.20466",
-    "tier": "must_read",
-    "date_shown": "2026-03-30T11:00:46.300819"
-  },
-  "2603.25702": {
-    "title": "S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation",
-    "arxiv_id": "2603.25702",
-    "tier": "must_read",
-    "date_shown": "2026-03-30T11:00:46.300819"
-  },
-  "2603.26512v1": {
-    "title": "CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation",
-    "arxiv_id": "2603.26512v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-30T11:00:46.300819"
-  },
-  "2603.25931v1": {
-    "title": "DiReCT: Disentangled Regularization of Contrastive Trajectories for Physics-Refined Video Generation",
-    "arxiv_id": "2603.25931v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-30T11:00:46.300819"
-  },
-  "2603.25872v1": {
-    "title": "DRiffusion: Draft-and-Refine Process Parallelizes Diffusion Models with Ease",
-    "arxiv_id": "2603.25872v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-30T11:00:46.300819"
-  },
   "2603.28716v1": {
     "title": "Dynamic Dual-Granularity Skill Bank for Agentic RL",
     "arxiv_id": "2603.28716v1",
@@ -1132,5 +1096,65 @@
     "arxiv_id": "2604.22085",
     "tier": "worth_noting",
     "date_shown": "2026-04-28T11:44:29.739469"
+  },
+  "2604.25917v1": {
+    "title": "Recursive Multi-Agent Systems",
+    "arxiv_id": "2604.25917v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-29T11:27:50.690621"
+  },
+  "2604.24842": {
+    "title": "Co-Director: Agentic Generative Video Storytelling",
+    "arxiv_id": "2604.24842",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-29T11:27:50.690621"
+  },
+  "2604.25849v1": {
+    "title": "ADEMA: A Knowledge-State Orchestration Architecture for Long-Horizon Knowledge Synthesis with LLMAgents",
+    "arxiv_id": "2604.25849v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-29T11:27:50.690621"
+  },
+  "2604.25737v1": {
+    "title": "SAFEdit: Does Multi-Agent Decomposition Resolve the Reliability Challenges of Instructed Code Editing?",
+    "arxiv_id": "2604.25737v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-29T11:27:50.690621"
+  },
+  "2604.25693v1": {
+    "title": "RADD: Retrieval-Augmented Discrete Diffusion for Multi-Modal Knowledge Graph Completion",
+    "arxiv_id": "2604.25693v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-29T11:27:50.690621"
+  },
+  "2604.25172v1": {
+    "title": "Conditional Flow Matching for Probabilistic Downscaling of Maximum 3-day Snowfall in Alaska",
+    "arxiv_id": "2604.25172v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-29T11:27:50.690621"
+  },
+  "2604.22446": {
+    "title": "From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company",
+    "arxiv_id": "2604.22446",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-29T11:27:50.690621"
+  },
+  "2604.19548": {
+    "title": "Taming Actor-Observer Asymmetry in Agents via Dialectical Alignment",
+    "arxiv_id": "2604.19548",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-29T11:27:50.690621"
+  },
+  "2604.25872v1": {
+    "title": "When Errors Can Be Beneficial: A Categorization of Imperfect Rewards for Policy Gradient",
+    "arxiv_id": "2604.25872v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-29T11:27:50.690621"
+  },
+  "2604.25299v1": {
+    "title": "The Thinking Pixel: Recursive Sparse Reasoning in Multimodal Diffusion Latents",
+    "arxiv_id": "2604.25299v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-29T11:27:50.690621"
   }
 }
