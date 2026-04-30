@@ -1,58 +1,4 @@
 {
-  "2603.28716v1": {
-    "title": "Dynamic Dual-Granularity Skill Bank for Agentic RL",
-    "arxiv_id": "2603.28716v1",
-    "tier": "must_read",
-    "date_shown": "2026-03-31T10:52:29.798432"
-  },
-  "2603.28572v1": {
-    "title": "Unrestrained Simplex Denoising for Discrete Data. A Non-Markovian Approach Applied to Graph Generation",
-    "arxiv_id": "2603.28572v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-31T10:52:29.798432"
-  },
-  "2603.28101v1": {
-    "title": "Heddle: A Distributed Orchestration System for Agentic RL Rollout",
-    "arxiv_id": "2603.28101v1",
-    "tier": "must_read",
-    "date_shown": "2026-03-31T10:52:29.798432"
-  },
-  "2603.28281v1": {
-    "title": "Corruption-robust Offline Multi-agent Reinforcement Learning From Human Feedback",
-    "arxiv_id": "2603.28281v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-31T10:52:29.798432"
-  },
-  "2603.28573v1": {
-    "title": "Learning Partial Action Replacement in Offline MARL",
-    "arxiv_id": "2603.28573v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-31T10:52:29.798432"
-  },
-  "2603.27040": {
-    "title": "Unified Number-Free Text-to-Motion Generation Via Flow Matching",
-    "arxiv_id": "2603.27040",
-    "tier": "must_read",
-    "date_shown": "2026-03-31T10:52:29.798432"
-  },
-  "2603.28767": {
-    "title": "Gen-Searcher: Reinforcing Agentic Search for Image Generation",
-    "arxiv_id": "2603.28767",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-31T10:52:29.798432"
-  },
-  "2603.27996v1": {
-    "title": "From Independent to Correlated Diffusion: Generalized Generative Modeling with Probabilistic Computers",
-    "arxiv_id": "2603.27996v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-31T10:52:29.798432"
-  },
-  "2603.27304": {
-    "title": "EpochX: Building the Infrastructure for an Emergent Agent Civilization",
-    "arxiv_id": "2603.27304",
-    "tier": "worth_noting",
-    "date_shown": "2026-03-31T10:52:29.798432"
-  },
   "2603.28088": {
     "title": "GEMS: Agent-Native Multimodal Generation with Memory and Skills",
     "arxiv_id": "2603.28088",
@@ -1156,5 +1102,47 @@
     "arxiv_id": "2604.25299v1",
     "tier": "worth_noting",
     "date_shown": "2026-04-29T11:27:50.690621"
+  },
+  "2604.26841v1": {
+    "title": "Language Diffusion Models are Associative Memories Capable of Retrieving Unseen Data",
+    "arxiv_id": "2604.26841v1",
+    "tier": "must_read",
+    "date_shown": "2026-04-30T11:26:50.134256"
+  },
+  "2604.25917": {
+    "title": "Recursive Multi-Agent Systems",
+    "arxiv_id": "2604.25917",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-30T11:26:50.134256"
+  },
+  "2604.26733v1": {
+    "title": "FutureWorld: A Live Environment for Training Predictive Agents with Real-World Outcome Rewards",
+    "arxiv_id": "2604.26733v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-30T11:26:50.134256"
+  },
+  "2604.26622v1": {
+    "title": "OCR-Memory: Optical Context Retrieval for Long-Horizon Agent Memory",
+    "arxiv_id": "2604.26622v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-30T11:26:50.134256"
+  },
+  "2604.26460v1": {
+    "title": "Theory-Grounded Evaluation Exposes the Authorship Gap in LLM Personalization",
+    "arxiv_id": "2604.26460v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-30T11:26:50.134256"
+  },
+  "2604.26394v1": {
+    "title": "SecMate: Multi-Agent Adaptive Cybersecurity Troubleshooting with Tri-Context Personalization",
+    "arxiv_id": "2604.26394v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-30T11:26:50.134256"
+  },
+  "2604.24351": {
+    "title": "Diffusion Templates: A Unified Plugin Framework for Controllable Diffusion",
+    "arxiv_id": "2604.24351",
+    "tier": "worth_noting",
+    "date_shown": "2026-04-30T11:26:50.134256"
   }
 }
