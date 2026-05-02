@@ -1144,5 +1144,53 @@
     "arxiv_id": "2604.27505",
     "tier": "worth_noting",
     "date_shown": "2026-05-01T11:05:23.864051"
+  },
+  "2604.27934v1": {
+    "title": "MM-StanceDet: Retrieval-Augmented Multi-modal Multi-agent Stance Detection",
+    "arxiv_id": "2604.27934v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-02T10:49:58.302283"
+  },
+  "2604.27776v1": {
+    "title": "WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments",
+    "arxiv_id": "2604.27776v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-02T10:49:58.302283"
+  },
+  "2604.27691v1": {
+    "title": "When Agents Evolve, Institutions Follow",
+    "arxiv_id": "2604.27691v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-02T10:49:58.302283"
+  },
+  "2604.27586v1": {
+    "title": "Trace-Level Analysis of Information Contamination in Multi-Agent Systems",
+    "arxiv_id": "2604.27586v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-02T10:49:58.302283"
+  },
+  "2604.28185": {
+    "title": "Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling",
+    "arxiv_id": "2604.28185",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-02T10:49:58.302283"
+  },
+  "2604.28010v1": {
+    "title": "Learning from Disagreement: Clinician Overrides as Implicit Preference Signals for Clinical AI in Value-Based Care",
+    "arxiv_id": "2604.28010v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-02T10:49:58.302283"
+  },
+  "2604.27462v1": {
+    "title": "Improving Graph Few-shot Learning with Hyperbolic Space and Denoising Diffusion",
+    "arxiv_id": "2604.27462v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-02T10:49:58.302283"
+  },
+  "2604.26694": {
+    "title": "Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising",
+    "arxiv_id": "2604.26694",
+    "tier": "must_read",
+    "date_shown": "2026-05-02T10:49:58.302283"
   }
 }
