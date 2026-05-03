@@ -1192,5 +1192,17 @@
     "arxiv_id": "2604.26694",
     "tier": "must_read",
     "date_shown": "2026-05-02T10:49:58.302283"
+  },
+  "2604.27942v1": {
+    "title": "A Collective Variational Principle Unifying Bayesian Inference, Game Theory, and Thermodynamics",
+    "arxiv_id": "2604.27942v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-03T10:52:44.359508"
+  },
+  "2604.27660v1": {
+    "title": "From Context to Skills: Can Language Models Learn from Context Skillfully?",
+    "arxiv_id": "2604.27660v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-03T10:52:44.359508"
   }
 }
