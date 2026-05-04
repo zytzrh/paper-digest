@@ -1,46 +1,4 @@
 {
-  "2604.02268v1": {
-    "title": "SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization",
-    "arxiv_id": "2604.02268v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-04T10:31:21.242481"
-  },
-  "2604.01707v1": {
-    "title": "Memory in the LLM Era: Modular Architectures and Strategies in a Unified Framework",
-    "arxiv_id": "2604.01707v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-04T10:31:21.242481"
-  },
-  "2604.01624v1": {
-    "title": "OSCAR: Orchestrated Self-verification and Cross-path Refinement",
-    "arxiv_id": "2604.01624v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-04T10:31:21.242481"
-  },
-  "2604.01622v1": {
-    "title": "Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models",
-    "arxiv_id": "2604.01622v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-04T10:31:21.242481"
-  },
-  "2604.01007": {
-    "title": "Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory",
-    "arxiv_id": "2604.01007",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-04T10:31:21.242481"
-  },
-  "2604.02028v1": {
-    "title": "Why Gaussian Diffusion Models Fail on Discrete Data?",
-    "arxiv_id": "2604.02028v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-04T10:31:21.242481"
-  },
-  "2604.01670v1": {
-    "title": "Hierarchical Memory Orchestration for Personalized Persistent Agents",
-    "arxiv_id": "2604.01670v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-04T10:31:21.242481"
-  },
   "2604.01658v1": {
     "title": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery",
     "arxiv_id": "2604.01658v1",
@@ -1204,5 +1162,53 @@
     "arxiv_id": "2604.27660v1",
     "tier": "worth_noting",
     "date_shown": "2026-05-03T10:52:44.359508"
+  },
+  "2605.00360v1": {
+    "title": "Binomial flows: Denoising and flow matching for discrete ordinal data",
+    "arxiv_id": "2605.00360v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-04T11:47:06.848876"
+  },
+  "2605.00798v1": {
+    "title": "RunAgent: Interpreting Natural-Language Plans with Constraint-Guided Execution",
+    "arxiv_id": "2605.00798v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-04T11:47:06.848876"
+  },
+  "2605.00425v1": {
+    "title": "AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning",
+    "arxiv_id": "2605.00425v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-04T11:47:06.848876"
+  },
+  "2605.00410v1": {
+    "title": "Agent Capsules: Quality-Gated Granularity Control for Multi-Agent LLM Pipelines",
+    "arxiv_id": "2605.00410v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-04T11:47:06.848876"
+  },
+  "2605.00337v1": {
+    "title": "Free Energy Surface Sampling via Reduced Flow Matching",
+    "arxiv_id": "2605.00337v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-04T11:47:06.848876"
+  },
+  "2605.00414v1": {
+    "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+    "arxiv_id": "2605.00414v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-04T11:47:06.848876"
+  },
+  "2605.00250v1": {
+    "title": "Information-geometric adaptive sampling for graph diffusion",
+    "arxiv_id": "2605.00250v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-04T11:47:06.848876"
+  },
+  "2605.00229v1": {
+    "title": "A unified perspective on fine-tuning and sampling with diffusion and flow models",
+    "arxiv_id": "2605.00229v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-04T11:47:06.848876"
   }
 }
