@@ -1,22 +1,4 @@
 {
-  "2604.01658v1": {
-    "title": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery",
-    "arxiv_id": "2604.01658v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-05T10:31:27.930005"
-  },
-  "2604.01830v1": {
-    "title": "Physics Informed Reinforcement Learning with Gibbs Priors for Topology Control in Power Grids",
-    "arxiv_id": "2604.01830v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-05T10:31:27.930005"
-  },
-  "2603.30043": {
-    "title": "Video Models Reason Early: Exploiting Plan Commitment for Maze Solving",
-    "arxiv_id": "2603.30043",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-05T10:31:27.930005"
-  },
   "2604.02721v1": {
     "title": "GrandCode: Achieving Grandmaster Level in Competitive Programming via Agentic Reinforcement Learning",
     "arxiv_id": "2604.02721v1",
@@ -1210,5 +1192,41 @@
     "arxiv_id": "2605.00229v1",
     "tier": "worth_noting",
     "date_shown": "2026-05-04T11:47:06.848876"
+  },
+  "2605.02801v1": {
+    "title": "Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces",
+    "arxiv_id": "2605.02801v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-05T11:15:15.049128"
+  },
+  "2605.02438v1": {
+    "title": "Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection",
+    "arxiv_id": "2605.02438v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-05T11:15:15.049128"
+  },
+  "2605.02289v1": {
+    "title": "EngiAgent: Fully Connected Coordination of LLM Agents for Solving Open-ended Engineering Problems with Feasible Solutions",
+    "arxiv_id": "2605.02289v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-05T11:15:15.049128"
+  },
+  "2605.02222": {
+    "title": "Generative Modeling with Orbit-Space Particle Flow Matching",
+    "arxiv_id": "2605.02222",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-05T11:15:15.049128"
+  },
+  "2605.02178": {
+    "title": "T^2PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning",
+    "arxiv_id": "2605.02178",
+    "tier": "must_read",
+    "date_shown": "2026-05-05T11:15:15.049128"
+  },
+  "2605.00414": {
+    "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+    "arxiv_id": "2605.00414",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-05T11:15:15.049128"
   }
 }
