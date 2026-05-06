@@ -1,82 +1,4 @@
 {
-  "2604.02721v1": {
-    "title": "GrandCode: Achieving Grandmaster Level in Competitive Programming via Agentic Reinforcement Learning",
-    "arxiv_id": "2604.02721v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-06T10:55:13.035509"
-  },
-  "2604.02560v1": {
-    "title": "Dependency-Guided Parallel Decoding in Discrete Diffusion Language Models",
-    "arxiv_id": "2604.02560v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-06T10:55:13.035509"
-  },
-  "2604.02770v1": {
-    "title": "Improving Role Consistency in Multi-Agent Collaboration via Quantitative Role Clarity",
-    "arxiv_id": "2604.02770v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-06T10:55:13.035509"
-  },
-  "2604.02718v1": {
-    "title": "Generative Frontiers: Why Evaluation Matters for Diffusion Language Models",
-    "arxiv_id": "2604.02718v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-06T10:55:13.035509"
-  },
-  "2604.02988v1": {
-    "title": "Self-Optimizing Multi-Agent Systems for Deep Research",
-    "arxiv_id": "2604.02988v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-06T10:55:13.035509"
-  },
-  "2604.02923v1": {
-    "title": "Council Mode: Mitigating Hallucination and Bias in LLMs via Multi-Agent Consensus",
-    "arxiv_id": "2604.02923v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-06T10:55:13.035509"
-  },
-  "2604.02863v1": {
-    "title": "EMS: Multi-Agent Voting via Efficient Majority-then-Stopping",
-    "arxiv_id": "2604.02863v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-06T10:55:13.035509"
-  },
-  "2604.02674v1": {
-    "title": "Do Agent Societies Develop Intellectual Elites? The Hidden Power Laws of Collective Cognition in LLM Multi-Agent Systems",
-    "arxiv_id": "2604.02674v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-06T10:55:13.035509"
-  },
-  "2604.02668v1": {
-    "title": "Too Polite to Disagree: Understanding Sycophancy Propagation in Multi-Agent Systems",
-    "arxiv_id": "2604.02668v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-06T10:55:13.035509"
-  },
-  "2604.02623v1": {
-    "title": "Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents",
-    "arxiv_id": "2604.02623v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-06T10:55:13.035509"
-  },
-  "2604.01487": {
-    "title": "AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks",
-    "arxiv_id": "2604.01487",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-06T10:55:13.035509"
-  },
-  "2604.01658": {
-    "title": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery",
-    "arxiv_id": "2604.01658",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-06T10:55:13.035509"
-  },
-  "2604.02986v1": {
-    "title": "Mitigating Reward Hacking in RLHF via Advantage Sign Robustness",
-    "arxiv_id": "2604.02986v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-06T10:55:13.035509"
-  },
   "2604.02721": {
     "title": "GrandCode: Achieving Grandmaster Level in Competitive Programming via Agentic Reinforcement Learning",
     "arxiv_id": "2604.02721",
@@ -1228,5 +1150,77 @@
     "arxiv_id": "2605.00414",
     "tier": "worth_noting",
     "date_shown": "2026-05-05T11:15:15.049128"
+  },
+  "2605.03804v1": {
+    "title": "ScrapMem: A Bio-inspired Framework for On-device Personalized Agent Memory via Optical Forgetting",
+    "arxiv_id": "2605.03804v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-06T11:47:47.856335"
+  },
+  "2605.03984v1": {
+    "title": "Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Conditional Processes",
+    "arxiv_id": "2605.03984v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-06T11:47:47.856335"
+  },
+  "2605.03042": {
+    "title": "ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration",
+    "arxiv_id": "2605.03042",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-06T11:47:47.856335"
+  },
+  "2605.03986v1": {
+    "title": "From Intent to Execution: Composing Agentic Workflows with Agent Recommendation",
+    "arxiv_id": "2605.03986v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-06T11:47:47.856335"
+  },
+  "2605.03884v1": {
+    "title": "QKVShare: Quantized KV-Cache Handoff for Multi-Agent On-Device LLMs",
+    "arxiv_id": "2605.03884v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-06T11:47:47.856335"
+  },
+  "2605.03588v1": {
+    "title": "Flow Matching on Symmetric Spaces",
+    "arxiv_id": "2605.03588v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-06T11:47:47.856335"
+  },
+  "2605.03476v1": {
+    "title": "CuraView: A Multi-Agent Framework for Medical Hallucination Detection with GraphRAG-Enhanced Knowledge Verification",
+    "arxiv_id": "2605.03476v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-06T11:47:47.856335"
+  },
+  "2605.03354v1": {
+    "title": "What Happens Inside Agent Memory? Circuit Analysis from Emergence to Diagnosis",
+    "arxiv_id": "2605.03354v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-06T11:47:47.856335"
+  },
+  "2605.02801": {
+    "title": "Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces",
+    "arxiv_id": "2605.02801",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-06T11:47:47.856335"
+  },
+  "2605.02943": {
+    "title": "Healthcare AI GYM for Medical Agents",
+    "arxiv_id": "2605.02943",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-06T11:47:47.856335"
+  },
+  "2605.03877v1": {
+    "title": "DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models",
+    "arxiv_id": "2605.03877v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-06T11:47:47.856335"
+  },
+  "2605.03317v1": {
+    "title": "AHPA: Adaptive Hierarchical Prior Alignment for Diffusion Transformers",
+    "arxiv_id": "2605.03317v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-06T11:47:47.856335"
   }
 }
