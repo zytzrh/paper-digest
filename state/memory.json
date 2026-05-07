@@ -1,82 +1,4 @@
 {
-  "2604.02721": {
-    "title": "GrandCode: Achieving Grandmaster Level in Competitive Programming via Agentic Reinforcement Learning",
-    "arxiv_id": "2604.02721",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-07T10:54:16.592598"
-  },
-  "2604.04901v1": {
-    "title": "FileGram: Grounding Agent Personalization in File-System Behavioral Traces",
-    "arxiv_id": "2604.04901v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-07T10:54:16.592598"
-  },
-  "2604.04646v1": {
-    "title": "Training-Free Refinement of Flow Matching with Divergence-based Sampling",
-    "arxiv_id": "2604.04646v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-07T10:54:16.592598"
-  },
-  "2604.04514v1": {
-    "title": "SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems",
-    "arxiv_id": "2604.04514v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-07T10:54:16.592598"
-  },
-  "2604.04491v1": {
-    "title": "Isokinetic Flow Matching for Pathwise Straightening of Generative Flows",
-    "arxiv_id": "2604.04491v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-07T10:54:16.592598"
-  },
-  "2604.04453v1": {
-    "title": "Generative modeling of granular flow on inclined planes using conditional flow matching",
-    "arxiv_id": "2604.04453v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-07T10:54:16.592598"
-  },
-  "2604.04442v1": {
-    "title": "Explainable Autonomous Cyber Defense using Adversarial Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2604.04442v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-07T10:54:16.592598"
-  },
-  "2604.04383v1": {
-    "title": "Optimizing Service Operations via LLM-Powered Multi-Agent Simulation",
-    "arxiv_id": "2604.04383v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-07T10:54:16.592598"
-  },
-  "2604.04300v1": {
-    "title": "High-Stakes Personalization: Rethinking LLM Customization for Individual Investor Decision-Making",
-    "arxiv_id": "2604.04300v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-07T10:54:16.592598"
-  },
-  "2604.04291v1": {
-    "title": "Correcting Source Mismatch in Flow Matching with Radial-Angular Transport",
-    "arxiv_id": "2604.04291v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-07T10:54:16.592598"
-  },
-  "2604.04497v1": {
-    "title": "One Model for All: Multi-Objective Controllable Language Models",
-    "arxiv_id": "2604.04497v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-07T10:54:16.592598"
-  },
-  "2604.04427v1": {
-    "title": "FAVE: Flow-based Average Velocity Establishment for Sequential Recommendation",
-    "arxiv_id": "2604.04427v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-07T10:54:16.592598"
-  },
-  "2604.04403v1": {
-    "title": "MolDA: Molecular Understanding and Generation via Large Language Diffusion Model",
-    "arxiv_id": "2604.04403v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-07T10:54:16.592598"
-  },
   "2604.06065v1": {
     "title": "Lipschitz regularity in Flow Matching and Diffusion Models: sharp sampling rates and functional inequalities",
     "arxiv_id": "2604.06065v1",
@@ -1222,5 +1144,71 @@
     "arxiv_id": "2605.03317v1",
     "tier": "worth_noting",
     "date_shown": "2026-05-06T11:47:47.856335"
+  },
+  "2605.05112v1": {
+    "title": "Rollout Pass-Rate Control: Steering Binary-Reward RL Toward Its Most Informative Regime",
+    "arxiv_id": "2605.05112v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-07T11:46:18.415925"
+  },
+  "2605.05054v1": {
+    "title": "Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation",
+    "arxiv_id": "2605.05054v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-07T11:46:18.415925"
+  },
+  "2605.05020v1": {
+    "title": "Graph-SND: Sparse Aggregation for Behavioral Diversity in Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2605.05020v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-07T11:46:18.415925"
+  },
+  "2605.05007v1": {
+    "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Delegation",
+    "arxiv_id": "2605.05007v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-07T11:46:18.415925"
+  },
+  "2605.04939v1": {
+    "title": "Modular Reinforcement Learning For Cooperative Swarms",
+    "arxiv_id": "2605.04939v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-07T11:46:18.415925"
+  },
+  "2605.04922v1": {
+    "title": "Evolving Idea Graphs with Learnable Edits-and-Commits for Multi-Agent Scientific Ideation",
+    "arxiv_id": "2605.04922v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-07T11:46:18.415925"
+  },
+  "2605.04906v1": {
+    "title": "Strat-Reasoner: Reinforcing Strategic Reasoning of LLMs in Multi-Agent Games",
+    "arxiv_id": "2605.04906v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-07T11:46:18.415925"
+  },
+  "2605.04897v1": {
+    "title": "Storage Is Not Memory: A Retrieval-Centered Architecture for Agent Recall",
+    "arxiv_id": "2605.04897v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-07T11:46:18.415925"
+  },
+  "2605.04830v1": {
+    "title": "Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models",
+    "arxiv_id": "2605.04830v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-07T11:46:18.415925"
+  },
+  "2605.04590v1": {
+    "title": "From Diffusion to Rectified Flow: Rethinking Text-Based Segmentation",
+    "arxiv_id": "2605.04590v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-07T11:46:18.415925"
+  },
+  "2605.05204": {
+    "title": "D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models",
+    "arxiv_id": "2605.05204",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-07T11:46:18.415925"
   }
 }
