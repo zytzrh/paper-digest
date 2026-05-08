@@ -1,94 +1,4 @@
 {
-  "2604.06065v1": {
-    "title": "Lipschitz regularity in Flow Matching and Diffusion Models: sharp sampling rates and functional inequalities",
-    "arxiv_id": "2604.06065v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-08T10:55:38.415441"
-  },
-  "2604.05700v1": {
-    "title": "Optimal-Transport-Guided Functional Flow Matching for Turbulent Field Generation in Hilbert Space",
-    "arxiv_id": "2604.05700v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-08T10:55:38.415441"
-  },
-  "2604.05673v1": {
-    "title": "Rectified Schrödinger Bridge Matching for Few-Step Visual Navigation",
-    "arxiv_id": "2604.05673v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-08T10:55:38.415441"
-  },
-  "2604.05551v1": {
-    "title": "FastDiSS: Few-step Match Many-step Diffusion Language Model on Sequence-to-Sequence Generation--Full Version",
-    "arxiv_id": "2604.05551v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-08T10:55:38.415441"
-  },
-  "2604.05489v1": {
-    "title": "SCMAPR: Self-Correcting Multi-Agent Prompt Refinement for Complex-Scenario Text-to-Video Generation",
-    "arxiv_id": "2604.05489v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-08T10:55:38.415441"
-  },
-  "2604.05458v1": {
-    "title": "MA-IDS: Multi-Agent RAG Framework for IoT Network Intrusion Detection with an Experience Library",
-    "arxiv_id": "2604.05458v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-08T10:55:38.415441"
-  },
-  "2604.06170v1": {
-    "title": "Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework",
-    "arxiv_id": "2604.06170v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-08T10:55:38.415441"
-  },
-  "2604.05943v1": {
-    "title": "MARL-GPT: Foundation Model for Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2604.05943v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-08T10:55:38.415441"
-  },
-  "2604.05656v1": {
-    "title": "SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation",
-    "arxiv_id": "2604.05656v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-08T10:55:38.415441"
-  },
-  "2604.05483v1": {
-    "title": "Can We Trust a Black-box LLM? LLM Untrustworthy Boundary Detection via Bias-Diffusion and Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2604.05483v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-08T10:55:38.415441"
-  },
-  "2604.05482v1": {
-    "title": "Unifying VLM-Guided Flow Matching and Spectral Anomaly Detection for Interpretable Veterinary Diagnosis",
-    "arxiv_id": "2604.05482v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-08T10:55:38.415441"
-  },
-  "2604.04215": {
-    "title": "DARE: Diffusion Large Language Models Alignment and Reinforcement Executor",
-    "arxiv_id": "2604.04215",
-    "tier": "must_read",
-    "date_shown": "2026-04-08T10:55:38.415441"
-  },
-  "2604.03295": {
-    "title": "Scaling Teams or Scaling Time? Memory Enabled Lifelong Learning in LLM Multi-Agent Systems",
-    "arxiv_id": "2604.03295",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-08T10:55:38.415441"
-  },
-  "2604.00375": {
-    "title": "Locally Confident, Globally Stuck: The Quality-Exploration Dilemma in Diffusion Language Models",
-    "arxiv_id": "2604.00375",
-    "tier": "must_read",
-    "date_shown": "2026-04-08T10:55:38.415441"
-  },
-  "2604.03266": {
-    "title": "Emergent Compositional Communication for Latent World Properties",
-    "arxiv_id": "2604.03266",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-08T10:55:38.415441"
-  },
   "2604.06757": {
     "title": "FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching",
     "arxiv_id": "2604.06757",
@@ -1210,5 +1120,71 @@
     "arxiv_id": "2605.05204",
     "tier": "worth_noting",
     "date_shown": "2026-05-07T11:46:18.415925"
+  },
+  "2605.06642v1": {
+    "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
+    "arxiv_id": "2605.06642v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-08T11:12:44.267517"
+  },
+  "2605.06623v1": {
+    "title": "MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems",
+    "arxiv_id": "2605.06623v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-08T11:12:44.267517"
+  },
+  "2605.06548v1": {
+    "title": "Continuous Latent Diffusion Language Model",
+    "arxiv_id": "2605.06548v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-08T11:12:44.267517"
+  },
+  "2605.06421v1": {
+    "title": "FREPix: Frequency-Heterogeneous Flow Matching for Pixel-Space Image Generation",
+    "arxiv_id": "2605.06421v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-08T11:12:44.267517"
+  },
+  "2605.06366v1": {
+    "title": "Layer Collapse in Diffusion Language Models",
+    "arxiv_id": "2605.06366v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-08T11:12:44.267517"
+  },
+  "2605.06364v1": {
+    "title": "Flow Matching with Arbitrary Auxiliary Paths",
+    "arxiv_id": "2605.06364v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-08T11:12:44.267517"
+  },
+  "2605.06272v1": {
+    "title": "A Flow Matching Algorithm for Many-Shot Adaptation to Unseen Distributions",
+    "arxiv_id": "2605.06272v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-08T11:12:44.267517"
+  },
+  "2605.06507v1": {
+    "title": "MARBLE: Multi-Aspect Reward Balance for Diffusion RL",
+    "arxiv_id": "2605.06507v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-08T11:12:44.267517"
+  },
+  "2605.06376v1": {
+    "title": "Continuous-Time Distribution Matching for Few-Step Diffusion Distillation",
+    "arxiv_id": "2605.06376v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-08T11:12:44.267517"
+  },
+  "2605.00623": {
+    "title": "Recovering Hidden Reward in Diffusion-Based Policies",
+    "arxiv_id": "2605.00623",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-08T11:12:44.267517"
+  },
+  "2605.03849": {
+    "title": "Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation",
+    "arxiv_id": "2605.03849",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-08T11:12:44.267517"
   }
 }
