@@ -1186,5 +1186,41 @@
     "arxiv_id": "2605.03849",
     "tier": "worth_noting",
     "date_shown": "2026-05-08T11:12:44.267517"
+  },
+  "2605.06553v1": {
+    "title": "Diverse Sampling in Diffusion Models with Marginal Preserving Particle Guidance",
+    "arxiv_id": "2605.06553v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-09T10:56:06.283496"
+  },
+  "2605.06595v1": {
+    "title": "Cross-Modal Navigation with Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2605.06595v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-09T10:56:06.283496"
+  },
+  "2605.06557v1": {
+    "title": "Coordination Matters: Evaluation of Cooperative Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2605.06557v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-09T10:56:06.283496"
+  },
+  "2605.06457v1": {
+    "title": "Beyond Task Success: Measuring Workflow Fidelity in LLM-Based Agentic Payment Systems",
+    "arxiv_id": "2605.06457v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-09T10:56:06.283496"
+  },
+  "2605.06367v1": {
+    "title": "The Interplay of Data Structure and Imbalance in the Learning Dynamics of Diffusion Models",
+    "arxiv_id": "2605.06367v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-09T10:56:06.283496"
+  },
+  "2604.24575": {
+    "title": "Diffusion Model as a Generalist Segmentation Learner",
+    "arxiv_id": "2604.24575",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-09T10:56:06.283496"
   }
 }
