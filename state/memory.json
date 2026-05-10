@@ -1,76 +1,4 @@
 {
-  "2604.06757": {
-    "title": "FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching",
-    "arxiv_id": "2604.06757",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-09T10:57:19.602275"
-  },
-  "2604.06268": {
-    "title": "RAGEN-2: Reasoning Collapse in Agentic RL",
-    "arxiv_id": "2604.06268",
-    "tier": "must_read",
-    "date_shown": "2026-04-09T10:57:19.602275"
-  },
-  "2604.01622": {
-    "title": "Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models",
-    "arxiv_id": "2604.01622",
-    "tier": "must_read",
-    "date_shown": "2026-04-09T10:57:19.602275"
-  },
-  "2604.06916v1": {
-    "title": "FP4 Explore, BF16 Train: Diffusion Reinforcement Learning via Efficient Rollout Scaling",
-    "arxiv_id": "2604.06916v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-09T10:57:19.602275"
-  },
-  "2604.06779v1": {
-    "title": "FVD: Inference-Time Alignment of Diffusion Models via Fleming-Viot Resampling",
-    "arxiv_id": "2604.06779v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-09T10:57:19.602275"
-  },
-  "2604.08174v1": {
-    "title": "Value-Guidance MeanFlow for Offline Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2604.08174v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-10T10:52:57.219715"
-  },
-  "2604.08302v1": {
-    "title": "DMax: Aggressive Parallel Decoding for dLLMs",
-    "arxiv_id": "2604.08302v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-10T10:52:57.219715"
-  },
-  "2604.08203v1": {
-    "title": "MedVR: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning",
-    "arxiv_id": "2604.08203v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-10T10:52:57.219715"
-  },
-  "2604.07911v1": {
-    "title": "Dynamic Attentional Context Scoping: Agent-Triggered Focus Sessions for Isolated Per-Agent Steering in Multi-Agent LLM Orchestration",
-    "arxiv_id": "2604.07911v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-10T10:52:57.219715"
-  },
-  "2604.07877v1": {
-    "title": "MemReader: From Passive to Active Extraction for Long-Term Agent Memory",
-    "arxiv_id": "2604.07877v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-10T10:52:57.219715"
-  },
-  "2604.08256v1": {
-    "title": "HyperMem: Hypergraph Memory for Long-Term Conversations",
-    "arxiv_id": "2604.08256v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-10T10:52:57.219715"
-  },
-  "2604.08178v1": {
-    "title": "Aligning Agents via Planning: A Benchmark for Trajectory-Level Reward Modeling",
-    "arxiv_id": "2604.08178v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-10T10:52:57.219715"
-  },
   "2604.08465v1": {
     "title": "From Safety Risk to Design Principle: Peer-Preservation in Multi-Agent LLM Systems and Its Implications for Orchestrated Democratic Discourse Analysis",
     "arxiv_id": "2604.08465v1",
@@ -1222,5 +1150,17 @@
     "arxiv_id": "2604.24575",
     "tier": "worth_noting",
     "date_shown": "2026-05-09T10:56:06.283496"
+  },
+  "2605.06377v1": {
+    "title": "Independent Learning of Nash Equilibria in Partially Observable Markov Potential Games with Decoupled Dynamics",
+    "arxiv_id": "2605.06377v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-10T10:58:47.131925"
+  },
+  "2605.06388v1": {
+    "title": "Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models",
+    "arxiv_id": "2605.06388v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-10T10:58:47.131925"
   }
 }
