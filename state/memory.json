@@ -1,34 +1,4 @@
 {
-  "2604.08465v1": {
-    "title": "From Safety Risk to Design Principle: Peer-Preservation in Multi-Agent LLM Systems and Its Implications for Orchestrated Democratic Discourse Analysis",
-    "arxiv_id": "2604.08465v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-11T10:32:29.070495"
-  },
-  "2604.08121v1": {
-    "title": "Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator",
-    "arxiv_id": "2604.08121v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-11T10:32:29.070495"
-  },
-  "2604.07927v1": {
-    "title": "EigentSearch-Q+: Enhancing Deep Research Agents with Structured Reasoning Tools",
-    "arxiv_id": "2604.07927v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-11T10:32:29.070495"
-  },
-  "2604.06392": {
-    "title": "Qualixar OS: A Universal Operating System for AI Agent Orchestration",
-    "arxiv_id": "2604.06392",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-11T10:32:29.070495"
-  },
-  "2604.07966": {
-    "title": "Lighting-grounded Video Generation with Renderer-based Agent Reasoning",
-    "arxiv_id": "2604.07966",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-11T10:32:29.070495"
-  },
   "2604.09459v1": {
     "title": "From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models",
     "arxiv_id": "2604.09459v1",
@@ -1162,5 +1132,71 @@
     "arxiv_id": "2605.06388v1",
     "tier": "worth_noting",
     "date_shown": "2026-05-10T10:58:47.131925"
+  },
+  "2605.07933v1": {
+    "title": "How to Train Your Latent Diffusion Language Model Jointly With the Latent Space",
+    "arxiv_id": "2605.07933v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-11T12:38:38.568685"
+  },
+  "2605.07820v1": {
+    "title": "Scaling Categorical Flow Maps",
+    "arxiv_id": "2605.07820v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-11T12:38:38.568685"
+  },
+  "2605.07748v1": {
+    "title": "TextLDM: Language Modeling with Continuous Latent Diffusion",
+    "arxiv_id": "2605.07748v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-11T12:38:38.568685"
+  },
+  "2605.07701v1": {
+    "title": "Guidance Is Not a Hyperparameter: Learning Dynamic Control in Diffusion Language Models",
+    "arxiv_id": "2605.07701v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-11T12:38:38.568685"
+  },
+  "2605.00425": {
+    "title": "AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning",
+    "arxiv_id": "2605.00425",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-11T12:38:38.568685"
+  },
+  "2605.08063v1": {
+    "title": "Flow-OPD: On-Policy Distillation for Flow Matching Models",
+    "arxiv_id": "2605.08063v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-11T12:38:38.568685"
+  },
+  "2605.07924v1": {
+    "title": "Trajectory as the Teacher: Few-Step Discrete Flow Matching via Energy-Navigated Distillation",
+    "arxiv_id": "2605.07924v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-11T12:38:38.568685"
+  },
+  "2605.07676v1": {
+    "title": "Structured Coupling for Flow Matching",
+    "arxiv_id": "2605.07676v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-11T12:38:38.568685"
+  },
+  "2605.06716": {
+    "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
+    "arxiv_id": "2605.06716",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-11T12:38:38.568685"
+  },
+  "2605.06642": {
+    "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
+    "arxiv_id": "2605.06642",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-11T12:38:38.568685"
+  },
+  "2605.07661v1": {
+    "title": "Stochastic Transition-Map Distillation for Fast Probabilistic Inference",
+    "arxiv_id": "2605.07661v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-11T12:38:38.568685"
   }
 }
