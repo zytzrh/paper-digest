@@ -1198,5 +1198,95 @@
     "arxiv_id": "2605.07661v1",
     "tier": "worth_noting",
     "date_shown": "2026-05-11T12:38:38.568685"
+  },
+  "2605.10938v1": {
+    "title": "ELF: Embedded Language Flows",
+    "arxiv_id": "2605.10938v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-12T11:54:14.996984"
+  },
+  "2605.10923v1": {
+    "title": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning",
+    "arxiv_id": "2605.10923v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-12T11:54:14.996984"
+  },
+  "2605.10717v1": {
+    "title": "Heteroscedastic Diffusion for Multi-Agent Trajectory Modeling",
+    "arxiv_id": "2605.10717v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-12T11:54:14.996984"
+  },
+  "2605.10899v1": {
+    "title": "RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards",
+    "arxiv_id": "2605.10899v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-12T11:54:14.996984"
+  },
+  "2605.10870v1": {
+    "title": "Remember the Decision, Not the Description: A Rate-Distortion Framework for Agent Memory",
+    "arxiv_id": "2605.10870v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-12T11:54:14.996984"
+  },
+  "2605.10813v1": {
+    "title": "NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation",
+    "arxiv_id": "2605.10813v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-12T11:54:14.996984"
+  },
+  "2605.10698v1": {
+    "title": "The Bystander Effect in Multi-Agent Reasoning: Quantifying Cognitive Loafing in Collaborative Interactions",
+    "arxiv_id": "2605.10698v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-12T11:54:14.996984"
+  },
+  "2605.10344": {
+    "title": "TMAS: Scaling Test-Time Compute via Multi-Agent Synergy",
+    "arxiv_id": "2605.10344",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-12T11:54:14.996984"
+  },
+  "2605.08715": {
+    "title": "AgentForesight: Online Auditing for Early Failure Prediction in Multi-Agent Systems",
+    "arxiv_id": "2605.08715",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-12T11:54:14.996984"
+  },
+  "2605.09820": {
+    "title": "Dystruct: Dynamically Structured Diffusion Language Model Decoding via Bayesian Inference",
+    "arxiv_id": "2605.09820",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-12T11:54:14.996984"
+  },
+  "2605.08659": {
+    "title": "Pushing Biomolecular Utility-Diversity Frontiers with Supergroup Relative Policy Optimization",
+    "arxiv_id": "2605.08659",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-12T11:54:14.996984"
+  },
+  "2605.10727v1": {
+    "title": "Kernel-Gradient Drifting Models",
+    "arxiv_id": "2605.10727v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-12T11:54:14.996984"
+  },
+  "2605.10859v1": {
+    "title": "Masked Generative Transformer Is What You Need for Image Editing",
+    "arxiv_id": "2605.10859v1",
+    "tier": "trending",
+    "date_shown": "2026-05-12T11:54:14.996984"
+  },
+  "2605.10790v1": {
+    "title": "Elucidating Representation Degradation Problem in Diffusion Model Training",
+    "arxiv_id": "2605.10790v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-12T11:54:14.996984"
+  },
+  "2605.10642v1": {
+    "title": "Composing diffusion priors with explicit physical context via generative Gibbs sampling",
+    "arxiv_id": "2605.10642v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-12T11:54:14.996984"
   }
 }
