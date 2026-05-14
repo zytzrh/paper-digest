@@ -1,118 +1,4 @@
 {
-  "2604.09459v1": {
-    "title": "From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models",
-    "arxiv_id": "2604.09459v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-13T11:17:16.171679"
-  },
-  "2604.09523v1": {
-    "title": "Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL",
-    "arxiv_id": "2604.09523v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-13T11:17:16.171679"
-  },
-  "2604.09285v1": {
-    "title": "SAGE: A Service Agent Graph-guided Evaluation Benchmark",
-    "arxiv_id": "2604.09285v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-13T11:17:16.171679"
-  },
-  "2604.09159v1": {
-    "title": "Truncated Rectified Flow Policy for Reinforcement Learning with One-Step Sampling",
-    "arxiv_id": "2604.09159v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-13T11:17:16.171679"
-  },
-  "2604.08944v1": {
-    "title": "Multi-Agent Decision-Focused Learning via Value-Aware Sequential Communication",
-    "arxiv_id": "2604.08944v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-13T11:17:16.171679"
-  },
-  "2604.08931v1": {
-    "title": "Enhancing LLM Problem Solving via Tutor-Student Multi-Agent Interaction",
-    "arxiv_id": "2604.08931v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-13T11:17:16.171679"
-  },
-  "2604.09181v1": {
-    "title": "MixFlow: Mixed Source Distributions Improve Rectified Flows",
-    "arxiv_id": "2604.09181v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-13T11:17:16.171679"
-  },
-  "2604.09035v1": {
-    "title": "Advantage-Guided Diffusion for Model-Based Reinforcement Learning",
-    "arxiv_id": "2604.09035v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-13T11:17:16.171679"
-  },
-  "2604.11748v1": {
-    "title": "LangFlow: Continuous Diffusion Rivals Discrete in Language Modeling",
-    "arxiv_id": "2604.11748v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-14T11:02:05.179621"
-  },
-  "2604.11483v1": {
-    "title": "CAGenMol: Condition-Aware Diffusion Language Model for Goal-Directed Molecular Generation",
-    "arxiv_id": "2604.11483v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-14T11:02:05.179621"
-  },
-  "2604.09459": {
-    "title": "From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models",
-    "arxiv_id": "2604.09459",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-14T11:02:05.179621"
-  },
-  "2604.11523v1": {
-    "title": "PAC-BENCH: Evaluating Multi-Agent Collaboration under Privacy Constraints",
-    "arxiv_id": "2604.11523v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-14T11:02:05.179621"
-  },
-  "2604.11477v1": {
-    "title": "OOM-RL: Out-of-Money Reinforcement Learning Market-Driven Alignment for LLM-Based Multi-Agent Systems",
-    "arxiv_id": "2604.11477v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-14T11:02:05.179621"
-  },
-  "2604.11311v1": {
-    "title": "Learning Discrete Diffusion of Graphs via Free-Energy Gradient Flows",
-    "arxiv_id": "2604.11311v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-14T11:02:05.179621"
-  },
-  "2604.11734v1": {
-    "title": "Multi-ORFT: Stable Online Reinforcement Fine-Tuning for Multi-Agent Diffusion Planning in Cooperative Driving",
-    "arxiv_id": "2604.11734v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-14T11:02:05.179621"
-  },
-  "2604.11521v1": {
-    "title": "Continuous Adversarial Flow Models",
-    "arxiv_id": "2604.11521v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-14T11:02:05.179621"
-  },
-  "2604.11178v1": {
-    "title": "Probabilistic Prediction of Neural Dynamics via Autoregressive Flow Matching",
-    "arxiv_id": "2604.11178v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-14T11:02:05.179621"
-  },
-  "2604.02340": {
-    "title": "Not All Denoising Steps Are Equal: Model Scheduling for Faster Masked Diffusion Language Models",
-    "arxiv_id": "2604.02340",
-    "tier": "must_read",
-    "date_shown": "2026-04-14T11:02:05.179621"
-  },
-  "2604.11035": {
-    "title": "Introspective Diffusion Language Models",
-    "arxiv_id": "2604.11035",
-    "tier": "must_read",
-    "date_shown": "2026-04-14T11:02:05.179621"
-  },
   "2604.12776v1": {
     "title": "EvoSpark: Endogenous Interactive Agent Societies for Unified Long-Horizon Narrative Evolution",
     "arxiv_id": "2604.12776v1",
@@ -1288,5 +1174,83 @@
     "arxiv_id": "2605.10642v1",
     "tier": "worth_noting",
     "date_shown": "2026-05-12T11:54:14.996984"
+  },
+  "2605.13296v1": {
+    "title": "Discrete Diffusion for Complex and Congested Multi-Agent Path Finding with Sparse Social Attention",
+    "arxiv_id": "2605.13296v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-14T11:51:57.036094"
+  },
+  "2605.12004": {
+    "title": "Learning Agentic Policy from Action Guidance",
+    "arxiv_id": "2605.12004",
+    "tier": "must_read",
+    "date_shown": "2026-05-14T11:51:57.036094"
+  },
+  "2605.13725v1": {
+    "title": "ScioMind: Cognitively Grounded Multi-Agent Social Simulation with Anchoring-Based Belief Dynamics and Dynamic Profiles",
+    "arxiv_id": "2605.13725v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-14T11:51:57.036094"
+  },
+  "2605.13681v1": {
+    "title": "Sampling from Flow Language Models via Marginal-Conditioned Bridges",
+    "arxiv_id": "2605.13681v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-14T11:51:57.036094"
+  },
+  "2605.12825": {
+    "title": "Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion",
+    "arxiv_id": "2605.12825",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-14T11:51:57.036094"
+  },
+  "2605.13839v1": {
+    "title": "Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights",
+    "arxiv_id": "2605.13839v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-14T11:51:57.036094"
+  },
+  "2605.13487v1": {
+    "title": "Path-independent Flow Matching for Multi-parameter Generative Dynamics",
+    "arxiv_id": "2605.13487v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-14T11:51:57.036094"
+  },
+  "2605.13438v1": {
+    "title": "Cognifold: Always-On Proactive Memory via Cognitive Folding",
+    "arxiv_id": "2605.13438v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-14T11:51:57.036094"
+  },
+  "2605.13386v1": {
+    "title": "Support-Conditioned Flow Matching Is Kernel Smoothing",
+    "arxiv_id": "2605.13386v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-14T11:51:57.036094"
+  },
+  "2605.13295v1": {
+    "title": "CANTANTE: Optimizing Agentic Systems via Contrastive Credit Attribution",
+    "arxiv_id": "2605.13295v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-14T11:51:57.036094"
+  },
+  "2605.10268": {
+    "title": "MemReread: Enhancing Agentic Long-Context Reasoning via Memory-Guided Rereading",
+    "arxiv_id": "2605.10268",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-14T11:51:57.036094"
+  },
+  "2605.11136": {
+    "title": "EVOCHAMBER: Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales",
+    "arxiv_id": "2605.11136",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-14T11:51:57.036094"
+  },
+  "2605.13724v1": {
+    "title": "AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation",
+    "arxiv_id": "2605.13724v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-14T11:51:57.036094"
   }
 }
