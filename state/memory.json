@@ -1,22 +1,4 @@
 {
-  "2604.12776v1": {
-    "title": "EvoSpark: Endogenous Interactive Agent Societies for Unified Long-Horizon Narrative Evolution",
-    "arxiv_id": "2604.12776v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-15T10:57:51.764181"
-  },
-  "2604.09746": {
-    "title": "CONSCIENTIA: Can LLM Agents Learn to Strategize? Emergent Deception and Trust in a Multi-Agent NYC Simulation",
-    "arxiv_id": "2604.09746",
-    "tier": "must_read",
-    "date_shown": "2026-04-15T10:57:51.764181"
-  },
-  "2604.12617v1": {
-    "title": "SOAR: Self-Correction for Optimal Alignment and Refinement in Diffusion Models",
-    "arxiv_id": "2604.12617v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-15T10:57:51.764181"
-  },
   "2604.13685v1": {
     "title": "EMGFlow: Robust and Efficient Surface Electromyography Synthesis via Flow Matching",
     "arxiv_id": "2604.13685v1",
@@ -1252,5 +1234,53 @@
     "arxiv_id": "2605.13724v1",
     "tier": "worth_noting",
     "date_shown": "2026-05-14T11:51:57.036094"
+  },
+  "2605.14892v1": {
+    "title": "Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems",
+    "arxiv_id": "2605.14892v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-16T11:02:03.756008"
+  },
+  "2605.15155v1": {
+    "title": "Self-Distilled Agentic Reinforcement Learning",
+    "arxiv_id": "2605.15155v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-16T11:02:03.756008"
+  },
+  "2605.15128v1": {
+    "title": "MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory",
+    "arxiv_id": "2605.15128v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-16T11:02:03.756008"
+  },
+  "2605.14723v1": {
+    "title": "Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model",
+    "arxiv_id": "2605.14723v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-16T11:02:03.756008"
+  },
+  "2605.15193": {
+    "title": "Aligning Latent Geometry for Spherical Flow Matching in Image Generation",
+    "arxiv_id": "2605.15193",
+    "tier": "must_read",
+    "date_shown": "2026-05-16T11:02:03.756008"
+  },
+  "2605.13880": {
+    "title": "PREPING: Building Agent Memory without Tasks",
+    "arxiv_id": "2605.13880",
+    "tier": "must_read",
+    "date_shown": "2026-05-16T11:02:03.756008"
+  },
+  "2605.14389": {
+    "title": "Nexus : An Agentic Framework for Time Series Forecasting",
+    "arxiv_id": "2605.14389",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-16T11:02:03.756008"
+  },
+  "2605.15055v1": {
+    "title": "DiffusionOPD: A Unified Perspective of On-Policy Distillation in Diffusion Models",
+    "arxiv_id": "2605.15055v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-16T11:02:03.756008"
   }
 }
