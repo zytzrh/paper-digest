@@ -1,64 +1,4 @@
 {
-  "2604.15078v1": {
-    "title": "Where are the Humans? A Scoping Review of Fairness in Multi-agent AI Systems",
-    "arxiv_id": "2604.15078v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-19T10:37:40.599707"
-  },
-  "2604.15044v1": {
-    "title": "CoGrid & the Multi-User Gymnasium: A Framework for Multi-Agent Experimentation",
-    "arxiv_id": "2604.15044v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-19T10:37:40.599707"
-  },
-  "2604.14989v1": {
-    "title": "Dr.~RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement",
-    "arxiv_id": "2604.14989v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-19T10:37:40.599707"
-  },
-  "2604.14969v1": {
-    "title": "Discovering Novel LLM Experts via Task-Capability Coevolution",
-    "arxiv_id": "2604.14969v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-19T10:37:40.599707"
-  },
-  "2604.14687v1": {
-    "title": "M2-PALE: A Framework for Explaining Multi-Agent MCTS--Minimax Hybrids via Process Mining and LLMs",
-    "arxiv_id": "2604.14687v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-19T10:37:40.599707"
-  },
-  "2604.14683v1": {
-    "title": "DR$^{3}$-Eval: Towards Realistic and Reproducible Deep Research Evaluation",
-    "arxiv_id": "2604.14683v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-19T10:37:40.599707"
-  },
-  "2604.14615v1": {
-    "title": "CoDaS: AI Co-Data-Scientist for Biomarker Discovery via Wearable Sensors",
-    "arxiv_id": "2604.14615v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-19T10:37:40.599707"
-  },
-  "2604.11661": {
-    "title": "Towards Autonomous Mechanistic Reasoning in Virtual Cells",
-    "arxiv_id": "2604.11661",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-19T10:37:40.599707"
-  },
-  "2604.11969": {
-    "title": "Narrative-Driven Paper-to-Slide Generation via ArcDeck",
-    "arxiv_id": "2604.11969",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-19T10:37:40.599707"
-  },
-  "2604.11045": {
-    "title": "Sema Code: Decoupling AI Coding Agents into Programmable, Embeddable Infrastructure",
-    "arxiv_id": "2604.11045",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-19T10:37:40.599707"
-  },
   "2604.15694v1": {
     "title": "Neural Continuous-Time Markov Chain: Discrete Diffusion via Decoupled Jump Timing and Direction",
     "arxiv_id": "2604.15694v1",
@@ -1216,5 +1156,53 @@
     "arxiv_id": "2605.15701v1",
     "tier": "worth_noting",
     "date_shown": "2026-05-18T13:44:16.152268"
+  },
+  "2605.18703v1": {
+    "title": "EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL",
+    "arxiv_id": "2605.18703v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-19T12:38:07.882987"
+  },
+  "2605.18530v1": {
+    "title": "Continuous Diffusion Scales Competitively with Discrete Diffusion for Language",
+    "arxiv_id": "2605.18530v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-19T12:38:07.882987"
+  },
+  "2605.18204v1": {
+    "title": "Forward-Learned Discrete Diffusion: Learning how to noise to denoise faster",
+    "arxiv_id": "2605.18204v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-19T12:38:07.882987"
+  },
+  "2605.18421v1": {
+    "title": "EvoMemBench: Benchmarking Agent Memory from a Self-Evolving Perspective",
+    "arxiv_id": "2605.18421v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-19T12:38:07.882987"
+  },
+  "2605.18253v1": {
+    "title": "Machine Unlearning for Masked Diffusion Language Models",
+    "arxiv_id": "2605.18253v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-19T12:38:07.882987"
+  },
+  "2605.14368": {
+    "title": "Where Should Diffusion Enter a Language Model? Geometry-Guided Hidden-State Replacement",
+    "arxiv_id": "2605.14368",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-19T12:38:07.882987"
+  },
+  "2605.14212": {
+    "title": "MetaAgent-X : Breaking the Ceiling of Automatic Multi-Agent Systems via End-to-End Reinforcement Learning",
+    "arxiv_id": "2605.14212",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-19T12:38:07.882987"
+  },
+  "2605.10302": {
+    "title": "Follow the Mean: Reference-Guided Flow Matching",
+    "arxiv_id": "2605.10302",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-19T12:38:07.882987"
   }
 }
