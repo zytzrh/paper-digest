@@ -1,46 +1,4 @@
 {
-  "2604.15694v1": {
-    "title": "Neural Continuous-Time Markov Chain: Discrete Diffusion via Decoupled Jump Timing and Direction",
-    "arxiv_id": "2604.15694v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-20T11:19:08.872555"
-  },
-  "2604.16022v1": {
-    "title": "SocialGrid: A Benchmark for Planning and Social Reasoning in Embodied Multi-Agent Systems",
-    "arxiv_id": "2604.16022v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-20T11:19:08.872555"
-  },
-  "2604.15972v1": {
-    "title": "Weak-Link Optimization for Multi-Agent Reasoning and Collaboration",
-    "arxiv_id": "2604.15972v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-20T11:19:08.872555"
-  },
-  "2604.15877v1": {
-    "title": "Experience Compression Spectrum: Unifying Memory, Skills, and Rules in LLM Agents",
-    "arxiv_id": "2604.15877v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-20T11:19:08.872555"
-  },
-  "2604.15750v1": {
-    "title": "DepCap: Adaptive Block-Wise Parallel Decoding for Efficient Diffusion LM Inference",
-    "arxiv_id": "2604.15750v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-20T11:19:08.872555"
-  },
-  "2604.13074": {
-    "title": "PersonaVLM: Long-Term Personalized Multimodal LLMs",
-    "arxiv_id": "2604.13074",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-20T11:19:08.872555"
-  },
-  "2604.16044": {
-    "title": "Elucidating the SNR-t Bias of Diffusion Probabilistic Models",
-    "arxiv_id": "2604.16044",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-20T11:19:08.872555"
-  },
   "2604.18471v1": {
     "title": "NI Sampling: Accelerating Discrete Diffusion Sampling by Token Order Optimization",
     "arxiv_id": "2604.18471v1",
@@ -1204,5 +1162,71 @@
     "arxiv_id": "2605.10302",
     "tier": "worth_noting",
     "date_shown": "2026-05-19T12:38:07.882987"
+  },
+  "2605.19470v1": {
+    "title": "Drifting Objectives for Refining Discrete Diffusion Language Models",
+    "arxiv_id": "2605.19470v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-20T12:22:54.372038"
+  },
+  "2605.18703": {
+    "title": "EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL",
+    "arxiv_id": "2605.18703",
+    "tier": "must_read",
+    "date_shown": "2026-05-20T12:22:54.372038"
+  },
+  "2605.20068v1": {
+    "title": "Tail Annealing for Heavy-Tailed Flow Matching",
+    "arxiv_id": "2605.20068v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-20T12:22:54.372038"
+  },
+  "2605.20025v1": {
+    "title": "AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration",
+    "arxiv_id": "2605.20025v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-20T12:22:54.372038"
+  },
+  "2605.19952v1": {
+    "title": "Rethinking How to Remember: Beyond Atomic Facts in Lifelong LLM Agent Memory",
+    "arxiv_id": "2605.19952v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-20T12:22:54.372038"
+  },
+  "2605.19743v1": {
+    "title": "EngiAI: A Multi-Agent Framework and Benchmark Suite for LLM-Driven Engineering Design",
+    "arxiv_id": "2605.19743v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-20T12:22:54.372038"
+  },
+  "2605.18749": {
+    "title": "WavFlow: Audio Generation in Waveform Space",
+    "arxiv_id": "2605.18749",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-20T12:22:54.372038"
+  },
+  "2605.15565": {
+    "title": "AstraFlow: Dataflow-Oriented Reinforcement Learning for Agentic LLMs",
+    "arxiv_id": "2605.15565",
+    "tier": "must_read",
+    "date_shown": "2026-05-20T12:22:54.372038"
+  },
+  "2605.19729v1": {
+    "title": "LIFT and PLACE: A Simple, Stable, and Effective Knowledge Distillation Framework for Lightweight Diffusion Models",
+    "arxiv_id": "2605.19729v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-20T12:22:54.372038"
+  },
+  "2605.19621v1": {
+    "title": "Diffusion Graph Posterior Sampling for Nonlinear Inverse Problems with Application to Electrical Impedance Tomography",
+    "arxiv_id": "2605.19621v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-20T12:22:54.372038"
+  },
+  "2605.15458": {
+    "title": "Video Models Can Reason with Verifiable Rewards",
+    "arxiv_id": "2605.15458",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-20T12:22:54.372038"
   }
 }
