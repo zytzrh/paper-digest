@@ -1222,5 +1222,59 @@
     "arxiv_id": "2605.21489v1",
     "tier": "worth_noting",
     "date_shown": "2026-05-21T12:44:01.438638"
+  },
+  "2605.22765v1": {
+    "title": "Uniform Diffusion Models Revisited: Leave-One-Out Denoiser and Absorbing State Reformulation",
+    "arxiv_id": "2605.22765v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-22T12:16:45.429555"
+  },
+  "2605.22786v1": {
+    "title": "LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems",
+    "arxiv_id": "2605.22786v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-22T12:16:45.429555"
+  },
+  "2605.22748v1": {
+    "title": "Superhuman Safe and Agile Racing through Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2605.22748v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-22T12:16:45.429555"
+  },
+  "2605.22662v1": {
+    "title": "Claw AI Lab: An Autonomous Multi-Agent Research Team",
+    "arxiv_id": "2605.22662v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-22T12:16:45.429555"
+  },
+  "2605.22340v1": {
+    "title": "From Snapshots to Trajectories: Learning Single-Cell Gene Expression Dynamics via Conditional Flow Matching",
+    "arxiv_id": "2605.22340v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-22T12:16:45.429555"
+  },
+  "2605.22144": {
+    "title": "One Sentence, One Drama: Personalized Short-Form Drama Generation via Multi-Agent Systems",
+    "arxiv_id": "2605.22144",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-22T12:16:45.429555"
+  },
+  "2605.21981": {
+    "title": "RiT: Vanilla Diffusion Transformers Suffice in Representation Space",
+    "arxiv_id": "2605.21981",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-22T12:16:45.429555"
+  },
+  "2605.22586v1": {
+    "title": "A Tutorial on Diffusion Theory: From Differential Equations to Diffusion Models",
+    "arxiv_id": "2605.22586v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-22T12:16:45.429555"
+  },
+  "2605.22743v1": {
+    "title": "SeqLoRA: Bilevel Orthogonal Adaptation for Continual Multi-Concept Generation",
+    "arxiv_id": "2605.22743v1",
+    "tier": "trending",
+    "date_shown": "2026-05-22T12:16:45.429555"
   }
 }
