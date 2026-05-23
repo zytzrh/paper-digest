@@ -1,64 +1,4 @@
 {
-  "2604.18518": {
-    "title": "UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models",
-    "arxiv_id": "2604.18518",
-    "tier": "must_read",
-    "date_shown": "2026-04-23T11:07:00.858190"
-  },
-  "2604.20723v1": {
-    "title": "Tokenised Flow Matching for Hierarchical Simulation Based Inference",
-    "arxiv_id": "2604.20723v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-23T11:07:00.858190"
-  },
-  "2604.20714v1": {
-    "title": "Learning to Evolve: A Self-Improving Framework for Multi-Agent Systems via Textual Parameter Graph Optimization",
-    "arxiv_id": "2604.20714v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-23T11:07:00.858190"
-  },
-  "2604.20658v1": {
-    "title": "Cooperative Profiles Predict Multi-Agent LLM Team Performance in AI for Science Workflows",
-    "arxiv_id": "2604.20658v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-23T11:07:00.858190"
-  },
-  "2604.20300v1": {
-    "title": "FSFM: A Biologically-Inspired Framework for Selective Forgetting of Agent Memory",
-    "arxiv_id": "2604.20300v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-23T11:07:00.858190"
-  },
-  "2604.20261v1": {
-    "title": "Memory-Augmented LLM-based Multi-Agent System for Automated Feature Generation on Tabular Data",
-    "arxiv_id": "2604.20261v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-23T11:07:00.858190"
-  },
-  "2604.20133v1": {
-    "title": "EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation",
-    "arxiv_id": "2604.20133v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-23T11:07:00.858190"
-  },
-  "2604.20117v1": {
-    "title": "To Know is to Construct: Schema-Constrained Generation for Agent Memory",
-    "arxiv_id": "2604.20117v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-23T11:07:00.858190"
-  },
-  "2604.20796": {
-    "title": "LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model",
-    "arxiv_id": "2604.20796",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-23T11:07:00.858190"
-  },
-  "2604.20816v1": {
-    "title": "ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control",
-    "arxiv_id": "2604.20816v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-23T11:07:00.858190"
-  },
   "2604.21794v1": {
     "title": "Learning to Communicate: Toward End-to-End Optimization of Multi-Agent Language Systems",
     "arxiv_id": "2604.21794v1",
@@ -1276,5 +1216,41 @@
     "arxiv_id": "2605.22743v1",
     "tier": "trending",
     "date_shown": "2026-05-22T12:16:45.429555"
+  },
+  "hash:aef8dbffccc41410": {
+    "title": "[Blog] Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "arxiv_id": "",
+    "tier": "must_read",
+    "date_shown": "2026-05-23T11:08:36.399624"
+  },
+  "2605.22717v1": {
+    "title": "Live Music Diffusion Models: Efficient Fine-Tuning and Post-Training of Interactive Diffusion Music Generators",
+    "arxiv_id": "2605.22717v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-23T11:08:36.399624"
+  },
+  "2605.22344v1": {
+    "title": "Bernini: Latent Semantic Planning for Video Diffusion",
+    "arxiv_id": "2605.22344v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-23T11:08:36.399624"
+  },
+  "2605.17602": {
+    "title": "AutoRubric-T2I: Robust Rule-Based Reward Model for Text-to-Image Alignment",
+    "arxiv_id": "2605.17602",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-23T11:08:36.399624"
+  },
+  "2605.20910": {
+    "title": "FlowLong: Inference-time Long Video Generation via Manifold-constrained Tweedie Matching",
+    "arxiv_id": "2605.20910",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-23T11:08:36.399624"
+  },
+  "2605.22718": {
+    "title": "WorldKV: Efficient World Memory with World Retrieval and Compression",
+    "arxiv_id": "2605.22718",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-23T11:08:36.399624"
   }
 }
