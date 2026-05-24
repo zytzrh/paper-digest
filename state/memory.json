@@ -1,40 +1,4 @@
 {
-  "2604.21794v1": {
-    "title": "Learning to Communicate: Toward End-to-End Optimization of Multi-Agent Language Systems",
-    "arxiv_id": "2604.21794v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-24T11:05:01.341643"
-  },
-  "2604.21590v1": {
-    "title": "AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use",
-    "arxiv_id": "2604.21590v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-24T11:05:01.341643"
-  },
-  "2604.21571v1": {
-    "title": "Separable Expert Architecture: Toward Privacy-Preserving LLM Personalization via Composable Adapters and Deletable User Proxies",
-    "arxiv_id": "2604.21571v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-24T11:05:01.341643"
-  },
-  "2604.19859": {
-    "title": "DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data",
-    "arxiv_id": "2604.19859",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-24T11:05:01.341643"
-  },
-  "2604.21748v1": {
-    "title": "StructMem: Structured Memory for Long-Horizon Behavior in LLMs",
-    "arxiv_id": "2604.21748v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-24T11:05:01.341643"
-  },
-  "2604.13602": {
-    "title": "Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges",
-    "arxiv_id": "2604.13602",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-24T11:05:01.341643"
-  },
   "2604.21444v1": {
     "title": "HiCrew: Hierarchical Reasoning for Long-Form Video Understanding via Question-Aware Multi-Agent Collaboration",
     "arxiv_id": "2604.21444v1",
@@ -1252,5 +1216,11 @@
     "arxiv_id": "2605.22718",
     "tier": "worth_noting",
     "date_shown": "2026-05-23T11:08:36.399624"
+  },
+  "2605.21072": {
+    "title": "Q-ARVD: Quantizing Autoregressive Video Diffusion Models",
+    "arxiv_id": "2605.21072",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-24T11:14:09.471981"
   }
 }
