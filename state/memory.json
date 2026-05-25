@@ -1,40 +1,4 @@
 {
-  "2604.21444v1": {
-    "title": "HiCrew: Hierarchical Reasoning for Long-Form Video Understanding via Question-Aware Multi-Agent Collaboration",
-    "arxiv_id": "2604.21444v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-25T10:41:31.733389"
-  },
-  "2604.21598v1": {
-    "title": "DryRUN: On the Role of Public Tests in LLM-Driven Code Generation",
-    "arxiv_id": "2604.21598v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-25T10:41:31.733389"
-  },
-  "2604.21464v1": {
-    "title": "Dynamical Priors as a Training Objective in Reinforcement Learning",
-    "arxiv_id": "2604.21464v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-25T10:41:31.733389"
-  },
-  "2604.21446v1": {
-    "title": "AI-Gram: When Visual Agents Interact in a Social Network",
-    "arxiv_id": "2604.21446v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-25T10:41:31.733389"
-  },
-  "2604.21282v1": {
-    "title": "Strategic Heterogeneous Multi-Agent Architecture for Cost-Effective Code Vulnerability Detection",
-    "arxiv_id": "2604.21282v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-25T10:41:31.733389"
-  },
-  "2604.19926": {
-    "title": "CreativeGame:Toward Mechanic-Aware Creative Game Generation",
-    "arxiv_id": "2604.19926",
-    "tier": "must_read",
-    "date_shown": "2026-04-25T10:41:31.733389"
-  },
   "2604.21843v1": {
     "title": "Causality-Encoded Diffusion Models for Interventional Sampling and Edge Inference",
     "arxiv_id": "2604.21843v1",
@@ -1222,5 +1186,59 @@
     "arxiv_id": "2605.21072",
     "tier": "worth_noting",
     "date_shown": "2026-05-24T11:14:09.471981"
+  },
+  "2605.23382v1": {
+    "title": "From Correctness to Preference: A Framework for Personalized Agentic Reinforcement Learning",
+    "arxiv_id": "2605.23382v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-25T13:00:25.624588"
+  },
+  "2605.23605v1": {
+    "title": "DiLaDiff: Distilled Latent-Augmented Diffusion for Language Modeling",
+    "arxiv_id": "2605.23605v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-25T13:00:25.624588"
+  },
+  "2605.23346v1": {
+    "title": "Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion",
+    "arxiv_id": "2605.23346v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-25T13:00:25.624588"
+  },
+  "2605.23723v1": {
+    "title": "MemAudit: Post-hoc Auditing of Poisoned Agent Memory via Causal Attribution and Structural Anomaly Detection",
+    "arxiv_id": "2605.23723v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-25T13:00:25.624588"
+  },
+  "2605.23652v1": {
+    "title": "One Policy, Infinite NPCs: Persona-Traceable Shared RL Policies for Scalable Game Agents",
+    "arxiv_id": "2605.23652v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-25T13:00:25.624588"
+  },
+  "2605.23562v1": {
+    "title": "ARMS: Automatic Reward Shaping for Sparse-Reward Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2605.23562v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-25T13:00:25.624588"
+  },
+  "2605.23522v1": {
+    "title": "Precise: SDE-Consistent Stochastic Sampling for RL Post-Training of Flow-Matching Models",
+    "arxiv_id": "2605.23522v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-25T13:00:25.624588"
+  },
+  "2605.23365v1": {
+    "title": "Score-Based One-step MeanFlow Policy Optimization",
+    "arxiv_id": "2605.23365v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-25T13:00:25.624588"
+  },
+  "2605.23341v1": {
+    "title": "Sparse Compositional Flow Matching by geometric assembly from motion primitives",
+    "arxiv_id": "2605.23341v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-25T13:00:25.624588"
   }
 }
