@@ -1,34 +1,4 @@
 {
-  "2604.23994v1": {
-    "title": "When to Commit? Towards Variable-Size Self-Contained Blocks for Discrete Diffusion Language Models",
-    "arxiv_id": "2604.23994v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-28T11:44:29.739469"
-  },
-  "2604.24698v1": {
-    "title": "The Chameleon's Limit: Investigating Persona Collapse and Homogenization in Large Language Models",
-    "arxiv_id": "2604.24698v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-28T11:44:29.739469"
-  },
-  "2604.24357v1": {
-    "title": "DPRM: A Plug-in Doob h transform-induced Token-Ordering Module for Diffusion Language Models",
-    "arxiv_id": "2604.24357v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-28T11:44:29.739469"
-  },
-  "2604.24104v1": {
-    "title": "Factual and Edit-Sensitive Graph-to-Sequence Generation via Graph-Aware Adaptive Noising",
-    "arxiv_id": "2604.24104v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-28T11:44:29.739469"
-  },
-  "2604.22085": {
-    "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
-    "arxiv_id": "2604.22085",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-28T11:44:29.739469"
-  },
   "2604.25917v1": {
     "title": "Recursive Multi-Agent Systems",
     "arxiv_id": "2604.25917v1",
@@ -1246,5 +1216,41 @@
     "arxiv_id": "2605.27006v1",
     "tier": "worth_noting",
     "date_shown": "2026-05-27T12:51:35.181785"
+  },
+  "2605.28424v1": {
+    "title": "Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning",
+    "arxiv_id": "2605.28424v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-28T13:45:47.888343"
+  },
+  "2605.25969": {
+    "title": "Triplet-Block Diffusion RWKV",
+    "arxiv_id": "2605.25969",
+    "tier": "must_read",
+    "date_shown": "2026-05-28T13:45:47.888343"
+  },
+  "2605.28699v1": {
+    "title": "TRACER: Turn-level Regret Matching with Inner Reinforcement Credit for Cooperative Multi-LLM Reasoning",
+    "arxiv_id": "2605.28699v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-28T13:45:47.888343"
+  },
+  "2605.28625v1": {
+    "title": "Random Process Flow Matching: Generative Implicit Representations of Multivariate Random Fields",
+    "arxiv_id": "2605.28625v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-28T13:45:47.888343"
+  },
+  "2605.27762": {
+    "title": "PEAM: Parametric Embodied Agent Memory through Contrastive Internalization of Experience in Minecraft",
+    "arxiv_id": "2605.27762",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-28T13:45:47.888343"
+  },
+  "2605.28427v1": {
+    "title": "Latent Diffusion for Missing Data",
+    "arxiv_id": "2605.28427v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-28T13:45:47.888343"
   }
 }
