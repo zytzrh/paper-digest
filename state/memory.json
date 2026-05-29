@@ -1,64 +1,4 @@
 {
-  "2604.25917v1": {
-    "title": "Recursive Multi-Agent Systems",
-    "arxiv_id": "2604.25917v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-29T11:27:50.690621"
-  },
-  "2604.24842": {
-    "title": "Co-Director: Agentic Generative Video Storytelling",
-    "arxiv_id": "2604.24842",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-29T11:27:50.690621"
-  },
-  "2604.25849v1": {
-    "title": "ADEMA: A Knowledge-State Orchestration Architecture for Long-Horizon Knowledge Synthesis with LLMAgents",
-    "arxiv_id": "2604.25849v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-29T11:27:50.690621"
-  },
-  "2604.25737v1": {
-    "title": "SAFEdit: Does Multi-Agent Decomposition Resolve the Reliability Challenges of Instructed Code Editing?",
-    "arxiv_id": "2604.25737v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-29T11:27:50.690621"
-  },
-  "2604.25693v1": {
-    "title": "RADD: Retrieval-Augmented Discrete Diffusion for Multi-Modal Knowledge Graph Completion",
-    "arxiv_id": "2604.25693v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-29T11:27:50.690621"
-  },
-  "2604.25172v1": {
-    "title": "Conditional Flow Matching for Probabilistic Downscaling of Maximum 3-day Snowfall in Alaska",
-    "arxiv_id": "2604.25172v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-29T11:27:50.690621"
-  },
-  "2604.22446": {
-    "title": "From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company",
-    "arxiv_id": "2604.22446",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-29T11:27:50.690621"
-  },
-  "2604.19548": {
-    "title": "Taming Actor-Observer Asymmetry in Agents via Dialectical Alignment",
-    "arxiv_id": "2604.19548",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-29T11:27:50.690621"
-  },
-  "2604.25872v1": {
-    "title": "When Errors Can Be Beneficial: A Categorization of Imperfect Rewards for Policy Gradient",
-    "arxiv_id": "2604.25872v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-29T11:27:50.690621"
-  },
-  "2604.25299v1": {
-    "title": "The Thinking Pixel: Recursive Sparse Reasoning in Multimodal Diffusion Latents",
-    "arxiv_id": "2604.25299v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-29T11:27:50.690621"
-  },
   "2604.26841v1": {
     "title": "Language Diffusion Models are Associative Memories Capable of Retrieving Unseen Data",
     "arxiv_id": "2604.26841v1",
@@ -1252,5 +1192,65 @@
     "arxiv_id": "2605.28427v1",
     "tier": "worth_noting",
     "date_shown": "2026-05-28T13:45:47.888343"
+  },
+  "2605.28424": {
+    "title": "Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning",
+    "arxiv_id": "2605.28424",
+    "tier": "must_read",
+    "date_shown": "2026-05-29T12:47:21.323894"
+  },
+  "2605.22765": {
+    "title": "Uniform Diffusion Models Revisited: Leave-One-Out Denoiser and Absorbing State Reformulation",
+    "arxiv_id": "2605.22765",
+    "tier": "must_read",
+    "date_shown": "2026-05-29T12:47:21.323894"
+  },
+  "2605.30227v1": {
+    "title": "Unifying Temporal and Structural Credit Assignment in LLM-Based Multi-Agent Prompt Optimization",
+    "arxiv_id": "2605.30227v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-29T12:47:21.323894"
+  },
+  "2605.30076v1": {
+    "title": "UniSteer: Text-Guided Flow Matching in Activation Space for Versatile LLM Steering",
+    "arxiv_id": "2605.30076v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-29T12:47:21.323894"
+  },
+  "2605.29960v1": {
+    "title": "Hijacking Agent Memory: Stealthy Trojan Attacks Through Conversational Interaction",
+    "arxiv_id": "2605.29960v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-29T12:47:21.323894"
+  },
+  "2605.29920v1": {
+    "title": "Midpoint Generative Models",
+    "arxiv_id": "2605.29920v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-29T12:47:21.323894"
+  },
+  "2605.29341": {
+    "title": "WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction",
+    "arxiv_id": "2605.29341",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-29T12:47:21.323894"
+  },
+  "2605.30323v1": {
+    "title": "In-Context Reward Adaptation for Robust Preference Modeling",
+    "arxiv_id": "2605.30323v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-29T12:47:21.323894"
+  },
+  "2605.30153v1": {
+    "title": "Diffusion Models Are Statistically Optimal for Learning Low-Dimensional Multi-Modal Distributions",
+    "arxiv_id": "2605.30153v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-29T12:47:21.323894"
+  },
+  "2605.30056v1": {
+    "title": "Sample-Efficient Diffusion-based Reinforcement Learning with Critic Guidance",
+    "arxiv_id": "2605.30056v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-29T12:47:21.323894"
   }
 }
