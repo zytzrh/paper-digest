@@ -1,88 +1,4 @@
 {
-  "2604.26841v1": {
-    "title": "Language Diffusion Models are Associative Memories Capable of Retrieving Unseen Data",
-    "arxiv_id": "2604.26841v1",
-    "tier": "must_read",
-    "date_shown": "2026-04-30T11:26:50.134256"
-  },
-  "2604.25917": {
-    "title": "Recursive Multi-Agent Systems",
-    "arxiv_id": "2604.25917",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-30T11:26:50.134256"
-  },
-  "2604.26733v1": {
-    "title": "FutureWorld: A Live Environment for Training Predictive Agents with Real-World Outcome Rewards",
-    "arxiv_id": "2604.26733v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-30T11:26:50.134256"
-  },
-  "2604.26622v1": {
-    "title": "OCR-Memory: Optical Context Retrieval for Long-Horizon Agent Memory",
-    "arxiv_id": "2604.26622v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-30T11:26:50.134256"
-  },
-  "2604.26460v1": {
-    "title": "Theory-Grounded Evaluation Exposes the Authorship Gap in LLM Personalization",
-    "arxiv_id": "2604.26460v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-30T11:26:50.134256"
-  },
-  "2604.26394v1": {
-    "title": "SecMate: Multi-Agent Adaptive Cybersecurity Troubleshooting with Tri-Context Personalization",
-    "arxiv_id": "2604.26394v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-30T11:26:50.134256"
-  },
-  "2604.24351": {
-    "title": "Diffusion Templates: A Unified Plugin Framework for Controllable Diffusion",
-    "arxiv_id": "2604.24351",
-    "tier": "worth_noting",
-    "date_shown": "2026-04-30T11:26:50.134256"
-  },
-  "2604.27859v1": {
-    "title": "Rethinking Agentic Reinforcement Learning In Large Language Models",
-    "arxiv_id": "2604.27859v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-01T11:05:23.864051"
-  },
-  "2604.28181v1": {
-    "title": "Synthetic Computers at Scale for Long-Horizon Productivity Simulation",
-    "arxiv_id": "2604.28181v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-01T11:05:23.864051"
-  },
-  "2604.27882v1": {
-    "title": "Building Persona-Based Agents On Demand: Tailoring Multi-Agent Workflows to User Needs",
-    "arxiv_id": "2604.27882v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-01T11:05:23.864051"
-  },
-  "2604.27616v1": {
-    "title": "RoadMapper: A Multi-Agent System for Roadmap Generation of Solving Complex Research Problems",
-    "arxiv_id": "2604.27616v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-01T11:05:23.864051"
-  },
-  "2604.27351": {
-    "title": "Heterogeneous Scientific Foundation Model Collaboration",
-    "arxiv_id": "2604.27351",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-01T11:05:23.864051"
-  },
-  "2604.27443v1": {
-    "title": "ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space",
-    "arxiv_id": "2604.27443v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-01T11:05:23.864051"
-  },
-  "2604.27505": {
-    "title": "Leveraging Verifier-Based Reinforcement Learning in Image Editing",
-    "arxiv_id": "2604.27505",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-01T11:05:23.864051"
-  },
   "2604.27934v1": {
     "title": "MM-StanceDet: Retrieval-Augmented Multi-modal Multi-agent Stance Detection",
     "arxiv_id": "2604.27934v1",
@@ -1252,5 +1168,71 @@
     "arxiv_id": "2605.30056v1",
     "tier": "worth_noting",
     "date_shown": "2026-05-29T12:47:21.323894"
+  },
+  "2605.30160v1": {
+    "title": "On Distributional Reinforcement Learning in Chaotic Dynamical Systems",
+    "arxiv_id": "2605.30160v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-31T11:41:41.923982"
+  },
+  "2605.30136v1": {
+    "title": "Enhancing Multi-Agent Communication through Attention Steering with Context Relevance",
+    "arxiv_id": "2605.30136v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-31T11:41:41.923982"
+  },
+  "2605.30003v1": {
+    "title": "Discovering Cooperative Pipelines: Autoresearch for Sequential Social Dilemmas",
+    "arxiv_id": "2605.30003v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-31T11:41:41.923982"
+  },
+  "2605.29874v1": {
+    "title": "Evolutionary Dynamics of Cooperation in Next-Generation LLM Agent Systems: A Cross-Provider Empirical Extension",
+    "arxiv_id": "2605.29874v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-31T11:41:41.923982"
+  },
+  "2605.30038v1": {
+    "title": "Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models",
+    "arxiv_id": "2605.30038v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-31T11:41:41.923982"
+  },
+  "2605.30330v1": {
+    "title": "When, why, and how do diffusion posterior samplers fail? A finite-sample lens",
+    "arxiv_id": "2605.30330v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-31T11:41:41.923982"
+  },
+  "2605.30116v1": {
+    "title": "SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation",
+    "arxiv_id": "2605.30116v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-31T11:41:41.923982"
+  },
+  "2605.30046v1": {
+    "title": "Masked Diffusion Modeling for Anomaly Detection",
+    "arxiv_id": "2605.30046v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-31T11:41:41.923982"
+  },
+  "2605.29937v1": {
+    "title": "Fisher-Preserving Guidance: Training-Free Manifold Constraints for Safe Diffusion Control",
+    "arxiv_id": "2605.29937v1",
+    "tier": "must_read",
+    "date_shown": "2026-05-31T11:41:41.923982"
+  },
+  "2605.30332": {
+    "title": "Colored Noise Diffusion Sampling",
+    "arxiv_id": "2605.30332",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-31T11:41:41.923982"
+  },
+  "2605.30349": {
+    "title": "AdaState: Self-Evolving Anchors for Streaming Video Generation",
+    "arxiv_id": "2605.30349",
+    "tier": "worth_noting",
+    "date_shown": "2026-05-31T11:41:41.923982"
   }
 }
