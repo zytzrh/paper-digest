@@ -1,52 +1,4 @@
 {
-  "2604.27934v1": {
-    "title": "MM-StanceDet: Retrieval-Augmented Multi-modal Multi-agent Stance Detection",
-    "arxiv_id": "2604.27934v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-02T10:49:58.302283"
-  },
-  "2604.27776v1": {
-    "title": "WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments",
-    "arxiv_id": "2604.27776v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-02T10:49:58.302283"
-  },
-  "2604.27691v1": {
-    "title": "When Agents Evolve, Institutions Follow",
-    "arxiv_id": "2604.27691v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-02T10:49:58.302283"
-  },
-  "2604.27586v1": {
-    "title": "Trace-Level Analysis of Information Contamination in Multi-Agent Systems",
-    "arxiv_id": "2604.27586v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-02T10:49:58.302283"
-  },
-  "2604.28185": {
-    "title": "Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling",
-    "arxiv_id": "2604.28185",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-02T10:49:58.302283"
-  },
-  "2604.28010v1": {
-    "title": "Learning from Disagreement: Clinician Overrides as Implicit Preference Signals for Clinical AI in Value-Based Care",
-    "arxiv_id": "2604.28010v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-02T10:49:58.302283"
-  },
-  "2604.27462v1": {
-    "title": "Improving Graph Few-shot Learning with Hyperbolic Space and Denoising Diffusion",
-    "arxiv_id": "2604.27462v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-02T10:49:58.302283"
-  },
-  "2604.26694": {
-    "title": "Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising",
-    "arxiv_id": "2604.26694",
-    "tier": "must_read",
-    "date_shown": "2026-05-02T10:49:58.302283"
-  },
   "2604.27942v1": {
     "title": "A Collective Variational Principle Unifying Bayesian Inference, Game Theory, and Thermodynamics",
     "arxiv_id": "2604.27942v1",
@@ -1234,5 +1186,41 @@
     "arxiv_id": "2605.30349",
     "tier": "worth_noting",
     "date_shown": "2026-05-31T11:41:41.923982"
+  },
+  "2605.31564v1": {
+    "title": "What Gets Unmasked First? Trajectory Analysis of Diffusion Models for Graph-to-Text Generation",
+    "arxiv_id": "2605.31564v1",
+    "tier": "must_read",
+    "date_shown": "2026-06-01T15:55:14.204133"
+  },
+  "2605.31509v1": {
+    "title": "Skill Reuse as Compression in Agentic RL",
+    "arxiv_id": "2605.31509v1",
+    "tier": "must_read",
+    "date_shown": "2026-06-01T15:55:14.204133"
+  },
+  "2605.31468v1": {
+    "title": "AutoSci: A Memory-Centric Agentic System for the Full Scientific Research Lifecycle",
+    "arxiv_id": "2605.31468v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-01T15:55:14.204133"
+  },
+  "2605.31361v1": {
+    "title": "Dreaming Of Others: Latent Teammate Modeling In World Models For Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2605.31361v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-01T15:55:14.204133"
+  },
+  "2605.28181": {
+    "title": "When Confidence Misleads: Suffix Anchoring and Anchor-Proximity Confidence Modulation for Diffusion Language Models",
+    "arxiv_id": "2605.28181",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-01T15:55:14.204133"
+  },
+  "2605.29398": {
+    "title": "GDSD: Reinforcement Learning as Guided Denoiser Self-Distillation for Diffusion Language Models",
+    "arxiv_id": "2605.29398",
+    "tier": "must_read",
+    "date_shown": "2026-06-01T15:55:14.204133"
   }
 }
