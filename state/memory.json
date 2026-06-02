@@ -1,16 +1,4 @@
 {
-  "2604.27942v1": {
-    "title": "A Collective Variational Principle Unifying Bayesian Inference, Game Theory, and Thermodynamics",
-    "arxiv_id": "2604.27942v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-03T10:52:44.359508"
-  },
-  "2604.27660v1": {
-    "title": "From Context to Skills: Can Language Models Learn from Context Skillfully?",
-    "arxiv_id": "2604.27660v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-03T10:52:44.359508"
-  },
   "2605.00360v1": {
     "title": "Binomial flows: Denoising and flow matching for discrete ordinal data",
     "arxiv_id": "2605.00360v1",
@@ -1222,5 +1210,77 @@
     "arxiv_id": "2605.29398",
     "tier": "must_read",
     "date_shown": "2026-06-01T15:55:14.204133"
+  },
+  "2606.02241v1": {
+    "title": "BlockGen: Flexible Blockwise Sequence Modeling with Hybrid Samplers",
+    "arxiv_id": "2606.02241v1",
+    "tier": "must_read",
+    "date_shown": "2026-06-02T14:00:54.917170"
+  },
+  "2606.02544v1": {
+    "title": "SimSD: Simple Speculative Decoding in Diffusion Language Models",
+    "arxiv_id": "2606.02544v1",
+    "tier": "must_read",
+    "date_shown": "2026-06-02T14:00:54.917170"
+  },
+  "2606.02359v1": {
+    "title": "MOC: Multi-Order Communication in LLM-based Multi-Agent Systems",
+    "arxiv_id": "2606.02359v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-02T14:00:54.917170"
+  },
+  "2606.02337v1": {
+    "title": "Coordination Graphs for Constrained Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2606.02337v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-02T14:00:54.917170"
+  },
+  "2606.02300v1": {
+    "title": "Beyond Isolated Behaviors: Hierarchical User Modeling for LLM Personalization",
+    "arxiv_id": "2606.02300v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-02T14:00:54.917170"
+  },
+  "2606.02282v1": {
+    "title": "POIROT: Interrogating Agents for Failure Detection in Multi-Agent Systems",
+    "arxiv_id": "2606.02282v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-02T14:00:54.917170"
+  },
+  "2606.02177v1": {
+    "title": "Low-Pass Flow Matching",
+    "arxiv_id": "2606.02177v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-02T14:00:54.917170"
+  },
+  "2606.02132v1": {
+    "title": "Learning When Not to Act: Mitigating Tool Abuse in Agentic Reinforcement Learning",
+    "arxiv_id": "2606.02132v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-02T14:00:54.917170"
+  },
+  "2606.01528": {
+    "title": "Joint Agent Memory and Exploration Learning via Novelty Signals",
+    "arxiv_id": "2606.01528",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-02T14:00:54.917170"
+  },
+  "2606.01533": {
+    "title": "Multi-Agent Computer Use",
+    "arxiv_id": "2606.01533",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-02T14:00:54.917170"
+  },
+  "2605.24202": {
+    "title": "When Does Multi-Agent RL Improve LLM Workflows? Workflow, Scale, and Policy-Sharing Tradeoffs",
+    "arxiv_id": "2605.24202",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-02T14:00:54.917170"
+  },
+  "2606.02133v1": {
+    "title": "Variational Learning for Insertion-based Generation",
+    "arxiv_id": "2606.02133v1",
+    "tier": "must_read",
+    "date_shown": "2026-06-02T14:00:54.917170"
   }
 }
