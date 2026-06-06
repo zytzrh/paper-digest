@@ -1,76 +1,4 @@
 {
-  "2605.03804v1": {
-    "title": "ScrapMem: A Bio-inspired Framework for On-device Personalized Agent Memory via Optical Forgetting",
-    "arxiv_id": "2605.03804v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-06T11:47:47.856335"
-  },
-  "2605.03984v1": {
-    "title": "Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Conditional Processes",
-    "arxiv_id": "2605.03984v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-06T11:47:47.856335"
-  },
-  "2605.03042": {
-    "title": "ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration",
-    "arxiv_id": "2605.03042",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-06T11:47:47.856335"
-  },
-  "2605.03986v1": {
-    "title": "From Intent to Execution: Composing Agentic Workflows with Agent Recommendation",
-    "arxiv_id": "2605.03986v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-06T11:47:47.856335"
-  },
-  "2605.03884v1": {
-    "title": "QKVShare: Quantized KV-Cache Handoff for Multi-Agent On-Device LLMs",
-    "arxiv_id": "2605.03884v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-06T11:47:47.856335"
-  },
-  "2605.03588v1": {
-    "title": "Flow Matching on Symmetric Spaces",
-    "arxiv_id": "2605.03588v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-06T11:47:47.856335"
-  },
-  "2605.03476v1": {
-    "title": "CuraView: A Multi-Agent Framework for Medical Hallucination Detection with GraphRAG-Enhanced Knowledge Verification",
-    "arxiv_id": "2605.03476v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-06T11:47:47.856335"
-  },
-  "2605.03354v1": {
-    "title": "What Happens Inside Agent Memory? Circuit Analysis from Emergence to Diagnosis",
-    "arxiv_id": "2605.03354v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-06T11:47:47.856335"
-  },
-  "2605.02801": {
-    "title": "Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces",
-    "arxiv_id": "2605.02801",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-06T11:47:47.856335"
-  },
-  "2605.02943": {
-    "title": "Healthcare AI GYM for Medical Agents",
-    "arxiv_id": "2605.02943",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-06T11:47:47.856335"
-  },
-  "2605.03877v1": {
-    "title": "DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models",
-    "arxiv_id": "2605.03877v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-06T11:47:47.856335"
-  },
-  "2605.03317v1": {
-    "title": "AHPA: Adaptive Hierarchical Prior Alignment for Diffusion Transformers",
-    "arxiv_id": "2605.03317v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-06T11:47:47.856335"
-  },
   "2605.05112v1": {
     "title": "Rollout Pass-Rate Control: Steering Binary-Reward RL Toward Its Most Informative Regime",
     "arxiv_id": "2605.05112v1",
@@ -1246,5 +1174,77 @@
     "arxiv_id": "2606.04555v1",
     "tier": "worth_noting",
     "date_shown": "2026-06-04T12:43:41.911626"
+  },
+  "2606.06474v1": {
+    "title": "Self-Augmenting Retrieval for Diffusion Language Models",
+    "arxiv_id": "2606.06474v1",
+    "tier": "must_read",
+    "date_shown": "2026-06-06T11:24:47.825672"
+  },
+  "2606.06303v1": {
+    "title": "Plug-and-Play Guidance for Discrete Diffusion Models via Gradient-Informed Logit Correction",
+    "arxiv_id": "2606.06303v1",
+    "tier": "must_read",
+    "date_shown": "2026-06-06T11:24:47.825672"
+  },
+  "2606.06448v1": {
+    "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
+    "arxiv_id": "2606.06448v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-06T11:24:47.825672"
+  },
+  "2606.06399v1": {
+    "title": "CollabSim: A CSCW-Grounded Methodology for Investigating Collaborative Competence of LLM Agents through Controlled Multi-Agent Experiments",
+    "arxiv_id": "2606.06399v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-06T11:24:47.825672"
+  },
+  "2606.06295v1": {
+    "title": "Reactive Flux Matching: Mechanism Discovery and Adaptive Sampling of Rare Events",
+    "arxiv_id": "2606.06295v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-06T11:24:47.825672"
+  },
+  "2606.06273v1": {
+    "title": "Adapting Diffusion Language Models for Lossless Pixel-Level Image Transmission",
+    "arxiv_id": "2606.06273v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-06T11:24:47.825672"
+  },
+  "2606.06090v1": {
+    "title": "Beyond Semantic Organization: Memory as Execution State Management for Long-Horizon Agents",
+    "arxiv_id": "2606.06090v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-06T11:24:47.825672"
+  },
+  "2606.06031v1": {
+    "title": "NAVIRA: Decoupled Stochastic Remasking for Masked Diffusion Language Models",
+    "arxiv_id": "2606.06031v1",
+    "tier": "must_read",
+    "date_shown": "2026-06-06T11:24:47.825672"
+  },
+  "2606.06011v1": {
+    "title": "Merging model-based control with multi-agent reinforcement learning for multi-agent cooperative teaming strategies",
+    "arxiv_id": "2606.06011v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-06T11:24:47.825672"
+  },
+  "2606.06179v1": {
+    "title": "Diffusion Models Observe Only Gradients: A Geometric Perspective on Score Matching Errors",
+    "arxiv_id": "2606.06179v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-06T11:24:47.825672"
+  },
+  "2606.06388v1": {
+    "title": "Humans' ALMANAC: A Human Collaboration Dataset of Action-Level Mental Model Annotations for Agent Collaboration",
+    "arxiv_id": "2606.06388v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-06T11:24:47.825672"
+  },
+  "2606.06007v1": {
+    "title": "Diffusion Models for Adaptive Sequential Data Generation",
+    "arxiv_id": "2606.06007v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-06T11:24:47.825672"
   }
 }
