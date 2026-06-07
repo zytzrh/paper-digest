@@ -1,136 +1,4 @@
 {
-  "2605.05112v1": {
-    "title": "Rollout Pass-Rate Control: Steering Binary-Reward RL Toward Its Most Informative Regime",
-    "arxiv_id": "2605.05112v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-07T11:46:18.415925"
-  },
-  "2605.05054v1": {
-    "title": "Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation",
-    "arxiv_id": "2605.05054v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-07T11:46:18.415925"
-  },
-  "2605.05020v1": {
-    "title": "Graph-SND: Sparse Aggregation for Behavioral Diversity in Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2605.05020v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-07T11:46:18.415925"
-  },
-  "2605.05007v1": {
-    "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Delegation",
-    "arxiv_id": "2605.05007v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-07T11:46:18.415925"
-  },
-  "2605.04939v1": {
-    "title": "Modular Reinforcement Learning For Cooperative Swarms",
-    "arxiv_id": "2605.04939v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-07T11:46:18.415925"
-  },
-  "2605.04922v1": {
-    "title": "Evolving Idea Graphs with Learnable Edits-and-Commits for Multi-Agent Scientific Ideation",
-    "arxiv_id": "2605.04922v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-07T11:46:18.415925"
-  },
-  "2605.04906v1": {
-    "title": "Strat-Reasoner: Reinforcing Strategic Reasoning of LLMs in Multi-Agent Games",
-    "arxiv_id": "2605.04906v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-07T11:46:18.415925"
-  },
-  "2605.04897v1": {
-    "title": "Storage Is Not Memory: A Retrieval-Centered Architecture for Agent Recall",
-    "arxiv_id": "2605.04897v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-07T11:46:18.415925"
-  },
-  "2605.04830v1": {
-    "title": "Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models",
-    "arxiv_id": "2605.04830v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-07T11:46:18.415925"
-  },
-  "2605.04590v1": {
-    "title": "From Diffusion to Rectified Flow: Rethinking Text-Based Segmentation",
-    "arxiv_id": "2605.04590v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-07T11:46:18.415925"
-  },
-  "2605.05204": {
-    "title": "D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models",
-    "arxiv_id": "2605.05204",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-07T11:46:18.415925"
-  },
-  "2605.06642v1": {
-    "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
-    "arxiv_id": "2605.06642v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-08T11:12:44.267517"
-  },
-  "2605.06623v1": {
-    "title": "MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems",
-    "arxiv_id": "2605.06623v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-08T11:12:44.267517"
-  },
-  "2605.06548v1": {
-    "title": "Continuous Latent Diffusion Language Model",
-    "arxiv_id": "2605.06548v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-08T11:12:44.267517"
-  },
-  "2605.06421v1": {
-    "title": "FREPix: Frequency-Heterogeneous Flow Matching for Pixel-Space Image Generation",
-    "arxiv_id": "2605.06421v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-08T11:12:44.267517"
-  },
-  "2605.06366v1": {
-    "title": "Layer Collapse in Diffusion Language Models",
-    "arxiv_id": "2605.06366v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-08T11:12:44.267517"
-  },
-  "2605.06364v1": {
-    "title": "Flow Matching with Arbitrary Auxiliary Paths",
-    "arxiv_id": "2605.06364v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-08T11:12:44.267517"
-  },
-  "2605.06272v1": {
-    "title": "A Flow Matching Algorithm for Many-Shot Adaptation to Unseen Distributions",
-    "arxiv_id": "2605.06272v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-08T11:12:44.267517"
-  },
-  "2605.06507v1": {
-    "title": "MARBLE: Multi-Aspect Reward Balance for Diffusion RL",
-    "arxiv_id": "2605.06507v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-08T11:12:44.267517"
-  },
-  "2605.06376v1": {
-    "title": "Continuous-Time Distribution Matching for Few-Step Diffusion Distillation",
-    "arxiv_id": "2605.06376v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-08T11:12:44.267517"
-  },
-  "2605.00623": {
-    "title": "Recovering Hidden Reward in Diffusion-Based Policies",
-    "arxiv_id": "2605.00623",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-08T11:12:44.267517"
-  },
-  "2605.03849": {
-    "title": "Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation",
-    "arxiv_id": "2605.03849",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-08T11:12:44.267517"
-  },
   "2605.06553v1": {
     "title": "Diverse Sampling in Diffusion Models with Marginal Preserving Particle Guidance",
     "arxiv_id": "2605.06553v1",
@@ -1246,5 +1114,29 @@
     "arxiv_id": "2606.06007v1",
     "tier": "worth_noting",
     "date_shown": "2026-06-06T11:24:47.825672"
+  },
+  "2606.03841": {
+    "title": "EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management",
+    "arxiv_id": "2606.03841",
+    "tier": "must_read",
+    "date_shown": "2026-06-07T11:46:25.284663"
+  },
+  "2606.06227v1": {
+    "title": "Drag reduction or reward hacking? Recurrent multi-agent reinforcement learning that earns its reward",
+    "arxiv_id": "2606.06227v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-07T11:46:25.284663"
+  },
+  "2606.05950v1": {
+    "title": "Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing",
+    "arxiv_id": "2606.05950v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-07T11:46:25.284663"
+  },
+  "2606.05275": {
+    "title": "Personal AI Agent for Camera Roll VQA",
+    "arxiv_id": "2606.05275",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-07T11:46:25.284663"
   }
 }
