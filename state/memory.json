@@ -1,40 +1,4 @@
 {
-  "2605.06553v1": {
-    "title": "Diverse Sampling in Diffusion Models with Marginal Preserving Particle Guidance",
-    "arxiv_id": "2605.06553v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-09T10:56:06.283496"
-  },
-  "2605.06595v1": {
-    "title": "Cross-Modal Navigation with Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2605.06595v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-09T10:56:06.283496"
-  },
-  "2605.06557v1": {
-    "title": "Coordination Matters: Evaluation of Cooperative Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2605.06557v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-09T10:56:06.283496"
-  },
-  "2605.06457v1": {
-    "title": "Beyond Task Success: Measuring Workflow Fidelity in LLM-Based Agentic Payment Systems",
-    "arxiv_id": "2605.06457v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-09T10:56:06.283496"
-  },
-  "2605.06367v1": {
-    "title": "The Interplay of Data Structure and Imbalance in the Learning Dynamics of Diffusion Models",
-    "arxiv_id": "2605.06367v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-09T10:56:06.283496"
-  },
-  "2604.24575": {
-    "title": "Diffusion Model as a Generalist Segmentation Learner",
-    "arxiv_id": "2604.24575",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-09T10:56:06.283496"
-  },
   "2605.06377v1": {
     "title": "Independent Learning of Nash Equilibria in Partially Observable Markov Potential Games with Decoupled Dynamics",
     "arxiv_id": "2605.06377v1",
@@ -1138,5 +1102,35 @@
     "arxiv_id": "2606.05275",
     "tier": "worth_noting",
     "date_shown": "2026-06-07T11:46:25.284663"
+  },
+  "2606.07036v1": {
+    "title": "STREAM: Stochastic Riemannian Flow Matching with Anisotropic Decoder for Digital Histopathology Image Generation",
+    "arxiv_id": "2606.07036v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-08T14:04:22.388105"
+  },
+  "2606.07513v1": {
+    "title": "Agentopia: Long-Term Life Simulation and Learning in Agent Societies",
+    "arxiv_id": "2606.07513v1",
+    "tier": "must_read",
+    "date_shown": "2026-06-08T14:04:22.388105"
+  },
+  "2606.07299v1": {
+    "title": "DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning",
+    "arxiv_id": "2606.07299v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-08T14:04:22.388105"
+  },
+  "hash:097ca3f263e0f57b": {
+    "title": "[Blog] The Open Source Community is backing OpenEnv for Agentic RL",
+    "arxiv_id": "",
+    "tier": "must_read",
+    "date_shown": "2026-06-08T14:04:22.388105"
+  },
+  "2606.07316v1": {
+    "title": "Hierarchical Certified Semantic Commitment for Byzantine-Resilient LLM-Agent Collaboration",
+    "arxiv_id": "2606.07316v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-08T14:04:22.388105"
   }
 }
