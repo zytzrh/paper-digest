@@ -1,16 +1,4 @@
 {
-  "2605.06377v1": {
-    "title": "Independent Learning of Nash Equilibria in Partially Observable Markov Potential Games with Decoupled Dynamics",
-    "arxiv_id": "2605.06377v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-10T10:58:47.131925"
-  },
-  "2605.06388v1": {
-    "title": "Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models",
-    "arxiv_id": "2605.06388v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-10T10:58:47.131925"
-  },
   "2605.07933v1": {
     "title": "How to Train Your Latent Diffusion Language Model Jointly With the Latent Space",
     "arxiv_id": "2605.07933v1",
@@ -1132,5 +1120,41 @@
     "arxiv_id": "2606.07316v1",
     "tier": "worth_noting",
     "date_shown": "2026-06-08T14:04:22.388105"
+  },
+  "2606.09751v1": {
+    "title": "Collaborative Human-Agent Protocol (CHAP)",
+    "arxiv_id": "2606.09751v1",
+    "tier": "must_read",
+    "date_shown": "2026-06-09T12:35:16.276098"
+  },
+  "2606.09800v1": {
+    "title": "FASE: Fast Adaptive Semantic Entropy for Code Quality",
+    "arxiv_id": "2606.09800v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-09T12:35:16.276098"
+  },
+  "2606.09610v1": {
+    "title": "Shape Formation for the Cooperative Transportation of Arbitrary Objects Using Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2606.09610v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-09T12:35:16.276098"
+  },
+  "2606.09483v1": {
+    "title": "Memory Beyond Recall: A Dual-Process Cognitive Memory System for Self-Evolving LLM Agents",
+    "arxiv_id": "2606.09483v1",
+    "tier": "must_read",
+    "date_shown": "2026-06-09T12:35:16.276098"
+  },
+  "2606.09198v1": {
+    "title": "MASS: Deep Research for Social Sciences with Memory-Augmented Social Simulation",
+    "arxiv_id": "2606.09198v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-09T12:35:16.276098"
+  },
+  "2606.09816v1": {
+    "title": "PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws",
+    "arxiv_id": "2606.09816v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-09T12:35:16.276098"
   }
 }
