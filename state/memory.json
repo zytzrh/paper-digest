@@ -1120,5 +1120,59 @@
     "arxiv_id": "2606.10662",
     "tier": "worth_noting",
     "date_shown": "2026-06-11T13:58:14.326112"
+  },
+  "2606.13565v1": {
+    "title": "A2D2: Fine-Tuning Any-Length Discrete Diffusion for Adaptive Decoding",
+    "arxiv_id": "2606.13565v1",
+    "tier": "must_read",
+    "date_shown": "2026-06-12T12:53:40.830681"
+  },
+  "2606.13604v1": {
+    "title": "Multi-Agent Reinforcement Learning from Delayed Marketplace Feedback for Objective-Weight Adaptation in Three-Sided Dispatch",
+    "arxiv_id": "2606.13604v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-12T12:53:40.830681"
+  },
+  "2606.13598v1": {
+    "title": "Reward Modeling for Multi-Agent Orchestration",
+    "arxiv_id": "2606.13598v1",
+    "tier": "must_read",
+    "date_shown": "2026-06-12T12:53:40.830681"
+  },
+  "2606.13400v1": {
+    "title": "PolyFlow: Safe and Efficient Polytope-Constrained Flow Matching with Constraint Embedding and Projection-free Update",
+    "arxiv_id": "2606.13400v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-12T12:53:40.830681"
+  },
+  "2606.13262v1": {
+    "title": "From Verdict to Process: Agentic Reinforcement Learning for Multi-Stage Fact Verification",
+    "arxiv_id": "2606.13262v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-12T12:53:40.830681"
+  },
+  "2606.13197v1": {
+    "title": "ARMOR-MAD: Adaptive Routing for Heterogeneous Multi-Agent Debate in Large Language Model Reasoning",
+    "arxiv_id": "2606.13197v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-12T12:53:40.830681"
+  },
+  "2606.13177v1": {
+    "title": "MemRefine: LLM-Guided Compression for Long-Term Agent Memory",
+    "arxiv_id": "2606.13177v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-12T12:53:40.830681"
+  },
+  "2606.13679": {
+    "title": "InterleaveThinker: Reinforcing Agentic Interleaved Generation",
+    "arxiv_id": "2606.13679",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-12T12:53:40.830681"
+  },
+  "2606.13662v1": {
+    "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
+    "arxiv_id": "2606.13662v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-12T12:53:40.830681"
   }
 }
