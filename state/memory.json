@@ -1,82 +1,4 @@
 {
-  "2605.13296v1": {
-    "title": "Discrete Diffusion for Complex and Congested Multi-Agent Path Finding with Sparse Social Attention",
-    "arxiv_id": "2605.13296v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-14T11:51:57.036094"
-  },
-  "2605.12004": {
-    "title": "Learning Agentic Policy from Action Guidance",
-    "arxiv_id": "2605.12004",
-    "tier": "must_read",
-    "date_shown": "2026-05-14T11:51:57.036094"
-  },
-  "2605.13725v1": {
-    "title": "ScioMind: Cognitively Grounded Multi-Agent Social Simulation with Anchoring-Based Belief Dynamics and Dynamic Profiles",
-    "arxiv_id": "2605.13725v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-14T11:51:57.036094"
-  },
-  "2605.13681v1": {
-    "title": "Sampling from Flow Language Models via Marginal-Conditioned Bridges",
-    "arxiv_id": "2605.13681v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-14T11:51:57.036094"
-  },
-  "2605.12825": {
-    "title": "Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion",
-    "arxiv_id": "2605.12825",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-14T11:51:57.036094"
-  },
-  "2605.13839v1": {
-    "title": "Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights",
-    "arxiv_id": "2605.13839v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-14T11:51:57.036094"
-  },
-  "2605.13487v1": {
-    "title": "Path-independent Flow Matching for Multi-parameter Generative Dynamics",
-    "arxiv_id": "2605.13487v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-14T11:51:57.036094"
-  },
-  "2605.13438v1": {
-    "title": "Cognifold: Always-On Proactive Memory via Cognitive Folding",
-    "arxiv_id": "2605.13438v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-14T11:51:57.036094"
-  },
-  "2605.13386v1": {
-    "title": "Support-Conditioned Flow Matching Is Kernel Smoothing",
-    "arxiv_id": "2605.13386v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-14T11:51:57.036094"
-  },
-  "2605.13295v1": {
-    "title": "CANTANTE: Optimizing Agentic Systems via Contrastive Credit Attribution",
-    "arxiv_id": "2605.13295v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-14T11:51:57.036094"
-  },
-  "2605.10268": {
-    "title": "MemReread: Enhancing Agentic Long-Context Reasoning via Memory-Guided Rereading",
-    "arxiv_id": "2605.10268",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-14T11:51:57.036094"
-  },
-  "2605.11136": {
-    "title": "EVOCHAMBER: Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales",
-    "arxiv_id": "2605.11136",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-14T11:51:57.036094"
-  },
-  "2605.13724v1": {
-    "title": "AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation",
-    "arxiv_id": "2605.13724v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-14T11:51:57.036094"
-  },
   "2605.14892v1": {
     "title": "Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems",
     "arxiv_id": "2605.14892v1",
@@ -1174,5 +1096,53 @@
     "arxiv_id": "2606.13662v1",
     "tier": "worth_noting",
     "date_shown": "2026-06-12T12:53:40.830681"
+  },
+  "2606.13076v1": {
+    "title": "$α$-fair heterogeneous agent reinforcement learning",
+    "arxiv_id": "2606.13076v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-13T11:53:28.444225"
+  },
+  "2606.12282": {
+    "title": "PianoKontext: Expressive Performance Rendering from Deadpan Context",
+    "arxiv_id": "2606.12282",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-13T11:53:28.444225"
+  },
+  "2606.13426v1": {
+    "title": "Accelerating Speculative Diffusions via Block Verification",
+    "arxiv_id": "2606.13426v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-13T11:53:28.444225"
+  },
+  "2606.13347v1": {
+    "title": "Enhanced Low-Density Region Exploration in Classifier-Guided Diffusion Models Through Modified Reverse Diffusion Sampling",
+    "arxiv_id": "2606.13347v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-13T11:53:28.444225"
+  },
+  "2606.13240v1": {
+    "title": "Towards More General Control of Diffusion Models Using Jeffrey Guidance",
+    "arxiv_id": "2606.13240v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-13T11:53:28.444225"
+  },
+  "2606.13191v1": {
+    "title": "The Geometry of Phase Transitions in Generative Dynamics via Projection Caustics",
+    "arxiv_id": "2606.13191v1",
+    "tier": "must_read",
+    "date_shown": "2026-06-13T11:53:28.444225"
+  },
+  "2606.13142v1": {
+    "title": "HyPE: Category-Aware Hypergraph Encoding with Persistent Edge Embeddings for Persona-Grounded Dialogue",
+    "arxiv_id": "2606.13142v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-13T11:53:28.444225"
+  },
+  "2606.13035v1": {
+    "title": "TetherCache: Stabilizing Autoregressive Long-Form Video Generation with Gated Recall and Trusted Alignment",
+    "arxiv_id": "2606.13035v1",
+    "tier": "must_read",
+    "date_shown": "2026-06-13T11:53:28.444225"
   }
 }
