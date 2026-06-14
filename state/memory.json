@@ -1144,5 +1144,29 @@
     "arxiv_id": "2606.13035v1",
     "tier": "must_read",
     "date_shown": "2026-06-13T11:53:28.444225"
+  },
+  "2606.13608v1": {
+    "title": "AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility",
+    "arxiv_id": "2606.13608v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-14T11:54:54.474603"
+  },
+  "2606.13572v1": {
+    "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages",
+    "arxiv_id": "2606.13572v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-14T11:54:54.474603"
+  },
+  "2606.13594": {
+    "title": "See What I See, Know What I Think: Dense Latent Communication Across Heterogeneous Agents",
+    "arxiv_id": "2606.13594",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-14T11:54:54.474603"
+  },
+  "2606.09290": {
+    "title": "Visual Para-Thinker++: A Single-Policy Multi-Agent Framework for Visual Reasoning",
+    "arxiv_id": "2606.09290",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-14T11:54:54.474603"
   }
 }
