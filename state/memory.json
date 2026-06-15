@@ -1,52 +1,4 @@
 {
-  "2605.14892v1": {
-    "title": "Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems",
-    "arxiv_id": "2605.14892v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-16T11:02:03.756008"
-  },
-  "2605.15155v1": {
-    "title": "Self-Distilled Agentic Reinforcement Learning",
-    "arxiv_id": "2605.15155v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-16T11:02:03.756008"
-  },
-  "2605.15128v1": {
-    "title": "MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory",
-    "arxiv_id": "2605.15128v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-16T11:02:03.756008"
-  },
-  "2605.14723v1": {
-    "title": "Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model",
-    "arxiv_id": "2605.14723v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-16T11:02:03.756008"
-  },
-  "2605.15193": {
-    "title": "Aligning Latent Geometry for Spherical Flow Matching in Image Generation",
-    "arxiv_id": "2605.15193",
-    "tier": "must_read",
-    "date_shown": "2026-05-16T11:02:03.756008"
-  },
-  "2605.13880": {
-    "title": "PREPING: Building Agent Memory without Tasks",
-    "arxiv_id": "2605.13880",
-    "tier": "must_read",
-    "date_shown": "2026-05-16T11:02:03.756008"
-  },
-  "2605.14389": {
-    "title": "Nexus : An Agentic Framework for Time Series Forecasting",
-    "arxiv_id": "2605.14389",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-16T11:02:03.756008"
-  },
-  "2605.15055v1": {
-    "title": "DiffusionOPD: A Unified Perspective of On-Policy Distillation in Diffusion Models",
-    "arxiv_id": "2605.15055v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-16T11:02:03.756008"
-  },
   "2605.15676v1": {
     "title": "Dynamic Chunking for Diffusion Language Models",
     "arxiv_id": "2605.15676v1",
@@ -1168,5 +1120,59 @@
     "arxiv_id": "2606.09290",
     "tier": "worth_noting",
     "date_shown": "2026-06-14T11:54:54.474603"
+  },
+  "2606.12384": {
+    "title": "APPO: Agentic Procedural Policy Optimization",
+    "arxiv_id": "2606.12384",
+    "tier": "must_read",
+    "date_shown": "2026-06-15T15:45:27.456985"
+  },
+  "2606.14693v1": {
+    "title": "Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2606.14693v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-15T15:45:27.456985"
+  },
+  "2606.14620v1": {
+    "title": "Neither Parallel Nor Sequential: How DiffusionGemma Actually Commits Tokens",
+    "arxiv_id": "2606.14620v1",
+    "tier": "must_read",
+    "date_shown": "2026-06-15T15:45:27.456985"
+  },
+  "2606.14571v1": {
+    "title": "StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance",
+    "arxiv_id": "2606.14571v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-15T15:45:27.456985"
+  },
+  "2606.14470v1": {
+    "title": "GitOfThoughts: Version-Controlled Reasoning and Agent Memory You Can Replay, Diff, and Merge",
+    "arxiv_id": "2606.14470v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-15T15:45:27.456985"
+  },
+  "2606.14249v1": {
+    "title": "HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry",
+    "arxiv_id": "2606.14249v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-15T15:45:27.456985"
+  },
+  "2606.14211v1": {
+    "title": "Closing the Reflection Gap: A Free Calibration Bonus for Agentic RL",
+    "arxiv_id": "2606.14211v1",
+    "tier": "must_read",
+    "date_shown": "2026-06-15T15:45:27.456985"
+  },
+  "2606.14130v1": {
+    "title": "Contract-Based Compositional Shielding for Safe Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2606.14130v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-15T15:45:27.456985"
+  },
+  "2606.14029v1": {
+    "title": "Utility-Constrained Policy Optimization",
+    "arxiv_id": "2606.14029v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-15T15:45:27.456985"
   }
 }
