@@ -1174,5 +1174,65 @@
     "arxiv_id": "2606.14029v1",
     "tier": "worth_noting",
     "date_shown": "2026-06-15T15:45:27.456985"
+  },
+  "2604.18401": {
+    "title": "StepPO: Step-Aligned Policy Optimization for Agentic Reinforcement Learning",
+    "arxiv_id": "2604.18401",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-16T15:00:57.258083"
+  },
+  "2606.16908v1": {
+    "title": "LESS Is More: Mutual-Stability Sampling for Diffusion Language Models",
+    "arxiv_id": "2606.16908v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-16T15:00:57.258083"
+  },
+  "2606.16790v1": {
+    "title": "Decision-Weighted Flow Matching for Contextual Stochastic Optimization",
+    "arxiv_id": "2606.16790v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-16T15:00:57.258083"
+  },
+  "2606.16733v1": {
+    "title": "A First-Principles Derivation of LLM Policy Optimization: From Expected Reward to GRPO and Its Structural Extensions",
+    "arxiv_id": "2606.16733v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-16T15:00:57.258083"
+  },
+  "2606.16710v1": {
+    "title": "Misinformation Propagation in Benign Multi-Agent Systems",
+    "arxiv_id": "2606.16710v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-16T15:00:57.258083"
+  },
+  "2606.16707v1": {
+    "title": "User as Code: Executable Memory for Personalized Agents",
+    "arxiv_id": "2606.16707v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-16T15:00:57.258083"
+  },
+  "2606.16613v1": {
+    "title": "CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies",
+    "arxiv_id": "2606.16613v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-16T15:00:57.258083"
+  },
+  "2606.16610v1": {
+    "title": "Diffusion Flow Matching: Dimension-Improved KL Bounds and Wasserstein Guarantees",
+    "arxiv_id": "2606.16610v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-16T15:00:57.258083"
+  },
+  "2606.16478v1": {
+    "title": "Tensor-Coord: Algebraic Decomposition of Joint Plan Tensors for Conflict-Free Multi-Agent LLM Planning",
+    "arxiv_id": "2606.16478v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-16T15:00:57.258083"
+  },
+  "2606.16281": {
+    "title": "Who Should Lead Decoding Now? Tracking Reliable Trajectories for Ensembling Masked Diffusion Language Models",
+    "arxiv_id": "2606.16281",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-16T15:00:57.258083"
   }
 }
