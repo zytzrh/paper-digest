@@ -1234,5 +1234,101 @@
     "arxiv_id": "2606.16281",
     "tier": "worth_noting",
     "date_shown": "2026-06-16T15:00:57.258083"
+  },
+  "hash:78b6923ecf506ea3": {
+    "title": "Large Language Models with Reinforcement Learning from Human Feedback Approach for Enhancing Explainable Sexism Detection",
+    "arxiv_id": "",
+    "tier": "must_read",
+    "date_shown": "2026-06-17T13:40:41.290294"
+  },
+  "2512.22925": {
+    "title": "Argus: Token Aware Distributed LLM Inference Optimization",
+    "arxiv_id": "2512.22925",
+    "tier": "must_read",
+    "date_shown": "2026-06-17T13:40:41.290294"
+  },
+  "2506.08551": {
+    "title": "DeepForm: Reasoning Large Language Model for Communication System Formulation",
+    "arxiv_id": "2506.08551",
+    "tier": "must_read",
+    "date_shown": "2026-06-17T13:40:41.290294"
+  },
+  "hash:42bb407ddaa2a80f": {
+    "title": "Survey of uncertainty estimation in LLMs - Sources, methods, applications, and challenges",
+    "arxiv_id": "",
+    "tier": "must_read",
+    "date_shown": "2026-06-17T13:40:41.290294"
+  },
+  "2511.03166": {
+    "title": "Measuring Aleatoric and Epistemic Uncertainty in LLMs: Empirical Evaluation on ID and OOD QA Tasks",
+    "arxiv_id": "2511.03166",
+    "tier": "must_read",
+    "date_shown": "2026-06-17T13:40:41.290294"
+  },
+  "2606.17680v1": {
+    "title": "EnvRL: Learn from Environment Dynamics in Agentic Reinforcement Learning",
+    "arxiv_id": "2606.17680v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-17T13:40:41.290294"
+  },
+  "2606.17915v1": {
+    "title": "Trustworthy Self-Composable Big-Data-as-a-Service: An LLM-Orchestrated Multi-Agent Framework for Automated Data Engineering, AutoML, MLOps Deployment, and Drift-Aware Lifecycle Optimization",
+    "arxiv_id": "2606.17915v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-17T13:40:41.290294"
+  },
+  "2606.18223v1": {
+    "title": "Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents",
+    "arxiv_id": "2606.18223v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-17T13:40:41.290294"
+  },
+  "2606.18195v1": {
+    "title": "Learning from the Self-future: On-policy Self-distillation for dLLMs",
+    "arxiv_id": "2606.18195v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-17T13:40:41.290294"
+  },
+  "2606.18068v1": {
+    "title": "Agentic AI-based Framework for Mitigating Premature Diagnostic Handoff and Silent Hallucination in Healthcare Applications",
+    "arxiv_id": "2606.18068v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-17T13:40:41.290294"
+  },
+  "2606.18043v1": {
+    "title": "Uncertainty Quantification for Flow-Based Vision-Language-Action Models",
+    "arxiv_id": "2606.18043v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-17T13:40:41.290294"
+  },
+  "2606.17999v1": {
+    "title": "VoidPadding: Let [VOID] Handle Padding in Masked Diffusion Language Models so that [EOS] Can Focus on Semantic Termination",
+    "arxiv_id": "2606.17999v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-17T13:40:41.290294"
+  },
+  "2606.17962v1": {
+    "title": "A Neuro-Symbolic Approach to Strategy Synthesis for Strategic Logics",
+    "arxiv_id": "2606.17962v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-17T13:40:41.290294"
+  },
+  "2606.17838v1": {
+    "title": "Environment-Grounded Automated Prompt Optimization for LLM Game Agents",
+    "arxiv_id": "2606.17838v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-17T13:40:41.290294"
+  },
+  "2606.17682v1": {
+    "title": "From Trainee to Trainer: LLM-Designed Training Environment for RL with Multi-Agent Reasoning",
+    "arxiv_id": "2606.17682v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-17T13:40:41.290294"
+  },
+  "2606.16428": {
+    "title": "LectūraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching",
+    "arxiv_id": "2606.16428",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-17T13:40:41.290294"
   }
 }
