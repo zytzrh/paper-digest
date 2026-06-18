@@ -1,94 +1,4 @@
 {
-  "2605.15676v1": {
-    "title": "Dynamic Chunking for Diffusion Language Models",
-    "arxiv_id": "2605.15676v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-18T13:44:16.152268"
-  },
-  "2605.15706v1": {
-    "title": "Differentiable Mixture-of-Agents Incentivizes Swarm Intelligence of Large Language Models",
-    "arxiv_id": "2605.15706v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-18T13:44:16.152268"
-  },
-  "2605.16233v1": {
-    "title": "FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast",
-    "arxiv_id": "2605.16233v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-18T13:44:16.152268"
-  },
-  "2605.16126v1": {
-    "title": "Entropy Across the Bridge: Conditional-Marginal Discretization for Flow and Schrödinger Samplers",
-    "arxiv_id": "2605.16126v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-18T13:44:16.152268"
-  },
-  "2605.16118v1": {
-    "title": "Multi-Fidelity Flow Matching: Cascaded Refinement of PDE Solutions",
-    "arxiv_id": "2605.16118v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-18T13:44:16.152268"
-  },
-  "2605.15759v1": {
-    "title": "DimMem: Dimensional Structuring for Efficient Long-Term Agent Memory",
-    "arxiv_id": "2605.15759v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-18T13:44:16.152268"
-  },
-  "2605.15701v1": {
-    "title": "H-Mem: A Novel Memory Mechanism for Evolving and Retrieving Agent Memory via a Hybrid Structure",
-    "arxiv_id": "2605.15701v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-18T13:44:16.152268"
-  },
-  "2605.18703v1": {
-    "title": "EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL",
-    "arxiv_id": "2605.18703v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-19T12:38:07.882987"
-  },
-  "2605.18530v1": {
-    "title": "Continuous Diffusion Scales Competitively with Discrete Diffusion for Language",
-    "arxiv_id": "2605.18530v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-19T12:38:07.882987"
-  },
-  "2605.18204v1": {
-    "title": "Forward-Learned Discrete Diffusion: Learning how to noise to denoise faster",
-    "arxiv_id": "2605.18204v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-19T12:38:07.882987"
-  },
-  "2605.18421v1": {
-    "title": "EvoMemBench: Benchmarking Agent Memory from a Self-Evolving Perspective",
-    "arxiv_id": "2605.18421v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-19T12:38:07.882987"
-  },
-  "2605.18253v1": {
-    "title": "Machine Unlearning for Masked Diffusion Language Models",
-    "arxiv_id": "2605.18253v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-19T12:38:07.882987"
-  },
-  "2605.14368": {
-    "title": "Where Should Diffusion Enter a Language Model? Geometry-Guided Hidden-State Replacement",
-    "arxiv_id": "2605.14368",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-19T12:38:07.882987"
-  },
-  "2605.14212": {
-    "title": "MetaAgent-X : Breaking the Ceiling of Automatic Multi-Agent Systems via End-to-End Reinforcement Learning",
-    "arxiv_id": "2605.14212",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-19T12:38:07.882987"
-  },
-  "2605.10302": {
-    "title": "Follow the Mean: Reference-Guided Flow Matching",
-    "arxiv_id": "2605.10302",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-19T12:38:07.882987"
-  },
   "2605.19470v1": {
     "title": "Drifting Objectives for Refining Discrete Diffusion Language Models",
     "arxiv_id": "2605.19470v1",
@@ -1330,5 +1240,53 @@
     "arxiv_id": "2606.16428",
     "tier": "worth_noting",
     "date_shown": "2026-06-17T13:40:41.290294"
+  },
+  "2606.19005v1": {
+    "title": "Sumi: Open Uniform Diffusion Language Model from Scratch",
+    "arxiv_id": "2606.19005v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-18T12:50:02.796514"
+  },
+  "2606.19308v1": {
+    "title": "Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play",
+    "arxiv_id": "2606.19308v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-18T12:50:02.796514"
+  },
+  "2606.19257v1": {
+    "title": "DreamReasoner-8B: Block-Size Curriculum Learning for Diffusion Reasoning Models",
+    "arxiv_id": "2606.19257v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-18T12:50:02.796514"
+  },
+  "2606.19162v1": {
+    "title": "The Reward Was in Your Data All Along: Correcting Flow Matching with Discriminator-Guided RL",
+    "arxiv_id": "2606.19162v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-18T12:50:02.796514"
+  },
+  "2606.18837v1": {
+    "title": "Skill-MAS: Evolving Meta-Skill for Automatic Multi-Agent Systems",
+    "arxiv_id": "2606.18837v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-18T12:50:02.796514"
+  },
+  "2606.18786v1": {
+    "title": "R2D-RL: A RoboCup 2D Soccer Environment for Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2606.18786v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-18T12:50:02.796514"
+  },
+  "2606.17682": {
+    "title": "From Trainee to Trainer: LLM-Designed Training Environment for RL with Multi-Agent Reasoning",
+    "arxiv_id": "2606.17682",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-18T12:50:02.796514"
+  },
+  "2606.18195": {
+    "title": "Learning from the Self-future: On-policy Self-distillation for dLLMs",
+    "arxiv_id": "2606.18195",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-18T12:50:02.796514"
   }
 }
