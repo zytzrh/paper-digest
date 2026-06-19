@@ -1,70 +1,4 @@
 {
-  "2605.19470v1": {
-    "title": "Drifting Objectives for Refining Discrete Diffusion Language Models",
-    "arxiv_id": "2605.19470v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-20T12:22:54.372038"
-  },
-  "2605.18703": {
-    "title": "EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL",
-    "arxiv_id": "2605.18703",
-    "tier": "must_read",
-    "date_shown": "2026-05-20T12:22:54.372038"
-  },
-  "2605.20068v1": {
-    "title": "Tail Annealing for Heavy-Tailed Flow Matching",
-    "arxiv_id": "2605.20068v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-20T12:22:54.372038"
-  },
-  "2605.20025v1": {
-    "title": "AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration",
-    "arxiv_id": "2605.20025v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-20T12:22:54.372038"
-  },
-  "2605.19952v1": {
-    "title": "Rethinking How to Remember: Beyond Atomic Facts in Lifelong LLM Agent Memory",
-    "arxiv_id": "2605.19952v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-20T12:22:54.372038"
-  },
-  "2605.19743v1": {
-    "title": "EngiAI: A Multi-Agent Framework and Benchmark Suite for LLM-Driven Engineering Design",
-    "arxiv_id": "2605.19743v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-20T12:22:54.372038"
-  },
-  "2605.18749": {
-    "title": "WavFlow: Audio Generation in Waveform Space",
-    "arxiv_id": "2605.18749",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-20T12:22:54.372038"
-  },
-  "2605.15565": {
-    "title": "AstraFlow: Dataflow-Oriented Reinforcement Learning for Agentic LLMs",
-    "arxiv_id": "2605.15565",
-    "tier": "must_read",
-    "date_shown": "2026-05-20T12:22:54.372038"
-  },
-  "2605.19729v1": {
-    "title": "LIFT and PLACE: A Simple, Stable, and Effective Knowledge Distillation Framework for Lightweight Diffusion Models",
-    "arxiv_id": "2605.19729v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-20T12:22:54.372038"
-  },
-  "2605.19621v1": {
-    "title": "Diffusion Graph Posterior Sampling for Nonlinear Inverse Problems with Application to Electrical Impedance Tomography",
-    "arxiv_id": "2605.19621v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-20T12:22:54.372038"
-  },
-  "2605.15458": {
-    "title": "Video Models Can Reason with Verifiable Rewards",
-    "arxiv_id": "2605.15458",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-20T12:22:54.372038"
-  },
   "2605.21381v1": {
     "title": "Disentangling Generation and Regression in Stochastic Interpolants for Controllable Image Restoration",
     "arxiv_id": "2605.21381v1",
@@ -1288,5 +1222,113 @@
     "arxiv_id": "2606.18195",
     "tier": "worth_noting",
     "date_shown": "2026-06-18T12:50:02.796514"
+  },
+  "2606.20014v1": {
+    "title": "Hierarchical Control in Multi-Agent Games: LLM-based Planning and RL Execution",
+    "arxiv_id": "2606.20014v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-19T13:32:56.069244"
+  },
+  "2606.15872": {
+    "title": "SciOrch: Learning to Orchestrate Expert LLMs for Solving Frontier Multimodal Scientific Reasoning Tasks",
+    "arxiv_id": "2606.15872",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-19T13:32:56.069244"
+  },
+  "2606.20101v1": {
+    "title": "Hybrid Diffusion Transformer for Instruction-Guided Audio Editing via Rectified Flow",
+    "arxiv_id": "2606.20101v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-19T13:32:56.069244"
+  },
+  "2606.20493v1": {
+    "title": "Contagion Networks: Evaluator Bias Propagation in Multi-Agent LLM Systems",
+    "arxiv_id": "2606.20493v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-19T13:32:56.069244"
+  },
+  "2606.20485v1": {
+    "title": "Optimal Order of Multi-Agent and General Many-Body Systems",
+    "arxiv_id": "2606.20485v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-19T13:32:56.069244"
+  },
+  "2606.20373v1": {
+    "title": "AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning",
+    "arxiv_id": "2606.20373v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-19T13:32:56.069244"
+  },
+  "2606.20236v1": {
+    "title": "A Multi-Agent system for Multi-Objective constrained optimization",
+    "arxiv_id": "2606.20236v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-19T13:32:56.069244"
+  },
+  "2606.20209v1": {
+    "title": "FlowMaps: Modeling Long-Term Multimodal Object Dynamics with Flow Matching",
+    "arxiv_id": "2606.20209v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-19T13:32:56.069244"
+  },
+  "2606.20135v1": {
+    "title": "Frequency-Aware Flow Matching for Continuous and Consistent Robotic Action Generation",
+    "arxiv_id": "2606.20135v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-19T13:32:56.069244"
+  },
+  "2606.20084v1": {
+    "title": "Residual-Space Evolutionary Optimization via Flow-based Generative Models",
+    "arxiv_id": "2606.20084v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-19T13:32:56.069244"
+  },
+  "2606.20058v1": {
+    "title": "Autonomous Event-Driven Multi-Agent Orchestration for Enterprise AI at Scale",
+    "arxiv_id": "2606.20058v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-19T13:32:56.069244"
+  },
+  "2606.19920v1": {
+    "title": "Deep-Unfolded Coordination",
+    "arxiv_id": "2606.19920v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-19T13:32:56.069244"
+  },
+  "2606.19911v1": {
+    "title": "Multi-Agent Transactive Memory",
+    "arxiv_id": "2606.19911v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-19T13:32:56.069244"
+  },
+  "2606.19893v1": {
+    "title": "MetaResearcher: Scaling Deep Research via Self-Reflective Reinforcement Learning in Adversarial Virtual Environments",
+    "arxiv_id": "2606.19893v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-19T13:32:56.069244"
+  },
+  "2606.20515": {
+    "title": "S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence",
+    "arxiv_id": "2606.20515",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-19T13:32:56.069244"
+  },
+  "2606.06614": {
+    "title": "Re-Centering Humans in LLM Personalization",
+    "arxiv_id": "2606.06614",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-19T13:32:56.069244"
+  },
+  "2606.19162": {
+    "title": "The Reward Was in Your Data All Along: Correcting Flow Matching with Discriminator-Guided RL",
+    "arxiv_id": "2606.19162",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-19T13:32:56.069244"
+  },
+  "2606.05985": {
+    "title": "Beyond Alignment: Value Diversity as a Collective Property in Multicultural Agent Systems",
+    "arxiv_id": "2606.05985",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-19T13:32:56.069244"
   }
 }
