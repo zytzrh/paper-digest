@@ -1,46 +1,4 @@
 {
-  "2605.21381v1": {
-    "title": "Disentangling Generation and Regression in Stochastic Interpolants for Controllable Image Restoration",
-    "arxiv_id": "2605.21381v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-21T12:44:01.438638"
-  },
-  "2605.21347v1": {
-    "title": "Insights Generator: Systematic Corpus-Level Trace Diagnostics for LLM Agents",
-    "arxiv_id": "2605.21347v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-21T12:44:01.438638"
-  },
-  "2605.21085v1": {
-    "title": "Decoupling Communication from Policy: Robust MARL under Bandwidth Constraints",
-    "arxiv_id": "2605.21085v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-21T12:44:01.438638"
-  },
-  "2605.20813v1": {
-    "title": "PulseCol: Periodically Refreshed Column-Sparse Attention for Accelerating Diffusion Language Models",
-    "arxiv_id": "2605.20813v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-21T12:44:01.438638"
-  },
-  "2605.19305": {
-    "title": "Matérn Noise for Triangulation-Agnostic Flow Matching on Meshes",
-    "arxiv_id": "2605.19305",
-    "tier": "must_read",
-    "date_shown": "2026-05-21T12:44:01.438638"
-  },
-  "2605.21123v1": {
-    "title": "Linear-DPO: Linear Direct Preference Optimization for Diffusion and Flow-Matching Generative Models",
-    "arxiv_id": "2605.21123v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-21T12:44:01.438638"
-  },
-  "2605.21489v1": {
-    "title": "Variance Reduction for Expectations with Diffusion Teachers",
-    "arxiv_id": "2605.21489v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-21T12:44:01.438638"
-  },
   "2605.22765v1": {
     "title": "Uniform Diffusion Models Revisited: Leave-One-Out Denoiser and Absorbing State Reformulation",
     "arxiv_id": "2605.22765v1",
