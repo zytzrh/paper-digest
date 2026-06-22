@@ -1,94 +1,4 @@
 {
-  "2605.22765v1": {
-    "title": "Uniform Diffusion Models Revisited: Leave-One-Out Denoiser and Absorbing State Reformulation",
-    "arxiv_id": "2605.22765v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-22T12:16:45.429555"
-  },
-  "2605.22786v1": {
-    "title": "LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems",
-    "arxiv_id": "2605.22786v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-22T12:16:45.429555"
-  },
-  "2605.22748v1": {
-    "title": "Superhuman Safe and Agile Racing through Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2605.22748v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-22T12:16:45.429555"
-  },
-  "2605.22662v1": {
-    "title": "Claw AI Lab: An Autonomous Multi-Agent Research Team",
-    "arxiv_id": "2605.22662v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-22T12:16:45.429555"
-  },
-  "2605.22340v1": {
-    "title": "From Snapshots to Trajectories: Learning Single-Cell Gene Expression Dynamics via Conditional Flow Matching",
-    "arxiv_id": "2605.22340v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-22T12:16:45.429555"
-  },
-  "2605.22144": {
-    "title": "One Sentence, One Drama: Personalized Short-Form Drama Generation via Multi-Agent Systems",
-    "arxiv_id": "2605.22144",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-22T12:16:45.429555"
-  },
-  "2605.21981": {
-    "title": "RiT: Vanilla Diffusion Transformers Suffice in Representation Space",
-    "arxiv_id": "2605.21981",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-22T12:16:45.429555"
-  },
-  "2605.22586v1": {
-    "title": "A Tutorial on Diffusion Theory: From Differential Equations to Diffusion Models",
-    "arxiv_id": "2605.22586v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-22T12:16:45.429555"
-  },
-  "2605.22743v1": {
-    "title": "SeqLoRA: Bilevel Orthogonal Adaptation for Continual Multi-Concept Generation",
-    "arxiv_id": "2605.22743v1",
-    "tier": "trending",
-    "date_shown": "2026-05-22T12:16:45.429555"
-  },
-  "hash:aef8dbffccc41410": {
-    "title": "[Blog] Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-    "arxiv_id": "",
-    "tier": "must_read",
-    "date_shown": "2026-05-23T11:08:36.399624"
-  },
-  "2605.22717v1": {
-    "title": "Live Music Diffusion Models: Efficient Fine-Tuning and Post-Training of Interactive Diffusion Music Generators",
-    "arxiv_id": "2605.22717v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-23T11:08:36.399624"
-  },
-  "2605.22344v1": {
-    "title": "Bernini: Latent Semantic Planning for Video Diffusion",
-    "arxiv_id": "2605.22344v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-23T11:08:36.399624"
-  },
-  "2605.17602": {
-    "title": "AutoRubric-T2I: Robust Rule-Based Reward Model for Text-to-Image Alignment",
-    "arxiv_id": "2605.17602",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-23T11:08:36.399624"
-  },
-  "2605.20910": {
-    "title": "FlowLong: Inference-time Long Video Generation via Manifold-constrained Tweedie Matching",
-    "arxiv_id": "2605.20910",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-23T11:08:36.399624"
-  },
-  "2605.22718": {
-    "title": "WorldKV: Efficient World Memory with World Retrieval and Compression",
-    "arxiv_id": "2605.22718",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-23T11:08:36.399624"
-  },
   "2605.21072": {
     "title": "Q-ARVD: Quantizing Autoregressive Video Diffusion Models",
     "arxiv_id": "2605.21072",
@@ -1288,5 +1198,17 @@
     "arxiv_id": "2606.05985",
     "tier": "worth_noting",
     "date_shown": "2026-06-19T13:32:56.069244"
+  },
+  "2606.19534": {
+    "title": "PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models",
+    "arxiv_id": "2606.19534",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-22T15:21:53.833856"
+  },
+  "2606.18021": {
+    "title": "LegalHalluLens: Typed Hallucination Auditing and Calibrated Multi-Agent Debate for Trustworthy Legal AI",
+    "arxiv_id": "2606.18021",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-22T15:21:53.833856"
   }
 }
