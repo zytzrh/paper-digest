@@ -1,10 +1,4 @@
 {
-  "2605.21072": {
-    "title": "Q-ARVD: Quantizing Autoregressive Video Diffusion Models",
-    "arxiv_id": "2605.21072",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-24T11:14:09.471981"
-  },
   "2605.23382v1": {
     "title": "From Correctness to Preference: A Framework for Personalized Agentic Reinforcement Learning",
     "arxiv_id": "2605.23382v1",
@@ -1210,5 +1204,59 @@
     "arxiv_id": "2606.18021",
     "tier": "worth_noting",
     "date_shown": "2026-06-22T15:21:53.833856"
+  },
+  "2606.22995v1": {
+    "title": "Group-Graph Policy Optimization for Long-Horizon Agentic Reinforcement Learning",
+    "arxiv_id": "2606.22995v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-23T12:30:26.962401"
+  },
+  "2606.23664v1": {
+    "title": "MAS-PromptBench: When Does Prompt Optimization Improve Multi-Agent LLM Systems?",
+    "arxiv_id": "2606.23664v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-23T12:30:26.962401"
+  },
+  "2606.23567v1": {
+    "title": "Scheduling Thoughts: Learning the Order of Thought in Diffusion Language Models",
+    "arxiv_id": "2606.23567v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-23T12:30:26.962401"
+  },
+  "2606.23195v1": {
+    "title": "Memory Contagion: Cross-Temporal Propagation of Evaluator Bias via Agent Memory",
+    "arxiv_id": "2606.23195v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-23T12:30:26.962401"
+  },
+  "2606.23489": {
+    "title": "MeshFlow: Mesh Generation with Equivariant Flow Matching",
+    "arxiv_id": "2606.23489",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-23T12:30:26.962401"
+  },
+  "2606.23267": {
+    "title": "Safe Few-Step Generation via Velocity Editing",
+    "arxiv_id": "2606.23267",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-23T12:30:26.962401"
+  },
+  "2606.19409": {
+    "title": "OpenRath: Session-Centered Runtime State for Agent Systems",
+    "arxiv_id": "2606.19409",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-23T12:30:26.962401"
+  },
+  "2606.11075": {
+    "title": "Exploring the Design Space of Reward Backpropagation for Flow Matching",
+    "arxiv_id": "2606.11075",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-23T12:30:26.962401"
+  },
+  "2606.18648": {
+    "title": "Deep Research in Physical Sciences: A Multi-Agent Framework and Comprehensive Benchmark",
+    "arxiv_id": "2606.18648",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-23T12:30:26.962401"
   }
 }
