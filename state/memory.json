@@ -1,58 +1,4 @@
 {
-  "2605.23382v1": {
-    "title": "From Correctness to Preference: A Framework for Personalized Agentic Reinforcement Learning",
-    "arxiv_id": "2605.23382v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-25T13:00:25.624588"
-  },
-  "2605.23605v1": {
-    "title": "DiLaDiff: Distilled Latent-Augmented Diffusion for Language Modeling",
-    "arxiv_id": "2605.23605v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-25T13:00:25.624588"
-  },
-  "2605.23346v1": {
-    "title": "Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion",
-    "arxiv_id": "2605.23346v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-25T13:00:25.624588"
-  },
-  "2605.23723v1": {
-    "title": "MemAudit: Post-hoc Auditing of Poisoned Agent Memory via Causal Attribution and Structural Anomaly Detection",
-    "arxiv_id": "2605.23723v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-25T13:00:25.624588"
-  },
-  "2605.23652v1": {
-    "title": "One Policy, Infinite NPCs: Persona-Traceable Shared RL Policies for Scalable Game Agents",
-    "arxiv_id": "2605.23652v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-25T13:00:25.624588"
-  },
-  "2605.23562v1": {
-    "title": "ARMS: Automatic Reward Shaping for Sparse-Reward Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2605.23562v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-25T13:00:25.624588"
-  },
-  "2605.23522v1": {
-    "title": "Precise: SDE-Consistent Stochastic Sampling for RL Post-Training of Flow-Matching Models",
-    "arxiv_id": "2605.23522v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-25T13:00:25.624588"
-  },
-  "2605.23365v1": {
-    "title": "Score-Based One-step MeanFlow Policy Optimization",
-    "arxiv_id": "2605.23365v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-25T13:00:25.624588"
-  },
-  "2605.23341v1": {
-    "title": "Sparse Compositional Flow Matching by geometric assembly from motion primitives",
-    "arxiv_id": "2605.23341v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-25T13:00:25.624588"
-  },
   "2605.26952v1": {
     "title": "Efficient Agentic Reinforcement Learning with On-Policy Intrinsic Knowledge Boundary Enhancement",
     "arxiv_id": "2605.26952v1",
@@ -1258,5 +1204,89 @@
     "arxiv_id": "2606.18648",
     "tier": "worth_noting",
     "date_shown": "2026-06-23T12:30:26.962401"
+  },
+  "2606.25331v1": {
+    "title": "Improved Large Language Diffusion Models",
+    "arxiv_id": "2606.25331v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-25T12:15:01.614004"
+  },
+  "2606.24937": {
+    "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
+    "arxiv_id": "2606.24937",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-25T12:15:01.614004"
+  },
+  "2606.26027v1": {
+    "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
+    "arxiv_id": "2606.26027v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-25T12:15:01.614004"
+  },
+  "2606.25978v1": {
+    "title": "Multi-Agent Goal Recognition with Team- and Goal-Conditioned Reinforcement Learning and Factorized Branch-and-Bound",
+    "arxiv_id": "2606.25978v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-25T12:15:01.614004"
+  },
+  "2606.25651v1": {
+    "title": "MedGuards: Multi-Agent System for Reliable Medical Error Detection and Correction",
+    "arxiv_id": "2606.25651v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-25T12:15:01.614004"
+  },
+  "2606.25532v1": {
+    "title": "Agentic evolution of physically constrained foundation models",
+    "arxiv_id": "2606.25532v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-25T12:15:01.614004"
+  },
+  "2606.25526v1": {
+    "title": "Low Variance Trust Region Optimization with Independent Actors and Sequential Updates in Cooperative Multi-agent Reinforcement Learning",
+    "arxiv_id": "2606.25526v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-25T12:15:01.614004"
+  },
+  "2606.25400v1": {
+    "title": "BrainAgent: A Large Language Model-Driven Multi-Agent Framework for Autonomous Brain Signal Understanding",
+    "arxiv_id": "2606.25400v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-25T12:15:01.614004"
+  },
+  "2606.25389v1": {
+    "title": "Offline Multi-agent Continual Cooperation via Skill Partition and Reuse",
+    "arxiv_id": "2606.25389v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-25T12:15:01.614004"
+  },
+  "2606.25358v1": {
+    "title": "Agentic Knowledge Tracing: A Multi-Agent LLM Architecture for Stealth Assessment of Financial Literacy in Serious Games",
+    "arxiv_id": "2606.25358v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-25T12:15:01.614004"
+  },
+  "2606.25335v1": {
+    "title": "Stagnant Neuron: Towards Understanding the Plasticity Loss in Multi-Agent Reinforcement Learning Value Factorization Methods",
+    "arxiv_id": "2606.25335v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-25T12:15:01.614004"
+  },
+  "2606.24775": {
+    "title": "Are We Ready For An Agent-Native Memory System?",
+    "arxiv_id": "2606.24775",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-25T12:15:01.614004"
+  },
+  "2606.24595": {
+    "title": "MEMPROBE: Probing Long-Term Agent Memory via Hidden User-State Recovery",
+    "arxiv_id": "2606.24595",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-25T12:15:01.614004"
+  },
+  "2606.24597": {
+    "title": "Qwen-AgentWorld: Language World Models for General Agents",
+    "arxiv_id": "2606.24597",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-25T12:15:01.614004"
   }
 }
