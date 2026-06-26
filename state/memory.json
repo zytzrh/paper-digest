@@ -1288,5 +1288,59 @@
     "arxiv_id": "2606.24597",
     "tier": "worth_noting",
     "date_shown": "2026-06-25T12:15:01.614004"
+  },
+  "2606.26758v1": {
+    "title": "EGG: An Expert-Guided Agent Framework for Kernel Generation",
+    "arxiv_id": "2606.26758v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-26T12:08:41.283990"
+  },
+  "2606.25331": {
+    "title": "Improved Large Language Diffusion Models",
+    "arxiv_id": "2606.25331",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-26T12:08:41.283990"
+  },
+  "2606.27009v1": {
+    "title": "Semantic Early-Stopping for Iterative LLM Agent Loops",
+    "arxiv_id": "2606.27009v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-26T12:08:41.283990"
+  },
+  "2606.26859v1": {
+    "title": "AgentX: Towards Agent-Driven Self-Iteration of Industrial Recommender Systems",
+    "arxiv_id": "2606.26859v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-26T12:08:41.283990"
+  },
+  "2606.26790v1": {
+    "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
+    "arxiv_id": "2606.26790v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-26T12:08:41.283990"
+  },
+  "2606.26722v1": {
+    "title": "Socratic agents for autonomous scientific discovery in high-dimensional physical systems",
+    "arxiv_id": "2606.26722v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-26T12:08:41.283990"
+  },
+  "2606.26575v1": {
+    "title": "IDEA: Insensitive to Dynamics Mismatch via Effect Alignment for Sim-to-Real Transfer in Multi-Agent Control",
+    "arxiv_id": "2606.26575v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-26T12:08:41.283990"
+  },
+  "2606.16613": {
+    "title": "CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies",
+    "arxiv_id": "2606.16613",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-26T12:08:41.283990"
+  },
+  "2606.26027": {
+    "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
+    "arxiv_id": "2606.26027",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-26T12:08:41.283990"
   }
 }
