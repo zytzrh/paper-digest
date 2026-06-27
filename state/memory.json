@@ -1,52 +1,4 @@
 {
-  "2605.26952v1": {
-    "title": "Efficient Agentic Reinforcement Learning with On-Policy Intrinsic Knowledge Boundary Enhancement",
-    "arxiv_id": "2605.26952v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-27T12:51:35.181785"
-  },
-  "2605.27352v1": {
-    "title": "From Scores to Gibbs Correctors: Accelerating Uniform-Rate Discrete Diffusion Models",
-    "arxiv_id": "2605.27352v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-27T12:51:35.181785"
-  },
-  "2605.27102v1": {
-    "title": "JLT: Clean-Latent Prediction in Latent Diffusion Transformers",
-    "arxiv_id": "2605.27102v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-27T12:51:35.181785"
-  },
-  "2605.27095v1": {
-    "title": "Adversarial Dual On-Policy Distillation from Expressive Flow-based Teacher",
-    "arxiv_id": "2605.27095v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-27T12:51:35.181785"
-  },
-  "2605.25188": {
-    "title": "DarkForest: Less Talk, Higher Accuracy for Multi-Agent LLMs",
-    "arxiv_id": "2605.25188",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-27T12:51:35.181785"
-  },
-  "2605.26535": {
-    "title": "Recursive Flow Matching",
-    "arxiv_id": "2605.26535",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-27T12:51:35.181785"
-  },
-  "2605.26850v1": {
-    "title": "Learning Energy-Based Models from Stochastic Interpolants using Spatiotemporal Differences",
-    "arxiv_id": "2605.26850v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-27T12:51:35.181785"
-  },
-  "2605.27006v1": {
-    "title": "Sampling Data with Chains of Forward-Backward Diffusion Steps",
-    "arxiv_id": "2605.27006v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-27T12:51:35.181785"
-  },
   "2605.28424v1": {
     "title": "Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning",
     "arxiv_id": "2605.28424v1",
@@ -1342,5 +1294,17 @@
     "arxiv_id": "2606.26027",
     "tier": "worth_noting",
     "date_shown": "2026-06-26T12:08:41.283990"
+  },
+  "2606.26627v1": {
+    "title": "Agents That Know Too Much: A Data-Centric Survey of Privacy in LLM Agents",
+    "arxiv_id": "2606.26627v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-27T11:25:22.275005"
+  },
+  "2606.26614v1": {
+    "title": "HiLSVA: Design and Evaluation of a Human-in-the-Loop Agentic System for Scientific Visualization",
+    "arxiv_id": "2606.26614v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-27T11:25:22.275005"
   }
 }
