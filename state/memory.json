@@ -1,130 +1,4 @@
 {
-  "2605.28424": {
-    "title": "Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning",
-    "arxiv_id": "2605.28424",
-    "tier": "must_read",
-    "date_shown": "2026-05-29T12:47:21.323894"
-  },
-  "2605.22765": {
-    "title": "Uniform Diffusion Models Revisited: Leave-One-Out Denoiser and Absorbing State Reformulation",
-    "arxiv_id": "2605.22765",
-    "tier": "must_read",
-    "date_shown": "2026-05-29T12:47:21.323894"
-  },
-  "2605.30227v1": {
-    "title": "Unifying Temporal and Structural Credit Assignment in LLM-Based Multi-Agent Prompt Optimization",
-    "arxiv_id": "2605.30227v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-29T12:47:21.323894"
-  },
-  "2605.30076v1": {
-    "title": "UniSteer: Text-Guided Flow Matching in Activation Space for Versatile LLM Steering",
-    "arxiv_id": "2605.30076v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-29T12:47:21.323894"
-  },
-  "2605.29960v1": {
-    "title": "Hijacking Agent Memory: Stealthy Trojan Attacks Through Conversational Interaction",
-    "arxiv_id": "2605.29960v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-29T12:47:21.323894"
-  },
-  "2605.29920v1": {
-    "title": "Midpoint Generative Models",
-    "arxiv_id": "2605.29920v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-29T12:47:21.323894"
-  },
-  "2605.29341": {
-    "title": "WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction",
-    "arxiv_id": "2605.29341",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-29T12:47:21.323894"
-  },
-  "2605.30323v1": {
-    "title": "In-Context Reward Adaptation for Robust Preference Modeling",
-    "arxiv_id": "2605.30323v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-29T12:47:21.323894"
-  },
-  "2605.30153v1": {
-    "title": "Diffusion Models Are Statistically Optimal for Learning Low-Dimensional Multi-Modal Distributions",
-    "arxiv_id": "2605.30153v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-29T12:47:21.323894"
-  },
-  "2605.30056v1": {
-    "title": "Sample-Efficient Diffusion-based Reinforcement Learning with Critic Guidance",
-    "arxiv_id": "2605.30056v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-29T12:47:21.323894"
-  },
-  "2605.30160v1": {
-    "title": "On Distributional Reinforcement Learning in Chaotic Dynamical Systems",
-    "arxiv_id": "2605.30160v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-31T11:41:41.923982"
-  },
-  "2605.30136v1": {
-    "title": "Enhancing Multi-Agent Communication through Attention Steering with Context Relevance",
-    "arxiv_id": "2605.30136v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-31T11:41:41.923982"
-  },
-  "2605.30003v1": {
-    "title": "Discovering Cooperative Pipelines: Autoresearch for Sequential Social Dilemmas",
-    "arxiv_id": "2605.30003v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-31T11:41:41.923982"
-  },
-  "2605.29874v1": {
-    "title": "Evolutionary Dynamics of Cooperation in Next-Generation LLM Agent Systems: A Cross-Provider Empirical Extension",
-    "arxiv_id": "2605.29874v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-31T11:41:41.923982"
-  },
-  "2605.30038v1": {
-    "title": "Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models",
-    "arxiv_id": "2605.30038v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-31T11:41:41.923982"
-  },
-  "2605.30330v1": {
-    "title": "When, why, and how do diffusion posterior samplers fail? A finite-sample lens",
-    "arxiv_id": "2605.30330v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-31T11:41:41.923982"
-  },
-  "2605.30116v1": {
-    "title": "SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation",
-    "arxiv_id": "2605.30116v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-31T11:41:41.923982"
-  },
-  "2605.30046v1": {
-    "title": "Masked Diffusion Modeling for Anomaly Detection",
-    "arxiv_id": "2605.30046v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-31T11:41:41.923982"
-  },
-  "2605.29937v1": {
-    "title": "Fisher-Preserving Guidance: Training-Free Manifold Constraints for Safe Diffusion Control",
-    "arxiv_id": "2605.29937v1",
-    "tier": "must_read",
-    "date_shown": "2026-05-31T11:41:41.923982"
-  },
-  "2605.30332": {
-    "title": "Colored Noise Diffusion Sampling",
-    "arxiv_id": "2605.30332",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-31T11:41:41.923982"
-  },
-  "2605.30349": {
-    "title": "AdaState: Self-Evolving Anchors for Streaming Video Generation",
-    "arxiv_id": "2605.30349",
-    "tier": "worth_noting",
-    "date_shown": "2026-05-31T11:41:41.923982"
-  },
   "2605.31564v1": {
     "title": "What Gets Unmasked First? Trajectory Analysis of Diffusion Models for Graph-to-Text Generation",
     "arxiv_id": "2605.31564v1",
@@ -1270,5 +1144,29 @@
     "arxiv_id": "2606.26614v1",
     "tier": "worth_noting",
     "date_shown": "2026-06-27T11:25:22.275005"
+  },
+  "2606.30574v1": {
+    "title": "The Fundamental Limits of Valid Transport Map Estimation",
+    "arxiv_id": "2606.30574v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-30T12:06:20.060017"
+  },
+  "2606.29814": {
+    "title": "Nemotron-Labs-Diffusion-Image: Advancing Masked Discrete Diffusion for High-Resolution Image Synthesis",
+    "arxiv_id": "2606.29814",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-30T12:06:20.060017"
+  },
+  "2606.30072v1": {
+    "title": "ACPO: Agent-Chained Policy Optimization for Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2606.30072v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-30T12:06:20.060017"
+  },
+  "2606.30053v1": {
+    "title": "Notes on generative modeling: flow matching, diffusion, optimal transport and Schr{ö}dinger bridge",
+    "arxiv_id": "2606.30053v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-06-30T12:06:20.060017"
   }
 }
