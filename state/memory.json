@@ -1168,5 +1168,89 @@
     "arxiv_id": "2606.30053v1",
     "tier": "worth_noting",
     "date_shown": "2026-06-30T12:06:20.060017"
+  },
+  "2606.31576v1": {
+    "title": "Introduction to Stochastic Differential Equations for Generative Machine Learning: A Variational Perspective",
+    "arxiv_id": "2606.31576v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-01T12:31:28.915055"
+  },
+  "2606.32017v1": {
+    "title": "TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning",
+    "arxiv_id": "2606.32017v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-01T12:31:28.915055"
+  },
+  "2606.31976v1": {
+    "title": "TreeAgent: A Generalizable Multi-Agent Framework for Automated Bias Labeling in Forestry via Compiled Expert Rules and Vision-Language Models",
+    "arxiv_id": "2606.31976v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-01T12:31:28.915055"
+  },
+  "2606.31763v1": {
+    "title": "A Self-Evolving Agentic System for Automated Generation and Execution of Biological Protocols",
+    "arxiv_id": "2606.31763v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-01T12:31:28.915055"
+  },
+  "2606.31650v1": {
+    "title": "ECHO: Prune to act, trace to learn with selective turn memory in agentic RL",
+    "arxiv_id": "2606.31650v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-01T12:31:28.915055"
+  },
+  "2606.31410v1": {
+    "title": "Xiaomi-GUI-0 Technical Report",
+    "arxiv_id": "2606.31410v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-01T12:31:28.915055"
+  },
+  "2606.31377v1": {
+    "title": "Stage-Transition Dense Reward Modeling for Reinforcement Learning",
+    "arxiv_id": "2606.31377v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-01T12:31:28.915055"
+  },
+  "2606.31347v1": {
+    "title": "Smart charging of large fleets of Electric Vehicles: Independent Multi-Agent Reinforcement Learning approaches",
+    "arxiv_id": "2606.31347v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-01T12:31:28.915055"
+  },
+  "2606.31288v1": {
+    "title": "Probabilistic Inversion with Flow Matching",
+    "arxiv_id": "2606.31288v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-01T12:31:28.915055"
+  },
+  "2606.31229v1": {
+    "title": "Agentic-Ideation: Sample Efficient Agentic Trajectories Synthesis for Scientific Ideation Agents",
+    "arxiv_id": "2606.31229v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-01T12:31:28.915055"
+  },
+  "2606.31537": {
+    "title": "DataEvolver: Self-Evolving Multi-Agent Data Construction for Text-Rich Image Generation",
+    "arxiv_id": "2606.31537",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-01T12:31:28.915055"
+  },
+  "2606.29215": {
+    "title": "Multi-Block Diffusion Language Models",
+    "arxiv_id": "2606.29215",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-01T12:31:28.915055"
+  },
+  "2606.30673": {
+    "title": "PolyFlow: Continuous Topology Embedding Flow Matching for Artist-style Mesh Generation",
+    "arxiv_id": "2606.30673",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-01T12:31:28.915055"
+  },
+  "2606.27409": {
+    "title": "Delayed Verification Destabilizes Multi-Agent LLM Belief: Instability Thresholds and Optimal Corrector Placement",
+    "arxiv_id": "2606.27409",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-01T12:31:28.915055"
   }
 }
