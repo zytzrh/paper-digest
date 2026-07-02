@@ -1,40 +1,4 @@
 {
-  "2605.31564v1": {
-    "title": "What Gets Unmasked First? Trajectory Analysis of Diffusion Models for Graph-to-Text Generation",
-    "arxiv_id": "2605.31564v1",
-    "tier": "must_read",
-    "date_shown": "2026-06-01T15:55:14.204133"
-  },
-  "2605.31509v1": {
-    "title": "Skill Reuse as Compression in Agentic RL",
-    "arxiv_id": "2605.31509v1",
-    "tier": "must_read",
-    "date_shown": "2026-06-01T15:55:14.204133"
-  },
-  "2605.31468v1": {
-    "title": "AutoSci: A Memory-Centric Agentic System for the Full Scientific Research Lifecycle",
-    "arxiv_id": "2605.31468v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-01T15:55:14.204133"
-  },
-  "2605.31361v1": {
-    "title": "Dreaming Of Others: Latent Teammate Modeling In World Models For Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2605.31361v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-01T15:55:14.204133"
-  },
-  "2605.28181": {
-    "title": "When Confidence Misleads: Suffix Anchoring and Anchor-Proximity Confidence Modulation for Diffusion Language Models",
-    "arxiv_id": "2605.28181",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-01T15:55:14.204133"
-  },
-  "2605.29398": {
-    "title": "GDSD: Reinforcement Learning as Guided Denoiser Self-Distillation for Diffusion Language Models",
-    "arxiv_id": "2605.29398",
-    "tier": "must_read",
-    "date_shown": "2026-06-01T15:55:14.204133"
-  },
   "2606.02241v1": {
     "title": "BlockGen: Flexible Blockwise Sequence Modeling with Hybrid Samplers",
     "arxiv_id": "2606.02241v1",
@@ -681,31 +645,31 @@
     "title": "Large Language Models with Reinforcement Learning from Human Feedback Approach for Enhancing Explainable Sexism Detection",
     "arxiv_id": "",
     "tier": "must_read",
-    "date_shown": "2026-06-17T13:40:41.290294"
+    "date_shown": "2026-07-02T12:08:25.398729"
   },
   "2512.22925": {
     "title": "Argus: Token Aware Distributed LLM Inference Optimization",
     "arxiv_id": "2512.22925",
     "tier": "must_read",
-    "date_shown": "2026-06-17T13:40:41.290294"
+    "date_shown": "2026-07-02T12:08:25.398729"
   },
   "2506.08551": {
     "title": "DeepForm: Reasoning Large Language Model for Communication System Formulation",
     "arxiv_id": "2506.08551",
     "tier": "must_read",
-    "date_shown": "2026-06-17T13:40:41.290294"
+    "date_shown": "2026-07-02T12:08:25.398729"
   },
   "hash:42bb407ddaa2a80f": {
     "title": "Survey of uncertainty estimation in LLMs - Sources, methods, applications, and challenges",
     "arxiv_id": "",
     "tier": "must_read",
-    "date_shown": "2026-06-17T13:40:41.290294"
+    "date_shown": "2026-07-02T12:08:25.398729"
   },
   "2511.03166": {
     "title": "Measuring Aleatoric and Epistemic Uncertainty in LLMs: Empirical Evaluation on ID and OOD QA Tasks",
     "arxiv_id": "2511.03166",
     "tier": "must_read",
-    "date_shown": "2026-06-17T13:40:41.290294"
+    "date_shown": "2026-07-02T12:08:25.398729"
   },
   "2606.17680v1": {
     "title": "EnvRL: Learn from Environment Dynamics in Agentic Reinforcement Learning",
@@ -1252,5 +1216,53 @@
     "arxiv_id": "2606.27409",
     "tier": "worth_noting",
     "date_shown": "2026-07-01T12:31:28.915055"
+  },
+  "2607.01170v1": {
+    "title": "Diffusion-GR2: Diffusion Generative Reasoning Re-ranker",
+    "arxiv_id": "2607.01170v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-02T12:08:25.398729"
+  },
+  "2607.00773v1": {
+    "title": "Accelerating Discrete Diffusion Models with Parallel-In-Time Sampling",
+    "arxiv_id": "2607.00773v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-02T12:08:25.398729"
+  },
+  "2607.01071v1": {
+    "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory",
+    "arxiv_id": "2607.01071v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-02T12:08:25.398729"
+  },
+  "2607.00918v1": {
+    "title": "From Personas to Plot: Character-Grounded Multi-Agent Story Generation for Long-Form Narratives",
+    "arxiv_id": "2607.00918v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-02T12:08:25.398729"
+  },
+  "2607.00588v1": {
+    "title": "Low Perplexity is Repetition: A One-Dimensional Self-Conditioning Attractor in Continuous Diffusion LMs",
+    "arxiv_id": "2607.00588v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-02T12:08:25.398729"
+  },
+  "2607.00454v1": {
+    "title": "Agri-SAGE: Simulation-Grounded Multi-Agent LLM for Context-Aware Agricultural Advisory Generation",
+    "arxiv_id": "2607.00454v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-02T12:08:25.398729"
+  },
+  "2607.00407": {
+    "title": "Personalization as Inverse Planning: Learning Latent Design Intents for Agentic Slide Generation via Structural Denoising",
+    "arxiv_id": "2607.00407",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-02T12:08:25.398729"
+  },
+  "2606.32017": {
+    "title": "TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning",
+    "arxiv_id": "2606.32017",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-02T12:08:25.398729"
   }
 }
