@@ -1,76 +1,4 @@
 {
-  "2606.02241v1": {
-    "title": "BlockGen: Flexible Blockwise Sequence Modeling with Hybrid Samplers",
-    "arxiv_id": "2606.02241v1",
-    "tier": "must_read",
-    "date_shown": "2026-06-02T14:00:54.917170"
-  },
-  "2606.02544v1": {
-    "title": "SimSD: Simple Speculative Decoding in Diffusion Language Models",
-    "arxiv_id": "2606.02544v1",
-    "tier": "must_read",
-    "date_shown": "2026-06-02T14:00:54.917170"
-  },
-  "2606.02359v1": {
-    "title": "MOC: Multi-Order Communication in LLM-based Multi-Agent Systems",
-    "arxiv_id": "2606.02359v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-02T14:00:54.917170"
-  },
-  "2606.02337v1": {
-    "title": "Coordination Graphs for Constrained Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2606.02337v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-02T14:00:54.917170"
-  },
-  "2606.02300v1": {
-    "title": "Beyond Isolated Behaviors: Hierarchical User Modeling for LLM Personalization",
-    "arxiv_id": "2606.02300v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-02T14:00:54.917170"
-  },
-  "2606.02282v1": {
-    "title": "POIROT: Interrogating Agents for Failure Detection in Multi-Agent Systems",
-    "arxiv_id": "2606.02282v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-02T14:00:54.917170"
-  },
-  "2606.02177v1": {
-    "title": "Low-Pass Flow Matching",
-    "arxiv_id": "2606.02177v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-02T14:00:54.917170"
-  },
-  "2606.02132v1": {
-    "title": "Learning When Not to Act: Mitigating Tool Abuse in Agentic Reinforcement Learning",
-    "arxiv_id": "2606.02132v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-02T14:00:54.917170"
-  },
-  "2606.01528": {
-    "title": "Joint Agent Memory and Exploration Learning via Novelty Signals",
-    "arxiv_id": "2606.01528",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-02T14:00:54.917170"
-  },
-  "2606.01533": {
-    "title": "Multi-Agent Computer Use",
-    "arxiv_id": "2606.01533",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-02T14:00:54.917170"
-  },
-  "2605.24202": {
-    "title": "When Does Multi-Agent RL Improve LLM Workflows? Workflow, Scale, and Policy-Sharing Tradeoffs",
-    "arxiv_id": "2605.24202",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-02T14:00:54.917170"
-  },
-  "2606.02133v1": {
-    "title": "Variational Learning for Insertion-based Generation",
-    "arxiv_id": "2606.02133v1",
-    "tier": "must_read",
-    "date_shown": "2026-06-02T14:00:54.917170"
-  },
   "2606.05021v1": {
     "title": "Enhancing the MADDPG Algorithm for Multi-Agent Learning via Action Inference and Importance Sampling",
     "arxiv_id": "2606.05021v1",
@@ -1264,5 +1192,53 @@
     "arxiv_id": "2606.32017",
     "tier": "worth_noting",
     "date_shown": "2026-07-02T12:08:25.398729"
+  },
+  "2607.01436": {
+    "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
+    "arxiv_id": "2607.01436",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-03T12:07:17.663759"
+  },
+  "2607.02186v1": {
+    "title": "UA-ChatDev: Uncertainty-Aware Multi-Agent Collaboration for Reliable Software Development",
+    "arxiv_id": "2607.02186v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-03T12:07:17.663759"
+  },
+  "2607.01936v1": {
+    "title": "CausalSteward: An Agentic Divide-Conquer-Combine Copilot for Causal Discovery",
+    "arxiv_id": "2607.01936v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-03T12:07:17.663759"
+  },
+  "2607.02507v1": {
+    "title": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+    "arxiv_id": "2607.02507v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-03T12:07:17.663759"
+  },
+  "2607.01935v1": {
+    "title": "A-TMA: Decoupling State-Aware Memory Failures in Long-Term Agent Memory",
+    "arxiv_id": "2607.01935v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-03T12:07:17.663759"
+  },
+  "2607.01916v1": {
+    "title": "ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair",
+    "arxiv_id": "2607.01916v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-03T12:07:17.663759"
+  },
+  "2607.01642": {
+    "title": "Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling",
+    "arxiv_id": "2607.01642",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-03T12:07:17.663759"
+  },
+  "2607.01071": {
+    "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory",
+    "arxiv_id": "2607.01071",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-03T12:07:17.663759"
   }
 }
