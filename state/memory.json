@@ -1,28 +1,4 @@
 {
-  "2606.03841": {
-    "title": "EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management",
-    "arxiv_id": "2606.03841",
-    "tier": "must_read",
-    "date_shown": "2026-06-07T11:46:25.284663"
-  },
-  "2606.06227v1": {
-    "title": "Drag reduction or reward hacking? Recurrent multi-agent reinforcement learning that earns its reward",
-    "arxiv_id": "2606.06227v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-07T11:46:25.284663"
-  },
-  "2606.05950v1": {
-    "title": "Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing",
-    "arxiv_id": "2606.05950v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-07T11:46:25.284663"
-  },
-  "2606.05275": {
-    "title": "Personal AI Agent for Camera Roll VQA",
-    "arxiv_id": "2606.05275",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-07T11:46:25.284663"
-  },
   "2606.07036v1": {
     "title": "STREAM: Stochastic Riemannian Flow Matching with Anisotropic Decoder for Digital Histopathology Image Generation",
     "arxiv_id": "2606.07036v1",
@@ -1120,5 +1096,53 @@
     "arxiv_id": "2607.01071",
     "tier": "worth_noting",
     "date_shown": "2026-07-03T12:07:17.663759"
+  },
+  "2607.05381v1": {
+    "title": "What Does a Discrete Diffusion Model Learn?",
+    "arxiv_id": "2607.05381v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-07T12:25:15.334551"
+  },
+  "2607.05369v1": {
+    "title": "GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks",
+    "arxiv_id": "2607.05369v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-07T12:25:15.334551"
+  },
+  "2607.05346v1": {
+    "title": "OptiAgent: End-to-End Optimization Modeling via Multi-Agent Iterative Refinement",
+    "arxiv_id": "2607.05346v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-07T12:25:15.334551"
+  },
+  "2607.05252v1": {
+    "title": "FUSE: FK-Steered Multi-Modal Flow Matching for Efficient Simulation-Based Posterior Estimation",
+    "arxiv_id": "2607.05252v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-07T12:25:15.334551"
+  },
+  "2607.05029v1": {
+    "title": "Your Agent's Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses",
+    "arxiv_id": "2607.05029v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-07T12:25:15.334551"
+  },
+  "2607.04978v1": {
+    "title": "Qantara: Bridge-Flow Training for Multi-Paradigm JEPA Control",
+    "arxiv_id": "2607.04978v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-07T12:25:15.334551"
+  },
+  "2607.03524": {
+    "title": "Perceptual Flow Matching for Few-Step Generative Modeling",
+    "arxiv_id": "2607.03524",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-07T12:25:15.334551"
+  },
+  "2607.04428": {
+    "title": "dOPSD: On-Policy Self-Distillation for Diffusion Language Models",
+    "arxiv_id": "2607.04428",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-07T12:25:15.334551"
   }
 }
