@@ -1,70 +1,4 @@
 {
-  "2606.07036v1": {
-    "title": "STREAM: Stochastic Riemannian Flow Matching with Anisotropic Decoder for Digital Histopathology Image Generation",
-    "arxiv_id": "2606.07036v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-08T14:04:22.388105"
-  },
-  "2606.07513v1": {
-    "title": "Agentopia: Long-Term Life Simulation and Learning in Agent Societies",
-    "arxiv_id": "2606.07513v1",
-    "tier": "must_read",
-    "date_shown": "2026-06-08T14:04:22.388105"
-  },
-  "2606.07299v1": {
-    "title": "DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning",
-    "arxiv_id": "2606.07299v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-08T14:04:22.388105"
-  },
-  "hash:097ca3f263e0f57b": {
-    "title": "[Blog] The Open Source Community is backing OpenEnv for Agentic RL",
-    "arxiv_id": "",
-    "tier": "must_read",
-    "date_shown": "2026-06-08T14:04:22.388105"
-  },
-  "2606.07316v1": {
-    "title": "Hierarchical Certified Semantic Commitment for Byzantine-Resilient LLM-Agent Collaboration",
-    "arxiv_id": "2606.07316v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-08T14:04:22.388105"
-  },
-  "2606.09751v1": {
-    "title": "Collaborative Human-Agent Protocol (CHAP)",
-    "arxiv_id": "2606.09751v1",
-    "tier": "must_read",
-    "date_shown": "2026-06-09T12:35:16.276098"
-  },
-  "2606.09800v1": {
-    "title": "FASE: Fast Adaptive Semantic Entropy for Code Quality",
-    "arxiv_id": "2606.09800v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-09T12:35:16.276098"
-  },
-  "2606.09610v1": {
-    "title": "Shape Formation for the Cooperative Transportation of Arbitrary Objects Using Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2606.09610v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-09T12:35:16.276098"
-  },
-  "2606.09483v1": {
-    "title": "Memory Beyond Recall: A Dual-Process Cognitive Memory System for Self-Evolving LLM Agents",
-    "arxiv_id": "2606.09483v1",
-    "tier": "must_read",
-    "date_shown": "2026-06-09T12:35:16.276098"
-  },
-  "2606.09198v1": {
-    "title": "MASS: Deep Research for Social Sciences with Memory-Augmented Social Simulation",
-    "arxiv_id": "2606.09198v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-09T12:35:16.276098"
-  },
-  "2606.09816v1": {
-    "title": "PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws",
-    "arxiv_id": "2606.09816v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-09T12:35:16.276098"
-  },
   "2606.11119v1": {
     "title": "TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning",
     "arxiv_id": "2606.11119v1",
@@ -1168,5 +1102,77 @@
     "arxiv_id": "2607.05773v1",
     "tier": "worth_noting",
     "date_shown": "2026-07-08T11:44:52.172891"
+  },
+  "2607.07508": {
+    "title": "Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning",
+    "arxiv_id": "2607.07508",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-10T12:22:59.978915"
+  },
+  "2607.08662v1": {
+    "title": "WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search",
+    "arxiv_id": "2607.08662v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-10T12:22:59.978915"
+  },
+  "2607.08056v1": {
+    "title": "Reinforcing the Generation Order of Multimodal Masked Diffusion Models",
+    "arxiv_id": "2607.08056v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-10T12:22:59.978915"
+  },
+  "2607.08681v1": {
+    "title": "SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets",
+    "arxiv_id": "2607.08681v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-10T12:22:59.978915"
+  },
+  "2607.08403v1": {
+    "title": "Game Theory Driven Multi-Agent Framework Mitigates Language Model Hallucination",
+    "arxiv_id": "2607.08403v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-10T12:22:59.978915"
+  },
+  "2607.08392v1": {
+    "title": "Joint Discrete-Continuous Flow Matching for Open-Vocabulary Inverse Design of Multilayer Optical Coatings",
+    "arxiv_id": "2607.08392v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-10T12:22:59.978915"
+  },
+  "2607.08357v1": {
+    "title": "MobiDiff: Semantic-Aware Multi-Channel Discrete Diffusion for Human Mobility Data Generation",
+    "arxiv_id": "2607.08357v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-10T12:22:59.978915"
+  },
+  "2607.08282v1": {
+    "title": "Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models",
+    "arxiv_id": "2607.08282v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-10T12:22:59.978915"
+  },
+  "2607.08193v1": {
+    "title": "Open-ended Multi-agent Autocurricula via Visual Inspection of Policies with Multi-modal LLMs",
+    "arxiv_id": "2607.08193v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-10T12:22:59.978915"
+  },
+  "2607.08080v1": {
+    "title": "MASTE: A Multi-Agent Pipeline for Zero-Shot Aspect Sentiment Triplet Extraction",
+    "arxiv_id": "2607.08080v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-10T12:22:59.978915"
+  },
+  "2607.08032v1": {
+    "title": "What to Keep, What to Forget: A Rate--Distortion View of Memory Compaction in LLMs and Agents",
+    "arxiv_id": "2607.08032v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-10T12:22:59.978915"
+  },
+  "2607.04540": {
+    "title": "SceneFrom3D: Geometry-Conditioned Outdoor 3D Scene Generation via View Scheduling with Object-Level Control",
+    "arxiv_id": "2607.04540",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-10T12:22:59.978915"
   }
 }
