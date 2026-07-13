@@ -1,106 +1,4 @@
 {
-  "2606.13565v1": {
-    "title": "A2D2: Fine-Tuning Any-Length Discrete Diffusion for Adaptive Decoding",
-    "arxiv_id": "2606.13565v1",
-    "tier": "must_read",
-    "date_shown": "2026-06-12T12:53:40.830681"
-  },
-  "2606.13604v1": {
-    "title": "Multi-Agent Reinforcement Learning from Delayed Marketplace Feedback for Objective-Weight Adaptation in Three-Sided Dispatch",
-    "arxiv_id": "2606.13604v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-12T12:53:40.830681"
-  },
-  "2606.13598v1": {
-    "title": "Reward Modeling for Multi-Agent Orchestration",
-    "arxiv_id": "2606.13598v1",
-    "tier": "must_read",
-    "date_shown": "2026-06-12T12:53:40.830681"
-  },
-  "2606.13400v1": {
-    "title": "PolyFlow: Safe and Efficient Polytope-Constrained Flow Matching with Constraint Embedding and Projection-free Update",
-    "arxiv_id": "2606.13400v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-12T12:53:40.830681"
-  },
-  "2606.13262v1": {
-    "title": "From Verdict to Process: Agentic Reinforcement Learning for Multi-Stage Fact Verification",
-    "arxiv_id": "2606.13262v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-12T12:53:40.830681"
-  },
-  "2606.13197v1": {
-    "title": "ARMOR-MAD: Adaptive Routing for Heterogeneous Multi-Agent Debate in Large Language Model Reasoning",
-    "arxiv_id": "2606.13197v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-12T12:53:40.830681"
-  },
-  "2606.13177v1": {
-    "title": "MemRefine: LLM-Guided Compression for Long-Term Agent Memory",
-    "arxiv_id": "2606.13177v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-12T12:53:40.830681"
-  },
-  "2606.13679": {
-    "title": "InterleaveThinker: Reinforcing Agentic Interleaved Generation",
-    "arxiv_id": "2606.13679",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-12T12:53:40.830681"
-  },
-  "2606.13662v1": {
-    "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
-    "arxiv_id": "2606.13662v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-12T12:53:40.830681"
-  },
-  "2606.13076v1": {
-    "title": "$α$-fair heterogeneous agent reinforcement learning",
-    "arxiv_id": "2606.13076v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-13T11:53:28.444225"
-  },
-  "2606.12282": {
-    "title": "PianoKontext: Expressive Performance Rendering from Deadpan Context",
-    "arxiv_id": "2606.12282",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-13T11:53:28.444225"
-  },
-  "2606.13426v1": {
-    "title": "Accelerating Speculative Diffusions via Block Verification",
-    "arxiv_id": "2606.13426v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-13T11:53:28.444225"
-  },
-  "2606.13347v1": {
-    "title": "Enhanced Low-Density Region Exploration in Classifier-Guided Diffusion Models Through Modified Reverse Diffusion Sampling",
-    "arxiv_id": "2606.13347v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-13T11:53:28.444225"
-  },
-  "2606.13240v1": {
-    "title": "Towards More General Control of Diffusion Models Using Jeffrey Guidance",
-    "arxiv_id": "2606.13240v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-13T11:53:28.444225"
-  },
-  "2606.13191v1": {
-    "title": "The Geometry of Phase Transitions in Generative Dynamics via Projection Caustics",
-    "arxiv_id": "2606.13191v1",
-    "tier": "must_read",
-    "date_shown": "2026-06-13T11:53:28.444225"
-  },
-  "2606.13142v1": {
-    "title": "HyPE: Category-Aware Hypergraph Encoding with Persistent Edge Embeddings for Persona-Grounded Dialogue",
-    "arxiv_id": "2606.13142v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-13T11:53:28.444225"
-  },
-  "2606.13035v1": {
-    "title": "TetherCache: Stabilizing Autoregressive Long-Form Video Generation with Gated Recall and Trusted Alignment",
-    "arxiv_id": "2606.13035v1",
-    "tier": "must_read",
-    "date_shown": "2026-06-13T11:53:28.444225"
-  },
   "2606.13608v1": {
     "title": "AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility",
     "arxiv_id": "2606.13608v1",
@@ -1054,5 +952,59 @@
     "arxiv_id": "2607.04540",
     "tier": "worth_noting",
     "date_shown": "2026-07-10T12:22:59.978915"
+  },
+  "2607.09134v1": {
+    "title": "ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models",
+    "arxiv_id": "2607.09134v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-13T12:29:01.921465"
+  },
+  "2607.09422v1": {
+    "title": "Action-Factored Multi-Agent Reinforcement Learning for Scalable Quantum Device Tuning",
+    "arxiv_id": "2607.09422v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-13T12:29:01.921465"
+  },
+  "2607.09403v1": {
+    "title": "Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review",
+    "arxiv_id": "2607.09403v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-13T12:29:01.921465"
+  },
+  "2607.09322v1": {
+    "title": "LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making",
+    "arxiv_id": "2607.09322v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-13T12:29:01.921465"
+  },
+  "2607.09153v1": {
+    "title": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
+    "arxiv_id": "2607.09153v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-13T12:29:01.921465"
+  },
+  "2607.09099v1": {
+    "title": "L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning",
+    "arxiv_id": "2607.09099v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-13T12:29:01.921465"
+  },
+  "2607.09059v1": {
+    "title": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
+    "arxiv_id": "2607.09059v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-13T12:29:01.921465"
+  },
+  "2607.08960v1": {
+    "title": "Eluna: An Agentic LLM System for Automating Warehouse Operations with Reasoning and Task Execution",
+    "arxiv_id": "2607.08960v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-13T12:29:01.921465"
+  },
+  "2607.08877v1": {
+    "title": "FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space",
+    "arxiv_id": "2607.08877v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-13T12:29:01.921465"
   }
 }
