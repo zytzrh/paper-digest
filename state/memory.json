@@ -1,28 +1,4 @@
 {
-  "2606.13608v1": {
-    "title": "AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility",
-    "arxiv_id": "2606.13608v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-14T11:54:54.474603"
-  },
-  "2606.13572v1": {
-    "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages",
-    "arxiv_id": "2606.13572v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-14T11:54:54.474603"
-  },
-  "2606.13594": {
-    "title": "See What I See, Know What I Think: Dense Latent Communication Across Heterogeneous Agents",
-    "arxiv_id": "2606.13594",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-14T11:54:54.474603"
-  },
-  "2606.09290": {
-    "title": "Visual Para-Thinker++: A Single-Policy Multi-Agent Framework for Visual Reasoning",
-    "arxiv_id": "2606.09290",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-14T11:54:54.474603"
-  },
   "2606.12384": {
     "title": "APPO: Agentic Procedural Policy Optimization",
     "arxiv_id": "2606.12384",
@@ -1066,5 +1042,35 @@
     "arxiv_id": "2607.10623",
     "tier": "worth_noting",
     "date_shown": "2026-07-14T11:23:48.575608"
+  },
+  "2607.12861v1": {
+    "title": "Unveiling Complex Collective Behaviors from Simple Rewards",
+    "arxiv_id": "2607.12861v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-15T11:26:19.111999"
+  },
+  "2607.12626v1": {
+    "title": "Gradient-free learning of a closed-loop wall controller for turbulent drag reduction",
+    "arxiv_id": "2607.12626v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-15T11:26:19.111999"
+  },
+  "2607.12616v1": {
+    "title": "The Geometry of Memorization: Finite-Time Spectral Sensitivity as a Diagnostic for Flow Matching Models",
+    "arxiv_id": "2607.12616v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-15T11:26:19.111999"
+  },
+  "2607.12216v1": {
+    "title": "RCWT: Measuring Task-Budget Displacement from Coordination Content in LLM Calls",
+    "arxiv_id": "2607.12216v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-15T11:26:19.111999"
+  },
+  "2607.11250": {
+    "title": "Multi-Agent LLMs Fail to Explore Each Other",
+    "arxiv_id": "2607.11250",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-15T11:26:19.111999"
   }
 }
