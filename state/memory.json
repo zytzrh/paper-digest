@@ -1,58 +1,4 @@
 {
-  "2606.12384": {
-    "title": "APPO: Agentic Procedural Policy Optimization",
-    "arxiv_id": "2606.12384",
-    "tier": "must_read",
-    "date_shown": "2026-06-15T15:45:27.456985"
-  },
-  "2606.14693v1": {
-    "title": "Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2606.14693v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-15T15:45:27.456985"
-  },
-  "2606.14620v1": {
-    "title": "Neither Parallel Nor Sequential: How DiffusionGemma Actually Commits Tokens",
-    "arxiv_id": "2606.14620v1",
-    "tier": "must_read",
-    "date_shown": "2026-06-15T15:45:27.456985"
-  },
-  "2606.14571v1": {
-    "title": "StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance",
-    "arxiv_id": "2606.14571v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-15T15:45:27.456985"
-  },
-  "2606.14470v1": {
-    "title": "GitOfThoughts: Version-Controlled Reasoning and Agent Memory You Can Replay, Diff, and Merge",
-    "arxiv_id": "2606.14470v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-15T15:45:27.456985"
-  },
-  "2606.14249v1": {
-    "title": "HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry",
-    "arxiv_id": "2606.14249v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-15T15:45:27.456985"
-  },
-  "2606.14211v1": {
-    "title": "Closing the Reflection Gap: A Free Calibration Bonus for Agentic RL",
-    "arxiv_id": "2606.14211v1",
-    "tier": "must_read",
-    "date_shown": "2026-06-15T15:45:27.456985"
-  },
-  "2606.14130v1": {
-    "title": "Contract-Based Compositional Shielding for Safe Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2606.14130v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-15T15:45:27.456985"
-  },
-  "2606.14029v1": {
-    "title": "Utility-Constrained Policy Optimization",
-    "arxiv_id": "2606.14029v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-15T15:45:27.456985"
-  },
   "2604.18401": {
     "title": "StepPO: Step-Aligned Policy Optimization for Agentic Reinforcement Learning",
     "arxiv_id": "2604.18401",
@@ -1072,5 +1018,29 @@
     "arxiv_id": "2607.11250",
     "tier": "worth_noting",
     "date_shown": "2026-07-15T11:26:19.111999"
+  },
+  "2607.13431v1": {
+    "title": "Discrete Diffusion Models: A Unified Framework from Tokenization to Generation",
+    "arxiv_id": "2607.13431v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-16T11:36:44.364278"
+  },
+  "2607.13988v1": {
+    "title": "TRACE: Turn-level Reward Assignment via Credit Estimation for Long-Horizon Agents",
+    "arxiv_id": "2607.13988v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-16T11:36:44.364278"
+  },
+  "2607.13841v1": {
+    "title": "Heavy-Tailed Flow Matching via Random Clocks",
+    "arxiv_id": "2607.13841v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-16T11:36:44.364278"
+  },
+  "2607.13655v1": {
+    "title": "Explaining Reinforcement Learning Agents via Inductive Logic Programming",
+    "arxiv_id": "2607.13655v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-16T11:36:44.364278"
   }
 }
