@@ -29,72 +29,6 @@
     "tier": "must_read",
     "date_shown": "2026-07-02T12:08:25.398729"
   },
-  "2606.17680v1": {
-    "title": "EnvRL: Learn from Environment Dynamics in Agentic Reinforcement Learning",
-    "arxiv_id": "2606.17680v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-17T13:40:41.290294"
-  },
-  "2606.17915v1": {
-    "title": "Trustworthy Self-Composable Big-Data-as-a-Service: An LLM-Orchestrated Multi-Agent Framework for Automated Data Engineering, AutoML, MLOps Deployment, and Drift-Aware Lifecycle Optimization",
-    "arxiv_id": "2606.17915v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-17T13:40:41.290294"
-  },
-  "2606.18223v1": {
-    "title": "Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents",
-    "arxiv_id": "2606.18223v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-17T13:40:41.290294"
-  },
-  "2606.18195v1": {
-    "title": "Learning from the Self-future: On-policy Self-distillation for dLLMs",
-    "arxiv_id": "2606.18195v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-17T13:40:41.290294"
-  },
-  "2606.18068v1": {
-    "title": "Agentic AI-based Framework for Mitigating Premature Diagnostic Handoff and Silent Hallucination in Healthcare Applications",
-    "arxiv_id": "2606.18068v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-17T13:40:41.290294"
-  },
-  "2606.18043v1": {
-    "title": "Uncertainty Quantification for Flow-Based Vision-Language-Action Models",
-    "arxiv_id": "2606.18043v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-17T13:40:41.290294"
-  },
-  "2606.17999v1": {
-    "title": "VoidPadding: Let [VOID] Handle Padding in Masked Diffusion Language Models so that [EOS] Can Focus on Semantic Termination",
-    "arxiv_id": "2606.17999v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-17T13:40:41.290294"
-  },
-  "2606.17962v1": {
-    "title": "A Neuro-Symbolic Approach to Strategy Synthesis for Strategic Logics",
-    "arxiv_id": "2606.17962v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-17T13:40:41.290294"
-  },
-  "2606.17838v1": {
-    "title": "Environment-Grounded Automated Prompt Optimization for LLM Game Agents",
-    "arxiv_id": "2606.17838v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-17T13:40:41.290294"
-  },
-  "2606.17682v1": {
-    "title": "From Trainee to Trainer: LLM-Designed Training Environment for RL with Multi-Agent Reasoning",
-    "arxiv_id": "2606.17682v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-17T13:40:41.290294"
-  },
-  "2606.16428": {
-    "title": "LectūraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching",
-    "arxiv_id": "2606.16428",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-17T13:40:41.290294"
-  },
   "2606.19005v1": {
     "title": "Sumi: Open Uniform Diffusion Language Model from Scratch",
     "arxiv_id": "2606.19005v1",
@@ -1024,5 +958,29 @@
     "arxiv_id": "2607.14652v1",
     "tier": "worth_noting",
     "date_shown": "2026-07-17T11:19:12.109665"
+  },
+  "2607.15095v1": {
+    "title": "Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents",
+    "arxiv_id": "2607.15095v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-18T10:59:49.619143"
+  },
+  "2607.15247v1": {
+    "title": "AutoSynthesis: An agentic system for automated meta-analysis",
+    "arxiv_id": "2607.15247v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-18T10:59:49.619143"
+  },
+  "2607.15079v1": {
+    "title": "BrainPilot: Automating Brain Discovery with Agentic Research",
+    "arxiv_id": "2607.15079v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-18T10:59:49.619143"
+  },
+  "2607.14106": {
+    "title": "Token Time Continuous Diffusion for Language Modeling",
+    "arxiv_id": "2607.14106",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-18T10:59:49.619143"
   }
 }
