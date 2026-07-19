@@ -29,54 +29,6 @@
     "tier": "must_read",
     "date_shown": "2026-07-02T12:08:25.398729"
   },
-  "2606.19005v1": {
-    "title": "Sumi: Open Uniform Diffusion Language Model from Scratch",
-    "arxiv_id": "2606.19005v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-18T12:50:02.796514"
-  },
-  "2606.19308v1": {
-    "title": "Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play",
-    "arxiv_id": "2606.19308v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-18T12:50:02.796514"
-  },
-  "2606.19257v1": {
-    "title": "DreamReasoner-8B: Block-Size Curriculum Learning for Diffusion Reasoning Models",
-    "arxiv_id": "2606.19257v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-18T12:50:02.796514"
-  },
-  "2606.19162v1": {
-    "title": "The Reward Was in Your Data All Along: Correcting Flow Matching with Discriminator-Guided RL",
-    "arxiv_id": "2606.19162v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-18T12:50:02.796514"
-  },
-  "2606.18837v1": {
-    "title": "Skill-MAS: Evolving Meta-Skill for Automatic Multi-Agent Systems",
-    "arxiv_id": "2606.18837v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-18T12:50:02.796514"
-  },
-  "2606.18786v1": {
-    "title": "R2D-RL: A RoboCup 2D Soccer Environment for Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2606.18786v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-18T12:50:02.796514"
-  },
-  "2606.17682": {
-    "title": "From Trainee to Trainer: LLM-Designed Training Environment for RL with Multi-Agent Reasoning",
-    "arxiv_id": "2606.17682",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-18T12:50:02.796514"
-  },
-  "2606.18195": {
-    "title": "Learning from the Self-future: On-policy Self-distillation for dLLMs",
-    "arxiv_id": "2606.18195",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-18T12:50:02.796514"
-  },
   "2606.20014v1": {
     "title": "Hierarchical Control in Multi-Agent Games: LLM-based Planning and RL Execution",
     "arxiv_id": "2606.20014v1",
