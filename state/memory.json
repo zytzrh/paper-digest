@@ -29,114 +29,6 @@
     "tier": "must_read",
     "date_shown": "2026-07-02T12:08:25.398729"
   },
-  "2606.20014v1": {
-    "title": "Hierarchical Control in Multi-Agent Games: LLM-based Planning and RL Execution",
-    "arxiv_id": "2606.20014v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-19T13:32:56.069244"
-  },
-  "2606.15872": {
-    "title": "SciOrch: Learning to Orchestrate Expert LLMs for Solving Frontier Multimodal Scientific Reasoning Tasks",
-    "arxiv_id": "2606.15872",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-19T13:32:56.069244"
-  },
-  "2606.20101v1": {
-    "title": "Hybrid Diffusion Transformer for Instruction-Guided Audio Editing via Rectified Flow",
-    "arxiv_id": "2606.20101v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-19T13:32:56.069244"
-  },
-  "2606.20493v1": {
-    "title": "Contagion Networks: Evaluator Bias Propagation in Multi-Agent LLM Systems",
-    "arxiv_id": "2606.20493v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-19T13:32:56.069244"
-  },
-  "2606.20485v1": {
-    "title": "Optimal Order of Multi-Agent and General Many-Body Systems",
-    "arxiv_id": "2606.20485v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-19T13:32:56.069244"
-  },
-  "2606.20373v1": {
-    "title": "AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning",
-    "arxiv_id": "2606.20373v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-19T13:32:56.069244"
-  },
-  "2606.20236v1": {
-    "title": "A Multi-Agent system for Multi-Objective constrained optimization",
-    "arxiv_id": "2606.20236v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-19T13:32:56.069244"
-  },
-  "2606.20209v1": {
-    "title": "FlowMaps: Modeling Long-Term Multimodal Object Dynamics with Flow Matching",
-    "arxiv_id": "2606.20209v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-19T13:32:56.069244"
-  },
-  "2606.20135v1": {
-    "title": "Frequency-Aware Flow Matching for Continuous and Consistent Robotic Action Generation",
-    "arxiv_id": "2606.20135v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-19T13:32:56.069244"
-  },
-  "2606.20084v1": {
-    "title": "Residual-Space Evolutionary Optimization via Flow-based Generative Models",
-    "arxiv_id": "2606.20084v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-19T13:32:56.069244"
-  },
-  "2606.20058v1": {
-    "title": "Autonomous Event-Driven Multi-Agent Orchestration for Enterprise AI at Scale",
-    "arxiv_id": "2606.20058v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-19T13:32:56.069244"
-  },
-  "2606.19920v1": {
-    "title": "Deep-Unfolded Coordination",
-    "arxiv_id": "2606.19920v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-19T13:32:56.069244"
-  },
-  "2606.19911v1": {
-    "title": "Multi-Agent Transactive Memory",
-    "arxiv_id": "2606.19911v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-19T13:32:56.069244"
-  },
-  "2606.19893v1": {
-    "title": "MetaResearcher: Scaling Deep Research via Self-Reflective Reinforcement Learning in Adversarial Virtual Environments",
-    "arxiv_id": "2606.19893v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-19T13:32:56.069244"
-  },
-  "2606.20515": {
-    "title": "S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence",
-    "arxiv_id": "2606.20515",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-19T13:32:56.069244"
-  },
-  "2606.06614": {
-    "title": "Re-Centering Humans in LLM Personalization",
-    "arxiv_id": "2606.06614",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-19T13:32:56.069244"
-  },
-  "2606.19162": {
-    "title": "The Reward Was in Your Data All Along: Correcting Flow Matching with Discriminator-Guided RL",
-    "arxiv_id": "2606.19162",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-19T13:32:56.069244"
-  },
-  "2606.05985": {
-    "title": "Beyond Alignment: Value Diversity as a Collective Property in Multicultural Agent Systems",
-    "arxiv_id": "2606.05985",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-19T13:32:56.069244"
-  },
   "2606.19534": {
     "title": "PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models",
     "arxiv_id": "2606.19534",
@@ -934,5 +826,89 @@
     "arxiv_id": "2607.14106",
     "tier": "worth_noting",
     "date_shown": "2026-07-18T10:59:49.619143"
+  },
+  "2607.16169v1": {
+    "title": "When Does Muon Help Agentic Reinforcement Learning?",
+    "arxiv_id": "2607.16169v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-20T12:13:58.216438"
+  },
+  "2607.15660v1": {
+    "title": "ToolVerse: Unlocking Massive Environments and Long-Horizon Tasks for Agentic Reinforcement Learning",
+    "arxiv_id": "2607.15660v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-20T12:13:58.216438"
+  },
+  "2607.15257": {
+    "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+    "arxiv_id": "2607.15257",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-20T12:13:58.216438"
+  },
+  "2607.16144v1": {
+    "title": "Learning Standard Model structure from LHC data with Riemannian flow matching",
+    "arxiv_id": "2607.16144v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-20T12:13:58.216438"
+  },
+  "2607.16133v1": {
+    "title": "When Do Multi-Agent Systems Help? An Information Bottleneck Perspective",
+    "arxiv_id": "2607.16133v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-20T12:13:58.216438"
+  },
+  "2607.16066v1": {
+    "title": "LLM-Powered Agentic AI for 5G/6G Networks: A Tutorial and Survey on Architectures, Protocols, and Standardization",
+    "arxiv_id": "2607.16066v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-20T12:13:58.216438"
+  },
+  "2607.15893v1": {
+    "title": "Induction in Both Directions: A Mechanistic Analysis of In-Context Learning in Masked Diffusion Language Models",
+    "arxiv_id": "2607.15893v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-20T12:13:58.216438"
+  },
+  "2607.15781v1": {
+    "title": "AgentFAIR: A Multi-Agent Collaborative Framework for FAIRness Evaluation of Geospatial Datasets",
+    "arxiv_id": "2607.15781v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-20T12:13:58.216438"
+  },
+  "2607.15655v1": {
+    "title": "Adaptive Multi-Step Lookahead Decoding for Diffusion Language Models",
+    "arxiv_id": "2607.15655v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-20T12:13:58.216438"
+  },
+  "2607.15434v1": {
+    "title": "Coercion and Deception in AI-to-AI Management: An Agentic Benchmark of Unprompted Escalation",
+    "arxiv_id": "2607.15434v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-20T12:13:58.216438"
+  },
+  "2607.15388v1": {
+    "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
+    "arxiv_id": "2607.15388v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-20T12:13:58.216438"
+  },
+  "2607.15367v1": {
+    "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
+    "arxiv_id": "2607.15367v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-20T12:13:58.216438"
+  },
+  "2607.15591": {
+    "title": "RecGPT-V3 Technical Report",
+    "arxiv_id": "2607.15591",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-20T12:13:58.216438"
+  },
+  "2607.14777": {
+    "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
+    "arxiv_id": "2607.14777",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-20T12:13:58.216438"
   }
 }
