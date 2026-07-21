@@ -3,31 +3,31 @@
     "title": "Large Language Models with Reinforcement Learning from Human Feedback Approach for Enhancing Explainable Sexism Detection",
     "arxiv_id": "",
     "tier": "must_read",
-    "date_shown": "2026-07-02T12:08:25.398729"
+    "date_shown": "2026-07-21T11:45:39.544385"
   },
   "2512.22925": {
     "title": "Argus: Token Aware Distributed LLM Inference Optimization",
     "arxiv_id": "2512.22925",
     "tier": "must_read",
-    "date_shown": "2026-07-02T12:08:25.398729"
+    "date_shown": "2026-07-21T11:45:39.544385"
   },
   "2506.08551": {
     "title": "DeepForm: Reasoning Large Language Model for Communication System Formulation",
     "arxiv_id": "2506.08551",
     "tier": "must_read",
-    "date_shown": "2026-07-02T12:08:25.398729"
+    "date_shown": "2026-07-21T11:45:39.544385"
   },
   "hash:42bb407ddaa2a80f": {
     "title": "Survey of uncertainty estimation in LLMs - Sources, methods, applications, and challenges",
     "arxiv_id": "",
     "tier": "must_read",
-    "date_shown": "2026-07-02T12:08:25.398729"
+    "date_shown": "2026-07-21T11:45:39.544385"
   },
   "2511.03166": {
     "title": "Measuring Aleatoric and Epistemic Uncertainty in LLMs: Empirical Evaluation on ID and OOD QA Tasks",
     "arxiv_id": "2511.03166",
     "tier": "must_read",
-    "date_shown": "2026-07-02T12:08:25.398729"
+    "date_shown": "2026-07-21T11:45:39.544385"
   },
   "2606.19534": {
     "title": "PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models",
@@ -910,5 +910,83 @@
     "arxiv_id": "2607.14777",
     "tier": "worth_noting",
     "date_shown": "2026-07-20T12:13:58.216438"
+  },
+  "hash:b393ca398012c489": {
+    "title": "Conditional Contrastive Confidence-Based Uncertainty Quantification for LLMs",
+    "arxiv_id": "",
+    "tier": "must_read",
+    "date_shown": "2026-07-21T11:45:39.544385"
+  },
+  "2607.16169": {
+    "title": "When Does Muon Help Agentic Reinforcement Learning?",
+    "arxiv_id": "2607.16169",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-21T11:45:39.544385"
+  },
+  "2607.17572v1": {
+    "title": "AGG: Jacobian-Aggregated Group Gradient for Efficient GRPO Training of Diffusion Models",
+    "arxiv_id": "2607.17572v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-21T11:45:39.544385"
+  },
+  "2607.18102v1": {
+    "title": "FinSAgent: Corpus-Aligned Multi-Agent RAG Framework for Evidence-Grounded SEC Filing Question Answering",
+    "arxiv_id": "2607.18102v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-21T11:45:39.544385"
+  },
+  "2607.18006v1": {
+    "title": "MADA-RL: Multi-Agent Debate-Aware Reinforcement Learning for Parameter-Efficient Reasoning in Compact Models",
+    "arxiv_id": "2607.18006v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-21T11:45:39.544385"
+  },
+  "2607.17924v1": {
+    "title": "Aggregate in the Advantage, Not the Ratio: A Canonical-Form Analysis of Cooperative Multi-Agent Policy Optimization",
+    "arxiv_id": "2607.17924v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-21T11:45:39.544385"
+  },
+  "2607.17922v1": {
+    "title": "PRIME: Plasticity Recovery in Multi-Agent Environments for UAV-Assisted Emergency Communication Networks",
+    "arxiv_id": "2607.17922v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-21T11:45:39.544385"
+  },
+  "2607.17914v1": {
+    "title": "Value-Aware Prediction for Robust Multi-Agent Coordination Under Communication Loss",
+    "arxiv_id": "2607.17914v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-21T11:45:39.544385"
+  },
+  "2607.17724v1": {
+    "title": "Lifelong Multi-Subsystem Pickup and Delivery with Buffer-Limited Handover Stations",
+    "arxiv_id": "2607.17724v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-21T11:45:39.544385"
+  },
+  "2607.17652v1": {
+    "title": "FlowBlock: Wavefront-Parallel Decoding for Self-Correcting Diffusion Language Models",
+    "arxiv_id": "2607.17652v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-21T11:45:39.544385"
+  },
+  "2607.17621v1": {
+    "title": "Mechanistic Attention Guidance for Agent Memory Refinement",
+    "arxiv_id": "2607.17621v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-21T11:45:39.544385"
+  },
+  "2607.17560v1": {
+    "title": "Reinforcement Learning: From Algorithms To Foundation Models",
+    "arxiv_id": "2607.17560v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-21T11:45:39.544385"
+  },
+  "2607.17545v1": {
+    "title": "Retain or Consolidate? Budget-Dependent Operator Selection for Language Agent Memory",
+    "arxiv_id": "2607.17545v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-21T11:45:39.544385"
   }
 }
