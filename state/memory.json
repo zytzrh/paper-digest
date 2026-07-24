@@ -29,60 +29,6 @@
     "tier": "must_read",
     "date_shown": "2026-07-21T11:45:39.544385"
   },
-  "2606.22995v1": {
-    "title": "Group-Graph Policy Optimization for Long-Horizon Agentic Reinforcement Learning",
-    "arxiv_id": "2606.22995v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-23T12:30:26.962401"
-  },
-  "2606.23664v1": {
-    "title": "MAS-PromptBench: When Does Prompt Optimization Improve Multi-Agent LLM Systems?",
-    "arxiv_id": "2606.23664v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-23T12:30:26.962401"
-  },
-  "2606.23567v1": {
-    "title": "Scheduling Thoughts: Learning the Order of Thought in Diffusion Language Models",
-    "arxiv_id": "2606.23567v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-23T12:30:26.962401"
-  },
-  "2606.23195v1": {
-    "title": "Memory Contagion: Cross-Temporal Propagation of Evaluator Bias via Agent Memory",
-    "arxiv_id": "2606.23195v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-23T12:30:26.962401"
-  },
-  "2606.23489": {
-    "title": "MeshFlow: Mesh Generation with Equivariant Flow Matching",
-    "arxiv_id": "2606.23489",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-23T12:30:26.962401"
-  },
-  "2606.23267": {
-    "title": "Safe Few-Step Generation via Velocity Editing",
-    "arxiv_id": "2606.23267",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-23T12:30:26.962401"
-  },
-  "2606.19409": {
-    "title": "OpenRath: Session-Centered Runtime State for Agent Systems",
-    "arxiv_id": "2606.19409",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-23T12:30:26.962401"
-  },
-  "2606.11075": {
-    "title": "Exploring the Design Space of Reward Backpropagation for Flow Matching",
-    "arxiv_id": "2606.11075",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-23T12:30:26.962401"
-  },
-  "2606.18648": {
-    "title": "Deep Research in Physical Sciences: A Multi-Agent Framework and Comprehensive Benchmark",
-    "arxiv_id": "2606.18648",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-23T12:30:26.962401"
-  },
   "2606.25331v1": {
     "title": "Improved Large Language Diffusion Models",
     "arxiv_id": "2606.25331v1",
@@ -1054,5 +1000,71 @@
     "arxiv_id": "2607.19064",
     "tier": "worth_noting",
     "date_shown": "2026-07-23T11:48:38.849983"
+  },
+  "2607.21594": {
+    "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
+    "arxiv_id": "2607.21594",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-24T11:38:58.992438"
+  },
+  "2607.21522v1": {
+    "title": "GS-Agent: Creating 4D Physical Worlds With Generative Simulation",
+    "arxiv_id": "2607.21522v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-24T11:38:58.992438"
+  },
+  "2607.21503v1": {
+    "title": "Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
+    "arxiv_id": "2607.21503v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-24T11:38:58.992438"
+  },
+  "2607.21488v1": {
+    "title": "Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections",
+    "arxiv_id": "2607.21488v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-24T11:38:58.992438"
+  },
+  "2607.21427v1": {
+    "title": "Context-weighted Discrete Flow Matching",
+    "arxiv_id": "2607.21427v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-24T11:38:58.992438"
+  },
+  "2607.21419v1": {
+    "title": "PATS: Policy-Aware Training Scaffolding for Agentic Reinforcement Learning",
+    "arxiv_id": "2607.21419v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-24T11:38:58.992438"
+  },
+  "2607.21404v1": {
+    "title": "MemTools: A Unified Research Framework for Interoperable Agent Memory",
+    "arxiv_id": "2607.21404v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-24T11:38:58.992438"
+  },
+  "2607.21372v1": {
+    "title": "Mean-to-Score Discrete Diffusion: Posterior-Mean Denoisers for Score Entropy",
+    "arxiv_id": "2607.21372v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-24T11:38:58.992438"
+  },
+  "2607.21324v1": {
+    "title": "GRADRAG: Cross-Component Prompt Adaptation for Coordinated Multi-Agent RAG",
+    "arxiv_id": "2607.21324v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-24T11:38:58.992438"
+  },
+  "2607.21268v1": {
+    "title": "pAI-Econ-claude: A Gated Human-in-the-Loop Multi-Agent Architecture for AI-Assisted Economic Theory Development",
+    "arxiv_id": "2607.21268v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-24T11:38:58.992438"
+  },
+  "2607.21106v1": {
+    "title": "AttriMem: Attribution-Guided Process Feedback for Agent Memory Learning",
+    "arxiv_id": "2607.21106v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-24T11:38:58.992438"
   }
 }
