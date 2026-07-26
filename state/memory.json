@@ -29,90 +29,6 @@
     "tier": "must_read",
     "date_shown": "2026-07-21T11:45:39.544385"
   },
-  "2606.25331v1": {
-    "title": "Improved Large Language Diffusion Models",
-    "arxiv_id": "2606.25331v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-25T12:15:01.614004"
-  },
-  "2606.24937": {
-    "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
-    "arxiv_id": "2606.24937",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-25T12:15:01.614004"
-  },
-  "2606.26027v1": {
-    "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
-    "arxiv_id": "2606.26027v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-25T12:15:01.614004"
-  },
-  "2606.25978v1": {
-    "title": "Multi-Agent Goal Recognition with Team- and Goal-Conditioned Reinforcement Learning and Factorized Branch-and-Bound",
-    "arxiv_id": "2606.25978v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-25T12:15:01.614004"
-  },
-  "2606.25651v1": {
-    "title": "MedGuards: Multi-Agent System for Reliable Medical Error Detection and Correction",
-    "arxiv_id": "2606.25651v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-25T12:15:01.614004"
-  },
-  "2606.25532v1": {
-    "title": "Agentic evolution of physically constrained foundation models",
-    "arxiv_id": "2606.25532v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-25T12:15:01.614004"
-  },
-  "2606.25526v1": {
-    "title": "Low Variance Trust Region Optimization with Independent Actors and Sequential Updates in Cooperative Multi-agent Reinforcement Learning",
-    "arxiv_id": "2606.25526v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-25T12:15:01.614004"
-  },
-  "2606.25400v1": {
-    "title": "BrainAgent: A Large Language Model-Driven Multi-Agent Framework for Autonomous Brain Signal Understanding",
-    "arxiv_id": "2606.25400v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-25T12:15:01.614004"
-  },
-  "2606.25389v1": {
-    "title": "Offline Multi-agent Continual Cooperation via Skill Partition and Reuse",
-    "arxiv_id": "2606.25389v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-25T12:15:01.614004"
-  },
-  "2606.25358v1": {
-    "title": "Agentic Knowledge Tracing: A Multi-Agent LLM Architecture for Stealth Assessment of Financial Literacy in Serious Games",
-    "arxiv_id": "2606.25358v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-25T12:15:01.614004"
-  },
-  "2606.25335v1": {
-    "title": "Stagnant Neuron: Towards Understanding the Plasticity Loss in Multi-Agent Reinforcement Learning Value Factorization Methods",
-    "arxiv_id": "2606.25335v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-25T12:15:01.614004"
-  },
-  "2606.24775": {
-    "title": "Are We Ready For An Agent-Native Memory System?",
-    "arxiv_id": "2606.24775",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-25T12:15:01.614004"
-  },
-  "2606.24595": {
-    "title": "MEMPROBE: Probing Long-Term Agent Memory via Hidden User-State Recovery",
-    "arxiv_id": "2606.24595",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-25T12:15:01.614004"
-  },
-  "2606.24597": {
-    "title": "Qwen-AgentWorld: Language World Models for General Agents",
-    "arxiv_id": "2606.24597",
-    "tier": "worth_noting",
-    "date_shown": "2026-06-25T12:15:01.614004"
-  },
   "2606.26758v1": {
     "title": "EGG: An Expert-Guided Agent Framework for Kernel Generation",
     "arxiv_id": "2606.26758v1",
@@ -1066,5 +982,11 @@
     "arxiv_id": "2607.21106v1",
     "tier": "worth_noting",
     "date_shown": "2026-07-24T11:38:58.992438"
+  },
+  "2607.21210v1": {
+    "title": "Explainable Belief Harmonization under Dynamic Epistemic Partitions",
+    "arxiv_id": "2607.21210v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-26T11:16:13.459889"
   }
 }
