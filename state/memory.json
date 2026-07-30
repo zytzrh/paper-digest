@@ -1096,5 +1096,71 @@
     "arxiv_id": "2607.24280",
     "tier": "worth_noting",
     "date_shown": "2026-07-29T11:58:16.622425"
+  },
+  "2607.27056v1": {
+    "title": "Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data",
+    "arxiv_id": "2607.27056v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-30T11:49:39.696480"
+  },
+  "2607.26656v1": {
+    "title": "Graph Is the Verifier: Agentic Reinforcement Learning for Interprocedural Vulnerability Detection",
+    "arxiv_id": "2607.26656v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-30T11:49:39.696480"
+  },
+  "2607.26004": {
+    "title": "Parallel Decoding Distillation for Fast Image and Video Generation",
+    "arxiv_id": "2607.26004",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-30T11:49:39.696480"
+  },
+  "2607.27177v1": {
+    "title": "Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork",
+    "arxiv_id": "2607.27177v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-30T11:49:39.696480"
+  },
+  "2607.27080v1": {
+    "title": "MemSecBench: Tracking Agent Memory Poisoning from Persistence to Consequence and Repair",
+    "arxiv_id": "2607.27080v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-30T11:49:39.696480"
+  },
+  "2607.26922v1": {
+    "title": "Two Calls Beat Five Agents: Evaluating Multi-Agent Pipelines Against Self-Refinement for Local Language Models",
+    "arxiv_id": "2607.26922v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-30T11:49:39.696480"
+  },
+  "2607.26784v1": {
+    "title": "SkillRise: Agentic Reinforcement Learning for Cross-Task Skill Evolution",
+    "arxiv_id": "2607.26784v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-30T11:49:39.696480"
+  },
+  "2607.26773v1": {
+    "title": "Do Latent Channels Actually Communicate? A Causal Audit of Latent Multi-Agent LLM",
+    "arxiv_id": "2607.26773v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-30T11:49:39.696480"
+  },
+  "2607.26760v1": {
+    "title": "Metis: Memory Foundation Model",
+    "arxiv_id": "2607.26760v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-30T11:49:39.696480"
+  },
+  "2607.26724v1": {
+    "title": "UrbanDS: A Graph-Guided LLM Multi-Agent System for Data-Intensive Urban Tasks",
+    "arxiv_id": "2607.26724v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-30T11:49:39.696480"
+  },
+  "2607.26637v1": {
+    "title": "Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability",
+    "arxiv_id": "2607.26637v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-07-30T11:49:39.696480"
   }
 }
