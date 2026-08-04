@@ -1108,5 +1108,47 @@
     "arxiv_id": "2607.23802",
     "tier": "worth_noting",
     "date_shown": "2026-08-03T12:53:31.696927"
+  },
+  "2608.02602v1": {
+    "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
+    "arxiv_id": "2608.02602v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-04T12:00:26.201021"
+  },
+  "2608.01990v1": {
+    "title": "SPARE: Structural Parameter-Free Affinity Regularization for Flow Matching",
+    "arxiv_id": "2608.01990v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-04T12:00:26.201021"
+  },
+  "2608.02508v1": {
+    "title": "RoMeRL: Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via Reduced-Order Utility States",
+    "arxiv_id": "2608.02508v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-04T12:00:26.201021"
+  },
+  "2608.02291v1": {
+    "title": "Shared Prefixes, Better Credit: Adaptive Routing for Multi-Agent Reasoning",
+    "arxiv_id": "2608.02291v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-04T12:00:26.201021"
+  },
+  "2608.02101v1": {
+    "title": "Cross-Domain Hybrid OPD for Generalizable Search Agents",
+    "arxiv_id": "2608.02101v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-04T12:00:26.201021"
+  },
+  "2608.02005v1": {
+    "title": "Evolving in the Agent Jungle via History-Informed Opponent Awareness",
+    "arxiv_id": "2608.02005v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-04T12:00:26.201021"
+  },
+  "2608.00146": {
+    "title": "DiffusionGemma Technical Report",
+    "arxiv_id": "2608.00146",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-04T12:00:26.201021"
   }
 }
