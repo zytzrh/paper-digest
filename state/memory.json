@@ -1150,5 +1150,71 @@
     "arxiv_id": "2608.00146",
     "tier": "worth_noting",
     "date_shown": "2026-08-04T12:00:26.201021"
+  },
+  "2608.02602": {
+    "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
+    "arxiv_id": "2608.02602",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-05T11:56:44.180503"
+  },
+  "2608.03962v1": {
+    "title": "Separating quantum circuits from classical LLMs",
+    "arxiv_id": "2608.03962v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-05T11:56:44.180503"
+  },
+  "2608.03852v1": {
+    "title": "FedCritic-MIMO: Communication-Efficient Serverless Federated Critic Learning for Massive-MIMO Resource Control in Open and Disaggregated 6G RANs",
+    "arxiv_id": "2608.03852v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-05T11:56:44.180503"
+  },
+  "2608.03769v1": {
+    "title": "MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models",
+    "arxiv_id": "2608.03769v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-05T11:56:44.180503"
+  },
+  "2608.03744v1": {
+    "title": "Agents Catching Agents: Shortcut Cascades and Benchmark Gaming in Clinical Multi-Agent Systems",
+    "arxiv_id": "2608.03744v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-05T11:56:44.180503"
+  },
+  "2608.03644v1": {
+    "title": "Is Inter-Seed Cross-Play Enough? Evaluating the Robustness of Zero-Shot Coordination Algorithms to Implementation Details",
+    "arxiv_id": "2608.03644v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-05T11:56:44.180503"
+  },
+  "2608.03502v1": {
+    "title": "Hybrid LLM-Augmented Reinforcement Learning Agents for Complex Sequential Decision Tasks",
+    "arxiv_id": "2608.03502v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-05T11:56:44.180503"
+  },
+  "2608.03457v1": {
+    "title": "LLaDA MoE v2: Scaling Mixture-of-Experts Diffusion Language Models",
+    "arxiv_id": "2608.03457v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-05T11:56:44.180503"
+  },
+  "2608.01837": {
+    "title": "PCSD: Persistent Consistency for Self-Distillation in Agentic Reinforcement Learning",
+    "arxiv_id": "2608.01837",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-05T11:56:44.180503"
+  },
+  "2607.29377": {
+    "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+    "arxiv_id": "2607.29377",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-05T11:56:44.180503"
+  },
+  "2607.28802": {
+    "title": "Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures",
+    "arxiv_id": "2607.28802",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-05T11:56:44.180503"
   }
 }
