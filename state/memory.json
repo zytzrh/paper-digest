@@ -1216,5 +1216,41 @@
     "arxiv_id": "2607.28802",
     "tier": "worth_noting",
     "date_shown": "2026-08-05T11:56:44.180503"
+  },
+  "2608.04893v1": {
+    "title": "When Does Latent Communication Pay? A Causal Audit of Relayed KV Caches in Multi-Agent LLMs",
+    "arxiv_id": "2608.04893v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-06T12:00:12.136412"
+  },
+  "2608.04788v1": {
+    "title": "Agentic Reinforcement Learning with Observation-Calibrated Self-Distillation",
+    "arxiv_id": "2608.04788v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-06T12:00:12.136412"
+  },
+  "2608.04746v1": {
+    "title": "Caching for the Future: Scrub Jay Episodic Memory Principles for Agent Memory Systems",
+    "arxiv_id": "2608.04746v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-06T12:00:12.136412"
+  },
+  "2608.04663v1": {
+    "title": "Calibrating Artificial Guilt: Neurally Grounded Reward Shaping for Prosocial Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2608.04663v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-06T12:00:12.136412"
+  },
+  "2608.04531v1": {
+    "title": "Discretization and Statistical Consistency of Functional Flow Matching",
+    "arxiv_id": "2608.04531v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-06T12:00:12.136412"
+  },
+  "2608.03457": {
+    "title": "LLaDA MoE v2: Scaling Mixture-of-Experts Diffusion Language Models",
+    "arxiv_id": "2608.03457",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-06T12:00:12.136412"
   }
 }
