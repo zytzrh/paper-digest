@@ -29,54 +29,6 @@
     "tier": "must_read",
     "date_shown": "2026-07-21T11:45:39.544385"
   },
-  "2607.05381v1": {
-    "title": "What Does a Discrete Diffusion Model Learn?",
-    "arxiv_id": "2607.05381v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-07T12:25:15.334551"
-  },
-  "2607.05369v1": {
-    "title": "GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks",
-    "arxiv_id": "2607.05369v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-07T12:25:15.334551"
-  },
-  "2607.05346v1": {
-    "title": "OptiAgent: End-to-End Optimization Modeling via Multi-Agent Iterative Refinement",
-    "arxiv_id": "2607.05346v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-07T12:25:15.334551"
-  },
-  "2607.05252v1": {
-    "title": "FUSE: FK-Steered Multi-Modal Flow Matching for Efficient Simulation-Based Posterior Estimation",
-    "arxiv_id": "2607.05252v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-07T12:25:15.334551"
-  },
-  "2607.05029v1": {
-    "title": "Your Agent's Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses",
-    "arxiv_id": "2607.05029v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-07T12:25:15.334551"
-  },
-  "2607.04978v1": {
-    "title": "Qantara: Bridge-Flow Training for Multi-Paradigm JEPA Control",
-    "arxiv_id": "2607.04978v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-07T12:25:15.334551"
-  },
-  "2607.03524": {
-    "title": "Perceptual Flow Matching for Few-Step Generative Modeling",
-    "arxiv_id": "2607.03524",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-07T12:25:15.334551"
-  },
-  "2607.04428": {
-    "title": "dOPSD: On-Policy Self-Distillation for Diffusion Language Models",
-    "arxiv_id": "2607.04428",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-07T12:25:15.334551"
-  },
   "2607.06370v1": {
     "title": "Training-Free Acceleration for Vision-Language-Action Models with Action Caching and Refinement",
     "arxiv_id": "2607.06370v1",
@@ -1252,5 +1204,71 @@
     "arxiv_id": "2608.03457",
     "tier": "worth_noting",
     "date_shown": "2026-08-06T12:00:12.136412"
+  },
+  "2608.06161v1": {
+    "title": "iARCS: Iterative Agentic RL for Controllable 3D Scene Generation",
+    "arxiv_id": "2608.06161v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-07T10:49:08.563637"
+  },
+  "2608.05792v1": {
+    "title": "When Agentic AI Meets Integrated Sensing and Communication",
+    "arxiv_id": "2608.05792v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-07T10:49:08.563637"
+  },
+  "2608.06240v1": {
+    "title": "PRISM: Distribution-Gated Flow Matching for Controllable Unpaired Image Translation",
+    "arxiv_id": "2608.06240v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-07T10:49:08.563637"
+  },
+  "2608.06197v1": {
+    "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning",
+    "arxiv_id": "2608.06197v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-07T10:49:08.563637"
+  },
+  "2608.06015v1": {
+    "title": "ProDVI: Programmatic Dynamics Priors for Value Network Initialization",
+    "arxiv_id": "2608.06015v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-07T10:49:08.563637"
+  },
+  "2608.05987v1": {
+    "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
+    "arxiv_id": "2608.05987v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-07T10:49:08.563637"
+  },
+  "2608.05791v1": {
+    "title": "A Two-Tier Perspective on Inference-Time Parallelism in Multi-Agent LLM Systems",
+    "arxiv_id": "2608.05791v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-07T10:49:08.563637"
+  },
+  "2608.05785v1": {
+    "title": "Task-Conditional Flow Matching for Balanced Multilingual Text Embedding Adaptation",
+    "arxiv_id": "2608.05785v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-07T10:49:08.563637"
+  },
+  "2608.05784v1": {
+    "title": "Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay",
+    "arxiv_id": "2608.05784v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-07T10:49:08.563637"
+  },
+  "2608.05729v1": {
+    "title": "Unified Agent: Managing Interactions across Devices",
+    "arxiv_id": "2608.05729v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-07T10:49:08.563637"
+  },
+  "2608.05687v1": {
+    "title": "Answer First, Reason Later: Commitment Order in Diffusion LLMs",
+    "arxiv_id": "2608.05687v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-07T10:49:08.563637"
   }
 }
