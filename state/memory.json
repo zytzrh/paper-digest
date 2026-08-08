@@ -29,30 +29,6 @@
     "tier": "must_read",
     "date_shown": "2026-07-21T11:45:39.544385"
   },
-  "2607.06370v1": {
-    "title": "Training-Free Acceleration for Vision-Language-Action Models with Action Caching and Refinement",
-    "arxiv_id": "2607.06370v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-08T11:44:52.172891"
-  },
-  "2607.06114v1": {
-    "title": "x-Prediction Is All You Need:Training-Free Accelerated Generation via Endpoint Decodability",
-    "arxiv_id": "2607.06114v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-08T11:44:52.172891"
-  },
-  "2607.05775v1": {
-    "title": "Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents",
-    "arxiv_id": "2607.05775v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-08T11:44:52.172891"
-  },
-  "2607.05773v1": {
-    "title": "Beyond Static Evaluation: Building Simulation Environments for Scalable Agentic Reinforcement Learning",
-    "arxiv_id": "2607.05773v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-08T11:44:52.172891"
-  },
   "2607.07508": {
     "title": "Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning",
     "arxiv_id": "2607.07508",
@@ -1270,5 +1246,11 @@
     "arxiv_id": "2608.05687v1",
     "tier": "worth_noting",
     "date_shown": "2026-08-07T10:49:08.563637"
+  },
+  "2608.06257": {
+    "title": "MASS: Multiplayer World Models with Authoritative Shared State",
+    "arxiv_id": "2608.06257",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-08T10:28:16.996913"
   }
 }
