@@ -3,31 +3,31 @@
     "title": "Large Language Models with Reinforcement Learning from Human Feedback Approach for Enhancing Explainable Sexism Detection",
     "arxiv_id": "",
     "tier": "must_read",
-    "date_shown": "2026-07-21T11:45:39.544385"
+    "date_shown": "2026-08-09T10:31:14.416345"
   },
   "2512.22925": {
     "title": "Argus: Token Aware Distributed LLM Inference Optimization",
     "arxiv_id": "2512.22925",
     "tier": "must_read",
-    "date_shown": "2026-07-21T11:45:39.544385"
+    "date_shown": "2026-08-09T10:31:14.416345"
   },
   "2506.08551": {
     "title": "DeepForm: Reasoning Large Language Model for Communication System Formulation",
     "arxiv_id": "2506.08551",
     "tier": "must_read",
-    "date_shown": "2026-07-21T11:45:39.544385"
+    "date_shown": "2026-08-09T10:31:14.416345"
   },
   "hash:42bb407ddaa2a80f": {
     "title": "Survey of uncertainty estimation in LLMs - Sources, methods, applications, and challenges",
     "arxiv_id": "",
     "tier": "must_read",
-    "date_shown": "2026-07-21T11:45:39.544385"
+    "date_shown": "2026-08-09T10:31:14.416345"
   },
   "2511.03166": {
     "title": "Measuring Aleatoric and Epistemic Uncertainty in LLMs: Empirical Evaluation on ID and OOD QA Tasks",
     "arxiv_id": "2511.03166",
     "tier": "must_read",
-    "date_shown": "2026-07-21T11:45:39.544385"
+    "date_shown": "2026-08-09T10:31:14.416345"
   },
   "2607.07508": {
     "title": "Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning",
@@ -423,7 +423,7 @@
     "title": "Conditional Contrastive Confidence-Based Uncertainty Quantification for LLMs",
     "arxiv_id": "",
     "tier": "must_read",
-    "date_shown": "2026-07-21T11:45:39.544385"
+    "date_shown": "2026-08-09T10:31:14.416345"
   },
   "2607.16169": {
     "title": "When Does Muon Help Agentic Reinforcement Learning?",
@@ -1252,5 +1252,11 @@
     "arxiv_id": "2608.06257",
     "tier": "worth_noting",
     "date_shown": "2026-08-08T10:28:16.996913"
+  },
+  "2608.05832v1": {
+    "title": "Enhancing Social Intelligence in LLMs with Hierarchical Reasoning and Utterance-Level Goal Rewarding",
+    "arxiv_id": "2608.05832v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-09T10:31:14.416345"
   }
 }
