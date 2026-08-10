@@ -29,78 +29,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-09T10:31:14.416345"
   },
-  "2607.07508": {
-    "title": "Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning",
-    "arxiv_id": "2607.07508",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-10T12:22:59.978915"
-  },
-  "2607.08662v1": {
-    "title": "WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search",
-    "arxiv_id": "2607.08662v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-10T12:22:59.978915"
-  },
-  "2607.08056v1": {
-    "title": "Reinforcing the Generation Order of Multimodal Masked Diffusion Models",
-    "arxiv_id": "2607.08056v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-10T12:22:59.978915"
-  },
-  "2607.08681v1": {
-    "title": "SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets",
-    "arxiv_id": "2607.08681v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-10T12:22:59.978915"
-  },
-  "2607.08403v1": {
-    "title": "Game Theory Driven Multi-Agent Framework Mitigates Language Model Hallucination",
-    "arxiv_id": "2607.08403v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-10T12:22:59.978915"
-  },
-  "2607.08392v1": {
-    "title": "Joint Discrete-Continuous Flow Matching for Open-Vocabulary Inverse Design of Multilayer Optical Coatings",
-    "arxiv_id": "2607.08392v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-10T12:22:59.978915"
-  },
-  "2607.08357v1": {
-    "title": "MobiDiff: Semantic-Aware Multi-Channel Discrete Diffusion for Human Mobility Data Generation",
-    "arxiv_id": "2607.08357v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-10T12:22:59.978915"
-  },
-  "2607.08282v1": {
-    "title": "Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models",
-    "arxiv_id": "2607.08282v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-10T12:22:59.978915"
-  },
-  "2607.08193v1": {
-    "title": "Open-ended Multi-agent Autocurricula via Visual Inspection of Policies with Multi-modal LLMs",
-    "arxiv_id": "2607.08193v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-10T12:22:59.978915"
-  },
-  "2607.08080v1": {
-    "title": "MASTE: A Multi-Agent Pipeline for Zero-Shot Aspect Sentiment Triplet Extraction",
-    "arxiv_id": "2607.08080v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-10T12:22:59.978915"
-  },
-  "2607.08032v1": {
-    "title": "What to Keep, What to Forget: A Rate--Distortion View of Memory Compaction in LLMs and Agents",
-    "arxiv_id": "2607.08032v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-10T12:22:59.978915"
-  },
-  "2607.04540": {
-    "title": "SceneFrom3D: Geometry-Conditioned Outdoor 3D Scene Generation via View Scheduling with Object-Level Control",
-    "arxiv_id": "2607.04540",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-10T12:22:59.978915"
-  },
   "2607.09134v1": {
     "title": "ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models",
     "arxiv_id": "2607.09134v1",
@@ -1258,5 +1186,119 @@
     "arxiv_id": "2608.05832v1",
     "tier": "worth_noting",
     "date_shown": "2026-08-09T10:31:14.416345"
+  },
+  "2608.07169v1": {
+    "title": "Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory",
+    "arxiv_id": "2608.07169v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-10T11:04:50.102165"
+  },
+  "2608.07126v1": {
+    "title": "PHOENIX: Fine-Tuned SLM-Powered Autonomous Satellite Lifetime Extension via Predictive Self-Healing and Multi-Agent AI Recovery",
+    "arxiv_id": "2608.07126v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-10T11:04:50.102165"
+  },
+  "2608.07418v1": {
+    "title": "ResidencyRL: Reinforcement Learning in Simulated Clinical Environments",
+    "arxiv_id": "2608.07418v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-10T11:04:50.102165"
+  },
+  "2608.07371v1": {
+    "title": "Trajectory-Relative Hindsight Distillation for Agentic Reinforcement Learning",
+    "arxiv_id": "2608.07371v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-10T11:04:50.102165"
+  },
+  "2608.07294v1": {
+    "title": "FUSE: Feature-Wise Unified Specialization with Cross-Column Exchange for Mixed-Type Tabular Flow Matching",
+    "arxiv_id": "2608.07294v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-10T11:04:50.102165"
+  },
+  "2608.07228v1": {
+    "title": "Learning Suffers More Than the Policy Class Under Partial Observability: A Closed-Form Analysis",
+    "arxiv_id": "2608.07228v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-10T11:04:50.102165"
+  },
+  "2608.07196v1": {
+    "title": "EMAS: Stabilizing Multi-Agent System Evolution through Evidence-Guided Revision",
+    "arxiv_id": "2608.07196v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-10T11:04:50.102165"
+  },
+  "2608.07147v1": {
+    "title": "DiDPO: Diff-in-Diff Policy Optimization for Coding Agent Training",
+    "arxiv_id": "2608.07147v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-10T11:04:50.102165"
+  },
+  "2608.07042v1": {
+    "title": "Limit Points of Reflow with Minibatch Optimal Transport",
+    "arxiv_id": "2608.07042v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-10T11:04:50.102165"
+  },
+  "2608.07006v1": {
+    "title": "Does More Retrieved Evidence Help Visual Retrieval-Augmented Generation with Diffusion Language Models?",
+    "arxiv_id": "2608.07006v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-10T11:04:50.102165"
+  },
+  "2608.06953v1": {
+    "title": "Explicit, Not Longer: What Makes Epistemic Stance Survive Memory Compression",
+    "arxiv_id": "2608.06953v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-10T11:04:50.102165"
+  },
+  "2608.06949v1": {
+    "title": "Does Splitting a Triage Decision Across Agents Hide Bias or Help Catch It? A Multi-Agent Simulation Study of LLM-Based Resource Allocation Under Audit Capacity Constraints",
+    "arxiv_id": "2608.06949v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-10T11:04:50.102165"
+  },
+  "2608.06922v1": {
+    "title": "Deal Me Maybe: The Role of Emotions in Multi-Agent Negotiation",
+    "arxiv_id": "2608.06922v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-10T11:04:50.102165"
+  },
+  "2608.06865v1": {
+    "title": "Multi-Agent Forensic Reasoning for Generalizable Deepfake Video Detection",
+    "arxiv_id": "2608.06865v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-10T11:04:50.102165"
+  },
+  "2608.06824v1": {
+    "title": "Control-Anchored Residual Flow Matching Conditioned on Gene Geometry for Virtual Cell Perturbation Modeling",
+    "arxiv_id": "2608.06824v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-10T11:04:50.102165"
+  },
+  "2608.05784": {
+    "title": "Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay",
+    "arxiv_id": "2608.05784",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-10T11:04:50.102165"
+  },
+  "2608.05785": {
+    "title": "Task-Conditional Flow Matching for Balanced Multilingual Text Embedding Adaptation",
+    "arxiv_id": "2608.05785",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-10T11:04:50.102165"
+  },
+  "2608.06197": {
+    "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning",
+    "arxiv_id": "2608.06197",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-10T11:04:50.102165"
+  },
+  "2608.05987": {
+    "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
+    "arxiv_id": "2608.05987",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-10T11:04:50.102165"
   }
 }
