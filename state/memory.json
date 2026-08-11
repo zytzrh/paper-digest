@@ -1300,5 +1300,59 @@
     "arxiv_id": "2608.05987",
     "tier": "worth_noting",
     "date_shown": "2026-08-10T11:04:50.102165"
+  },
+  "2608.09507v1": {
+    "title": "Learning Preference Adaptation for Large Language Model Personalization via Verbal Reinforcement Learning",
+    "arxiv_id": "2608.09507v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-11T10:47:23.843492"
+  },
+  "2608.09424v1": {
+    "title": "Reducing Pretraining-Generation Mismatch in Diffusion Language Models",
+    "arxiv_id": "2608.09424v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-11T10:47:23.843492"
+  },
+  "2608.07169": {
+    "title": "Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory",
+    "arxiv_id": "2608.07169",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-11T10:47:23.843492"
+  },
+  "2608.09828v1": {
+    "title": "Multi-Agent AI Safety as an Institutional Design Problem",
+    "arxiv_id": "2608.09828v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-11T10:47:23.843492"
+  },
+  "2608.09819v1": {
+    "title": "Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA",
+    "arxiv_id": "2608.09819v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-11T10:47:23.843492"
+  },
+  "2608.09574v1": {
+    "title": "The Politician, the Liar, and the Obedient Worker: Emerging Behavior of LLM Agents in Hierarchical Games",
+    "arxiv_id": "2608.09574v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-11T10:47:23.843492"
+  },
+  "2608.09443v1": {
+    "title": "Coupled Graph--Policy Distillation for Personalized Medication Safety in Older Adults with Multimorbidity",
+    "arxiv_id": "2608.09443v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-11T10:47:23.843492"
+  },
+  "2608.09251v1": {
+    "title": "MoRSE: Task-Oriented Multi-Agent System with Mixture of Role-Subtask Experts",
+    "arxiv_id": "2608.09251v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-11T10:47:23.843492"
+  },
+  "2608.02508": {
+    "title": "RoMeRL: Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via Reduced-Order Utility States",
+    "arxiv_id": "2608.02508",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-11T10:47:23.843492"
   }
 }
