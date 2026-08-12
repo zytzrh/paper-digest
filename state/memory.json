@@ -1354,5 +1354,35 @@
     "arxiv_id": "2608.02508",
     "tier": "worth_noting",
     "date_shown": "2026-08-11T10:47:23.843492"
+  },
+  "2608.10615v1": {
+    "title": "Simplex Relaxation for Discrete Diffusion",
+    "arxiv_id": "2608.10615v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-12T10:57:31.284890"
+  },
+  "2608.10544v1": {
+    "title": "Flow Straight to Reality: Perceptually Consistent Flow Matching for Efficient Image Restoration",
+    "arxiv_id": "2608.10544v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-12T10:57:31.284890"
+  },
+  "2608.10529v1": {
+    "title": "Robust Multi-Agent Bandits with Heavy-Tailed Rewards and Information Asymmetry",
+    "arxiv_id": "2608.10529v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-12T10:57:31.284890"
+  },
+  "2608.10509v1": {
+    "title": "MAP-Graph: Provenance-Aware Shared Memory for Multi-Agent Workflows",
+    "arxiv_id": "2608.10509v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-12T10:57:31.284890"
+  },
+  "2608.10504v1": {
+    "title": "MEGA: Self-Evolving Agent Optimization Infrastructure via Wisdom Graph",
+    "arxiv_id": "2608.10504v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-12T10:57:31.284890"
   }
 }
