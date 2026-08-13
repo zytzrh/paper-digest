@@ -29,60 +29,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-09T10:31:14.416345"
   },
-  "2607.09134v1": {
-    "title": "ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models",
-    "arxiv_id": "2607.09134v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-13T12:29:01.921465"
-  },
-  "2607.09422v1": {
-    "title": "Action-Factored Multi-Agent Reinforcement Learning for Scalable Quantum Device Tuning",
-    "arxiv_id": "2607.09422v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-13T12:29:01.921465"
-  },
-  "2607.09403v1": {
-    "title": "Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review",
-    "arxiv_id": "2607.09403v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-13T12:29:01.921465"
-  },
-  "2607.09322v1": {
-    "title": "LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making",
-    "arxiv_id": "2607.09322v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-13T12:29:01.921465"
-  },
-  "2607.09153v1": {
-    "title": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
-    "arxiv_id": "2607.09153v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-13T12:29:01.921465"
-  },
-  "2607.09099v1": {
-    "title": "L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning",
-    "arxiv_id": "2607.09099v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-13T12:29:01.921465"
-  },
-  "2607.09059v1": {
-    "title": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
-    "arxiv_id": "2607.09059v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-13T12:29:01.921465"
-  },
-  "2607.08960v1": {
-    "title": "Eluna: An Agentic LLM System for Automating Warehouse Operations with Reasoning and Task Execution",
-    "arxiv_id": "2607.08960v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-13T12:29:01.921465"
-  },
-  "2607.08877v1": {
-    "title": "FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space",
-    "arxiv_id": "2607.08877v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-13T12:29:01.921465"
-  },
   "2607.11758v1": {
     "title": "From Global to Factor-Wise Expert Composition in Discrete Diffusion Models",
     "arxiv_id": "2607.11758v1",
@@ -1384,5 +1330,47 @@
     "arxiv_id": "2608.10504v1",
     "tier": "worth_noting",
     "date_shown": "2026-08-12T10:57:31.284890"
+  },
+  "2608.12083v1": {
+    "title": "Faithful, Sufficient and Understandable: Rethinking Graph Counterfactual Explanations via Discrete Diffusion Inversion",
+    "arxiv_id": "2608.12083v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-13T10:57:58.781977"
+  },
+  "2608.10615": {
+    "title": "Simplex Relaxation for Discrete Diffusion",
+    "arxiv_id": "2608.10615",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-13T10:57:58.781977"
+  },
+  "2608.12253v1": {
+    "title": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
+    "arxiv_id": "2608.12253v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-13T10:57:58.781977"
+  },
+  "2608.11949v1": {
+    "title": "ExRole: From Team Trajectories to Executable Roles in Multi-Agent Language Models",
+    "arxiv_id": "2608.11949v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-13T10:57:58.781977"
+  },
+  "2608.11676v1": {
+    "title": "XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication",
+    "arxiv_id": "2608.11676v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-13T10:57:58.781977"
+  },
+  "2608.11658v1": {
+    "title": "Is Per-Agent Policy Composition Safe? Rethinking Successor-Feature Transfer in Cooperative Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2608.11658v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-13T10:57:58.781977"
+  },
+  "2608.11654v1": {
+    "title": "Towards a Formal Definition of Agent Memory: Basis, Span, Optimality, and the Sequential Memory Problem",
+    "arxiv_id": "2608.11654v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-13T10:57:58.781977"
   }
 }
