@@ -29,66 +29,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-09T10:31:14.416345"
   },
-  "2607.11758v1": {
-    "title": "From Global to Factor-Wise Expert Composition in Discrete Diffusion Models",
-    "arxiv_id": "2607.11758v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-14T11:23:48.575608"
-  },
-  "2607.11751v1": {
-    "title": "When Local Monitors Miss Compositional Harm: Diagnosing Distributed Backdoors in Multi-Agent Systems",
-    "arxiv_id": "2607.11751v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-14T11:23:48.575608"
-  },
-  "2607.11503v1": {
-    "title": "GEIS: A Generation-Evaluation-Improvement Loop of Agent Skills for Long-Form Article Generation",
-    "arxiv_id": "2607.11503v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-14T11:23:48.575608"
-  },
-  "2607.11442v1": {
-    "title": "Velocity Scheduled Flow Matching",
-    "arxiv_id": "2607.11442v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-14T11:23:48.575608"
-  },
-  "2607.11357v1": {
-    "title": "OpsMem: Dual-Memory Reasoning with Cross-Memory Resonance for Failure Diagnosis",
-    "arxiv_id": "2607.11357v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-14T11:23:48.575608"
-  },
-  "2607.11250v1": {
-    "title": "Multi-Agent LLMs Fail to Explore Each Other",
-    "arxiv_id": "2607.11250v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-14T11:23:48.575608"
-  },
-  "2607.11226v1": {
-    "title": "Heterogeneous Agent Cohorts for Safe Open-Ended Exploration with Runtime Constraint Memory",
-    "arxiv_id": "2607.11226v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-14T11:23:48.575608"
-  },
-  "2607.11221v1": {
-    "title": "HandFlow: Fully Generative 4D Hand Recovery with Flow Matching",
-    "arxiv_id": "2607.11221v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-14T11:23:48.575608"
-  },
-  "2607.11185v1": {
-    "title": "SCALECUA: Scaling Computer Use Agents with Verifiable Task Synthesis and Efficient Online RL",
-    "arxiv_id": "2607.11185v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-14T11:23:48.575608"
-  },
-  "2607.10623": {
-    "title": "LATO.2: Factorized 3D Mesh Generation with Vertex and Topology Flow",
-    "arxiv_id": "2607.10623",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-14T11:23:48.575608"
-  },
   "2607.12861v1": {
     "title": "Unveiling Complex Collective Behaviors from Simple Rewards",
     "arxiv_id": "2607.12861v1",
@@ -1372,5 +1312,71 @@
     "arxiv_id": "2608.11654v1",
     "tier": "worth_noting",
     "date_shown": "2026-08-13T10:57:58.781977"
+  },
+  "2608.13096v1": {
+    "title": "FlowLOB: Efficient and Controllable Limit Order Book Generation with Flow Matching",
+    "arxiv_id": "2608.13096v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-14T10:54:51.883852"
+  },
+  "2608.13520v1": {
+    "title": "The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity",
+    "arxiv_id": "2608.13520v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-14T10:54:51.883852"
+  },
+  "2608.13505v1": {
+    "title": "Intern-S2-Preview: Scientific Agentic Foundation Model",
+    "arxiv_id": "2608.13505v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-14T10:54:51.883852"
+  },
+  "2608.13476v1": {
+    "title": "MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination",
+    "arxiv_id": "2608.13476v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-14T10:54:51.883852"
+  },
+  "2608.13334v1": {
+    "title": "RippleMem: From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory",
+    "arxiv_id": "2608.13334v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-14T10:54:51.883852"
+  },
+  "2608.13317v1": {
+    "title": "StateBridge: Training-free Hidden-state Alignment for Latent Communication in LLM Multi-Agent Systems",
+    "arxiv_id": "2608.13317v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-14T10:54:51.883852"
+  },
+  "2608.13046v1": {
+    "title": "BoardroomAI: Dependency-Aware Human-Steerable Multi-Agent Deliberation through Evolving Decision Graphs",
+    "arxiv_id": "2608.13046v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-14T10:54:51.883852"
+  },
+  "2608.12995v1": {
+    "title": "OGR-MARL: Option-Guided Residual Multi-Agent Reinforcement Learning for Heterogeneous USV Cooperative Pursuit in Constrained Port Waterways",
+    "arxiv_id": "2608.12995v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-14T10:54:51.883852"
+  },
+  "2608.12990v1": {
+    "title": "LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation",
+    "arxiv_id": "2608.12990v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-14T10:54:51.883852"
+  },
+  "2608.12921v1": {
+    "title": "Discovering Efficient and Explainable Communication Topologies for LLM-based Multi-Agent Systems via Causal Inference",
+    "arxiv_id": "2608.12921v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-14T10:54:51.883852"
+  },
+  "2608.12841v1": {
+    "title": "AQuA: Recursively Self-Improving Quantitative Trading Research Agents",
+    "arxiv_id": "2608.12841v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-14T10:54:51.883852"
   }
 }
