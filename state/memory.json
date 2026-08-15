@@ -29,36 +29,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-09T10:31:14.416345"
   },
-  "2607.12861v1": {
-    "title": "Unveiling Complex Collective Behaviors from Simple Rewards",
-    "arxiv_id": "2607.12861v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-15T11:26:19.111999"
-  },
-  "2607.12626v1": {
-    "title": "Gradient-free learning of a closed-loop wall controller for turbulent drag reduction",
-    "arxiv_id": "2607.12626v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-15T11:26:19.111999"
-  },
-  "2607.12616v1": {
-    "title": "The Geometry of Memorization: Finite-Time Spectral Sensitivity as a Diagnostic for Flow Matching Models",
-    "arxiv_id": "2607.12616v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-15T11:26:19.111999"
-  },
-  "2607.12216v1": {
-    "title": "RCWT: Measuring Task-Budget Displacement from Coordination Content in LLM Calls",
-    "arxiv_id": "2607.12216v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-15T11:26:19.111999"
-  },
-  "2607.11250": {
-    "title": "Multi-Agent LLMs Fail to Explore Each Other",
-    "arxiv_id": "2607.11250",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-15T11:26:19.111999"
-  },
   "2607.13431v1": {
     "title": "Discrete Diffusion Models: A Unified Framework from Tokenization to Generation",
     "arxiv_id": "2607.13431v1",
@@ -1378,5 +1348,11 @@
     "arxiv_id": "2608.12841v1",
     "tier": "worth_noting",
     "date_shown": "2026-08-14T10:54:51.883852"
+  },
+  "2608.12895v1": {
+    "title": "Agent Behavioral Contracts II: Certifying Compositional Reliability Without Assuming Independence",
+    "arxiv_id": "2608.12895v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-15T10:18:45.701542"
   }
 }
