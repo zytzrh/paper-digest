@@ -29,30 +29,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-09T10:31:14.416345"
   },
-  "2607.13431v1": {
-    "title": "Discrete Diffusion Models: A Unified Framework from Tokenization to Generation",
-    "arxiv_id": "2607.13431v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-16T11:36:44.364278"
-  },
-  "2607.13988v1": {
-    "title": "TRACE: Turn-level Reward Assignment via Credit Estimation for Long-Horizon Agents",
-    "arxiv_id": "2607.13988v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-16T11:36:44.364278"
-  },
-  "2607.13841v1": {
-    "title": "Heavy-Tailed Flow Matching via Random Clocks",
-    "arxiv_id": "2607.13841v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-16T11:36:44.364278"
-  },
-  "2607.13655v1": {
-    "title": "Explaining Reinforcement Learning Agents via Inductive Logic Programming",
-    "arxiv_id": "2607.13655v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-16T11:36:44.364278"
-  },
   "2607.13431": {
     "title": "Discrete Diffusion Models: A Unified Framework from Tokenization to Generation",
     "arxiv_id": "2607.13431",
