@@ -29,48 +29,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-09T10:31:14.416345"
   },
-  "2607.13431": {
-    "title": "Discrete Diffusion Models: A Unified Framework from Tokenization to Generation",
-    "arxiv_id": "2607.13431",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-17T11:19:12.109665"
-  },
-  "2607.15257v1": {
-    "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
-    "arxiv_id": "2607.15257v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-17T11:19:12.109665"
-  },
-  "2607.14522v1": {
-    "title": "A Continuous-Time Reinforcement Learning Framework for Fine-Tuning Discrete Diffusion Models",
-    "arxiv_id": "2607.14522v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-17T11:19:12.109665"
-  },
-  "2607.15200v1": {
-    "title": "Mask-Aware Policy Gradients for Diffusion Language Models",
-    "arxiv_id": "2607.15200v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-17T11:19:12.109665"
-  },
-  "2607.14865v1": {
-    "title": "The Energy Society: A Simulation Environment for Studying Agent Cooperation under Survival Pressure",
-    "arxiv_id": "2607.14865v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-17T11:19:12.109665"
-  },
-  "2607.14777v1": {
-    "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
-    "arxiv_id": "2607.14777v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-17T11:19:12.109665"
-  },
-  "2607.14652v1": {
-    "title": "Trajectory-Aware Flow Matching for Topology Optimisation",
-    "arxiv_id": "2607.14652v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-17T11:19:12.109665"
-  },
   "2607.15095v1": {
     "title": "Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents",
     "arxiv_id": "2607.15095v1",
@@ -1330,5 +1288,65 @@
     "arxiv_id": "2608.12895v1",
     "tier": "worth_noting",
     "date_shown": "2026-08-15T10:18:45.701542"
+  },
+  "2608.14446v1": {
+    "title": "Wyvern: An Agentic Framework for Generating Grounded Multimodal Reports",
+    "arxiv_id": "2608.14446v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-17T10:27:59.888706"
+  },
+  "2608.14375v1": {
+    "title": "Wrong but Useful: Trajectory Value Beyond Answer Correctness in Multi-Agent Messages",
+    "arxiv_id": "2608.14375v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-17T10:27:59.888706"
+  },
+  "2608.14246v1": {
+    "title": "Polaris : Multi Agentic System for Conversational Enterprise Analytics",
+    "arxiv_id": "2608.14246v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-17T10:27:59.888706"
+  },
+  "2608.14122v1": {
+    "title": "Reinforcement Learning-Based Production Scheduling in an Industry-Based Coating Scenario Using the Digital Model Playground",
+    "arxiv_id": "2608.14122v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-17T10:27:59.888706"
+  },
+  "2608.14076v1": {
+    "title": "Reaction-Transformation-Aware Flow Matching for Generalizable Transition State Generation",
+    "arxiv_id": "2608.14076v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-17T10:27:59.888706"
+  },
+  "2608.14068v1": {
+    "title": "MACS: A Hybrid Multi-Agent Framework for Reliable Conversational E-Commerce Recommendation",
+    "arxiv_id": "2608.14068v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-17T10:27:59.888706"
+  },
+  "2608.14055v1": {
+    "title": "HERMES: a multi-agent framework for structured knowledge extraction from ultra-long documents in geoscience",
+    "arxiv_id": "2608.14055v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-17T10:27:59.888706"
+  },
+  "2608.13883v1": {
+    "title": "MemoryLake on MemoryArena: A Matched Study of Agent Memory Backends",
+    "arxiv_id": "2608.13883v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-17T10:27:59.888706"
+  },
+  "2608.13833v1": {
+    "title": "AdsWorldEngine: A Self-Evolving Conversational Advertising Agent through Orchestrator and Tool Coevolution",
+    "arxiv_id": "2608.13833v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-17T10:27:59.888706"
+  },
+  "2608.12990": {
+    "title": "LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation",
+    "arxiv_id": "2608.12990",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-17T10:27:59.888706"
   }
 }
