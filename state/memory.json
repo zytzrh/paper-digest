@@ -29,30 +29,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-09T10:31:14.416345"
   },
-  "2607.15095v1": {
-    "title": "Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents",
-    "arxiv_id": "2607.15095v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-18T10:59:49.619143"
-  },
-  "2607.15247v1": {
-    "title": "AutoSynthesis: An agentic system for automated meta-analysis",
-    "arxiv_id": "2607.15247v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-18T10:59:49.619143"
-  },
-  "2607.15079v1": {
-    "title": "BrainPilot: Automating Brain Discovery with Agentic Research",
-    "arxiv_id": "2607.15079v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-18T10:59:49.619143"
-  },
-  "2607.14106": {
-    "title": "Token Time Continuous Diffusion for Language Modeling",
-    "arxiv_id": "2607.14106",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-18T10:59:49.619143"
-  },
   "2607.16169v1": {
     "title": "When Does Muon Help Agentic Reinforcement Learning?",
     "arxiv_id": "2607.16169v1",
@@ -1348,5 +1324,35 @@
     "arxiv_id": "2608.12990",
     "tier": "worth_noting",
     "date_shown": "2026-08-17T10:27:59.888706"
+  },
+  "2608.16801v1": {
+    "title": "When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding",
+    "arxiv_id": "2608.16801v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-18T10:23:43.085356"
+  },
+  "2608.16791v1": {
+    "title": "Steering the Flow: Inverting Face Recognition Models via Gradient-Guided Flow Matching",
+    "arxiv_id": "2608.16791v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-18T10:23:43.085356"
+  },
+  "2608.16666v1": {
+    "title": "Chronocooked: A Benchmark for Implicit Interval Timing in Reinforcement Learning Agents",
+    "arxiv_id": "2608.16666v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-18T10:23:43.085356"
+  },
+  "2608.16578v1": {
+    "title": "Physics of Agents: Statistical Mechanics Predicts Collective Behavior of AI Agents",
+    "arxiv_id": "2608.16578v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-18T10:23:43.085356"
+  },
+  "2608.16402v1": {
+    "title": "A Policy Algebra for Trust-Preserving Agentic AI Execution",
+    "arxiv_id": "2608.16402v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-18T10:23:43.085356"
   }
 }
