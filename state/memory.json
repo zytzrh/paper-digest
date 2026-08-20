@@ -29,90 +29,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-09T10:31:14.416345"
   },
-  "2607.16169v1": {
-    "title": "When Does Muon Help Agentic Reinforcement Learning?",
-    "arxiv_id": "2607.16169v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-20T12:13:58.216438"
-  },
-  "2607.15660v1": {
-    "title": "ToolVerse: Unlocking Massive Environments and Long-Horizon Tasks for Agentic Reinforcement Learning",
-    "arxiv_id": "2607.15660v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-20T12:13:58.216438"
-  },
-  "2607.15257": {
-    "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
-    "arxiv_id": "2607.15257",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-20T12:13:58.216438"
-  },
-  "2607.16144v1": {
-    "title": "Learning Standard Model structure from LHC data with Riemannian flow matching",
-    "arxiv_id": "2607.16144v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-20T12:13:58.216438"
-  },
-  "2607.16133v1": {
-    "title": "When Do Multi-Agent Systems Help? An Information Bottleneck Perspective",
-    "arxiv_id": "2607.16133v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-20T12:13:58.216438"
-  },
-  "2607.16066v1": {
-    "title": "LLM-Powered Agentic AI for 5G/6G Networks: A Tutorial and Survey on Architectures, Protocols, and Standardization",
-    "arxiv_id": "2607.16066v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-20T12:13:58.216438"
-  },
-  "2607.15893v1": {
-    "title": "Induction in Both Directions: A Mechanistic Analysis of In-Context Learning in Masked Diffusion Language Models",
-    "arxiv_id": "2607.15893v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-20T12:13:58.216438"
-  },
-  "2607.15781v1": {
-    "title": "AgentFAIR: A Multi-Agent Collaborative Framework for FAIRness Evaluation of Geospatial Datasets",
-    "arxiv_id": "2607.15781v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-20T12:13:58.216438"
-  },
-  "2607.15655v1": {
-    "title": "Adaptive Multi-Step Lookahead Decoding for Diffusion Language Models",
-    "arxiv_id": "2607.15655v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-20T12:13:58.216438"
-  },
-  "2607.15434v1": {
-    "title": "Coercion and Deception in AI-to-AI Management: An Agentic Benchmark of Unprompted Escalation",
-    "arxiv_id": "2607.15434v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-20T12:13:58.216438"
-  },
-  "2607.15388v1": {
-    "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
-    "arxiv_id": "2607.15388v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-20T12:13:58.216438"
-  },
-  "2607.15367v1": {
-    "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
-    "arxiv_id": "2607.15367v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-20T12:13:58.216438"
-  },
-  "2607.15591": {
-    "title": "RecGPT-V3 Technical Report",
-    "arxiv_id": "2607.15591",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-20T12:13:58.216438"
-  },
-  "2607.14777": {
-    "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
-    "arxiv_id": "2607.14777",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-20T12:13:58.216438"
-  },
   "hash:b393ca398012c489": {
     "title": "Conditional Contrastive Confidence-Based Uncertainty Quantification for LLMs",
     "arxiv_id": "",
@@ -1354,5 +1270,95 @@
     "arxiv_id": "2608.16402v1",
     "tier": "worth_noting",
     "date_shown": "2026-08-18T10:23:43.085356"
+  },
+  "2608.19161v1": {
+    "title": "Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication",
+    "arxiv_id": "2608.19161v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-20T10:25:17.129670"
+  },
+  "2608.19049v1": {
+    "title": "Multi-Agent Off-Policy Deep Reinforcement Learning for Smart Campus Coverage",
+    "arxiv_id": "2608.19049v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-20T10:25:17.129670"
+  },
+  "2608.19029v1": {
+    "title": "Adaptive Memory and Reflection Multi-Agent System for Medical Question Answering",
+    "arxiv_id": "2608.19029v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-20T10:25:17.129670"
+  },
+  "2608.18884v1": {
+    "title": "Training-Free Inference-Time Self-Reflection and Cost-Bounded Early Stopping for Large Language Models",
+    "arxiv_id": "2608.18884v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-20T10:25:17.129670"
+  },
+  "2608.18878v1": {
+    "title": "DentAgent: Evidence-Centric Multi-Agent Coordination for Multimodal Dental Reasoning",
+    "arxiv_id": "2608.18878v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-20T10:25:17.129670"
+  },
+  "2608.18740v1": {
+    "title": "A Multi-Agent Platform for Automated Enterprise Analytics and Insight Generation",
+    "arxiv_id": "2608.18740v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-20T10:25:17.129670"
+  },
+  "2608.18682v1": {
+    "title": "RTPO: Reverse-Turn Policy Optimization for Stabilizing Agentic RL Training",
+    "arxiv_id": "2608.18682v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-20T10:25:17.129670"
+  },
+  "2608.18575v1": {
+    "title": "Beyond LLM-Based Reasoning: Lightweight GNNs for Agent Failure Attribution",
+    "arxiv_id": "2608.18575v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-20T10:25:17.129670"
+  },
+  "2608.18450v1": {
+    "title": "Adaptive Multi-Agent Feature Selection for Personalized Fall Risk Prevention",
+    "arxiv_id": "2608.18450v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-20T10:25:17.129670"
+  },
+  "2608.17253": {
+    "title": "Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL",
+    "arxiv_id": "2608.17253",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-20T10:25:17.129670"
+  },
+  "2608.17528": {
+    "title": "Agent Lightning v1.0: Towards Harnessed Agentic RL",
+    "arxiv_id": "2608.17528",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-20T10:25:17.129670"
+  },
+  "2608.15008": {
+    "title": "Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents",
+    "arxiv_id": "2608.15008",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-20T10:25:17.129670"
+  },
+  "2608.05811": {
+    "title": "Energy-Guided Flow Matching",
+    "arxiv_id": "2608.05811",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-20T10:25:17.129670"
+  },
+  "2608.17975": {
+    "title": "aDSL: Agentic 3D Creation via Joint Agent-Program Design",
+    "arxiv_id": "2608.17975",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-20T10:25:17.129670"
+  },
+  "2608.17310": {
+    "title": "Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements",
+    "arxiv_id": "2608.17310",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-20T10:25:17.129670"
   }
 }
