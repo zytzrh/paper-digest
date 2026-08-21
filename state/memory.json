@@ -35,78 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-09T10:31:14.416345"
   },
-  "2607.16169": {
-    "title": "When Does Muon Help Agentic Reinforcement Learning?",
-    "arxiv_id": "2607.16169",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-21T11:45:39.544385"
-  },
-  "2607.17572v1": {
-    "title": "AGG: Jacobian-Aggregated Group Gradient for Efficient GRPO Training of Diffusion Models",
-    "arxiv_id": "2607.17572v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-21T11:45:39.544385"
-  },
-  "2607.18102v1": {
-    "title": "FinSAgent: Corpus-Aligned Multi-Agent RAG Framework for Evidence-Grounded SEC Filing Question Answering",
-    "arxiv_id": "2607.18102v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-21T11:45:39.544385"
-  },
-  "2607.18006v1": {
-    "title": "MADA-RL: Multi-Agent Debate-Aware Reinforcement Learning for Parameter-Efficient Reasoning in Compact Models",
-    "arxiv_id": "2607.18006v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-21T11:45:39.544385"
-  },
-  "2607.17924v1": {
-    "title": "Aggregate in the Advantage, Not the Ratio: A Canonical-Form Analysis of Cooperative Multi-Agent Policy Optimization",
-    "arxiv_id": "2607.17924v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-21T11:45:39.544385"
-  },
-  "2607.17922v1": {
-    "title": "PRIME: Plasticity Recovery in Multi-Agent Environments for UAV-Assisted Emergency Communication Networks",
-    "arxiv_id": "2607.17922v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-21T11:45:39.544385"
-  },
-  "2607.17914v1": {
-    "title": "Value-Aware Prediction for Robust Multi-Agent Coordination Under Communication Loss",
-    "arxiv_id": "2607.17914v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-21T11:45:39.544385"
-  },
-  "2607.17724v1": {
-    "title": "Lifelong Multi-Subsystem Pickup and Delivery with Buffer-Limited Handover Stations",
-    "arxiv_id": "2607.17724v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-21T11:45:39.544385"
-  },
-  "2607.17652v1": {
-    "title": "FlowBlock: Wavefront-Parallel Decoding for Self-Correcting Diffusion Language Models",
-    "arxiv_id": "2607.17652v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-21T11:45:39.544385"
-  },
-  "2607.17621v1": {
-    "title": "Mechanistic Attention Guidance for Agent Memory Refinement",
-    "arxiv_id": "2607.17621v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-21T11:45:39.544385"
-  },
-  "2607.17560v1": {
-    "title": "Reinforcement Learning: From Algorithms To Foundation Models",
-    "arxiv_id": "2607.17560v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-21T11:45:39.544385"
-  },
-  "2607.17545v1": {
-    "title": "Retain or Consolidate? Budget-Dependent Operator Selection for Language Agent Memory",
-    "arxiv_id": "2607.17545v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-21T11:45:39.544385"
-  },
   "2607.16204": {
     "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL",
     "arxiv_id": "2607.16204",
@@ -1360,5 +1288,77 @@
     "arxiv_id": "2608.17310",
     "tier": "worth_noting",
     "date_shown": "2026-08-20T10:25:17.129670"
+  },
+  "2608.20123v1": {
+    "title": "Discrete Diffusion Inference-Time Control with Nested Sequential Monte Carlo",
+    "arxiv_id": "2608.20123v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-21T10:25:46.698138"
+  },
+  "2608.19701v1": {
+    "title": "Beyond Memory Majority: Latent-Source Reasoning for Multi-Agent Memory Arbitration",
+    "arxiv_id": "2608.19701v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-21T10:25:46.698138"
+  },
+  "2608.20099v1": {
+    "title": "Reward-Guided Autoregressive Graph Generation for Efficient Multi-Agent Communication Topology Design",
+    "arxiv_id": "2608.20099v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-21T10:25:46.698138"
+  },
+  "2608.20320v1": {
+    "title": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
+    "arxiv_id": "2608.20320v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-21T10:25:46.698138"
+  },
+  "2608.20011v1": {
+    "title": "Manifold Drift in Flow Preference Optimization: A Root Cause of Reward Hacking",
+    "arxiv_id": "2608.20011v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-21T10:25:46.698138"
+  },
+  "2608.19842v1": {
+    "title": "SAPO: Single-Rollout Autoregressive Policy Optimization for Agentic Reinforcement Learning",
+    "arxiv_id": "2608.19842v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-21T10:25:46.698138"
+  },
+  "2608.19836v1": {
+    "title": "Adaptive Probabilistic Shielding by Learning MDPs for Safe Reinforcement Learning",
+    "arxiv_id": "2608.19836v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-21T10:25:46.698138"
+  },
+  "2608.19803v1": {
+    "title": "MileGPO: Milestone Inference with Local Evidence for Graph-Based Policy Optimization of Long-Horizon LLM Agents",
+    "arxiv_id": "2608.19803v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-21T10:25:46.698138"
+  },
+  "2608.19801v1": {
+    "title": "Unsupervised Anomaly Detection Using Flow Matching on Tabular Data",
+    "arxiv_id": "2608.19801v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-21T10:25:46.698138"
+  },
+  "2608.19746v1": {
+    "title": "PersonalBench: Measuring the Authorship Gap in LLM Personalization",
+    "arxiv_id": "2608.19746v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-21T10:25:46.698138"
+  },
+  "2608.19652v1": {
+    "title": "Can Agent Memory Systems Track Evolving State?",
+    "arxiv_id": "2608.19652v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-21T10:25:46.698138"
+  },
+  "2608.15888": {
+    "title": "Bounded Agents: Delegation Security for Multi-Agent AI Systems",
+    "arxiv_id": "2608.15888",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-21T10:25:46.698138"
   }
 }
