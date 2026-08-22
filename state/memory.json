@@ -35,48 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-09T10:31:14.416345"
   },
-  "2607.16204": {
-    "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL",
-    "arxiv_id": "2607.16204",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-22T11:45:20.887253"
-  },
-  "2607.19332v1": {
-    "title": "ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling",
-    "arxiv_id": "2607.19332v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-22T11:45:20.887253"
-  },
-  "2607.19117v1": {
-    "title": "Comparative Study of Multi-Agent Actor-Critic Algorithms in Parameterized Action Reinforcement Learning",
-    "arxiv_id": "2607.19117v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-22T11:45:20.887253"
-  },
-  "2607.19096v1": {
-    "title": "Supra Cognitive Modes: A Routed Architecture for Agent Memory",
-    "arxiv_id": "2607.19096v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-22T11:45:20.887253"
-  },
-  "2607.18859v1": {
-    "title": "PhoenixRepair: Rethinking Repair Strategy Exploration in Software Agents",
-    "arxiv_id": "2607.18859v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-22T11:45:20.887253"
-  },
-  "2607.18719v1": {
-    "title": "Strategy-Following Multi-Agent Deep Reinforcement Learning Considering Control Strategies Provided to Other Agents",
-    "arxiv_id": "2607.18719v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-22T11:45:20.887253"
-  },
-  "2607.18597v1": {
-    "title": "A Self-Evolving Default Action for Cooperative Tasks with Continuous Action Space",
-    "arxiv_id": "2607.18597v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-22T11:45:20.887253"
-  },
   "2607.19686v1": {
     "title": "Multi-Mask Diffusion Language Models for Few-Step Generation",
     "arxiv_id": "2607.19686v1",
