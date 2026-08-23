@@ -35,42 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-09T10:31:14.416345"
   },
-  "2607.19686v1": {
-    "title": "Multi-Mask Diffusion Language Models for Few-Step Generation",
-    "arxiv_id": "2607.19686v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-23T11:48:38.849983"
-  },
-  "2607.20253v1": {
-    "title": "Pushing the Frontier of Full-Song Generation: Hierarchical Autoregressive Planning Meets Flow-Matching Rendering",
-    "arxiv_id": "2607.20253v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-23T11:48:38.849983"
-  },
-  "2607.19913v1": {
-    "title": "JANUS: Foreseeing Latent Risk for Long-Horizon Agent Safety",
-    "arxiv_id": "2607.19913v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-23T11:48:38.849983"
-  },
-  "2607.19809v1": {
-    "title": "Dreamer-CPC: Message Learning with World Models for Decentralized Multi-agent Reinforcement Learning",
-    "arxiv_id": "2607.19809v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-23T11:48:38.849983"
-  },
-  "2607.01774": {
-    "title": "Subliminal Clocks: Latent Time Modelling in Diffusion Language Models",
-    "arxiv_id": "2607.01774",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-23T11:48:38.849983"
-  },
-  "2607.19064": {
-    "title": "Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing",
-    "arxiv_id": "2607.19064",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-23T11:48:38.849983"
-  },
   "2607.21594": {
     "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
     "arxiv_id": "2607.21594",
