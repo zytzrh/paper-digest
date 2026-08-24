@@ -35,72 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-09T10:31:14.416345"
   },
-  "2607.21594": {
-    "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
-    "arxiv_id": "2607.21594",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-24T11:38:58.992438"
-  },
-  "2607.21522v1": {
-    "title": "GS-Agent: Creating 4D Physical Worlds With Generative Simulation",
-    "arxiv_id": "2607.21522v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-24T11:38:58.992438"
-  },
-  "2607.21503v1": {
-    "title": "Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
-    "arxiv_id": "2607.21503v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-24T11:38:58.992438"
-  },
-  "2607.21488v1": {
-    "title": "Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections",
-    "arxiv_id": "2607.21488v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-24T11:38:58.992438"
-  },
-  "2607.21427v1": {
-    "title": "Context-weighted Discrete Flow Matching",
-    "arxiv_id": "2607.21427v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-24T11:38:58.992438"
-  },
-  "2607.21419v1": {
-    "title": "PATS: Policy-Aware Training Scaffolding for Agentic Reinforcement Learning",
-    "arxiv_id": "2607.21419v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-24T11:38:58.992438"
-  },
-  "2607.21404v1": {
-    "title": "MemTools: A Unified Research Framework for Interoperable Agent Memory",
-    "arxiv_id": "2607.21404v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-24T11:38:58.992438"
-  },
-  "2607.21372v1": {
-    "title": "Mean-to-Score Discrete Diffusion: Posterior-Mean Denoisers for Score Entropy",
-    "arxiv_id": "2607.21372v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-24T11:38:58.992438"
-  },
-  "2607.21324v1": {
-    "title": "GRADRAG: Cross-Component Prompt Adaptation for Coordinated Multi-Agent RAG",
-    "arxiv_id": "2607.21324v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-24T11:38:58.992438"
-  },
-  "2607.21268v1": {
-    "title": "pAI-Econ-claude: A Gated Human-in-the-Loop Multi-Agent Architecture for AI-Assisted Economic Theory Development",
-    "arxiv_id": "2607.21268v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-24T11:38:58.992438"
-  },
-  "2607.21106v1": {
-    "title": "AttriMem: Attribution-Guided Process Feedback for Agent Memory Learning",
-    "arxiv_id": "2607.21106v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-24T11:38:58.992438"
-  },
   "2607.21210v1": {
     "title": "Explainable Belief Harmonization under Dynamic Epistemic Partitions",
     "arxiv_id": "2607.21210v1",
@@ -1282,5 +1216,59 @@
     "arxiv_id": "2608.15888",
     "tier": "worth_noting",
     "date_shown": "2026-08-21T10:25:46.698138"
+  },
+  "2608.20635v1": {
+    "title": "Minimax Optimality of Score-Entropy Discrete Diffusion",
+    "arxiv_id": "2608.20635v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-24T10:33:34.843278"
+  },
+  "2608.20631v1": {
+    "title": "Weighted Memory Tree: Remembering What Matters for Long-Horizon LLM Agents",
+    "arxiv_id": "2608.20631v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-24T10:33:34.843278"
+  },
+  "2608.21230v1": {
+    "title": "Utility Under Attack: Agent Memory Poisoning and the Limits of Content Screening and Provenance Ranking",
+    "arxiv_id": "2608.21230v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-24T10:33:34.843278"
+  },
+  "2608.20920v1": {
+    "title": "ForeDreamer: A Self-Evolving Dual-Agent Memory Architecture for Future Event Prediction",
+    "arxiv_id": "2608.20920v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-24T10:33:34.843278"
+  },
+  "2608.20869v1": {
+    "title": "ReCurveflow: A Flow Matching Framework that Learns Curved Reaction Trajectories to Predict Transition State Geometries",
+    "arxiv_id": "2608.20869v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-24T10:33:34.843278"
+  },
+  "2608.20839v1": {
+    "title": "SAC-Copula: Quality-Preserving Watermarking for Diffusion Language Models via Smooth Correlated Gumbel Fields",
+    "arxiv_id": "2608.20839v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-24T10:33:34.843278"
+  },
+  "2608.20777v1": {
+    "title": "Tree-of-Concerns: Hierarchical Multi-Agent Debate for Unstated-Limitation Extraction in Scientific Critique",
+    "arxiv_id": "2608.20777v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-24T10:33:34.843278"
+  },
+  "2608.20664v1": {
+    "title": "DreamBench-SWE: A Multi-Session Memory-Hygiene Benchmark for Software Agents",
+    "arxiv_id": "2608.20664v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-24T10:33:34.843278"
+  },
+  "2608.20617v1": {
+    "title": "Dual-Cache Latent Space Communication between Heterogeneous Language Models",
+    "arxiv_id": "2608.20617v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-24T10:33:34.843278"
   }
 }
