@@ -1270,5 +1270,59 @@
     "arxiv_id": "2608.20617v1",
     "tier": "worth_noting",
     "date_shown": "2026-08-24T10:33:34.843278"
+  },
+  "2608.23551v1": {
+    "title": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
+    "arxiv_id": "2608.23551v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-25T10:27:43.228844"
+  },
+  "2608.23554v1": {
+    "title": "Provably adaptive sampling with uniform and remasking discrete diffusion models",
+    "arxiv_id": "2608.23554v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-25T10:27:43.228844"
+  },
+  "2608.23400v1": {
+    "title": "Adaptive Item-based Collaborative Structures via Noise Rescheduling in Diffusion for Generative Recommendation",
+    "arxiv_id": "2608.23400v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-25T10:27:43.228844"
+  },
+  "2608.23035v1": {
+    "title": "MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks",
+    "arxiv_id": "2608.23035v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-25T10:27:43.228844"
+  },
+  "2608.23541v1": {
+    "title": "The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams",
+    "arxiv_id": "2608.23541v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-25T10:27:43.228844"
+  },
+  "2608.23318v1": {
+    "title": "Agent-G$^2$: Gaussian Guidance for Agentic Reinforcement Learning",
+    "arxiv_id": "2608.23318v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-25T10:27:43.228844"
+  },
+  "2608.23167v1": {
+    "title": "Accelerating Diffusion Language Models via Structured Suffix Modeling",
+    "arxiv_id": "2608.23167v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-25T10:27:43.228844"
+  },
+  "2608.23029v1": {
+    "title": "Meta-Moderator: Empowering Multi-Agent Debate with Meta-Cognition",
+    "arxiv_id": "2608.23029v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-25T10:27:43.228844"
+  },
+  "2608.22898v1": {
+    "title": "SelFusion: Self-distillation for Diffusion Language Models",
+    "arxiv_id": "2608.22898v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-25T10:27:43.228844"
   }
 }
