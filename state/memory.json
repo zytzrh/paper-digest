@@ -35,12 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-09T10:31:14.416345"
   },
-  "2607.21210v1": {
-    "title": "Explainable Belief Harmonization under Dynamic Epistemic Partitions",
-    "arxiv_id": "2607.21210v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-26T11:16:13.459889"
-  },
   "2607.22375v1": {
     "title": "IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation",
     "arxiv_id": "2607.22375v1",
@@ -1324,5 +1318,41 @@
     "arxiv_id": "2608.22898v1",
     "tier": "worth_noting",
     "date_shown": "2026-08-25T10:27:43.228844"
+  },
+  "2608.23035": {
+    "title": "MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks",
+    "arxiv_id": "2608.23035",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-26T10:31:02.839161"
+  },
+  "2608.24870v1": {
+    "title": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL",
+    "arxiv_id": "2608.24870v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-26T10:31:02.839161"
+  },
+  "2608.24361v1": {
+    "title": "Adaptive Influence Graphs for Failure Attribution in Multi-Agent Systems",
+    "arxiv_id": "2608.24361v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-26T10:31:02.839161"
+  },
+  "2608.24306v1": {
+    "title": "Who is the Agent to Blame? Localizing Faithfulness and Citation Mistakes in Agentic Deep Research",
+    "arxiv_id": "2608.24306v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-26T10:31:02.839161"
+  },
+  "2608.24114v1": {
+    "title": "AHEAD: Adaptive Hindsight with Environment-Augmented Distillation for Agentic RL",
+    "arxiv_id": "2608.24114v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-26T10:31:02.839161"
+  },
+  "2608.22274": {
+    "title": "Length-Adaptive Decoding for Masked Diffusion Machine Translation",
+    "arxiv_id": "2608.22274",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-26T10:31:02.839161"
   }
 }
