@@ -35,102 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-09T10:31:14.416345"
   },
-  "2607.22375v1": {
-    "title": "IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation",
-    "arxiv_id": "2607.22375v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-27T12:53:13.441239"
-  },
-  "2607.22319v1": {
-    "title": "Towards Trustworthy and Cost-Efficient Data Integration: From Naïve RAG to Agentic RAG",
-    "arxiv_id": "2607.22319v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-27T12:53:13.441239"
-  },
-  "2607.22119v1": {
-    "title": "One Hand Watches The Other: Dynamic Multi-Agent Cooperation for Sample-Efficient Bimanual Manipulation in Dynamic Environments",
-    "arxiv_id": "2607.22119v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-27T12:53:13.441239"
-  },
-  "2607.22083v1": {
-    "title": "Nanbeige4.2-3B: Unlocking Agentic Capabilities in a Compact Mode",
-    "arxiv_id": "2607.22083v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-27T12:53:13.441239"
-  },
-  "2607.21962v1": {
-    "title": "Ground Truth First: A Longitudinal Evaluation Instrument for Agent Memory, and the Tenure Crossover in Memory-Architecture Rankings",
-    "arxiv_id": "2607.21962v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-27T12:53:13.441239"
-  },
-  "2607.21946v1": {
-    "title": "Multi-Agent Debate and Visual Information Extraction for SeePhys Pro: A 1st-Place Technical Report from ICML 2026 AI4Math Track 3 Challenge",
-    "arxiv_id": "2607.21946v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-27T12:53:13.441239"
-  },
-  "2607.21503": {
-    "title": "Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
-    "arxiv_id": "2607.21503",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-27T12:53:13.441239"
-  },
-  "2607.21653": {
-    "title": "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning",
-    "arxiv_id": "2607.21653",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-27T12:53:13.441239"
-  },
-  "2607.24306v1": {
-    "title": "Rethinking the Generation Order of Block Diffusion Language Models",
-    "arxiv_id": "2607.24306v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-28T11:54:30.869249"
-  },
-  "2607.24507v1": {
-    "title": "UNIFUSION: Adapting Autoregressive Language Models into Discrete Diffusion under a Unified Reverse-Rate Objective",
-    "arxiv_id": "2607.24507v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-28T11:54:30.869249"
-  },
-  "2607.24741v1": {
-    "title": "Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport",
-    "arxiv_id": "2607.24741v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-28T11:54:30.869249"
-  },
-  "2607.24368v1": {
-    "title": "Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory",
-    "arxiv_id": "2607.24368v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-28T11:54:30.869249"
-  },
-  "2607.24280v1": {
-    "title": "From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search",
-    "arxiv_id": "2607.24280v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-28T11:54:30.869249"
-  },
-  "2607.23946v1": {
-    "title": "Joint Flow Matching for Generator-Consistent Classification",
-    "arxiv_id": "2607.23946v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-28T11:54:30.869249"
-  },
-  "2607.23929v1": {
-    "title": "MemTX: Transactional Belief Commit for Stateful Agent Memory",
-    "arxiv_id": "2607.23929v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-28T11:54:30.869249"
-  },
-  "2607.22375": {
-    "title": "IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation",
-    "arxiv_id": "2607.22375",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-28T11:54:30.869249"
-  },
   "2607.26004v1": {
     "title": "Parallel Decoding Distillation for Fast Image and Video Generation",
     "arxiv_id": "2607.26004v1",
@@ -1354,5 +1258,53 @@
     "arxiv_id": "2608.22274",
     "tier": "worth_noting",
     "date_shown": "2026-08-26T10:31:02.839161"
+  },
+  "2608.25505v1": {
+    "title": "Conditional Total Correlation and the Serial Depth of Adaptive Parallel Sampling",
+    "arxiv_id": "2608.25505v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-27T20:08:07.468493"
+  },
+  "2608.26081v1": {
+    "title": "SwarmWorld: Stigmergic technological evolution in societies of language-model agents",
+    "arxiv_id": "2608.26081v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-27T20:08:07.468493"
+  },
+  "2608.25992v1": {
+    "title": "ProgRouter: Online Progress-Guided Orchestration for Multi-Agent LLM Workflows under Quality-Cost Tradeoffs",
+    "arxiv_id": "2608.25992v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-27T20:08:07.468493"
+  },
+  "2608.25577v1": {
+    "title": "PolyMemDB: A Polyglot Database System for AI Memory Management",
+    "arxiv_id": "2608.25577v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-27T20:08:07.468493"
+  },
+  "2608.25553v1": {
+    "title": "When Stale Constraints Go Unchecked: Budgeted Verification Failures in Inherited Agent Memory",
+    "arxiv_id": "2608.25553v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-27T20:08:07.468493"
+  },
+  "2608.25523v1": {
+    "title": "TOPAS: Workflow-Aware Prefix-State Scheduling for Multi-Agent LLM Serving",
+    "arxiv_id": "2608.25523v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-27T20:08:07.468493"
+  },
+  "2608.23318": {
+    "title": "Agent-G^2: Gaussian Guidance for Agentic Reinforcement Learning",
+    "arxiv_id": "2608.23318",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-27T20:08:07.468493"
+  },
+  "2608.23691": {
+    "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+    "arxiv_id": "2608.23691",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-27T20:08:07.468493"
   }
 }
