@@ -35,84 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-09T10:31:14.416345"
   },
-  "2607.26004v1": {
-    "title": "Parallel Decoding Distillation for Fast Image and Video Generation",
-    "arxiv_id": "2607.26004v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-29T11:58:16.622425"
-  },
-  "2607.25446v1": {
-    "title": "Toward an Organizational Science of Multi-Agent LLM Systems: Decoupling Who, How, and Which Algorithm",
-    "arxiv_id": "2607.25446v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-29T11:58:16.622425"
-  },
-  "2607.26005v1": {
-    "title": "Pictura: Perspective-View Self-Play at Scale for Driving",
-    "arxiv_id": "2607.26005v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-29T11:58:16.622425"
-  },
-  "2607.25877v1": {
-    "title": "Runtime Uncertainty Monitoring for LLM-Based Multi-Agent Systems Using Bayesian Networks",
-    "arxiv_id": "2607.25877v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-29T11:58:16.622425"
-  },
-  "2607.25656v1": {
-    "title": "OrchBench: Evaluating Multi-Agent Orchestration Plans in Isolation via Deterministic Simulation",
-    "arxiv_id": "2607.25656v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-29T11:58:16.622425"
-  },
-  "2607.25420v1": {
-    "title": "MARS: Multi-Agent Re-ranking for Repeat-Order Food Delivery Recommendation",
-    "arxiv_id": "2607.25420v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-29T11:58:16.622425"
-  },
-  "2607.25408v1": {
-    "title": "Context Assembly as the Controlled Variable: A Control-Theoretic View of Harness Policies for Frozen LLM Agents",
-    "arxiv_id": "2607.25408v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-29T11:58:16.622425"
-  },
-  "2607.25369v1": {
-    "title": "ODYSSE: Episode-wise Policy Optimization for Personalized Agentic Reasoning",
-    "arxiv_id": "2607.25369v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-29T11:58:16.622425"
-  },
-  "2607.25340v1": {
-    "title": "Cardiologent: Multi-Agent Clinical Decision Support for Patient-Level Arrhythmia Assessment, Urgency, and Management",
-    "arxiv_id": "2607.25340v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-29T11:58:16.622425"
-  },
-  "2607.25283v1": {
-    "title": "ContractHIL-HLS: Contract-Aligned Multi-Agent Workflow with Hardware-in-the-Loop Feedback for HLS Design",
-    "arxiv_id": "2607.25283v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-29T11:58:16.622425"
-  },
-  "2607.24368": {
-    "title": "Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory",
-    "arxiv_id": "2607.24368",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-29T11:58:16.622425"
-  },
-  "2607.22682": {
-    "title": "A Vocabulary for Multi-Agent Automated Research Systems",
-    "arxiv_id": "2607.22682",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-29T11:58:16.622425"
-  },
-  "2607.24280": {
-    "title": "From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search",
-    "arxiv_id": "2607.24280",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-29T11:58:16.622425"
-  },
   "2607.27056v1": {
     "title": "Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data",
     "arxiv_id": "2607.27056v1",
@@ -1306,5 +1228,53 @@
     "arxiv_id": "2608.23691",
     "tier": "worth_noting",
     "date_shown": "2026-08-27T20:08:07.468493"
+  },
+  "2608.27142v1": {
+    "title": "GRAIN: Bridging Name and Narrative Shifts in Real-World Graph Reasoning through Invariance-Rewarded Agentic RL",
+    "arxiv_id": "2608.27142v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-28T21:03:48.371613"
+  },
+  "2608.27429v1": {
+    "title": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation",
+    "arxiv_id": "2608.27429v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-28T21:03:48.371613"
+  },
+  "2608.27127v1": {
+    "title": "TransMeme: A Multi-Agent Framework for Cross-Cultural Meme Transcreation",
+    "arxiv_id": "2608.27127v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-28T21:03:48.371613"
+  },
+  "2608.26983v1": {
+    "title": "GraphMemix: Query-Aware Evidence Forests for Long-Term Multimodal Agent Memory",
+    "arxiv_id": "2608.26983v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-28T21:03:48.371613"
+  },
+  "2608.26961v1": {
+    "title": "Gromov-Monge Flow Matching for Equivariant Graph Generation",
+    "arxiv_id": "2608.26961v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-28T21:03:48.371613"
+  },
+  "2608.26896v1": {
+    "title": "AI agents in Algorithmic Electricity Markets: On the Emergence of Tacit Collusion",
+    "arxiv_id": "2608.26896v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-28T21:03:48.371613"
+  },
+  "2608.26849v1": {
+    "title": "LiveSim: Simulating Environment-Shaped Users in Multi-Agent Live-Stream Ecosystems",
+    "arxiv_id": "2608.26849v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-28T21:03:48.371613"
+  },
+  "2608.26872": {
+    "title": "Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher",
+    "arxiv_id": "2608.26872",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-28T21:03:48.371613"
   }
 }
