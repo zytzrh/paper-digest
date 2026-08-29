@@ -3,103 +3,37 @@
     "title": "Large Language Models with Reinforcement Learning from Human Feedback Approach for Enhancing Explainable Sexism Detection",
     "arxiv_id": "",
     "tier": "must_read",
-    "date_shown": "2026-08-09T10:31:14.416345"
+    "date_shown": "2026-08-29T14:56:17.806908"
   },
   "2512.22925": {
     "title": "Argus: Token Aware Distributed LLM Inference Optimization",
     "arxiv_id": "2512.22925",
     "tier": "must_read",
-    "date_shown": "2026-08-09T10:31:14.416345"
+    "date_shown": "2026-08-29T14:56:17.806908"
   },
   "2506.08551": {
     "title": "DeepForm: Reasoning Large Language Model for Communication System Formulation",
     "arxiv_id": "2506.08551",
     "tier": "must_read",
-    "date_shown": "2026-08-09T10:31:14.416345"
+    "date_shown": "2026-08-29T14:56:17.806908"
   },
   "hash:42bb407ddaa2a80f": {
     "title": "Survey of uncertainty estimation in LLMs - Sources, methods, applications, and challenges",
     "arxiv_id": "",
     "tier": "must_read",
-    "date_shown": "2026-08-09T10:31:14.416345"
+    "date_shown": "2026-08-29T14:56:17.806908"
   },
   "2511.03166": {
     "title": "Measuring Aleatoric and Epistemic Uncertainty in LLMs: Empirical Evaluation on ID and OOD QA Tasks",
     "arxiv_id": "2511.03166",
     "tier": "must_read",
-    "date_shown": "2026-08-09T10:31:14.416345"
+    "date_shown": "2026-08-29T14:56:17.806908"
   },
   "hash:b393ca398012c489": {
     "title": "Conditional Contrastive Confidence-Based Uncertainty Quantification for LLMs",
     "arxiv_id": "",
     "tier": "must_read",
-    "date_shown": "2026-08-09T10:31:14.416345"
-  },
-  "2607.27056v1": {
-    "title": "Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data",
-    "arxiv_id": "2607.27056v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-30T11:49:39.696480"
-  },
-  "2607.26656v1": {
-    "title": "Graph Is the Verifier: Agentic Reinforcement Learning for Interprocedural Vulnerability Detection",
-    "arxiv_id": "2607.26656v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-30T11:49:39.696480"
-  },
-  "2607.26004": {
-    "title": "Parallel Decoding Distillation for Fast Image and Video Generation",
-    "arxiv_id": "2607.26004",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-30T11:49:39.696480"
-  },
-  "2607.27177v1": {
-    "title": "Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork",
-    "arxiv_id": "2607.27177v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-30T11:49:39.696480"
-  },
-  "2607.27080v1": {
-    "title": "MemSecBench: Tracking Agent Memory Poisoning from Persistence to Consequence and Repair",
-    "arxiv_id": "2607.27080v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-30T11:49:39.696480"
-  },
-  "2607.26922v1": {
-    "title": "Two Calls Beat Five Agents: Evaluating Multi-Agent Pipelines Against Self-Refinement for Local Language Models",
-    "arxiv_id": "2607.26922v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-30T11:49:39.696480"
-  },
-  "2607.26784v1": {
-    "title": "SkillRise: Agentic Reinforcement Learning for Cross-Task Skill Evolution",
-    "arxiv_id": "2607.26784v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-30T11:49:39.696480"
-  },
-  "2607.26773v1": {
-    "title": "Do Latent Channels Actually Communicate? A Causal Audit of Latent Multi-Agent LLM",
-    "arxiv_id": "2607.26773v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-30T11:49:39.696480"
-  },
-  "2607.26760v1": {
-    "title": "Metis: Memory Foundation Model",
-    "arxiv_id": "2607.26760v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-30T11:49:39.696480"
-  },
-  "2607.26724v1": {
-    "title": "UrbanDS: A Graph-Guided LLM Multi-Agent System for Data-Intensive Urban Tasks",
-    "arxiv_id": "2607.26724v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-30T11:49:39.696480"
-  },
-  "2607.26637v1": {
-    "title": "Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability",
-    "arxiv_id": "2607.26637v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-07-30T11:49:39.696480"
+    "date_shown": "2026-08-29T14:56:17.806908"
   },
   "2607.27994v1": {
     "title": "SKIMIX: Multi-Agent Harness-Time Scaling with Skill Mixture for Dynamic Harness Engineering",
@@ -1276,5 +1210,29 @@
     "arxiv_id": "2608.26872",
     "tier": "worth_noting",
     "date_shown": "2026-08-28T21:03:48.371613"
+  },
+  "2608.26788v1": {
+    "title": "Decoupling Planning and Control for Instructable Agents",
+    "arxiv_id": "2608.26788v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-29T14:56:17.806908"
+  },
+  "2608.26714v1": {
+    "title": "LiveVVT: High-Fidelity Video Virtual Try-On in Real Time",
+    "arxiv_id": "2608.26714v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-29T14:56:17.806908"
+  },
+  "2608.26701v1": {
+    "title": "Accelerating Scientific Research with Gemini in the Real-World",
+    "arxiv_id": "2608.26701v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-29T14:56:17.806908"
+  },
+  "2608.26200": {
+    "title": "GameWAM: A World Action Model for Video Games",
+    "arxiv_id": "2608.26200",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-29T14:56:17.806908"
   }
 }
