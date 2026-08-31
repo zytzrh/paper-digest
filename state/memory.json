@@ -1168,5 +1168,65 @@
     "arxiv_id": "2608.26200",
     "tier": "worth_noting",
     "date_shown": "2026-08-29T14:56:17.806908"
+  },
+  "2608.28158v1": {
+    "title": "HARTS: Efficient Agentic Reinforcement Learning for Hybrid-Attention Models over Arbitrary Rollout Trees",
+    "arxiv_id": "2608.28158v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-31T17:22:54.604685"
+  },
+  "2608.28264v1": {
+    "title": "Finding Where the Buck Stops: An Automated Failure Attribution-Based Reflection Framework for Multi-Agent Collaboration",
+    "arxiv_id": "2608.28264v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-31T17:22:54.604685"
+  },
+  "2608.28256v1": {
+    "title": "Physics-Guided Flow Matching for CT Image Reconstruction",
+    "arxiv_id": "2608.28256v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-31T17:22:54.604685"
+  },
+  "2608.28475v1": {
+    "title": "COVER: Identifiable Evaluation of Coalition Routing",
+    "arxiv_id": "2608.28475v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-31T17:22:54.604685"
+  },
+  "2608.28010v1": {
+    "title": "When Can Conditional Flow Matching Replace Pointwise Negative Log-Likelihood?",
+    "arxiv_id": "2608.28010v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-31T17:22:54.604685"
+  },
+  "2608.27998v1": {
+    "title": "Automated Analysis Framework for Multilingual Climate-Health Literature Based on Multi-Agent Large Language Model",
+    "arxiv_id": "2608.27998v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-31T17:22:54.604685"
+  },
+  "2608.27984v1": {
+    "title": "When Evidence Shapes Collaboration: Knowledge-Conditioned Topology Generation for Multi-Agent Systems",
+    "arxiv_id": "2608.27984v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-31T17:22:54.604685"
+  },
+  "2608.27969v1": {
+    "title": "openJiuwen: Beyond Static Harnesses for Long-Horizon Coding Agents",
+    "arxiv_id": "2608.27969v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-31T17:22:54.604685"
+  },
+  "2608.27924v1": {
+    "title": "What Makes Agent Memory Useful for Reliable Unanswerable Question Handling?",
+    "arxiv_id": "2608.27924v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-31T17:22:54.604685"
+  },
+  "2608.27909v1": {
+    "title": "Low-Altitude Fluid Antenna Network with Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2608.27909v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-08-31T17:22:54.604685"
   }
 }
