@@ -1228,5 +1228,59 @@
     "arxiv_id": "2608.27909v1",
     "tier": "worth_noting",
     "date_shown": "2026-08-31T17:22:54.604685"
+  },
+  "2608.30532v1": {
+    "title": "DiffPDE: Masked Diffusion Language Models as PDE Solver",
+    "arxiv_id": "2608.30532v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-01T14:29:33.481682"
+  },
+  "2608.30672v1": {
+    "title": "HiRS-Agent: A Hierarchical Multi-Agent System for Reliable Long-Horizon Remote Sensing Task Solving",
+    "arxiv_id": "2608.30672v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-01T14:29:33.481682"
+  },
+  "2608.31128v1": {
+    "title": "DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening",
+    "arxiv_id": "2608.31128v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-01T14:29:33.481682"
+  },
+  "2608.31009v1": {
+    "title": "Language-Informed Flow Matching for Trend-Guided Structure-Based 3D Molecular Generation",
+    "arxiv_id": "2608.31009v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-01T14:29:33.481682"
+  },
+  "2608.30924v1": {
+    "title": "TRIPPULSE: Multi-Agent Travel Planning with Review-Grounded Reasoning",
+    "arxiv_id": "2608.30924v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-01T14:29:33.481682"
+  },
+  "2608.30922v1": {
+    "title": "CARVE: Verified Expansion for Variable-Length Generation in Diffusion Language Models",
+    "arxiv_id": "2608.30922v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-01T14:29:33.481682"
+  },
+  "2608.30661v1": {
+    "title": "SwarmBench: Can Large Language Models Act as Agent Swarm Orchestrators?",
+    "arxiv_id": "2608.30661v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-01T14:29:33.481682"
+  },
+  "2608.28833": {
+    "title": "Evaluating the Hidden Costs of Personalization in Large Language Models",
+    "arxiv_id": "2608.28833",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-01T14:29:33.481682"
+  },
+  "2608.30428": {
+    "title": "Lies We Can See: Joint Verbal and Non-Verbal Deception by VLM Agents in Embodied Social Interactions",
+    "arxiv_id": "2608.30428",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-01T14:29:33.481682"
   }
 }
