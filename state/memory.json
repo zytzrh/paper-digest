@@ -35,90 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-29T14:56:17.806908"
   },
-  "2607.28864v1": {
-    "title": "Conditioning Tree-Based Diffusions and Flows for Probabilistic Tabular Regression",
-    "arxiv_id": "2607.28864v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-03T12:53:31.696927"
-  },
-  "2607.29433v1": {
-    "title": "Know It, Act on It: Investigating Memory Utilization in LLM Personalization",
-    "arxiv_id": "2607.29433v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-03T12:53:31.696927"
-  },
-  "2607.29422v1": {
-    "title": "AgenticRepair: Multi-Faceted Program Context Engineering for Agentic Vulnerability Repair",
-    "arxiv_id": "2607.29422v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-03T12:53:31.696927"
-  },
-  "2607.29405v1": {
-    "title": "Beyond Component Testing: Validating Agentic AI Systems",
-    "arxiv_id": "2607.29405v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-03T12:53:31.696927"
-  },
-  "2607.29377v1": {
-    "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-    "arxiv_id": "2607.29377v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-03T12:53:31.696927"
-  },
-  "2607.29347v1": {
-    "title": "SeekBrain: An Autonomous Multi-Agent System for Accelerating Neuroscience Discovery",
-    "arxiv_id": "2607.29347v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-03T12:53:31.696927"
-  },
-  "2607.29235v1": {
-    "title": "FBFM: A Training-Free Asynchronous Feedback Mechanism for Flow-Matching in World-Action Models Execution",
-    "arxiv_id": "2607.29235v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-03T12:53:31.696927"
-  },
-  "2607.29079v1": {
-    "title": "Faster but Different: Diagnosing and Controlling Content Drift in Accelerated Multimodal Diffusion Language Models",
-    "arxiv_id": "2607.29079v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-03T12:53:31.696927"
-  },
-  "2607.29055v1": {
-    "title": "Autonomous Repair for Multi-Agent Systems via Monte-Carlo Tree Search",
-    "arxiv_id": "2607.29055v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-03T12:53:31.696927"
-  },
-  "2607.28990v1": {
-    "title": "Scaling Scientific Discovery Environments for Turn-Level Agentic RL",
-    "arxiv_id": "2607.28990v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-03T12:53:31.696927"
-  },
-  "2607.28979v1": {
-    "title": "Mixture-of-Translators: Translating KV Caches Across Heterogeneous Large Language Models",
-    "arxiv_id": "2607.28979v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-03T12:53:31.696927"
-  },
-  "2607.28877v1": {
-    "title": "Open-Source LLM-Driven Formal Verification: A Multi-Agent Pipeline for RTL Repair",
-    "arxiv_id": "2607.28877v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-03T12:53:31.696927"
-  },
-  "2607.28675": {
-    "title": "Meshy T2: Fast Native Mesh Generation with Flow Matching",
-    "arxiv_id": "2607.28675",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-03T12:53:31.696927"
-  },
-  "2607.23802": {
-    "title": "From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement",
-    "arxiv_id": "2607.23802",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-03T12:53:31.696927"
-  },
   "2608.02602v1": {
     "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
     "arxiv_id": "2608.02602v1",
@@ -1282,5 +1198,77 @@
     "arxiv_id": "2608.30428",
     "tier": "worth_noting",
     "date_shown": "2026-09-01T14:29:33.481682"
+  },
+  "2609.01245v1": {
+    "title": "Explore More, Drift Less: Outcome-Only Reinforcement Learning Can Suffice for Long-Horizon Interactive Agents",
+    "arxiv_id": "2609.01245v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-02T14:02:52.114909"
+  },
+  "2609.01043v1": {
+    "title": "From Truncation to Commitment: Persistent Context in Uniform Discrete Diffusion",
+    "arxiv_id": "2609.01043v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-02T14:02:52.114909"
+  },
+  "2608.29910": {
+    "title": "Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory",
+    "arxiv_id": "2608.29910",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-02T14:02:52.114909"
+  },
+  "2609.01549v1": {
+    "title": "NashDreamer: Model-Based Reinforcement Learning for Zero-Sum Imperfect-Information Games",
+    "arxiv_id": "2609.01549v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-02T14:02:52.114909"
+  },
+  "2609.01491v1": {
+    "title": "GlossoGen: Emergent Language in Complex Multi-Agent LLM Interactions",
+    "arxiv_id": "2609.01491v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-02T14:02:52.114909"
+  },
+  "2609.01360v1": {
+    "title": "EDGE: Error Dependency Graph-Guided Multi-Error Attribution in Multi-Agent LLM Systems",
+    "arxiv_id": "2609.01360v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-02T14:02:52.114909"
+  },
+  "2609.01235v1": {
+    "title": "MutMem-V2: Cryptographically Authorized Mutation in Persistent Agent Memory Portable Verification and Reproducible Evidence",
+    "arxiv_id": "2609.01235v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-02T14:02:52.114909"
+  },
+  "2609.01168v1": {
+    "title": "Jailbreaking Text-to-Image Models Through Cracks: Navigating Heterogeneous Safety Filters via Multi-Agent Debate",
+    "arxiv_id": "2609.01168v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-02T14:02:52.114909"
+  },
+  "2609.01076v1": {
+    "title": "Text-guided flow matching enables sample-efficient crystal structure generation",
+    "arxiv_id": "2609.01076v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-02T14:02:52.114909"
+  },
+  "2609.00621": {
+    "title": "Control-Data Flow Separation: Stable Prompt Optimization in Multi-Agent LLMs",
+    "arxiv_id": "2609.00621",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-02T14:02:52.114909"
+  },
+  "2609.00968": {
+    "title": "ReFlowSET: Representation-Aligned Latent Flow Matching for SAR-to-EO Image Translation",
+    "arxiv_id": "2609.00968",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-02T14:02:52.114909"
+  },
+  "2608.28612": {
+    "title": "InternReviewer & InternAdvocate: Objective Reward and Evaluation for Agentic Reinforcement Learning in Peer Review and Rebuttal",
+    "arxiv_id": "2608.28612",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-02T14:02:52.114909"
   }
 }
