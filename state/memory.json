@@ -35,48 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-29T14:56:17.806908"
   },
-  "2608.02602v1": {
-    "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
-    "arxiv_id": "2608.02602v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-04T12:00:26.201021"
-  },
-  "2608.01990v1": {
-    "title": "SPARE: Structural Parameter-Free Affinity Regularization for Flow Matching",
-    "arxiv_id": "2608.01990v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-04T12:00:26.201021"
-  },
-  "2608.02508v1": {
-    "title": "RoMeRL: Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via Reduced-Order Utility States",
-    "arxiv_id": "2608.02508v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-04T12:00:26.201021"
-  },
-  "2608.02291v1": {
-    "title": "Shared Prefixes, Better Credit: Adaptive Routing for Multi-Agent Reasoning",
-    "arxiv_id": "2608.02291v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-04T12:00:26.201021"
-  },
-  "2608.02101v1": {
-    "title": "Cross-Domain Hybrid OPD for Generalizable Search Agents",
-    "arxiv_id": "2608.02101v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-04T12:00:26.201021"
-  },
-  "2608.02005v1": {
-    "title": "Evolving in the Agent Jungle via History-Informed Opponent Awareness",
-    "arxiv_id": "2608.02005v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-04T12:00:26.201021"
-  },
-  "2608.00146": {
-    "title": "DiffusionGemma Technical Report",
-    "arxiv_id": "2608.00146",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-04T12:00:26.201021"
-  },
   "2608.02602": {
     "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
     "arxiv_id": "2608.02602",
@@ -1270,5 +1228,53 @@
     "arxiv_id": "2608.28612",
     "tier": "worth_noting",
     "date_shown": "2026-09-02T14:02:52.114909"
+  },
+  "2609.02108v1": {
+    "title": "Predict, Don't Iterate: Efficient Adaptive-Length Infilling for Diffusion Language Models",
+    "arxiv_id": "2609.02108v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-03T14:05:43.571990"
+  },
+  "2609.02750v1": {
+    "title": "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems",
+    "arxiv_id": "2609.02750v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-03T14:05:43.571990"
+  },
+  "2609.02417v1": {
+    "title": "Coverage, Not Targeting: A Structural Regime in Multi-Turn Agent Credit Assignment",
+    "arxiv_id": "2609.02417v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-03T14:05:43.571990"
+  },
+  "2609.02315v1": {
+    "title": "DiffIE: Diffusion-based Open Information Extraction",
+    "arxiv_id": "2609.02315v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-03T14:05:43.571990"
+  },
+  "2609.02264v1": {
+    "title": "Codebook Agent: Amortized Topology Design for LLM Multi-Agent Systems",
+    "arxiv_id": "2609.02264v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-03T14:05:43.571990"
+  },
+  "2609.02186v1": {
+    "title": "Quantum MeanFlow: single-shot generative sampling on NISQ hardware",
+    "arxiv_id": "2609.02186v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-03T14:05:43.571990"
+  },
+  "2609.02094v1": {
+    "title": "MASkills: Continual Skills Optimization for Multi-Agent LLM Systems",
+    "arxiv_id": "2609.02094v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-03T14:05:43.571990"
+  },
+  "2609.01836": {
+    "title": "Agent Memory Is a Surface for Endogenous Authorization Laundering",
+    "arxiv_id": "2609.01836",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-03T14:05:43.571990"
   }
 }
