@@ -35,72 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-29T14:56:17.806908"
   },
-  "2608.02602": {
-    "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
-    "arxiv_id": "2608.02602",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-05T11:56:44.180503"
-  },
-  "2608.03962v1": {
-    "title": "Separating quantum circuits from classical LLMs",
-    "arxiv_id": "2608.03962v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-05T11:56:44.180503"
-  },
-  "2608.03852v1": {
-    "title": "FedCritic-MIMO: Communication-Efficient Serverless Federated Critic Learning for Massive-MIMO Resource Control in Open and Disaggregated 6G RANs",
-    "arxiv_id": "2608.03852v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-05T11:56:44.180503"
-  },
-  "2608.03769v1": {
-    "title": "MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models",
-    "arxiv_id": "2608.03769v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-05T11:56:44.180503"
-  },
-  "2608.03744v1": {
-    "title": "Agents Catching Agents: Shortcut Cascades and Benchmark Gaming in Clinical Multi-Agent Systems",
-    "arxiv_id": "2608.03744v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-05T11:56:44.180503"
-  },
-  "2608.03644v1": {
-    "title": "Is Inter-Seed Cross-Play Enough? Evaluating the Robustness of Zero-Shot Coordination Algorithms to Implementation Details",
-    "arxiv_id": "2608.03644v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-05T11:56:44.180503"
-  },
-  "2608.03502v1": {
-    "title": "Hybrid LLM-Augmented Reinforcement Learning Agents for Complex Sequential Decision Tasks",
-    "arxiv_id": "2608.03502v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-05T11:56:44.180503"
-  },
-  "2608.03457v1": {
-    "title": "LLaDA MoE v2: Scaling Mixture-of-Experts Diffusion Language Models",
-    "arxiv_id": "2608.03457v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-05T11:56:44.180503"
-  },
-  "2608.01837": {
-    "title": "PCSD: Persistent Consistency for Self-Distillation in Agentic Reinforcement Learning",
-    "arxiv_id": "2608.01837",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-05T11:56:44.180503"
-  },
-  "2607.29377": {
-    "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-    "arxiv_id": "2607.29377",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-05T11:56:44.180503"
-  },
-  "2607.28802": {
-    "title": "Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures",
-    "arxiv_id": "2607.28802",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-05T11:56:44.180503"
-  },
   "2608.04893v1": {
     "title": "When Does Latent Communication Pay? A Causal Audit of Relayed KV Caches in Multi-Agent LLMs",
     "arxiv_id": "2608.04893v1",
@@ -1276,5 +1210,65 @@
     "arxiv_id": "2609.01836",
     "tier": "worth_noting",
     "date_shown": "2026-09-03T14:05:43.571990"
+  },
+  "2609.03667v1": {
+    "title": "Out-of-Distribution Generalisation with Sequence Models in Offline Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2609.03667v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-04T13:58:30.107248"
+  },
+  "2609.04170v1": {
+    "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
+    "arxiv_id": "2609.04170v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-04T13:58:30.107248"
+  },
+  "2609.04141v1": {
+    "title": "Efficient Test-Time Adaptation through Human-AI Interaction",
+    "arxiv_id": "2609.04141v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-04T13:58:30.107248"
+  },
+  "2609.04010v1": {
+    "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+    "arxiv_id": "2609.04010v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-04T13:58:30.107248"
+  },
+  "2609.03920v1": {
+    "title": "Value-Preserving Architectures for Agentic AI Systems",
+    "arxiv_id": "2609.03920v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-04T13:58:30.107248"
+  },
+  "2609.03871v1": {
+    "title": "Bioinfoysis Technical Report",
+    "arxiv_id": "2609.03871v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-04T13:58:30.107248"
+  },
+  "2609.03796v1": {
+    "title": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes",
+    "arxiv_id": "2609.03796v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-04T13:58:30.107248"
+  },
+  "2609.03619v1": {
+    "title": "Remember and Reweight: Enhancing Multi-Agent Debate with Experience Memory and Confidence Estimation",
+    "arxiv_id": "2609.03619v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-04T13:58:30.107248"
+  },
+  "2609.03590v1": {
+    "title": "From Prior-Guided Heuristics to Deployable Agents: Accelerating Demonstration-Driven Reinforcement Learning for Deadline-Constrained Network Control",
+    "arxiv_id": "2609.03590v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-04T13:58:30.107248"
+  },
+  "2609.03293": {
+    "title": "PACE: Towards Surfacing Hidden Conflicts in User Requests",
+    "arxiv_id": "2609.03293",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-04T13:58:30.107248"
   }
 }
