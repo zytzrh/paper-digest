@@ -35,42 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-29T14:56:17.806908"
   },
-  "2608.04893v1": {
-    "title": "When Does Latent Communication Pay? A Causal Audit of Relayed KV Caches in Multi-Agent LLMs",
-    "arxiv_id": "2608.04893v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-06T12:00:12.136412"
-  },
-  "2608.04788v1": {
-    "title": "Agentic Reinforcement Learning with Observation-Calibrated Self-Distillation",
-    "arxiv_id": "2608.04788v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-06T12:00:12.136412"
-  },
-  "2608.04746v1": {
-    "title": "Caching for the Future: Scrub Jay Episodic Memory Principles for Agent Memory Systems",
-    "arxiv_id": "2608.04746v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-06T12:00:12.136412"
-  },
-  "2608.04663v1": {
-    "title": "Calibrating Artificial Guilt: Neurally Grounded Reward Shaping for Prosocial Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2608.04663v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-06T12:00:12.136412"
-  },
-  "2608.04531v1": {
-    "title": "Discretization and Statistical Consistency of Functional Flow Matching",
-    "arxiv_id": "2608.04531v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-06T12:00:12.136412"
-  },
-  "2608.03457": {
-    "title": "LLaDA MoE v2: Scaling Mixture-of-Experts Diffusion Language Models",
-    "arxiv_id": "2608.03457",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-06T12:00:12.136412"
-  },
   "2608.06161v1": {
     "title": "iARCS: Iterative Agentic RL for Controllable 3D Scene Generation",
     "arxiv_id": "2608.06161v1",
@@ -1270,5 +1234,17 @@
     "arxiv_id": "2609.03293",
     "tier": "worth_noting",
     "date_shown": "2026-09-04T13:58:30.107248"
+  },
+  "2609.04128v1": {
+    "title": "Environment Evolution for Terminal Agents",
+    "arxiv_id": "2609.04128v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-05T13:14:04.388977"
+  },
+  "2609.04048v1": {
+    "title": "Translation as a Decision Space: A Multi-Agent Perspective on Low-Resource Dialect Generation",
+    "arxiv_id": "2609.04048v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-05T13:14:04.388977"
   }
 }
