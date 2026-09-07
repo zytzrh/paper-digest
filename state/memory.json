@@ -35,12 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-29T14:56:17.806908"
   },
-  "2608.06257": {
-    "title": "MASS: Multiplayer World Models with Authoritative Shared State",
-    "arxiv_id": "2608.06257",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-08T10:28:16.996913"
-  },
   "2608.05832v1": {
     "title": "Enhancing Social Intelligence in LLMs with Hierarchical Reasoning and Utterance-Level Goal Rewarding",
     "arxiv_id": "2608.05832v1",
@@ -1180,5 +1174,119 @@
     "arxiv_id": "2609.04048v1",
     "tier": "worth_noting",
     "date_shown": "2026-09-05T13:14:04.388977"
+  },
+  "2609.04865v1": {
+    "title": "CoSkill: Joint Reinforcement Learning of Reasoning and Meta-Skill Agents for Hierarchical Skill Evolution",
+    "arxiv_id": "2609.04865v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-07T15:28:59.593413"
+  },
+  "2609.04861v1": {
+    "title": "When Genomic Masking Priors Fail to Transfer: Strong Variant Prediction, Weak Functional Generation",
+    "arxiv_id": "2609.04861v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-07T15:28:59.593413"
+  },
+  "2609.05298v1": {
+    "title": "Online Change-point Detection for Cooperative Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2609.05298v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-07T15:28:59.593413"
+  },
+  "2609.05279v1": {
+    "title": "Testing Interchangeability in LLM Agent Teams",
+    "arxiv_id": "2609.05279v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-07T15:28:59.593413"
+  },
+  "2609.05227v1": {
+    "title": "CABAL: Multi-Agent Simulacra for Tracing the Effects of Collusive Bidding in Peer Review",
+    "arxiv_id": "2609.05227v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-07T15:28:59.593413"
+  },
+  "2609.05069v1": {
+    "title": "A Structured Debate-Mixture-of-Agents Framework for Complex Clinical Diagnostic Decision Support",
+    "arxiv_id": "2609.05069v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-07T15:28:59.593413"
+  },
+  "2609.05018v1": {
+    "title": "How a Chatbot's Response Style Shapes a Classroom: A Multi-Agent Simulation of Students Consulting AI",
+    "arxiv_id": "2609.05018v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-07T15:28:59.593413"
+  },
+  "2609.04913v1": {
+    "title": "ARIA - An Agentic Framework for Autonomous Testing of Infotainment Systems",
+    "arxiv_id": "2609.04913v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-07T15:28:59.593413"
+  },
+  "2609.04898v1": {
+    "title": "RefactorPlatform: An Open-Source Harness for Controlled Evaluation of Repository-Scale Refactoring Agents",
+    "arxiv_id": "2609.04898v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-07T15:28:59.593413"
+  },
+  "2609.04894v1": {
+    "title": "From Language Models to World-Acting Systems: Progress and Limits of Agentic AI across Digital, Social, Virtual, and Physical Environments",
+    "arxiv_id": "2609.04894v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-07T15:28:59.593413"
+  },
+  "2609.04841v1": {
+    "title": "MABPD: Multi-Agent Bias Probing & Detection via Structured Argument Debate",
+    "arxiv_id": "2609.04841v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-07T15:28:59.593413"
+  },
+  "2609.04778v1": {
+    "title": "Diffusion Language Models for Mobile Edge Agentic AI: Foundations, Applications, and Challenges",
+    "arxiv_id": "2609.04778v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-07T15:28:59.593413"
+  },
+  "2609.04749v1": {
+    "title": "DCFA: Dual-view Causal-inspired Attribution for Failure Reasoning in LLM-based Multi-agent Systems",
+    "arxiv_id": "2609.04749v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-07T15:28:59.593413"
+  },
+  "2609.04738v1": {
+    "title": "Aplaud: Adaptive Personalized Low-Rank Decomposition for User-Specific LLM",
+    "arxiv_id": "2609.04738v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-07T15:28:59.593413"
+  },
+  "2609.02750": {
+    "title": "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems",
+    "arxiv_id": "2609.02750",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-07T15:28:59.593413"
+  },
+  "2609.04523": {
+    "title": "MaxKernel: Agentic Kernel Generation for TPUs",
+    "arxiv_id": "2609.04523",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-07T15:28:59.593413"
+  },
+  "2608.30391": {
+    "title": "Using Grounded Theory for Agent Behavior Analysis at Scale",
+    "arxiv_id": "2608.30391",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-07T15:28:59.593413"
+  },
+  "2609.04128": {
+    "title": "Environment Evolution for Terminal Agents",
+    "arxiv_id": "2609.04128",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-07T15:28:59.593413"
+  },
+  "2609.03796": {
+    "title": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes",
+    "arxiv_id": "2609.03796",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-07T15:28:59.593413"
   }
 }
