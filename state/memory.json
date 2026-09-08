@@ -35,12 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-29T14:56:17.806908"
   },
-  "2608.05832v1": {
-    "title": "Enhancing Social Intelligence in LLMs with Hierarchical Reasoning and Utterance-Level Goal Rewarding",
-    "arxiv_id": "2608.05832v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-09T10:31:14.416345"
-  },
   "2608.07169v1": {
     "title": "Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory",
     "arxiv_id": "2608.07169v1",
@@ -1288,5 +1282,11 @@
     "arxiv_id": "2609.03796",
     "tier": "worth_noting",
     "date_shown": "2026-09-07T15:28:59.593413"
+  },
+  "2609.04010": {
+    "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+    "arxiv_id": "2609.04010",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-08T14:06:36.449029"
   }
 }
