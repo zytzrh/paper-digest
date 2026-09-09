@@ -35,120 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-29T14:56:17.806908"
   },
-  "2608.07169v1": {
-    "title": "Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory",
-    "arxiv_id": "2608.07169v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-10T11:04:50.102165"
-  },
-  "2608.07126v1": {
-    "title": "PHOENIX: Fine-Tuned SLM-Powered Autonomous Satellite Lifetime Extension via Predictive Self-Healing and Multi-Agent AI Recovery",
-    "arxiv_id": "2608.07126v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-10T11:04:50.102165"
-  },
-  "2608.07418v1": {
-    "title": "ResidencyRL: Reinforcement Learning in Simulated Clinical Environments",
-    "arxiv_id": "2608.07418v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-10T11:04:50.102165"
-  },
-  "2608.07371v1": {
-    "title": "Trajectory-Relative Hindsight Distillation for Agentic Reinforcement Learning",
-    "arxiv_id": "2608.07371v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-10T11:04:50.102165"
-  },
-  "2608.07294v1": {
-    "title": "FUSE: Feature-Wise Unified Specialization with Cross-Column Exchange for Mixed-Type Tabular Flow Matching",
-    "arxiv_id": "2608.07294v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-10T11:04:50.102165"
-  },
-  "2608.07228v1": {
-    "title": "Learning Suffers More Than the Policy Class Under Partial Observability: A Closed-Form Analysis",
-    "arxiv_id": "2608.07228v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-10T11:04:50.102165"
-  },
-  "2608.07196v1": {
-    "title": "EMAS: Stabilizing Multi-Agent System Evolution through Evidence-Guided Revision",
-    "arxiv_id": "2608.07196v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-10T11:04:50.102165"
-  },
-  "2608.07147v1": {
-    "title": "DiDPO: Diff-in-Diff Policy Optimization for Coding Agent Training",
-    "arxiv_id": "2608.07147v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-10T11:04:50.102165"
-  },
-  "2608.07042v1": {
-    "title": "Limit Points of Reflow with Minibatch Optimal Transport",
-    "arxiv_id": "2608.07042v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-10T11:04:50.102165"
-  },
-  "2608.07006v1": {
-    "title": "Does More Retrieved Evidence Help Visual Retrieval-Augmented Generation with Diffusion Language Models?",
-    "arxiv_id": "2608.07006v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-10T11:04:50.102165"
-  },
-  "2608.06953v1": {
-    "title": "Explicit, Not Longer: What Makes Epistemic Stance Survive Memory Compression",
-    "arxiv_id": "2608.06953v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-10T11:04:50.102165"
-  },
-  "2608.06949v1": {
-    "title": "Does Splitting a Triage Decision Across Agents Hide Bias or Help Catch It? A Multi-Agent Simulation Study of LLM-Based Resource Allocation Under Audit Capacity Constraints",
-    "arxiv_id": "2608.06949v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-10T11:04:50.102165"
-  },
-  "2608.06922v1": {
-    "title": "Deal Me Maybe: The Role of Emotions in Multi-Agent Negotiation",
-    "arxiv_id": "2608.06922v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-10T11:04:50.102165"
-  },
-  "2608.06865v1": {
-    "title": "Multi-Agent Forensic Reasoning for Generalizable Deepfake Video Detection",
-    "arxiv_id": "2608.06865v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-10T11:04:50.102165"
-  },
-  "2608.06824v1": {
-    "title": "Control-Anchored Residual Flow Matching Conditioned on Gene Geometry for Virtual Cell Perturbation Modeling",
-    "arxiv_id": "2608.06824v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-10T11:04:50.102165"
-  },
-  "2608.05784": {
-    "title": "Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay",
-    "arxiv_id": "2608.05784",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-10T11:04:50.102165"
-  },
-  "2608.05785": {
-    "title": "Task-Conditional Flow Matching for Balanced Multilingual Text Embedding Adaptation",
-    "arxiv_id": "2608.05785",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-10T11:04:50.102165"
-  },
-  "2608.06197": {
-    "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning",
-    "arxiv_id": "2608.06197",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-10T11:04:50.102165"
-  },
-  "2608.05987": {
-    "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
-    "arxiv_id": "2608.05987",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-10T11:04:50.102165"
-  },
   "2608.09507v1": {
     "title": "Learning Preference Adaptation for Large Language Model Personalization via Verbal Reinforcement Learning",
     "arxiv_id": "2608.09507v1",
@@ -1288,5 +1174,71 @@
     "arxiv_id": "2609.04010",
     "tier": "worth_noting",
     "date_shown": "2026-09-08T14:06:36.449029"
+  },
+  "2609.08368v1": {
+    "title": "Miles v0.1: Production-Level Post-Training",
+    "arxiv_id": "2609.08368v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-09T14:08:22.995612"
+  },
+  "2609.09059v1": {
+    "title": "PlayTrain: An Efficient Reinforcement Learning Framework for LLM-Generated Adaptable JavaScript Games",
+    "arxiv_id": "2609.09059v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-09T14:08:22.995612"
+  },
+  "2609.08796v1": {
+    "title": "Hi-FLoop: Hierarchical State-Feedback Loops for Multi-Timescale World Modeling",
+    "arxiv_id": "2609.08796v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-09T14:08:22.995612"
+  },
+  "2609.08719v1": {
+    "title": "GoAnt: Quality-Diversity Multi-Agent Search for Alpha Factor Discovery in Market Microstructure Data",
+    "arxiv_id": "2609.08719v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-09T14:08:22.995612"
+  },
+  "2609.08599v1": {
+    "title": "Graph-Based Personalized Memory for LLM Agents: Representation, Evolution, Retrieval, and Evaluation",
+    "arxiv_id": "2609.08599v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-09T14:08:22.995612"
+  },
+  "2609.08572v1": {
+    "title": "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems",
+    "arxiv_id": "2609.08572v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-09T14:08:22.995612"
+  },
+  "2609.08558v1": {
+    "title": "Personalizing LLM Agent Memory Using Biometrics",
+    "arxiv_id": "2609.08558v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-09T14:08:22.995612"
+  },
+  "2609.08550v1": {
+    "title": "CreaMem: A Scene-Aware Memory Architecture for Personalized Agents",
+    "arxiv_id": "2609.08550v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-09T14:08:22.995612"
+  },
+  "2609.08452v1": {
+    "title": "SRPO: Setwise Relative Policy Optimization for Multi-Agent LLMs",
+    "arxiv_id": "2609.08452v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-09T14:08:22.995612"
+  },
+  "2609.08279v1": {
+    "title": "What Eviction Destroys: A Restore-Counterfactual Audit of Forgetting in Agent Memory",
+    "arxiv_id": "2609.08279v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-09T14:08:22.995612"
+  },
+  "2609.08273v1": {
+    "title": "MemForest: Efficient Agent Memory Management via EventTree Partitioning and Progressive Merging",
+    "arxiv_id": "2609.08273v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-09T14:08:22.995612"
   }
 }
