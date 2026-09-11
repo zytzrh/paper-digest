@@ -35,36 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-29T14:56:17.806908"
   },
-  "2608.10615v1": {
-    "title": "Simplex Relaxation for Discrete Diffusion",
-    "arxiv_id": "2608.10615v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-12T10:57:31.284890"
-  },
-  "2608.10544v1": {
-    "title": "Flow Straight to Reality: Perceptually Consistent Flow Matching for Efficient Image Restoration",
-    "arxiv_id": "2608.10544v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-12T10:57:31.284890"
-  },
-  "2608.10529v1": {
-    "title": "Robust Multi-Agent Bandits with Heavy-Tailed Rewards and Information Asymmetry",
-    "arxiv_id": "2608.10529v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-12T10:57:31.284890"
-  },
-  "2608.10509v1": {
-    "title": "MAP-Graph: Provenance-Aware Shared Memory for Multi-Agent Workflows",
-    "arxiv_id": "2608.10509v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-12T10:57:31.284890"
-  },
-  "2608.10504v1": {
-    "title": "MEGA: Self-Evolving Agent Optimization Infrastructure via Wisdom Graph",
-    "arxiv_id": "2608.10504v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-12T10:57:31.284890"
-  },
   "2608.12083v1": {
     "title": "Faithful, Sufficient and Understandable: Rethinking Graph Counterfactual Explanations via Discrete Diffusion Inversion",
     "arxiv_id": "2608.12083v1",
@@ -1222,5 +1192,35 @@
     "arxiv_id": "2609.08572",
     "tier": "worth_noting",
     "date_shown": "2026-09-10T14:02:39.658242"
+  },
+  "2609.11842v1": {
+    "title": "Model-Aware Schedules Improve Generation via Fiberwise Optimal Transport",
+    "arxiv_id": "2609.11842v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-11T14:01:16.601986"
+  },
+  "2609.11737v1": {
+    "title": "ORCH: Organizational Principles Enable Collective Intelligence in Embodied AI",
+    "arxiv_id": "2609.11737v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-11T14:01:16.601986"
+  },
+  "2609.11709v1": {
+    "title": "When Agents Disagree: Bayesian Backward Reasoning as a Label-Free Anchor for Multi-Agent Collective Decision-Making",
+    "arxiv_id": "2609.11709v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-11T14:01:16.601986"
+  },
+  "2609.11190v1": {
+    "title": "Agentic Share-of-Search: A Multi-Agent AI System for Competitive Decision-Making in LLM-Mediated E-Commerce",
+    "arxiv_id": "2609.11190v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-11T14:01:16.601986"
+  },
+  "2609.11155v1": {
+    "title": "DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat",
+    "arxiv_id": "2609.11155v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-11T14:01:16.601986"
   }
 }
