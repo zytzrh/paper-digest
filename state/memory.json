@@ -35,48 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-29T14:56:17.806908"
   },
-  "2608.12083v1": {
-    "title": "Faithful, Sufficient and Understandable: Rethinking Graph Counterfactual Explanations via Discrete Diffusion Inversion",
-    "arxiv_id": "2608.12083v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-13T10:57:58.781977"
-  },
-  "2608.10615": {
-    "title": "Simplex Relaxation for Discrete Diffusion",
-    "arxiv_id": "2608.10615",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-13T10:57:58.781977"
-  },
-  "2608.12253v1": {
-    "title": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
-    "arxiv_id": "2608.12253v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-13T10:57:58.781977"
-  },
-  "2608.11949v1": {
-    "title": "ExRole: From Team Trajectories to Executable Roles in Multi-Agent Language Models",
-    "arxiv_id": "2608.11949v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-13T10:57:58.781977"
-  },
-  "2608.11676v1": {
-    "title": "XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication",
-    "arxiv_id": "2608.11676v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-13T10:57:58.781977"
-  },
-  "2608.11658v1": {
-    "title": "Is Per-Agent Policy Composition Safe? Rethinking Successor-Feature Transfer in Cooperative Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2608.11658v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-13T10:57:58.781977"
-  },
-  "2608.11654v1": {
-    "title": "Towards a Formal Definition of Agent Memory: Basis, Span, Optimality, and the Sequential Memory Problem",
-    "arxiv_id": "2608.11654v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-13T10:57:58.781977"
-  },
   "2608.13096v1": {
     "title": "FlowLOB: Efficient and Controllable Limit Order Book Generation with Flow Matching",
     "arxiv_id": "2608.13096v1",
