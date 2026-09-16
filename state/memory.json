@@ -35,138 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-29T14:56:17.806908"
   },
-  "2608.13096v1": {
-    "title": "FlowLOB: Efficient and Controllable Limit Order Book Generation with Flow Matching",
-    "arxiv_id": "2608.13096v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-14T10:54:51.883852"
-  },
-  "2608.13520v1": {
-    "title": "The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity",
-    "arxiv_id": "2608.13520v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-14T10:54:51.883852"
-  },
-  "2608.13505v1": {
-    "title": "Intern-S2-Preview: Scientific Agentic Foundation Model",
-    "arxiv_id": "2608.13505v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-14T10:54:51.883852"
-  },
-  "2608.13476v1": {
-    "title": "MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination",
-    "arxiv_id": "2608.13476v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-14T10:54:51.883852"
-  },
-  "2608.13334v1": {
-    "title": "RippleMem: From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory",
-    "arxiv_id": "2608.13334v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-14T10:54:51.883852"
-  },
-  "2608.13317v1": {
-    "title": "StateBridge: Training-free Hidden-state Alignment for Latent Communication in LLM Multi-Agent Systems",
-    "arxiv_id": "2608.13317v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-14T10:54:51.883852"
-  },
-  "2608.13046v1": {
-    "title": "BoardroomAI: Dependency-Aware Human-Steerable Multi-Agent Deliberation through Evolving Decision Graphs",
-    "arxiv_id": "2608.13046v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-14T10:54:51.883852"
-  },
-  "2608.12995v1": {
-    "title": "OGR-MARL: Option-Guided Residual Multi-Agent Reinforcement Learning for Heterogeneous USV Cooperative Pursuit in Constrained Port Waterways",
-    "arxiv_id": "2608.12995v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-14T10:54:51.883852"
-  },
-  "2608.12990v1": {
-    "title": "LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation",
-    "arxiv_id": "2608.12990v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-14T10:54:51.883852"
-  },
-  "2608.12921v1": {
-    "title": "Discovering Efficient and Explainable Communication Topologies for LLM-based Multi-Agent Systems via Causal Inference",
-    "arxiv_id": "2608.12921v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-14T10:54:51.883852"
-  },
-  "2608.12841v1": {
-    "title": "AQuA: Recursively Self-Improving Quantitative Trading Research Agents",
-    "arxiv_id": "2608.12841v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-14T10:54:51.883852"
-  },
-  "2608.12895v1": {
-    "title": "Agent Behavioral Contracts II: Certifying Compositional Reliability Without Assuming Independence",
-    "arxiv_id": "2608.12895v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-15T10:18:45.701542"
-  },
-  "2608.14446v1": {
-    "title": "Wyvern: An Agentic Framework for Generating Grounded Multimodal Reports",
-    "arxiv_id": "2608.14446v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-17T10:27:59.888706"
-  },
-  "2608.14375v1": {
-    "title": "Wrong but Useful: Trajectory Value Beyond Answer Correctness in Multi-Agent Messages",
-    "arxiv_id": "2608.14375v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-17T10:27:59.888706"
-  },
-  "2608.14246v1": {
-    "title": "Polaris : Multi Agentic System for Conversational Enterprise Analytics",
-    "arxiv_id": "2608.14246v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-17T10:27:59.888706"
-  },
-  "2608.14122v1": {
-    "title": "Reinforcement Learning-Based Production Scheduling in an Industry-Based Coating Scenario Using the Digital Model Playground",
-    "arxiv_id": "2608.14122v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-17T10:27:59.888706"
-  },
-  "2608.14076v1": {
-    "title": "Reaction-Transformation-Aware Flow Matching for Generalizable Transition State Generation",
-    "arxiv_id": "2608.14076v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-17T10:27:59.888706"
-  },
-  "2608.14068v1": {
-    "title": "MACS: A Hybrid Multi-Agent Framework for Reliable Conversational E-Commerce Recommendation",
-    "arxiv_id": "2608.14068v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-17T10:27:59.888706"
-  },
-  "2608.14055v1": {
-    "title": "HERMES: a multi-agent framework for structured knowledge extraction from ultra-long documents in geoscience",
-    "arxiv_id": "2608.14055v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-17T10:27:59.888706"
-  },
-  "2608.13883v1": {
-    "title": "MemoryLake on MemoryArena: A Matched Study of Agent Memory Backends",
-    "arxiv_id": "2608.13883v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-17T10:27:59.888706"
-  },
-  "2608.13833v1": {
-    "title": "AdsWorldEngine: A Self-Evolving Conversational Advertising Agent through Orchestrator and Tool Coevolution",
-    "arxiv_id": "2608.13833v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-17T10:27:59.888706"
-  },
-  "2608.12990": {
-    "title": "LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation",
-    "arxiv_id": "2608.12990",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-17T10:27:59.888706"
-  },
   "2608.16801v1": {
     "title": "When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding",
     "arxiv_id": "2608.16801v1",
@@ -1180,5 +1048,53 @@
     "arxiv_id": "2609.11155v1",
     "tier": "worth_noting",
     "date_shown": "2026-09-11T14:01:16.601986"
+  },
+  "2609.17464v1": {
+    "title": "Decomposition Buys Integrity, Not Yield",
+    "arxiv_id": "2609.17464v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-16T14:34:00.233698"
+  },
+  "2609.17331v1": {
+    "title": "Self-Emergence Agent Architecture:Behavior-Inertia HMM, Reflexive Metacognition,and Social-Contrastive Self-Modeling",
+    "arxiv_id": "2609.17331v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-16T14:34:00.233698"
+  },
+  "2609.17306v1": {
+    "title": "Mo' Models, Mo' Problems: How to best select model pools when designing Multi-Agent Systems",
+    "arxiv_id": "2609.17306v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-16T14:34:00.233698"
+  },
+  "2609.17287v1": {
+    "title": "Same Flow, Different Paths: Variance Reduction in Flow Matching",
+    "arxiv_id": "2609.17287v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-16T14:34:00.233698"
+  },
+  "2609.17088v1": {
+    "title": "Interactive Memory Learning for Long-Term Conversations",
+    "arxiv_id": "2609.17088v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-16T14:34:00.233698"
+  },
+  "2609.16599v1": {
+    "title": "Large Language Models in the Loop: A Stability- and Network-Aware Survey in Networked Control, Cyber-Physical, and Multi-Agent Systems",
+    "arxiv_id": "2609.16599v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-16T14:34:00.233698"
+  },
+  "2609.17320": {
+    "title": "Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems",
+    "arxiv_id": "2609.17320",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-16T14:34:00.233698"
+  },
+  "2609.15364": {
+    "title": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments",
+    "arxiv_id": "2609.15364",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-16T14:34:00.233698"
   }
 }
