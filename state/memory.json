@@ -35,36 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-08-29T14:56:17.806908"
   },
-  "2608.16801v1": {
-    "title": "When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding",
-    "arxiv_id": "2608.16801v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-18T10:23:43.085356"
-  },
-  "2608.16791v1": {
-    "title": "Steering the Flow: Inverting Face Recognition Models via Gradient-Guided Flow Matching",
-    "arxiv_id": "2608.16791v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-18T10:23:43.085356"
-  },
-  "2608.16666v1": {
-    "title": "Chronocooked: A Benchmark for Implicit Interval Timing in Reinforcement Learning Agents",
-    "arxiv_id": "2608.16666v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-18T10:23:43.085356"
-  },
-  "2608.16578v1": {
-    "title": "Physics of Agents: Statistical Mechanics Predicts Collective Behavior of AI Agents",
-    "arxiv_id": "2608.16578v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-18T10:23:43.085356"
-  },
-  "2608.16402v1": {
-    "title": "A Policy Algebra for Trust-Preserving Agentic AI Execution",
-    "arxiv_id": "2608.16402v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-18T10:23:43.085356"
-  },
   "2608.19161v1": {
     "title": "Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication",
     "arxiv_id": "2608.19161v1",
@@ -1096,5 +1066,89 @@
     "arxiv_id": "2609.15364",
     "tier": "worth_noting",
     "date_shown": "2026-09-16T14:34:00.233698"
+  },
+  "2609.15938": {
+    "title": "HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses",
+    "arxiv_id": "2609.15938",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-17T14:38:58.055053"
+  },
+  "2609.18929v1": {
+    "title": "Social Laws for Multi-agent Coordination in Stochastic Environments",
+    "arxiv_id": "2609.18929v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-17T14:38:58.055053"
+  },
+  "2609.18639v1": {
+    "title": "CoRe-MARL: Cooperative Redistribution Under Unknown Dynamics Using Recurrent Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2609.18639v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-17T14:38:58.055053"
+  },
+  "2609.18597v1": {
+    "title": "Reasoning through Evolution: Automatic Meta-path Discovery for LLM-based Fake News Detection",
+    "arxiv_id": "2609.18597v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-17T14:38:58.055053"
+  },
+  "2609.18591v1": {
+    "title": "Recursive Reasoning or Statistical Extrapolation? In-Context Learning in Multi-Agent Interdependent Decision-Making",
+    "arxiv_id": "2609.18591v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-17T14:38:58.055053"
+  },
+  "2609.18461v1": {
+    "title": "Disentangling Long-Term Memory via Latent Neuro-Symbolic Reasoning",
+    "arxiv_id": "2609.18461v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-17T14:38:58.055053"
+  },
+  "2609.18460v1": {
+    "title": "Collective Loss of Control in LLM Agent Systems: An Epidemic Account of Mutation, Contagion, and Recovery",
+    "arxiv_id": "2609.18460v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-17T14:38:58.055053"
+  },
+  "2609.18306v1": {
+    "title": "Bias Amplification in Multi-Agent Network: How Biased Agents Shape Opinions and Rhetoric",
+    "arxiv_id": "2609.18306v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-17T14:38:58.055053"
+  },
+  "2609.18283v1": {
+    "title": "Where Should Agents Live? Energy-Memory Characterization of Agentic AI for the Edge-Cloud Continuum",
+    "arxiv_id": "2609.18283v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-17T14:38:58.055053"
+  },
+  "2609.18219v1": {
+    "title": "APGEM: Adaptive Policy-Guided Error Mitigation for Quantum Reinforcement Learning on a Real-World CVRP Case Study",
+    "arxiv_id": "2609.18219v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-17T14:38:58.055053"
+  },
+  "2609.18182v1": {
+    "title": "WFM: Wiki Foundation Model for Complex Agentic Reasoning",
+    "arxiv_id": "2609.18182v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-17T14:38:58.055053"
+  },
+  "2609.18135v1": {
+    "title": "DualSQL: Text-to-SQL with Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2609.18135v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-17T14:38:58.055053"
+  },
+  "2609.16372": {
+    "title": "Register Tokens for Bounded-State Reasoning in Diffusion Language Models",
+    "arxiv_id": "2609.16372",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-17T14:38:58.055053"
+  },
+  "2609.16057": {
+    "title": "OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning",
+    "arxiv_id": "2609.16057",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-17T14:38:58.055053"
   }
 }
