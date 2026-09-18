@@ -3,37 +3,37 @@
     "title": "Large Language Models with Reinforcement Learning from Human Feedback Approach for Enhancing Explainable Sexism Detection",
     "arxiv_id": "",
     "tier": "must_read",
-    "date_shown": "2026-08-29T14:56:17.806908"
+    "date_shown": "2026-09-18T14:05:17.354966"
   },
   "2512.22925": {
     "title": "Argus: Token Aware Distributed LLM Inference Optimization",
     "arxiv_id": "2512.22925",
     "tier": "must_read",
-    "date_shown": "2026-08-29T14:56:17.806908"
+    "date_shown": "2026-09-18T14:05:17.354966"
   },
   "2506.08551": {
     "title": "DeepForm: Reasoning Large Language Model for Communication System Formulation",
     "arxiv_id": "2506.08551",
     "tier": "must_read",
-    "date_shown": "2026-08-29T14:56:17.806908"
+    "date_shown": "2026-09-18T14:05:17.354966"
   },
   "hash:42bb407ddaa2a80f": {
     "title": "Survey of uncertainty estimation in LLMs - Sources, methods, applications, and challenges",
     "arxiv_id": "",
     "tier": "must_read",
-    "date_shown": "2026-08-29T14:56:17.806908"
+    "date_shown": "2026-09-18T14:05:17.354966"
   },
   "2511.03166": {
     "title": "Measuring Aleatoric and Epistemic Uncertainty in LLMs: Empirical Evaluation on ID and OOD QA Tasks",
     "arxiv_id": "2511.03166",
     "tier": "must_read",
-    "date_shown": "2026-08-29T14:56:17.806908"
+    "date_shown": "2026-09-18T14:05:17.354966"
   },
   "hash:b393ca398012c489": {
     "title": "Conditional Contrastive Confidence-Based Uncertainty Quantification for LLMs",
     "arxiv_id": "",
     "tier": "must_read",
-    "date_shown": "2026-08-29T14:56:17.806908"
+    "date_shown": "2026-09-18T14:05:17.354966"
   },
   "2608.19161v1": {
     "title": "Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication",
@@ -1150,5 +1150,59 @@
     "arxiv_id": "2609.16057",
     "tier": "worth_noting",
     "date_shown": "2026-09-17T14:38:58.055053"
+  },
+  "2609.19868v1": {
+    "title": "Zarya: A Hybrid Autoregressive--Masked Diffusion Language Model with Flexible Training and Dual-Mode Inference",
+    "arxiv_id": "2609.19868v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-18T14:05:17.354966"
+  },
+  "2609.20784v1": {
+    "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
+    "arxiv_id": "2609.20784v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-18T14:05:17.354966"
+  },
+  "2609.20776v1": {
+    "title": "GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies",
+    "arxiv_id": "2609.20776v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-18T14:05:17.354966"
+  },
+  "2609.20751v1": {
+    "title": "dQwen3.5: Hybrid-Attention Diffusion Language Models",
+    "arxiv_id": "2609.20751v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-18T14:05:17.354966"
+  },
+  "2609.20715v1": {
+    "title": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
+    "arxiv_id": "2609.20715v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-18T14:05:17.354966"
+  },
+  "2609.20581v1": {
+    "title": "Limits of Confidence in Diffusion",
+    "arxiv_id": "2609.20581v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-18T14:05:17.354966"
+  },
+  "2609.20539v1": {
+    "title": "Parallelism, critical windows, and separations among diffusion language models",
+    "arxiv_id": "2609.20539v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-18T14:05:17.354966"
+  },
+  "2609.20089v1": {
+    "title": "UnifiedPlayers: Enhance Tool-Integrated Reasoning in Agentic Reinforcement Learning",
+    "arxiv_id": "2609.20089v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-18T14:05:17.354966"
+  },
+  "2609.19944v1": {
+    "title": "MaSCoD: A Multi-Agent Framework for Structural-Context-Guided Candidate Causal Graph Generation",
+    "arxiv_id": "2609.19944v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-18T14:05:17.354966"
   }
 }
