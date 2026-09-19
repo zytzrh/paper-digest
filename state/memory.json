@@ -35,96 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-09-18T14:05:17.354966"
   },
-  "2608.19161v1": {
-    "title": "Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication",
-    "arxiv_id": "2608.19161v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-20T10:25:17.129670"
-  },
-  "2608.19049v1": {
-    "title": "Multi-Agent Off-Policy Deep Reinforcement Learning for Smart Campus Coverage",
-    "arxiv_id": "2608.19049v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-20T10:25:17.129670"
-  },
-  "2608.19029v1": {
-    "title": "Adaptive Memory and Reflection Multi-Agent System for Medical Question Answering",
-    "arxiv_id": "2608.19029v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-20T10:25:17.129670"
-  },
-  "2608.18884v1": {
-    "title": "Training-Free Inference-Time Self-Reflection and Cost-Bounded Early Stopping for Large Language Models",
-    "arxiv_id": "2608.18884v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-20T10:25:17.129670"
-  },
-  "2608.18878v1": {
-    "title": "DentAgent: Evidence-Centric Multi-Agent Coordination for Multimodal Dental Reasoning",
-    "arxiv_id": "2608.18878v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-20T10:25:17.129670"
-  },
-  "2608.18740v1": {
-    "title": "A Multi-Agent Platform for Automated Enterprise Analytics and Insight Generation",
-    "arxiv_id": "2608.18740v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-20T10:25:17.129670"
-  },
-  "2608.18682v1": {
-    "title": "RTPO: Reverse-Turn Policy Optimization for Stabilizing Agentic RL Training",
-    "arxiv_id": "2608.18682v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-20T10:25:17.129670"
-  },
-  "2608.18575v1": {
-    "title": "Beyond LLM-Based Reasoning: Lightweight GNNs for Agent Failure Attribution",
-    "arxiv_id": "2608.18575v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-20T10:25:17.129670"
-  },
-  "2608.18450v1": {
-    "title": "Adaptive Multi-Agent Feature Selection for Personalized Fall Risk Prevention",
-    "arxiv_id": "2608.18450v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-20T10:25:17.129670"
-  },
-  "2608.17253": {
-    "title": "Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL",
-    "arxiv_id": "2608.17253",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-20T10:25:17.129670"
-  },
-  "2608.17528": {
-    "title": "Agent Lightning v1.0: Towards Harnessed Agentic RL",
-    "arxiv_id": "2608.17528",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-20T10:25:17.129670"
-  },
-  "2608.15008": {
-    "title": "Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents",
-    "arxiv_id": "2608.15008",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-20T10:25:17.129670"
-  },
-  "2608.05811": {
-    "title": "Energy-Guided Flow Matching",
-    "arxiv_id": "2608.05811",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-20T10:25:17.129670"
-  },
-  "2608.17975": {
-    "title": "aDSL: Agentic 3D Creation via Joint Agent-Program Design",
-    "arxiv_id": "2608.17975",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-20T10:25:17.129670"
-  },
-  "2608.17310": {
-    "title": "Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements",
-    "arxiv_id": "2608.17310",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-20T10:25:17.129670"
-  },
   "2608.20123v1": {
     "title": "Discrete Diffusion Inference-Time Control with Nested Sequential Monte Carlo",
     "arxiv_id": "2608.20123v1",
@@ -1204,5 +1114,11 @@
     "arxiv_id": "2609.19944v1",
     "tier": "worth_noting",
     "date_shown": "2026-09-18T14:05:17.354966"
+  },
+  "2609.19656": {
+    "title": "Self-Evolving Search Index",
+    "arxiv_id": "2609.19656",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-19T13:40:23.719821"
   }
 }
