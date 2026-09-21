@@ -1066,5 +1066,47 @@
     "arxiv_id": "2609.17496",
     "tier": "worth_noting",
     "date_shown": "2026-09-20T13:56:00.416660"
+  },
+  "2609.21533v1": {
+    "title": "MACE: Memory-Agent Co-Evolution with Adaptive Memory Graphs for Multi-Agent Systems",
+    "arxiv_id": "2609.21533v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-21T16:15:38.598931"
+  },
+  "2609.21960v1": {
+    "title": "Schedule optimization for tau-leaping in masked discrete diffusion",
+    "arxiv_id": "2609.21960v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-21T16:15:38.598931"
+  },
+  "2609.21989v1": {
+    "title": "Time series generation with spectrally aligned latent flow matching",
+    "arxiv_id": "2609.21989v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-21T16:15:38.598931"
+  },
+  "2609.21527v1": {
+    "title": "OpenMAS-GCom. A Diagnostic Benchmark for Graph-enhanced Multi-Agent Systems",
+    "arxiv_id": "2609.21527v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-21T16:15:38.598931"
+  },
+  "2609.21216v1": {
+    "title": "Fewer Steps, Better Actions: Rethinking Flow-Matching Inference for VLA Policies",
+    "arxiv_id": "2609.21216v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-21T16:15:38.598931"
+  },
+  "2609.20715": {
+    "title": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
+    "arxiv_id": "2609.20715",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-21T16:15:38.598931"
+  },
+  "2609.20784": {
+    "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
+    "arxiv_id": "2609.20784",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-21T16:15:38.598931"
   }
 }
