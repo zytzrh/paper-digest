@@ -1108,5 +1108,83 @@
     "arxiv_id": "2609.20784",
     "tier": "worth_noting",
     "date_shown": "2026-09-21T16:15:38.598931"
+  },
+  "2609.24971v1": {
+    "title": "DolphinBench: Mapping the Pareto Frontier of Agent Memory",
+    "arxiv_id": "2609.24971v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-22T14:19:00.012092"
+  },
+  "2609.24967v1": {
+    "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
+    "arxiv_id": "2609.24967v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-22T14:19:00.012092"
+  },
+  "2609.24876v1": {
+    "title": "Partner-Specific Affective Precision in Social Active Inference",
+    "arxiv_id": "2609.24876v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-22T14:19:00.012092"
+  },
+  "2609.24706v1": {
+    "title": "\"MeBo Leaves a Piece of You Behind\": Designing a Relational Voice-Based Memory Companion for Older Adults",
+    "arxiv_id": "2609.24706v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-22T14:19:00.012092"
+  },
+  "2609.24662v1": {
+    "title": "DUMA-Bench: A Dual-Control Multi-Agent Benchmark for Evaluating LLM Agent Security",
+    "arxiv_id": "2609.24662v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-22T14:19:00.012092"
+  },
+  "2609.24657v1": {
+    "title": "Circuit Hypernetworks for Quantum-Augmented Diffusion Language Models",
+    "arxiv_id": "2609.24657v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-22T14:19:00.012092"
+  },
+  "2609.24515v1": {
+    "title": "Beyond Predictable Paths: Redefining AI Security Incident Reporting for Agents",
+    "arxiv_id": "2609.24515v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-22T14:19:00.012092"
+  },
+  "2609.24346v1": {
+    "title": "LADDER: Graph-Guided Diffusion Language Models for Efficient Multi-Hop Reasoning",
+    "arxiv_id": "2609.24346v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-22T14:19:00.012092"
+  },
+  "2609.24259v1": {
+    "title": "MemCalib: Benchmarking and Optimizing Memory Use in LLM Agents",
+    "arxiv_id": "2609.24259v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-22T14:19:00.012092"
+  },
+  "2609.24165v1": {
+    "title": "APEXA: Execution-Integrity Enforcement for Multi-Agent LLM Automation of Synchrotron Data Reduction",
+    "arxiv_id": "2609.24165v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-22T14:19:00.012092"
+  },
+  "2609.24146v1": {
+    "title": "Mind or Message? Auditing Theory of Mind in Multi-Agent Social Simulation",
+    "arxiv_id": "2609.24146v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-22T14:19:00.012092"
+  },
+  "2609.24997": {
+    "title": "VideoGen-Agent: Reinforcing Video Generation Agents",
+    "arxiv_id": "2609.24997",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-22T14:19:00.012092"
+  },
+  "2609.23377": {
+    "title": "One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents",
+    "arxiv_id": "2609.23377",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-22T14:19:00.012092"
   }
 }
