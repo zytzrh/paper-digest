@@ -35,60 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-09-18T14:05:17.354966"
   },
-  "2608.20635v1": {
-    "title": "Minimax Optimality of Score-Entropy Discrete Diffusion",
-    "arxiv_id": "2608.20635v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-24T10:33:34.843278"
-  },
-  "2608.20631v1": {
-    "title": "Weighted Memory Tree: Remembering What Matters for Long-Horizon LLM Agents",
-    "arxiv_id": "2608.20631v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-24T10:33:34.843278"
-  },
-  "2608.21230v1": {
-    "title": "Utility Under Attack: Agent Memory Poisoning and the Limits of Content Screening and Provenance Ranking",
-    "arxiv_id": "2608.21230v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-24T10:33:34.843278"
-  },
-  "2608.20920v1": {
-    "title": "ForeDreamer: A Self-Evolving Dual-Agent Memory Architecture for Future Event Prediction",
-    "arxiv_id": "2608.20920v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-24T10:33:34.843278"
-  },
-  "2608.20869v1": {
-    "title": "ReCurveflow: A Flow Matching Framework that Learns Curved Reaction Trajectories to Predict Transition State Geometries",
-    "arxiv_id": "2608.20869v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-24T10:33:34.843278"
-  },
-  "2608.20839v1": {
-    "title": "SAC-Copula: Quality-Preserving Watermarking for Diffusion Language Models via Smooth Correlated Gumbel Fields",
-    "arxiv_id": "2608.20839v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-24T10:33:34.843278"
-  },
-  "2608.20777v1": {
-    "title": "Tree-of-Concerns: Hierarchical Multi-Agent Debate for Unstated-Limitation Extraction in Scientific Critique",
-    "arxiv_id": "2608.20777v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-24T10:33:34.843278"
-  },
-  "2608.20664v1": {
-    "title": "DreamBench-SWE: A Multi-Session Memory-Hygiene Benchmark for Software Agents",
-    "arxiv_id": "2608.20664v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-24T10:33:34.843278"
-  },
-  "2608.20617v1": {
-    "title": "Dual-Cache Latent Space Communication between Heterogeneous Language Models",
-    "arxiv_id": "2608.20617v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-24T10:33:34.843278"
-  },
   "2608.23551v1": {
     "title": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
     "arxiv_id": "2608.23551v1",
@@ -1186,5 +1132,59 @@
     "arxiv_id": "2609.23377",
     "tier": "worth_noting",
     "date_shown": "2026-09-22T14:19:00.012092"
+  },
+  "2609.26781v1": {
+    "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
+    "arxiv_id": "2609.26781v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-23T14:38:37.551277"
+  },
+  "2609.26667v1": {
+    "title": "MAGIC: Mixed-Granularity Agent Graphs via Incremental Construction with Dense-Reward Reinforcement Learning",
+    "arxiv_id": "2609.26667v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-23T14:38:37.551277"
+  },
+  "2609.26481v1": {
+    "title": "Behavior is Not Enough: A Mechanism-Based Evaluation of Social Norm Emergence in LLM Societies",
+    "arxiv_id": "2609.26481v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-23T14:38:37.551277"
+  },
+  "2609.25873v1": {
+    "title": "AgenticSizing: A Large Language Model-based Multi-Agent Framework for Analog Circuit Sizing",
+    "arxiv_id": "2609.25873v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-23T14:38:37.551277"
+  },
+  "2609.25821v1": {
+    "title": "CogenPVG: Cognitive-Enhanced Reflective Multi-Agent Framework for Persuasive Video Generation",
+    "arxiv_id": "2609.25821v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-23T14:38:37.551277"
+  },
+  "2609.25701v1": {
+    "title": "Fully Byzantine-Resilient Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2609.25701v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-23T14:38:37.551277"
+  },
+  "2609.25659v1": {
+    "title": "When Riemann flows with Wasserstein: Generative Modeling of Probability Distributions on Manifolds",
+    "arxiv_id": "2609.25659v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-23T14:38:37.551277"
+  },
+  "2609.24967": {
+    "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
+    "arxiv_id": "2609.24967",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-23T14:38:37.551277"
+  },
+  "2609.24657": {
+    "title": "Circuit Hypernetworks for Quantum-Augmented Diffusion Language Models",
+    "arxiv_id": "2609.24657",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-23T14:38:37.551277"
   }
 }
