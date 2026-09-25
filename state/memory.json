@@ -35,42 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-09-18T14:05:17.354966"
   },
-  "2608.23035": {
-    "title": "MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks",
-    "arxiv_id": "2608.23035",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-26T10:31:02.839161"
-  },
-  "2608.24870v1": {
-    "title": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL",
-    "arxiv_id": "2608.24870v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-26T10:31:02.839161"
-  },
-  "2608.24361v1": {
-    "title": "Adaptive Influence Graphs for Failure Attribution in Multi-Agent Systems",
-    "arxiv_id": "2608.24361v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-26T10:31:02.839161"
-  },
-  "2608.24306v1": {
-    "title": "Who is the Agent to Blame? Localizing Faithfulness and Citation Mistakes in Agentic Deep Research",
-    "arxiv_id": "2608.24306v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-26T10:31:02.839161"
-  },
-  "2608.24114v1": {
-    "title": "AHEAD: Adaptive Hindsight with Environment-Augmented Distillation for Agentic RL",
-    "arxiv_id": "2608.24114v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-26T10:31:02.839161"
-  },
-  "2608.22274": {
-    "title": "Length-Adaptive Decoding for Masked Diffusion Machine Translation",
-    "arxiv_id": "2608.22274",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-26T10:31:02.839161"
-  },
   "2608.25505v1": {
     "title": "Conditional Total Correlation and the Serial Depth of Adaptive Parallel Sampling",
     "arxiv_id": "2608.25505v1",
@@ -1192,5 +1156,53 @@
     "arxiv_id": "2609.26781",
     "tier": "worth_noting",
     "date_shown": "2026-09-24T14:36:32.588241"
+  },
+  "2609.28473": {
+    "title": "On the Diffusibility of High-Dimensional Latents",
+    "arxiv_id": "2609.28473",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-25T14:58:22.278196"
+  },
+  "2609.30028v1": {
+    "title": "How does Adversarial Influence Scale in Multi-Agent Systems?",
+    "arxiv_id": "2609.30028v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-25T14:58:22.278196"
+  },
+  "2609.29912v1": {
+    "title": "Structured Pose-Conditioned Flow Matching for Generative 5G CSI Augmentation",
+    "arxiv_id": "2609.29912v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-25T14:58:22.278196"
+  },
+  "2609.29908v1": {
+    "title": "MorphIK: Morphology-Conditioned Neural Inverse Kinematics for Unknown Robots",
+    "arxiv_id": "2609.29908v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-25T14:58:22.278196"
+  },
+  "2609.29892v1": {
+    "title": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
+    "arxiv_id": "2609.29892v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-25T14:58:22.278196"
+  },
+  "2609.29772v1": {
+    "title": "WeatherDiagFlow: Evidence-Grounded Radar Nowcasting with Diagnostic Flow Refinement",
+    "arxiv_id": "2609.29772v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-25T14:58:22.278196"
+  },
+  "2609.29366v1": {
+    "title": "Epistemic-Probabilistic Model for Guarded Multi-Agent LLM Coordination",
+    "arxiv_id": "2609.29366v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-25T14:58:22.278196"
+  },
+  "2609.27321": {
+    "title": "Verifiable Hidden Dynamics Play: Generating Agentic RL Environments from Solved Mechanisms",
+    "arxiv_id": "2609.27321",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-25T14:58:22.278196"
   }
 }
