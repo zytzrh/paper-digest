@@ -35,54 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-09-18T14:05:17.354966"
   },
-  "2608.25505v1": {
-    "title": "Conditional Total Correlation and the Serial Depth of Adaptive Parallel Sampling",
-    "arxiv_id": "2608.25505v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-27T20:08:07.468493"
-  },
-  "2608.26081v1": {
-    "title": "SwarmWorld: Stigmergic technological evolution in societies of language-model agents",
-    "arxiv_id": "2608.26081v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-27T20:08:07.468493"
-  },
-  "2608.25992v1": {
-    "title": "ProgRouter: Online Progress-Guided Orchestration for Multi-Agent LLM Workflows under Quality-Cost Tradeoffs",
-    "arxiv_id": "2608.25992v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-27T20:08:07.468493"
-  },
-  "2608.25577v1": {
-    "title": "PolyMemDB: A Polyglot Database System for AI Memory Management",
-    "arxiv_id": "2608.25577v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-27T20:08:07.468493"
-  },
-  "2608.25553v1": {
-    "title": "When Stale Constraints Go Unchecked: Budgeted Verification Failures in Inherited Agent Memory",
-    "arxiv_id": "2608.25553v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-27T20:08:07.468493"
-  },
-  "2608.25523v1": {
-    "title": "TOPAS: Workflow-Aware Prefix-State Scheduling for Multi-Agent LLM Serving",
-    "arxiv_id": "2608.25523v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-27T20:08:07.468493"
-  },
-  "2608.23318": {
-    "title": "Agent-G^2: Gaussian Guidance for Agentic Reinforcement Learning",
-    "arxiv_id": "2608.23318",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-27T20:08:07.468493"
-  },
-  "2608.23691": {
-    "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-    "arxiv_id": "2608.23691",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-27T20:08:07.468493"
-  },
   "2608.27142v1": {
     "title": "GRAIN: Bridging Name and Narrative Shifts in Real-World Graph Reasoning through Invariance-Rewarded Agentic RL",
     "arxiv_id": "2608.27142v1",
@@ -1204,5 +1156,11 @@
     "arxiv_id": "2609.27321",
     "tier": "worth_noting",
     "date_shown": "2026-09-25T14:58:22.278196"
+  },
+  "2609.29964v1": {
+    "title": "World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal",
+    "arxiv_id": "2609.29964v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-27T14:58:18.411066"
   }
 }
