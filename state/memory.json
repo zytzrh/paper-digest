@@ -35,78 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-09-18T14:05:17.354966"
   },
-  "2608.27142v1": {
-    "title": "GRAIN: Bridging Name and Narrative Shifts in Real-World Graph Reasoning through Invariance-Rewarded Agentic RL",
-    "arxiv_id": "2608.27142v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-28T21:03:48.371613"
-  },
-  "2608.27429v1": {
-    "title": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation",
-    "arxiv_id": "2608.27429v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-28T21:03:48.371613"
-  },
-  "2608.27127v1": {
-    "title": "TransMeme: A Multi-Agent Framework for Cross-Cultural Meme Transcreation",
-    "arxiv_id": "2608.27127v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-28T21:03:48.371613"
-  },
-  "2608.26983v1": {
-    "title": "GraphMemix: Query-Aware Evidence Forests for Long-Term Multimodal Agent Memory",
-    "arxiv_id": "2608.26983v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-28T21:03:48.371613"
-  },
-  "2608.26961v1": {
-    "title": "Gromov-Monge Flow Matching for Equivariant Graph Generation",
-    "arxiv_id": "2608.26961v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-28T21:03:48.371613"
-  },
-  "2608.26896v1": {
-    "title": "AI agents in Algorithmic Electricity Markets: On the Emergence of Tacit Collusion",
-    "arxiv_id": "2608.26896v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-28T21:03:48.371613"
-  },
-  "2608.26849v1": {
-    "title": "LiveSim: Simulating Environment-Shaped Users in Multi-Agent Live-Stream Ecosystems",
-    "arxiv_id": "2608.26849v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-28T21:03:48.371613"
-  },
-  "2608.26872": {
-    "title": "Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher",
-    "arxiv_id": "2608.26872",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-28T21:03:48.371613"
-  },
-  "2608.26788v1": {
-    "title": "Decoupling Planning and Control for Instructable Agents",
-    "arxiv_id": "2608.26788v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-29T14:56:17.806908"
-  },
-  "2608.26714v1": {
-    "title": "LiveVVT: High-Fidelity Video Virtual Try-On in Real Time",
-    "arxiv_id": "2608.26714v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-29T14:56:17.806908"
-  },
-  "2608.26701v1": {
-    "title": "Accelerating Scientific Research with Gemini in the Real-World",
-    "arxiv_id": "2608.26701v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-29T14:56:17.806908"
-  },
-  "2608.26200": {
-    "title": "GameWAM: A World Action Model for Video Games",
-    "arxiv_id": "2608.26200",
-    "tier": "worth_noting",
-    "date_shown": "2026-08-29T14:56:17.806908"
-  },
   "2608.28158v1": {
     "title": "HARTS: Efficient Agentic Reinforcement Learning for Hybrid-Attention Models over Arbitrary Rollout Trees",
     "arxiv_id": "2608.28158v1",
@@ -1162,5 +1090,83 @@
     "arxiv_id": "2609.29964v1",
     "tier": "worth_noting",
     "date_shown": "2026-09-27T14:58:18.411066"
+  },
+  "2609.30977v1": {
+    "title": "Does Uniform Discrete Diffusion Need Time?",
+    "arxiv_id": "2609.30977v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-28T17:56:28.087967"
+  },
+  "2609.31590": {
+    "title": "AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs",
+    "arxiv_id": "2609.31590",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-28T17:56:28.087967"
+  },
+  "2609.31563v1": {
+    "title": "Multi-agent Scaling Across Disjunctive and Compensatory Tasks",
+    "arxiv_id": "2609.31563v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-28T17:56:28.087967"
+  },
+  "2609.31544v1": {
+    "title": "A Flow Matching Framework for Neural Representational Dissimilarity",
+    "arxiv_id": "2609.31544v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-28T17:56:28.087967"
+  },
+  "2609.31531v1": {
+    "title": "HySTAR: Anchored Hypergraphs for Stable Credit Assignment in Cooperative Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2609.31531v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-28T17:56:28.087967"
+  },
+  "2609.31422v1": {
+    "title": "Towards Mitigating Fabricated Consensus: The Active Provenance Gate for Multi-Agent Debate Synthesis",
+    "arxiv_id": "2609.31422v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-28T17:56:28.087967"
+  },
+  "2609.31286v1": {
+    "title": "G2MAF: Test-Time Gradient Guidance for Multi-Agent Flow Policies",
+    "arxiv_id": "2609.31286v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-28T17:56:28.087967"
+  },
+  "2609.31281v1": {
+    "title": "MA-WAM: Multi-Agent World-Action Model for Test-Time Planning",
+    "arxiv_id": "2609.31281v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-28T17:56:28.087967"
+  },
+  "2609.31255v1": {
+    "title": "PIA: A Personal Intelligence Agent Turning Health Conversations into Records and Records into Understanding",
+    "arxiv_id": "2609.31255v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-28T17:56:28.087967"
+  },
+  "2609.30939v1": {
+    "title": "MACBT: A Multi-Agent Cognitive Behavioral Therapy Decision Support System with Longitudinal Memory",
+    "arxiv_id": "2609.30939v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-28T17:56:28.087967"
+  },
+  "2609.30906v1": {
+    "title": "ToolSearcher: Optimizing Tool Selection at Scale via Reinforcement Learning",
+    "arxiv_id": "2609.30906v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-28T17:56:28.087967"
+  },
+  "2609.29964": {
+    "title": "World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal",
+    "arxiv_id": "2609.29964",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-28T17:56:28.087967"
+  },
+  "2609.29892": {
+    "title": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
+    "arxiv_id": "2609.29892",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-28T17:56:28.087967"
   }
 }
