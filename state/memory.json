@@ -1168,5 +1168,95 @@
     "arxiv_id": "2609.29892",
     "tier": "worth_noting",
     "date_shown": "2026-09-28T17:56:28.087967"
+  },
+  "2609.35553v1": {
+    "title": "Simplex Diffusion Models",
+    "arxiv_id": "2609.35553v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-29T16:18:55.851969"
+  },
+  "2609.35472v1": {
+    "title": "Why Deterministic PRM Guidance Underperforms in Discrete Diffusion Reasoning",
+    "arxiv_id": "2609.35472v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-29T16:18:55.851969"
+  },
+  "2609.35609v1": {
+    "title": "Twist, Don't Tilt: Trajectory-Exact Constrained Decoding for Masked Diffusion Models",
+    "arxiv_id": "2609.35609v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-29T16:18:55.851969"
+  },
+  "2609.32965": {
+    "title": "Relic: From Multi-Agent Collaboration to Persistent Organizational Capability",
+    "arxiv_id": "2609.32965",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-29T16:18:55.851969"
+  },
+  "2609.35750v1": {
+    "title": "KV-streams for Efficient Compaction in Agentic Reinforcement Learning",
+    "arxiv_id": "2609.35750v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-29T16:18:55.851969"
+  },
+  "2609.35551v1": {
+    "title": "BaRe-Mem: Bayesian Reliability Memory for Robust and Adaptive Agent Consultation",
+    "arxiv_id": "2609.35551v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-29T16:18:55.851969"
+  },
+  "2609.35532v1": {
+    "title": "ARISE: Adapting to Evolving Capability Gaps in Agentic Reinforcement Learning",
+    "arxiv_id": "2609.35532v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-29T16:18:55.851969"
+  },
+  "2609.35469v1": {
+    "title": "Rethinking Causal Action Tokenization with Conditional Annealing in Flow Matching",
+    "arxiv_id": "2609.35469v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-29T16:18:55.851969"
+  },
+  "2609.35454v1": {
+    "title": "Manifold-Stable Flow Matching",
+    "arxiv_id": "2609.35454v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-29T16:18:55.851969"
+  },
+  "2609.35412v1": {
+    "title": "Self-Adapting Group of Experts for Multi-Agent Reasoning",
+    "arxiv_id": "2609.35412v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-29T16:18:55.851969"
+  },
+  "2609.35362v1": {
+    "title": "d-OPD: Future-Aware On-Policy Distillation for Block Diffusion Language Models",
+    "arxiv_id": "2609.35362v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-29T16:18:55.851969"
+  },
+  "2609.35336v1": {
+    "title": "TMCS: Tool-Grounded Multi-Agent Reasoning for Compositional Chemical Problem Solving",
+    "arxiv_id": "2609.35336v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-29T16:18:55.851969"
+  },
+  "2609.35279v1": {
+    "title": "Measuring Collapse and Correction in Homogeneous-Panel LLM Debate",
+    "arxiv_id": "2609.35279v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-29T16:18:55.851969"
+  },
+  "2609.35262v1": {
+    "title": "Rubric-Aware On-Policy Self-Distillation for LLM Personalization",
+    "arxiv_id": "2609.35262v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-29T16:18:55.851969"
+  },
+  "2609.35673": {
+    "title": "FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching",
+    "arxiv_id": "2609.35673",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-29T16:18:55.851969"
   }
 }
