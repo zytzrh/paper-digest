@@ -1258,5 +1258,65 @@
     "arxiv_id": "2609.35673",
     "tier": "worth_noting",
     "date_shown": "2026-09-29T16:18:55.851969"
+  },
+  "2609.38133v1": {
+    "title": "Multi-Agent Flow Matching with Decoupled Generative Guidance",
+    "arxiv_id": "2609.38133v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-30T16:14:03.301502"
+  },
+  "2609.38066v1": {
+    "title": "Alpha Diffusion Language Models: Factorization Alone Is Not the Problem",
+    "arxiv_id": "2609.38066v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-30T16:14:03.301502"
+  },
+  "2609.37974v1": {
+    "title": "On Trajectory-Aware Training for Masked Diffusion Language Models",
+    "arxiv_id": "2609.37974v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-30T16:14:03.301502"
+  },
+  "2609.38049v1": {
+    "title": "Improving Function Space Flow Matching with Kernel Optimal Transport",
+    "arxiv_id": "2609.38049v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-30T16:14:03.301502"
+  },
+  "2609.37953v1": {
+    "title": "Topological Coherence for Self-evolving Multi-agent Systems",
+    "arxiv_id": "2609.37953v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-30T16:14:03.301502"
+  },
+  "2609.37934v1": {
+    "title": "GRFBrain: Graph-Structured Rectified Flows for EEG Dynamic Modeling",
+    "arxiv_id": "2609.37934v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-30T16:14:03.301502"
+  },
+  "2609.37924v1": {
+    "title": "Time-Anchored Diffusion Language Models: Latent-Space Caching for Fast Generation",
+    "arxiv_id": "2609.37924v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-30T16:14:03.301502"
+  },
+  "2609.37898v1": {
+    "title": "Guide, Then Let Go: Gap-Adaptive Teacher Scheduling for Sparse-Reward Agentic RL",
+    "arxiv_id": "2609.37898v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-30T16:14:03.301502"
+  },
+  "2609.36071": {
+    "title": "LongCat-DeepResearch Technical Report",
+    "arxiv_id": "2609.36071",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-30T16:14:03.301502"
+  },
+  "2609.33326": {
+    "title": "ANTMAN: Adaptive Need Tracking for Multi-Agent Navigation in Large Information Spaces",
+    "arxiv_id": "2609.33326",
+    "tier": "worth_noting",
+    "date_shown": "2026-09-30T16:14:03.301502"
   }
 }
