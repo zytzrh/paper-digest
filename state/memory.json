@@ -35,66 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-09-18T14:05:17.354966"
   },
-  "2609.03667v1": {
-    "title": "Out-of-Distribution Generalisation with Sequence Models in Offline Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2609.03667v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-04T13:58:30.107248"
-  },
-  "2609.04170v1": {
-    "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
-    "arxiv_id": "2609.04170v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-04T13:58:30.107248"
-  },
-  "2609.04141v1": {
-    "title": "Efficient Test-Time Adaptation through Human-AI Interaction",
-    "arxiv_id": "2609.04141v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-04T13:58:30.107248"
-  },
-  "2609.04010v1": {
-    "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
-    "arxiv_id": "2609.04010v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-04T13:58:30.107248"
-  },
-  "2609.03920v1": {
-    "title": "Value-Preserving Architectures for Agentic AI Systems",
-    "arxiv_id": "2609.03920v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-04T13:58:30.107248"
-  },
-  "2609.03871v1": {
-    "title": "Bioinfoysis Technical Report",
-    "arxiv_id": "2609.03871v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-04T13:58:30.107248"
-  },
-  "2609.03796v1": {
-    "title": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes",
-    "arxiv_id": "2609.03796v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-04T13:58:30.107248"
-  },
-  "2609.03619v1": {
-    "title": "Remember and Reweight: Enhancing Multi-Agent Debate with Experience Memory and Confidence Estimation",
-    "arxiv_id": "2609.03619v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-04T13:58:30.107248"
-  },
-  "2609.03590v1": {
-    "title": "From Prior-Guided Heuristics to Deployable Agents: Accelerating Demonstration-Driven Reinforcement Learning for Deadline-Constrained Network Control",
-    "arxiv_id": "2609.03590v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-04T13:58:30.107248"
-  },
-  "2609.03293": {
-    "title": "PACE: Towards Surfacing Hidden Conflicts in User Requests",
-    "arxiv_id": "2609.03293",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-04T13:58:30.107248"
-  },
   "2609.04128v1": {
     "title": "Environment Evolution for Terminal Agents",
     "arxiv_id": "2609.04128v1",
