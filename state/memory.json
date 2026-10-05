@@ -35,18 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-09-18T14:05:17.354966"
   },
-  "2609.04128v1": {
-    "title": "Environment Evolution for Terminal Agents",
-    "arxiv_id": "2609.04128v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-05T13:14:04.388977"
-  },
-  "2609.04048v1": {
-    "title": "Translation as a Decision Space: A Multi-Agent Perspective on Low-Resource Dialect Generation",
-    "arxiv_id": "2609.04048v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-05T13:14:04.388977"
-  },
   "2609.04865v1": {
     "title": "CoSkill: Joint Reinforcement Learning of Reasoning and Meta-Skill Agents for Hierarchical Skill Evolution",
     "arxiv_id": "2609.04865v1",
@@ -1096,5 +1084,65 @@
     "arxiv_id": "2610.01017",
     "tier": "worth_noting",
     "date_shown": "2026-10-02T16:04:39.083343"
+  },
+  "2610.03641v1": {
+    "title": "IDRF: Inverse-Distilled Reward Fine-tuning of Masked Discrete Diffusion Models",
+    "arxiv_id": "2610.03641v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-05T19:02:11.419498"
+  },
+  "2610.03665v1": {
+    "title": "Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models",
+    "arxiv_id": "2610.03665v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-05T19:02:11.419498"
+  },
+  "2610.03604v1": {
+    "title": "Mastering Atari 2600 Games with Discovered Options",
+    "arxiv_id": "2610.03604v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-05T19:02:11.419498"
+  },
+  "2610.03483v1": {
+    "title": "AREX: Affine-Residual Exponential Integrator for Few-Step Sampling in Flow Matching",
+    "arxiv_id": "2610.03483v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-05T19:02:11.419498"
+  },
+  "2610.03326v1": {
+    "title": "Preserving Mathematical Reasoning in Compressed Diffusion Language Models via Trajectory-Aware Low-Rank Approximation",
+    "arxiv_id": "2610.03326v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-05T19:02:11.419498"
+  },
+  "2610.03320v1": {
+    "title": "Refinement Buys Intelligibility, Search Buys Identity: What Test-Time Compute Buys in Masked-Diffusion TTS",
+    "arxiv_id": "2610.03320v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-05T19:02:11.419498"
+  },
+  "2610.03223v1": {
+    "title": "AdaStep: Adaptive Step Credit Weighting for Agentic Reinforcement Learning",
+    "arxiv_id": "2610.03223v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-05T19:02:11.419498"
+  },
+  "2610.03202v1": {
+    "title": "Contextual Flow Matching: Adaptive Step Selection in Flow Models for Efficient Visual Generation",
+    "arxiv_id": "2610.03202v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-05T19:02:11.419498"
+  },
+  "2610.03132v1": {
+    "title": "Safe Streaming Flow Planning by Aligning Sampling Dynamics with Execution Dynamics",
+    "arxiv_id": "2610.03132v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-05T19:02:11.419498"
+  },
+  "2610.03095v1": {
+    "title": "Peer Influence across Heterogeneous AI Models",
+    "arxiv_id": "2610.03095v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-05T19:02:11.419498"
   }
 }
