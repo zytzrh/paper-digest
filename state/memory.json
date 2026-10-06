@@ -1144,5 +1144,77 @@
     "arxiv_id": "2610.03095v1",
     "tier": "worth_noting",
     "date_shown": "2026-10-05T19:02:11.419498"
+  },
+  "2610.06830v1": {
+    "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
+    "arxiv_id": "2610.06830v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-06T16:28:31.432770"
+  },
+  "2610.06672v1": {
+    "title": "VideoTapestry: Query-Adaptive Memory Refinement for Multi-Agent Long-Video Understanding",
+    "arxiv_id": "2610.06672v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-06T16:28:31.432770"
+  },
+  "2610.06666v1": {
+    "title": "What Matters for Latent Reasoning with Flow Matching",
+    "arxiv_id": "2610.06666v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-06T16:28:31.432770"
+  },
+  "2610.06648v1": {
+    "title": "Representation-Space MMD for Diffusion Language Models",
+    "arxiv_id": "2610.06648v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-06T16:28:31.432770"
+  },
+  "2610.06520v1": {
+    "title": "Conditional Flow Matching for Single-Neuron Electrophysiology: Capturing Multimodal Responses Across Stimuli",
+    "arxiv_id": "2610.06520v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-06T16:28:31.432770"
+  },
+  "2610.06481v1": {
+    "title": "AECP: Artifact-Exclusive Communication Protocol for Multi-Agent Code Generation",
+    "arxiv_id": "2610.06481v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-06T16:28:31.432770"
+  },
+  "2610.06468v1": {
+    "title": "Latent Flow Matching for Molecular Graph Generation",
+    "arxiv_id": "2610.06468v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-06T16:28:31.432770"
+  },
+  "2610.06361v1": {
+    "title": "Capability-Driven Self-Evolution of Agent Memory",
+    "arxiv_id": "2610.06361v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-06T16:28:31.432770"
+  },
+  "2610.06259v1": {
+    "title": "OCL-PDE: A Generative Framework for PDE Inverse Problems with Observation-Complementary Latents",
+    "arxiv_id": "2610.06259v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-06T16:28:31.432770"
+  },
+  "2610.02480": {
+    "title": "MEA: A Reward-Driven Multi-Agent System for Faithful Model Explanations",
+    "arxiv_id": "2610.02480",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-06T16:28:31.432770"
+  },
+  "2610.05894": {
+    "title": "Noise Out, Bias In: Targeted Bias Injection in Diffusion Language Models via Closed-Loop Activation Steering",
+    "arxiv_id": "2610.05894",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-06T16:28:31.432770"
+  },
+  "2610.04137": {
+    "title": "Dynamic Harness Search: Building Multi-Agent Systems Per-Query via Prediction",
+    "arxiv_id": "2610.04137",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-06T16:28:31.432770"
   }
 }
