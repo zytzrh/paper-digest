@@ -3,43 +3,37 @@
     "title": "Large Language Models with Reinforcement Learning from Human Feedback Approach for Enhancing Explainable Sexism Detection",
     "arxiv_id": "",
     "tier": "must_read",
-    "date_shown": "2026-09-18T14:05:17.354966"
+    "date_shown": "2026-10-08T17:11:43.006437"
   },
   "2512.22925": {
     "title": "Argus: Token Aware Distributed LLM Inference Optimization",
     "arxiv_id": "2512.22925",
     "tier": "must_read",
-    "date_shown": "2026-09-18T14:05:17.354966"
+    "date_shown": "2026-10-08T17:11:43.006437"
   },
   "2506.08551": {
     "title": "DeepForm: Reasoning Large Language Model for Communication System Formulation",
     "arxiv_id": "2506.08551",
     "tier": "must_read",
-    "date_shown": "2026-09-18T14:05:17.354966"
+    "date_shown": "2026-10-08T17:11:43.006437"
   },
   "hash:42bb407ddaa2a80f": {
     "title": "Survey of uncertainty estimation in LLMs - Sources, methods, applications, and challenges",
     "arxiv_id": "",
     "tier": "must_read",
-    "date_shown": "2026-09-18T14:05:17.354966"
+    "date_shown": "2026-10-08T17:11:43.006437"
   },
   "2511.03166": {
     "title": "Measuring Aleatoric and Epistemic Uncertainty in LLMs: Empirical Evaluation on ID and OOD QA Tasks",
     "arxiv_id": "2511.03166",
     "tier": "must_read",
-    "date_shown": "2026-09-18T14:05:17.354966"
+    "date_shown": "2026-10-08T17:11:43.006437"
   },
   "hash:b393ca398012c489": {
     "title": "Conditional Contrastive Confidence-Based Uncertainty Quantification for LLMs",
     "arxiv_id": "",
     "tier": "must_read",
-    "date_shown": "2026-09-18T14:05:17.354966"
-  },
-  "2609.04010": {
-    "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
-    "arxiv_id": "2609.04010",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-08T14:06:36.449029"
+    "date_shown": "2026-10-08T17:11:43.006437"
   },
   "2609.08368v1": {
     "title": "Miles v0.1: Production-Level Post-Training",
@@ -1222,5 +1216,65 @@
     "arxiv_id": "2610.08048",
     "tier": "worth_noting",
     "date_shown": "2026-10-07T17:13:12.843895"
+  },
+  "2610.10071v1": {
+    "title": "HGP:An on-device personalized agent memory via hybrid graph storage",
+    "arxiv_id": "2610.10071v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-08T17:11:43.006437"
+  },
+  "2610.10468v1": {
+    "title": "A Society of Researchers: Designing Institutions for Populations of Autonomous Research Agents",
+    "arxiv_id": "2610.10468v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-08T17:11:43.006437"
+  },
+  "2610.10430v1": {
+    "title": "Conditional Flow Matching for Generation of 3D Multi-variable Instantaneous Urban Microclimate Fields",
+    "arxiv_id": "2610.10430v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-08T17:11:43.006437"
+  },
+  "2610.10302v1": {
+    "title": "Continual Graph Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2610.10302v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-08T17:11:43.006437"
+  },
+  "2610.10265v1": {
+    "title": "Stale, Misattributed, or Late: Where Personal Memory Fails Before Generation",
+    "arxiv_id": "2610.10265v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-08T17:11:43.006437"
+  },
+  "2610.10184v1": {
+    "title": "Agentic AI-Assisted Modeling for Production Scheduling: Assessment in Constraint Programming",
+    "arxiv_id": "2610.10184v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-08T17:11:43.006437"
+  },
+  "2610.10126v1": {
+    "title": "Know the Shape, Find the Fault: Topology-Conditioned Diagnosis of Multi-Agent LLM Failures",
+    "arxiv_id": "2610.10126v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-08T17:11:43.006437"
+  },
+  "2610.10087v1": {
+    "title": "Multi-Agent Coordination via Support-Preserving Distillation",
+    "arxiv_id": "2610.10087v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-08T17:11:43.006437"
+  },
+  "2610.07258": {
+    "title": "Lineage-Aware Memory Governance: A Derivation-Gated Framework for Privacy-Preserving Column-Level Access Control in Enterprise AI Agents",
+    "arxiv_id": "2610.07258",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-08T17:11:43.006437"
+  },
+  "2610.09832": {
+    "title": "SkillForge: Co-Evolving Skills and Agents via Dynamic Skill Lifecycles",
+    "arxiv_id": "2610.09832",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-08T17:11:43.006437"
   }
 }
