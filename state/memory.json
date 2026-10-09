@@ -35,72 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-10-08T17:11:43.006437"
   },
-  "2609.08368v1": {
-    "title": "Miles v0.1: Production-Level Post-Training",
-    "arxiv_id": "2609.08368v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-09T14:08:22.995612"
-  },
-  "2609.09059v1": {
-    "title": "PlayTrain: An Efficient Reinforcement Learning Framework for LLM-Generated Adaptable JavaScript Games",
-    "arxiv_id": "2609.09059v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-09T14:08:22.995612"
-  },
-  "2609.08796v1": {
-    "title": "Hi-FLoop: Hierarchical State-Feedback Loops for Multi-Timescale World Modeling",
-    "arxiv_id": "2609.08796v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-09T14:08:22.995612"
-  },
-  "2609.08719v1": {
-    "title": "GoAnt: Quality-Diversity Multi-Agent Search for Alpha Factor Discovery in Market Microstructure Data",
-    "arxiv_id": "2609.08719v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-09T14:08:22.995612"
-  },
-  "2609.08599v1": {
-    "title": "Graph-Based Personalized Memory for LLM Agents: Representation, Evolution, Retrieval, and Evaluation",
-    "arxiv_id": "2609.08599v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-09T14:08:22.995612"
-  },
-  "2609.08572v1": {
-    "title": "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems",
-    "arxiv_id": "2609.08572v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-09T14:08:22.995612"
-  },
-  "2609.08558v1": {
-    "title": "Personalizing LLM Agent Memory Using Biometrics",
-    "arxiv_id": "2609.08558v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-09T14:08:22.995612"
-  },
-  "2609.08550v1": {
-    "title": "CreaMem: A Scene-Aware Memory Architecture for Personalized Agents",
-    "arxiv_id": "2609.08550v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-09T14:08:22.995612"
-  },
-  "2609.08452v1": {
-    "title": "SRPO: Setwise Relative Policy Optimization for Multi-Agent LLMs",
-    "arxiv_id": "2609.08452v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-09T14:08:22.995612"
-  },
-  "2609.08279v1": {
-    "title": "What Eviction Destroys: A Restore-Counterfactual Audit of Forgetting in Agent Memory",
-    "arxiv_id": "2609.08279v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-09T14:08:22.995612"
-  },
-  "2609.08273v1": {
-    "title": "MemForest: Efficient Agent Memory Management via EventTree Partitioning and Progressive Merging",
-    "arxiv_id": "2609.08273v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-09T14:08:22.995612"
-  },
   "2609.09905v1": {
     "title": "FlowCPO: A Unified Divergence View of Preference Alignment for Flow Models",
     "arxiv_id": "2609.09905v1",
@@ -1276,5 +1210,65 @@
     "arxiv_id": "2610.09832",
     "tier": "worth_noting",
     "date_shown": "2026-10-08T17:11:43.006437"
+  },
+  "2610.12340v1": {
+    "title": "Ambient Discrete Diffusion: Using the Wrong Data at the Right Time for Data Efficient Learning",
+    "arxiv_id": "2610.12340v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-09T16:47:21.593766"
+  },
+  "2610.12436v1": {
+    "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
+    "arxiv_id": "2610.12436v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-09T16:47:21.593766"
+  },
+  "2610.12321v1": {
+    "title": "Spatial Pattern Formation from Multi-Agent Learning in Public Goods Dilemmas",
+    "arxiv_id": "2610.12321v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-09T16:47:21.593766"
+  },
+  "2610.12236v1": {
+    "title": "La-Ribo: RNA Co-Design via Geometry-Latent Flow Matching",
+    "arxiv_id": "2610.12236v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-09T16:47:21.593766"
+  },
+  "2610.12176v1": {
+    "title": "Recursive Self-Improvement through Multi-Agent Self-Supervision",
+    "arxiv_id": "2610.12176v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-09T16:47:21.593766"
+  },
+  "2610.12102v1": {
+    "title": "Few-Step Generation via Data-Space Iteration",
+    "arxiv_id": "2610.12102v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-09T16:47:21.593766"
+  },
+  "2610.12061v1": {
+    "title": "When Should Agents Think? Adaptive Reasoning via Cross-Turn Estimation",
+    "arxiv_id": "2610.12061v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-09T16:47:21.593766"
+  },
+  "2610.11959v1": {
+    "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
+    "arxiv_id": "2610.11959v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-09T16:47:21.593766"
+  },
+  "2610.04875": {
+    "title": "SpecFold: Folding Multi-Branch Redundancy for Faster Speculative Decoding in Diffusion Language Models",
+    "arxiv_id": "2610.04875",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-09T16:47:21.593766"
+  },
+  "2605.22949": {
+    "title": "MARGIN: Runtime Confidence Calibration for Multi-Agent Foundation Model Coordination",
+    "arxiv_id": "2605.22949",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-09T16:47:21.593766"
   }
 }
