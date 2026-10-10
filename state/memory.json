@@ -35,42 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-10-08T17:11:43.006437"
   },
-  "2609.09905v1": {
-    "title": "FlowCPO: A Unified Divergence View of Preference Alignment for Flow Models",
-    "arxiv_id": "2609.09905v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-10T14:02:39.658242"
-  },
-  "2609.10433v1": {
-    "title": "Multi-Agent Reinforcement Learning for Autonomous UAV Exploration in Wildfire Response",
-    "arxiv_id": "2609.10433v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-10T14:02:39.658242"
-  },
-  "2609.10144v1": {
-    "title": "Kernel-Managed Shared Memory for System-Wide Personalization",
-    "arxiv_id": "2609.10144v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-10T14:02:39.658242"
-  },
-  "2609.09835v1": {
-    "title": "HyperTrace: Hypothesis-Based Preference Tracing for Online LLM Personalization",
-    "arxiv_id": "2609.09835v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-10T14:02:39.658242"
-  },
-  "2609.09647v1": {
-    "title": "Black-Box Red Teaming of Agentic AI: A Taxonomy-Driven Framework for Automated Risk Discovery",
-    "arxiv_id": "2609.09647v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-10T14:02:39.658242"
-  },
-  "2609.08572": {
-    "title": "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems",
-    "arxiv_id": "2609.08572",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-10T14:02:39.658242"
-  },
   "2609.11842v1": {
     "title": "Model-Aware Schedules Improve Generation via Fiberwise Optimal Transport",
     "arxiv_id": "2609.11842v1",
@@ -1270,5 +1234,11 @@
     "arxiv_id": "2605.22949",
     "tier": "worth_noting",
     "date_shown": "2026-10-09T16:47:21.593766"
+  },
+  "2610.12299v1": {
+    "title": "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction",
+    "arxiv_id": "2610.12299v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-10T15:40:33.098978"
   }
 }
