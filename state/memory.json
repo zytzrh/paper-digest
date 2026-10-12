@@ -35,36 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-10-08T17:11:43.006437"
   },
-  "2609.11842v1": {
-    "title": "Model-Aware Schedules Improve Generation via Fiberwise Optimal Transport",
-    "arxiv_id": "2609.11842v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-11T14:01:16.601986"
-  },
-  "2609.11737v1": {
-    "title": "ORCH: Organizational Principles Enable Collective Intelligence in Embodied AI",
-    "arxiv_id": "2609.11737v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-11T14:01:16.601986"
-  },
-  "2609.11709v1": {
-    "title": "When Agents Disagree: Bayesian Backward Reasoning as a Label-Free Anchor for Multi-Agent Collective Decision-Making",
-    "arxiv_id": "2609.11709v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-11T14:01:16.601986"
-  },
-  "2609.11190v1": {
-    "title": "Agentic Share-of-Search: A Multi-Agent AI System for Competitive Decision-Making in LLM-Mediated E-Commerce",
-    "arxiv_id": "2609.11190v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-11T14:01:16.601986"
-  },
-  "2609.11155v1": {
-    "title": "DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat",
-    "arxiv_id": "2609.11155v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-11T14:01:16.601986"
-  },
   "2609.17464v1": {
     "title": "Decomposition Buys Integrity, Not Yield",
     "arxiv_id": "2609.17464v1",
@@ -1240,5 +1210,89 @@
     "arxiv_id": "2610.12299v1",
     "tier": "worth_noting",
     "date_shown": "2026-10-10T15:40:33.098978"
+  },
+  "2610.13834v1": {
+    "title": "On the Design Space of Continuous Diffusion Language Models",
+    "arxiv_id": "2610.13834v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-12T19:35:51.548145"
+  },
+  "2610.13737v1": {
+    "title": "SafeDiSTL: Decomposing Joint Constraints for Safe Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2610.13737v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-12T19:35:51.548145"
+  },
+  "2610.13711v1": {
+    "title": "Towards Understanding the Training of GFlowNets: A Theoretical Perspective",
+    "arxiv_id": "2610.13711v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-12T19:35:51.548145"
+  },
+  "2610.13703v1": {
+    "title": "A Baseline Assessment for the Agentic Web Technology Stack",
+    "arxiv_id": "2610.13703v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-12T19:35:51.548145"
+  },
+  "2610.13663v1": {
+    "title": "A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models",
+    "arxiv_id": "2610.13663v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-12T19:35:51.548145"
+  },
+  "2610.13614v1": {
+    "title": "Some remarks on the connection between generative diffusion and optimal transport",
+    "arxiv_id": "2610.13614v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-12T19:35:51.548145"
+  },
+  "2610.13606v1": {
+    "title": "CorrFlow: Exact and Permutation-Equivariant Flow Matching on the Correlation Elliptope",
+    "arxiv_id": "2610.13606v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-12T19:35:51.548145"
+  },
+  "2610.13594v1": {
+    "title": "MENTOR: Learning from Failure with On-Policy Pedagogical Intervention",
+    "arxiv_id": "2610.13594v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-12T19:35:51.548145"
+  },
+  "2610.13534v1": {
+    "title": "MAGMA-Bench: Evaluating Long-Horizon Embodied Agents under Dynamic Tasks and Execution Failures",
+    "arxiv_id": "2610.13534v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-12T19:35:51.548145"
+  },
+  "2610.13494v1": {
+    "title": "Humanize MLE Agents: Multi-Agent Session Alternation Beyond Single-Agent Limits",
+    "arxiv_id": "2610.13494v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-12T19:35:51.548145"
+  },
+  "2610.13438v1": {
+    "title": "Rollout-Time Intervention: Unlocking Agentic Reinforcement Learning Beyond Policy Limits",
+    "arxiv_id": "2610.13438v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-12T19:35:51.548145"
+  },
+  "2610.12102": {
+    "title": "Few-Step Generation via Data-Space Iteration",
+    "arxiv_id": "2610.12102",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-12T19:35:51.548145"
+  },
+  "2609.39566": {
+    "title": "From Given to Gathered Evidence: Agentic Learning for Longitudinal Medical Reasoning",
+    "arxiv_id": "2609.39566",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-12T19:35:51.548145"
+  },
+  "2610.13947": {
+    "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
+    "arxiv_id": "2610.13947",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-12T19:35:51.548145"
   }
 }
