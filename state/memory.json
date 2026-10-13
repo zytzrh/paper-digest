@@ -1294,5 +1294,23 @@
     "arxiv_id": "2610.13947",
     "tier": "worth_noting",
     "date_shown": "2026-10-12T19:35:51.548145"
+  },
+  "2610.13273v1": {
+    "title": "Agent4Spec: An LLM-based Agentic System to Optimize API Specifications through Automated Validation and Market Analysis",
+    "arxiv_id": "2610.13273v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-13T17:20:11.599620"
+  },
+  "2609.35965": {
+    "title": "Systematic Multi-Agent Vision-and-Language Navigation: Formulation, Benchmark, and Method",
+    "arxiv_id": "2609.35965",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-13T17:20:11.599620"
+  },
+  "2610.12453": {
+    "title": "Mental-Models for Multi-Agent Systems",
+    "arxiv_id": "2610.12453",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-13T17:20:11.599620"
   }
 }
