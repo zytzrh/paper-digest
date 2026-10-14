@@ -1312,5 +1312,65 @@
     "arxiv_id": "2610.12453",
     "tier": "worth_noting",
     "date_shown": "2026-10-13T17:20:11.599620"
+  },
+  "2610.18407v1": {
+    "title": "Multi-Stream Residual Computation in Diffusion Language Models",
+    "arxiv_id": "2610.18407v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-14T14:51:36.063758"
+  },
+  "2610.18838v1": {
+    "title": "Scaling Online Optimal Transport Minibatches for Flow Matching",
+    "arxiv_id": "2610.18838v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-14T14:51:36.063758"
+  },
+  "2610.18808v1": {
+    "title": "Optimizing Team Behavior via Extremum-seeking Control in Multi-agent Reinforcement Learning",
+    "arxiv_id": "2610.18808v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-14T14:51:36.063758"
+  },
+  "2610.18807v1": {
+    "title": "SkillScaffold: Scaffolding Agentic Reinforcement Learning with Policy-Adaptive Skill Credit Assignment and Selective Injection",
+    "arxiv_id": "2610.18807v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-14T14:51:36.063758"
+  },
+  "2610.18780v1": {
+    "title": "BLADE: Auditing Information Use for Failure Attribution in LLM Multi-Agent Systems",
+    "arxiv_id": "2610.18780v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-14T14:51:36.063758"
+  },
+  "2610.18684v1": {
+    "title": "Knowing the User Is Not Knowing What We Established: Grounding Awareness in Personal Agents",
+    "arxiv_id": "2610.18684v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-14T14:51:36.063758"
+  },
+  "2610.18683v1": {
+    "title": "ProAS: A Progress-Aware Advantage Shaping Framework for Multi-Turn Agentic Reinforcement Learning",
+    "arxiv_id": "2610.18683v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-14T14:51:36.063758"
+  },
+  "2610.18621v1": {
+    "title": "Deterministic Prediction as Global Velocity: Flow Matching for Probabilistic Time-Series Forecast",
+    "arxiv_id": "2610.18621v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-14T14:51:36.063758"
+  },
+  "2610.18538v1": {
+    "title": "On Symmetry for Characterizing Agent Heterogeneity in Multi-Agent Systems",
+    "arxiv_id": "2610.18538v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-14T14:51:36.063758"
+  },
+  "2610.18534v1": {
+    "title": "Euclidean Distance-Based Flow Matching",
+    "arxiv_id": "2610.18534v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-14T14:51:36.063758"
   }
 }
