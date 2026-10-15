@@ -1372,5 +1372,71 @@
     "arxiv_id": "2610.18534v1",
     "tier": "worth_noting",
     "date_shown": "2026-10-14T14:51:36.063758"
+  },
+  "2610.20597v1": {
+    "title": "Co-Evolving Acting and Forecasting for Language Agents",
+    "arxiv_id": "2610.20597v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-15T14:38:39.936885"
+  },
+  "2610.20548v1": {
+    "title": "PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios",
+    "arxiv_id": "2610.20548v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-15T14:38:39.936885"
+  },
+  "2610.20331v1": {
+    "title": "Are We Overthinking One-Step Generation?",
+    "arxiv_id": "2610.20331v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-15T14:38:39.936885"
+  },
+  "2610.20269v1": {
+    "title": "FlowSep-RF: Rectified Flow Matching for Single-Channel Radio-Frequency Signal Separation",
+    "arxiv_id": "2610.20269v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-15T14:38:39.936885"
+  },
+  "2610.20200v1": {
+    "title": "Drivers of LLM Consensus Formation Under Competing Incentives: A Simulation Study",
+    "arxiv_id": "2610.20200v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-15T14:38:39.936885"
+  },
+  "2610.20138v1": {
+    "title": "In-Context Batch Black-box Optimization via Flow Matching",
+    "arxiv_id": "2610.20138v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-15T14:38:39.936885"
+  },
+  "2610.20035v1": {
+    "title": "Weighted Adjoint Matching: Finetuning Flow Matching Models with Time-Dependent Control Cost",
+    "arxiv_id": "2610.20035v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-15T14:38:39.936885"
+  },
+  "2610.19920v1": {
+    "title": "MolHop: Scaffold-Hopping Molecular Design with Agentic Reinforcement Learning",
+    "arxiv_id": "2610.19920v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-15T14:38:39.936885"
+  },
+  "2610.19696": {
+    "title": "Share the Symbol, Not the Vector: Training-Free Fact Communication Across Language Models",
+    "arxiv_id": "2610.19696",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-15T14:38:39.936885"
+  },
+  "2610.18838": {
+    "title": "Scaling Online Optimal Transport Minibatches for Flow Matching",
+    "arxiv_id": "2610.18838",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-15T14:38:39.936885"
+  },
+  "2610.10787": {
+    "title": "NavGPT-3: Harnessing Context in a Hierarchical Navigation Runtime",
+    "arxiv_id": "2610.10787",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-15T14:38:39.936885"
   }
 }
