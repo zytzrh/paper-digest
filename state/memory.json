@@ -1438,5 +1438,95 @@
     "arxiv_id": "2610.10787",
     "tier": "worth_noting",
     "date_shown": "2026-10-15T14:38:39.936885"
+  },
+  "2610.22174v1": {
+    "title": "Mosaic: Multi-Session Agentic Reinforcement Learning",
+    "arxiv_id": "2610.22174v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-16T14:29:42.209824"
+  },
+  "2610.19397": {
+    "title": "SERO: Learning from Executable Oracle Continuations for Long-Horizon Agentic Reinforcement Learning",
+    "arxiv_id": "2610.19397",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-16T14:29:42.209824"
+  },
+  "2610.22316v1": {
+    "title": "Learning to Steer LLM Agents and Multi-Agent Systems",
+    "arxiv_id": "2610.22316v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-16T14:29:42.209824"
+  },
+  "2610.22330v1": {
+    "title": "Designing Transformers for Continuous Diffusion Language Models",
+    "arxiv_id": "2610.22330v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-16T14:29:42.209824"
+  },
+  "2610.22322v1": {
+    "title": "Learning Self-Orchestration in Decentralized Agent Swarms",
+    "arxiv_id": "2610.22322v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-16T14:29:42.209824"
+  },
+  "2610.22294v1": {
+    "title": "Multi-Target Few-Shot Prompting with Diffusion Language Models",
+    "arxiv_id": "2610.22294v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-16T14:29:42.209824"
+  },
+  "2610.22287v1": {
+    "title": "Learning Rational Strategies for Temporal Objectives in Multi-Agent Systems",
+    "arxiv_id": "2610.22287v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-16T14:29:42.209824"
+  },
+  "2610.22209v1": {
+    "title": "Beyond Downstream QA: Rethinking How We Evaluate Agent Memory",
+    "arxiv_id": "2610.22209v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-16T14:29:42.209824"
+  },
+  "2610.22195v1": {
+    "title": "HTN-Orchestrate: A Hierarchical Task Network Framework for Multi-Agent Orchestration",
+    "arxiv_id": "2610.22195v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-16T14:29:42.209824"
+  },
+  "2610.22194v1": {
+    "title": "AutoSFT: An Agentic System for Automated Data Research in Supervised Fine-Tuning",
+    "arxiv_id": "2610.22194v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-16T14:29:42.209824"
+  },
+  "2610.22099v1": {
+    "title": "TIPS: A Tiny Inference-time Policy for Scaling in Diffusion Language Models",
+    "arxiv_id": "2610.22099v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-16T14:29:42.209824"
+  },
+  "2610.22026v1": {
+    "title": "Augment the Cache, Replace the Activation: A 2x2 Study of Internal-State Sharing",
+    "arxiv_id": "2610.22026v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-16T14:29:42.209824"
+  },
+  "2610.22016v1": {
+    "title": "Close Enough is Nowhere Near: Fidelity-Consumability Decoupling in KV Caches",
+    "arxiv_id": "2610.22016v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-16T14:29:42.209824"
+  },
+  "2610.21672v1": {
+    "title": "Diffusion Language Models as Open Quantum Systems",
+    "arxiv_id": "2610.21672v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-16T14:29:42.209824"
+  },
+  "2610.19458": {
+    "title": "PFedMA: Who Should Join Next as Federated Multi-Agent Orchestration Evolves?",
+    "arxiv_id": "2610.19458",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-16T14:29:42.209824"
   }
 }
