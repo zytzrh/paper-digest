@@ -35,54 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-10-08T17:11:43.006437"
   },
-  "2609.17464v1": {
-    "title": "Decomposition Buys Integrity, Not Yield",
-    "arxiv_id": "2609.17464v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-16T14:34:00.233698"
-  },
-  "2609.17331v1": {
-    "title": "Self-Emergence Agent Architecture:Behavior-Inertia HMM, Reflexive Metacognition,and Social-Contrastive Self-Modeling",
-    "arxiv_id": "2609.17331v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-16T14:34:00.233698"
-  },
-  "2609.17306v1": {
-    "title": "Mo' Models, Mo' Problems: How to best select model pools when designing Multi-Agent Systems",
-    "arxiv_id": "2609.17306v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-16T14:34:00.233698"
-  },
-  "2609.17287v1": {
-    "title": "Same Flow, Different Paths: Variance Reduction in Flow Matching",
-    "arxiv_id": "2609.17287v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-16T14:34:00.233698"
-  },
-  "2609.17088v1": {
-    "title": "Interactive Memory Learning for Long-Term Conversations",
-    "arxiv_id": "2609.17088v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-16T14:34:00.233698"
-  },
-  "2609.16599v1": {
-    "title": "Large Language Models in the Loop: A Stability- and Network-Aware Survey in Networked Control, Cyber-Physical, and Multi-Agent Systems",
-    "arxiv_id": "2609.16599v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-16T14:34:00.233698"
-  },
-  "2609.17320": {
-    "title": "Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems",
-    "arxiv_id": "2609.17320",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-16T14:34:00.233698"
-  },
-  "2609.15364": {
-    "title": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments",
-    "arxiv_id": "2609.15364",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-16T14:34:00.233698"
-  },
   "2609.15938": {
     "title": "HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses",
     "arxiv_id": "2609.15938",
@@ -1528,5 +1480,11 @@
     "arxiv_id": "2610.19458",
     "tier": "worth_noting",
     "date_shown": "2026-10-16T14:29:42.209824"
+  },
+  "2610.22319v1": {
+    "title": "A team of Gemini 4 Argon agents beats Minecraft",
+    "arxiv_id": "2610.22319v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-17T13:26:08.058285"
   }
 }
