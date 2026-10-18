@@ -35,90 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-10-08T17:11:43.006437"
   },
-  "2609.15938": {
-    "title": "HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses",
-    "arxiv_id": "2609.15938",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-17T14:38:58.055053"
-  },
-  "2609.18929v1": {
-    "title": "Social Laws for Multi-agent Coordination in Stochastic Environments",
-    "arxiv_id": "2609.18929v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-17T14:38:58.055053"
-  },
-  "2609.18639v1": {
-    "title": "CoRe-MARL: Cooperative Redistribution Under Unknown Dynamics Using Recurrent Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2609.18639v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-17T14:38:58.055053"
-  },
-  "2609.18597v1": {
-    "title": "Reasoning through Evolution: Automatic Meta-path Discovery for LLM-based Fake News Detection",
-    "arxiv_id": "2609.18597v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-17T14:38:58.055053"
-  },
-  "2609.18591v1": {
-    "title": "Recursive Reasoning or Statistical Extrapolation? In-Context Learning in Multi-Agent Interdependent Decision-Making",
-    "arxiv_id": "2609.18591v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-17T14:38:58.055053"
-  },
-  "2609.18461v1": {
-    "title": "Disentangling Long-Term Memory via Latent Neuro-Symbolic Reasoning",
-    "arxiv_id": "2609.18461v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-17T14:38:58.055053"
-  },
-  "2609.18460v1": {
-    "title": "Collective Loss of Control in LLM Agent Systems: An Epidemic Account of Mutation, Contagion, and Recovery",
-    "arxiv_id": "2609.18460v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-17T14:38:58.055053"
-  },
-  "2609.18306v1": {
-    "title": "Bias Amplification in Multi-Agent Network: How Biased Agents Shape Opinions and Rhetoric",
-    "arxiv_id": "2609.18306v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-17T14:38:58.055053"
-  },
-  "2609.18283v1": {
-    "title": "Where Should Agents Live? Energy-Memory Characterization of Agentic AI for the Edge-Cloud Continuum",
-    "arxiv_id": "2609.18283v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-17T14:38:58.055053"
-  },
-  "2609.18219v1": {
-    "title": "APGEM: Adaptive Policy-Guided Error Mitigation for Quantum Reinforcement Learning on a Real-World CVRP Case Study",
-    "arxiv_id": "2609.18219v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-17T14:38:58.055053"
-  },
-  "2609.18182v1": {
-    "title": "WFM: Wiki Foundation Model for Complex Agentic Reasoning",
-    "arxiv_id": "2609.18182v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-17T14:38:58.055053"
-  },
-  "2609.18135v1": {
-    "title": "DualSQL: Text-to-SQL with Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2609.18135v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-17T14:38:58.055053"
-  },
-  "2609.16372": {
-    "title": "Register Tokens for Bounded-State Reasoning in Diffusion Language Models",
-    "arxiv_id": "2609.16372",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-17T14:38:58.055053"
-  },
-  "2609.16057": {
-    "title": "OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning",
-    "arxiv_id": "2609.16057",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-17T14:38:58.055053"
-  },
   "2609.19868v1": {
     "title": "Zarya: A Hybrid Autoregressive--Masked Diffusion Language Model with Flexible Training and Dual-Mode Inference",
     "arxiv_id": "2609.19868v1",
@@ -1486,5 +1402,17 @@
     "arxiv_id": "2610.22319v1",
     "tier": "worth_noting",
     "date_shown": "2026-10-17T13:26:08.058285"
+  },
+  "2610.22138v1": {
+    "title": "Believed but Not Said: Measuring Hidden Belief Collapse in Multi-Agent LLM Discussions",
+    "arxiv_id": "2610.22138v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-18T13:44:50.210709"
+  },
+  "2610.21656": {
+    "title": "Data World: Scaling Data Environments from Scratch",
+    "arxiv_id": "2610.21656",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-18T13:44:50.210709"
   }
 }
