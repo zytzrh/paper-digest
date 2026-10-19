@@ -35,66 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-10-08T17:11:43.006437"
   },
-  "2609.19868v1": {
-    "title": "Zarya: A Hybrid Autoregressive--Masked Diffusion Language Model with Flexible Training and Dual-Mode Inference",
-    "arxiv_id": "2609.19868v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-18T14:05:17.354966"
-  },
-  "2609.20784v1": {
-    "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
-    "arxiv_id": "2609.20784v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-18T14:05:17.354966"
-  },
-  "2609.20776v1": {
-    "title": "GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies",
-    "arxiv_id": "2609.20776v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-18T14:05:17.354966"
-  },
-  "2609.20751v1": {
-    "title": "dQwen3.5: Hybrid-Attention Diffusion Language Models",
-    "arxiv_id": "2609.20751v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-18T14:05:17.354966"
-  },
-  "2609.20715v1": {
-    "title": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
-    "arxiv_id": "2609.20715v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-18T14:05:17.354966"
-  },
-  "2609.20581v1": {
-    "title": "Limits of Confidence in Diffusion",
-    "arxiv_id": "2609.20581v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-18T14:05:17.354966"
-  },
-  "2609.20539v1": {
-    "title": "Parallelism, critical windows, and separations among diffusion language models",
-    "arxiv_id": "2609.20539v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-18T14:05:17.354966"
-  },
-  "2609.20089v1": {
-    "title": "UnifiedPlayers: Enhance Tool-Integrated Reasoning in Agentic Reinforcement Learning",
-    "arxiv_id": "2609.20089v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-18T14:05:17.354966"
-  },
-  "2609.19944v1": {
-    "title": "MaSCoD: A Multi-Agent Framework for Structural-Context-Guided Candidate Causal Graph Generation",
-    "arxiv_id": "2609.19944v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-18T14:05:17.354966"
-  },
-  "2609.19656": {
-    "title": "Self-Evolving Search Index",
-    "arxiv_id": "2609.19656",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-19T13:40:23.719821"
-  },
   "2609.20408v1": {
     "title": "Xeno-Interpretability: Investigating the Alien Minds of LLMs",
     "arxiv_id": "2609.20408v1",
@@ -1414,5 +1354,101 @@
     "arxiv_id": "2610.21656",
     "tier": "worth_noting",
     "date_shown": "2026-10-18T13:44:50.210709"
+  },
+  "2610.09872": {
+    "title": "LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolving Markets",
+    "arxiv_id": "2610.09872",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-19T16:46:20.471000"
+  },
+  "2610.23820v1": {
+    "title": "CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning",
+    "arxiv_id": "2610.23820v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-19T16:46:20.471000"
+  },
+  "2610.23673v1": {
+    "title": "On the possibilities and limitations of LLM-based multi-agent systems for multi-criteria decision-making in healthcare operations management",
+    "arxiv_id": "2610.23673v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-19T16:46:20.471000"
+  },
+  "2610.23598v1": {
+    "title": "RL-Guided Temporal Localization for Dual-Channel Retrieval in Long-Horizon Agent Memory",
+    "arxiv_id": "2610.23598v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-19T16:46:20.471000"
+  },
+  "2610.23404v1": {
+    "title": "Information Estimation with Discrete Diffusion",
+    "arxiv_id": "2610.23404v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-19T16:46:20.471000"
+  },
+  "2610.23313v1": {
+    "title": "From Memory Hits to Answerable Evidence: Query-Conditioned Memory Compilation for Long-Term Agent Memory",
+    "arxiv_id": "2610.23313v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-19T16:46:20.471000"
+  },
+  "2610.23284v1": {
+    "title": "Annotrace: A Workbench for Step-Level Annotation of Agent Traces",
+    "arxiv_id": "2610.23284v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-19T16:46:20.471000"
+  },
+  "2610.23266v1": {
+    "title": "Beyond Marginal Influence: Interaction-Aware Memory Selection for LLM Agents",
+    "arxiv_id": "2610.23266v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-19T16:46:20.471000"
+  },
+  "2610.23256v1": {
+    "title": "Beyond Reward Scoring: Online Multi-Agent Preference Learning for Multimodal Response Generation",
+    "arxiv_id": "2610.23256v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-19T16:46:20.471000"
+  },
+  "2610.23246v1": {
+    "title": "Think More or Read More? A Token-Budget Theory of Reasoning with Shared Context",
+    "arxiv_id": "2610.23246v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-19T16:46:20.471000"
+  },
+  "2610.23234v1": {
+    "title": "MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation",
+    "arxiv_id": "2610.23234v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-19T16:46:20.471000"
+  },
+  "2610.23194v1": {
+    "title": "OfficeTown: Generative Organizations for Evolving Agent Intelligence",
+    "arxiv_id": "2610.23194v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-19T16:46:20.471000"
+  },
+  "2610.23183v1": {
+    "title": "AMEND: Constraint-Guided Multi-Agent Text Detoxification with Isolated Critics",
+    "arxiv_id": "2610.23183v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-19T16:46:20.471000"
+  },
+  "2610.23181v1": {
+    "title": "Tree-Aware Posterior Distillation for Long-Horizon Agentic Reinforcement Learning",
+    "arxiv_id": "2610.23181v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-19T16:46:20.471000"
+  },
+  "2610.23153v1": {
+    "title": "QuAD: Quantitative Assessment via Distribution-Alignment for Qualitative Data Quality Enabled by a Content-Aware Multi-Agent System",
+    "arxiv_id": "2610.23153v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-19T16:46:20.471000"
+  },
+  "2610.16071": {
+    "title": "Dream2Discern: Learning from Hard Latent Variants for Runtime Failure Prediction in Multi-Agent Systems",
+    "arxiv_id": "2610.16071",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-19T16:46:20.471000"
   }
 }
