@@ -35,24 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-10-08T17:11:43.006437"
   },
-  "2609.20408v1": {
-    "title": "Xeno-Interpretability: Investigating the Alien Minds of LLMs",
-    "arxiv_id": "2609.20408v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-20T13:56:00.416660"
-  },
-  "2609.20008v1": {
-    "title": "Dynamic Generalized Gromov-Wasserstein Optimal Transport",
-    "arxiv_id": "2609.20008v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-20T13:56:00.416660"
-  },
-  "2609.17496": {
-    "title": "Verifiable Social Reasoning for LLM Assistants",
-    "arxiv_id": "2609.17496",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-20T13:56:00.416660"
-  },
   "2609.21533v1": {
     "title": "MACE: Memory-Agent Co-Evolution with Adaptive Memory Graphs for Multi-Agent Systems",
     "arxiv_id": "2609.21533v1",
@@ -1450,5 +1432,47 @@
     "arxiv_id": "2610.16071",
     "tier": "worth_noting",
     "date_shown": "2026-10-19T16:46:20.471000"
+  },
+  "2610.26789v1": {
+    "title": "Cooperative Multi-Agent Reinforcement Learning for Market Making on Prediction-Market Order Books",
+    "arxiv_id": "2610.26789v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-20T14:38:34.310540"
+  },
+  "2610.26671v1": {
+    "title": "PACT: Plan-Augmented Coordination via Trace-Graphs for Dynamic Multi-Agent Combinatorial Optimization",
+    "arxiv_id": "2610.26671v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-20T14:38:34.310540"
+  },
+  "2610.26542v1": {
+    "title": "Breaking Diffusion: Parallel Reasoning with Draft Refinement",
+    "arxiv_id": "2610.26542v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-20T14:38:34.310540"
+  },
+  "2610.26433v1": {
+    "title": "The Geometry of Agent Memory: Forecasting Retrieval-Bound Memory Failures, and Characterizing Its Limits",
+    "arxiv_id": "2610.26433v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-20T14:38:34.310540"
+  },
+  "2610.26286v1": {
+    "title": "Toward Online Robust Zero-Sum Markov Games with Function Approximation",
+    "arxiv_id": "2610.26286v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-20T14:38:34.310540"
+  },
+  "2610.06830": {
+    "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
+    "arxiv_id": "2610.06830",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-20T14:38:34.310540"
+  },
+  "2610.20597": {
+    "title": "Co-Evolving Acting and Forecasting for Language Agents",
+    "arxiv_id": "2610.20597",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-20T14:38:34.310540"
   }
 }
