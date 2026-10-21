@@ -1474,5 +1474,65 @@
     "arxiv_id": "2610.20597",
     "tier": "worth_noting",
     "date_shown": "2026-10-20T14:38:34.310540"
+  },
+  "2610.28543v1": {
+    "title": "Binary Discrete Diffusion: Candidate-Set Diffusion for Logic and Planning Tasks",
+    "arxiv_id": "2610.28543v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-21T14:50:11.918198"
+  },
+  "2610.28559v1": {
+    "title": "Large Flow Language Models",
+    "arxiv_id": "2610.28559v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-21T14:50:11.918198"
+  },
+  "2610.28584v1": {
+    "title": "Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning",
+    "arxiv_id": "2610.28584v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-21T14:50:11.918198"
+  },
+  "2610.28397v1": {
+    "title": "MAS-Guard: Unified Guardrails from Individual Agents to Multi-Agent LLM Systems",
+    "arxiv_id": "2610.28397v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-21T14:50:11.918198"
+  },
+  "2610.28388v1": {
+    "title": "Self-Credit: Credit Assignment for Long-Horizon Agentic RL via Intra-group Rescaling",
+    "arxiv_id": "2610.28388v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-21T14:50:11.918198"
+  },
+  "2610.28361v1": {
+    "title": "FALCA: Falsification-Aware Reinforcement Learning with Hierarchical Credit Assignment for Long-Horizon Deep Search Agents",
+    "arxiv_id": "2610.28361v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-21T14:50:11.918198"
+  },
+  "2610.28010v1": {
+    "title": "RANGER: Retrieval Agent for Navigating Graphs with Semantic Evaluation Rewards",
+    "arxiv_id": "2610.28010v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-21T14:50:11.918198"
+  },
+  "2610.28554": {
+    "title": "OverSeer: Multi-Agent World Models Beyond What Agents See",
+    "arxiv_id": "2610.28554",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-21T14:50:11.918198"
+  },
+  "2610.25078": {
+    "title": "CoEvo-RSI: When Harnesses Evolve, Which Models Should Follow?",
+    "arxiv_id": "2610.25078",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-21T14:50:11.918198"
+  },
+  "2610.26542": {
+    "title": "Breaking Diffusion: Parallel Reasoning with Draft Refinement",
+    "arxiv_id": "2610.26542",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-21T14:50:11.918198"
   }
 }
