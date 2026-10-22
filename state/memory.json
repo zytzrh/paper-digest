@@ -35,126 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-10-08T17:11:43.006437"
   },
-  "2609.21533v1": {
-    "title": "MACE: Memory-Agent Co-Evolution with Adaptive Memory Graphs for Multi-Agent Systems",
-    "arxiv_id": "2609.21533v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-21T16:15:38.598931"
-  },
-  "2609.21960v1": {
-    "title": "Schedule optimization for tau-leaping in masked discrete diffusion",
-    "arxiv_id": "2609.21960v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-21T16:15:38.598931"
-  },
-  "2609.21989v1": {
-    "title": "Time series generation with spectrally aligned latent flow matching",
-    "arxiv_id": "2609.21989v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-21T16:15:38.598931"
-  },
-  "2609.21527v1": {
-    "title": "OpenMAS-GCom. A Diagnostic Benchmark for Graph-enhanced Multi-Agent Systems",
-    "arxiv_id": "2609.21527v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-21T16:15:38.598931"
-  },
-  "2609.21216v1": {
-    "title": "Fewer Steps, Better Actions: Rethinking Flow-Matching Inference for VLA Policies",
-    "arxiv_id": "2609.21216v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-21T16:15:38.598931"
-  },
-  "2609.20715": {
-    "title": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
-    "arxiv_id": "2609.20715",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-21T16:15:38.598931"
-  },
-  "2609.20784": {
-    "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
-    "arxiv_id": "2609.20784",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-21T16:15:38.598931"
-  },
-  "2609.24971v1": {
-    "title": "DolphinBench: Mapping the Pareto Frontier of Agent Memory",
-    "arxiv_id": "2609.24971v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-22T14:19:00.012092"
-  },
-  "2609.24967v1": {
-    "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
-    "arxiv_id": "2609.24967v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-22T14:19:00.012092"
-  },
-  "2609.24876v1": {
-    "title": "Partner-Specific Affective Precision in Social Active Inference",
-    "arxiv_id": "2609.24876v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-22T14:19:00.012092"
-  },
-  "2609.24706v1": {
-    "title": "\"MeBo Leaves a Piece of You Behind\": Designing a Relational Voice-Based Memory Companion for Older Adults",
-    "arxiv_id": "2609.24706v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-22T14:19:00.012092"
-  },
-  "2609.24662v1": {
-    "title": "DUMA-Bench: A Dual-Control Multi-Agent Benchmark for Evaluating LLM Agent Security",
-    "arxiv_id": "2609.24662v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-22T14:19:00.012092"
-  },
-  "2609.24657v1": {
-    "title": "Circuit Hypernetworks for Quantum-Augmented Diffusion Language Models",
-    "arxiv_id": "2609.24657v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-22T14:19:00.012092"
-  },
-  "2609.24515v1": {
-    "title": "Beyond Predictable Paths: Redefining AI Security Incident Reporting for Agents",
-    "arxiv_id": "2609.24515v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-22T14:19:00.012092"
-  },
-  "2609.24346v1": {
-    "title": "LADDER: Graph-Guided Diffusion Language Models for Efficient Multi-Hop Reasoning",
-    "arxiv_id": "2609.24346v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-22T14:19:00.012092"
-  },
-  "2609.24259v1": {
-    "title": "MemCalib: Benchmarking and Optimizing Memory Use in LLM Agents",
-    "arxiv_id": "2609.24259v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-22T14:19:00.012092"
-  },
-  "2609.24165v1": {
-    "title": "APEXA: Execution-Integrity Enforcement for Multi-Agent LLM Automation of Synchrotron Data Reduction",
-    "arxiv_id": "2609.24165v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-22T14:19:00.012092"
-  },
-  "2609.24146v1": {
-    "title": "Mind or Message? Auditing Theory of Mind in Multi-Agent Social Simulation",
-    "arxiv_id": "2609.24146v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-22T14:19:00.012092"
-  },
-  "2609.24997": {
-    "title": "VideoGen-Agent: Reinforcing Video Generation Agents",
-    "arxiv_id": "2609.24997",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-22T14:19:00.012092"
-  },
-  "2609.23377": {
-    "title": "One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents",
-    "arxiv_id": "2609.23377",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-22T14:19:00.012092"
-  },
   "2609.26781v1": {
     "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
     "arxiv_id": "2609.26781v1",
@@ -1534,5 +1414,89 @@
     "arxiv_id": "2610.26542",
     "tier": "worth_noting",
     "date_shown": "2026-10-21T14:50:11.918198"
+  },
+  "2610.30068v1": {
+    "title": "Loopholing All the Way: Language Modeling with pure Self-Conditioning",
+    "arxiv_id": "2610.30068v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-22T14:50:52.243816"
+  },
+  "2610.29458v1": {
+    "title": "Harness Scaling for Generalizable Agentic Reinforcement Learning",
+    "arxiv_id": "2610.29458v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-22T14:50:52.243816"
+  },
+  "2610.29426v1": {
+    "title": "BIRD-RL: Scaling Agentic Reinforcement Learning over Stateful Data-Centric Environments",
+    "arxiv_id": "2610.29426v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-22T14:50:52.243816"
+  },
+  "2610.29934v1": {
+    "title": "ToM2Vec: Continuous Theory-of-Mind Tokens for Multi-Agent Coordination",
+    "arxiv_id": "2610.29934v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-22T14:50:52.243816"
+  },
+  "2610.29602v1": {
+    "title": "A Diagnostic Study of Faithfulness in Diffusion Language Models for Table-to-Text Generation",
+    "arxiv_id": "2610.29602v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-22T14:50:52.243816"
+  },
+  "2610.30107v1": {
+    "title": "Velocity Ambiguity Profiles: Time-Resolved Bayes-Risk Diagnostics for Flow Matching",
+    "arxiv_id": "2610.30107v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-22T14:50:52.243816"
+  },
+  "2610.30103v1": {
+    "title": "Did the Problem Actually Get Harder? Testing LLMs on Paired P and NP-Complete Problems Hardened by Adversarial Multi-Agent Rewriting",
+    "arxiv_id": "2610.30103v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-22T14:50:52.243816"
+  },
+  "2610.30066v1": {
+    "title": "Looped Uniform Diffusion Language Models",
+    "arxiv_id": "2610.30066v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-22T14:50:52.243816"
+  },
+  "2610.29823v1": {
+    "title": "MemoryTax: The Bitter Lesson of Agent Memory",
+    "arxiv_id": "2610.29823v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-22T14:50:52.243816"
+  },
+  "2610.29671v1": {
+    "title": "Uni-Mem: Learning a Long-Horizon Agentic Memory Manager with Unified Online Policy Optimization",
+    "arxiv_id": "2610.29671v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-22T14:50:52.243816"
+  },
+  "2610.29577v1": {
+    "title": "The Reflexivity Threshold: A Phase Transition for Multi-Agent Performative Prediction",
+    "arxiv_id": "2610.29577v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-22T14:50:52.243816"
+  },
+  "2610.29456v1": {
+    "title": "RegoMender: A Multi-agent Framework for Automated Rego Policy Repair",
+    "arxiv_id": "2610.29456v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-22T14:50:52.243816"
+  },
+  "2610.29357v1": {
+    "title": "Memory-Centric Continual Learning for AI Agents",
+    "arxiv_id": "2610.29357v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-22T14:50:52.243816"
+  },
+  "2610.27227": {
+    "title": "Which Agent's Skill Should Change? Group-Relative Credit Assignment for Evolving Multi-Agent Teams",
+    "arxiv_id": "2610.27227",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-22T14:50:52.243816"
   }
 }
