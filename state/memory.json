@@ -35,66 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-10-24T13:50:04.622324"
   },
-  "2609.27306v1": {
-    "title": "Discrete Diffusion Models via Evolving Variational Autoregressive Networks",
-    "arxiv_id": "2609.27306v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-24T14:36:32.588241"
-  },
-  "2609.28272v1": {
-    "title": "Towards Efficient Reasoning: Learning Causal Shortcuts for Diffusion Language Models",
-    "arxiv_id": "2609.28272v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-24T14:36:32.588241"
-  },
-  "2609.28182v1": {
-    "title": "Finite-Sample Probabilistic Safety Certification for AI-Based Grid-Edge Coordination",
-    "arxiv_id": "2609.28182v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-24T14:36:32.588241"
-  },
-  "2609.28107v1": {
-    "title": "Distillation for Efficient Multitask Manipulation Policies via Conditional Flow Matching",
-    "arxiv_id": "2609.28107v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-24T14:36:32.588241"
-  },
-  "2609.28015v1": {
-    "title": "Improving Ensemble Filters with Flow Matching",
-    "arxiv_id": "2609.28015v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-24T14:36:32.588241"
-  },
-  "2609.27664v1": {
-    "title": "Evolutionary Stability Does Not Guarantee Learning Accessibility: A Multi-Agent Reinforcement Learning Perspective on Cooperation Emergence",
-    "arxiv_id": "2609.27664v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-24T14:36:32.588241"
-  },
-  "2609.27532v1": {
-    "title": "ProCredit: From Outcome Rewards to Progress Credit in Agentic Reinforcement Learning",
-    "arxiv_id": "2609.27532v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-24T14:36:32.588241"
-  },
-  "2609.27321v1": {
-    "title": "Verifiable Hidden Dynamics Play: Generating Agentic RL Environments from Solved Mechanisms",
-    "arxiv_id": "2609.27321v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-24T14:36:32.588241"
-  },
-  "2609.27309v1": {
-    "title": "FairTest: Search-Based Fairness Testing for Multi-Agent Reinforcement Learning Systems",
-    "arxiv_id": "2609.27309v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-24T14:36:32.588241"
-  },
-  "2609.26781": {
-    "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
-    "arxiv_id": "2609.26781",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-24T14:36:32.588241"
-  },
   "2609.28473": {
     "title": "On the Diffusibility of High-Dimensional Latents",
     "arxiv_id": "2609.28473",
