@@ -35,54 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-10-24T13:50:04.622324"
   },
-  "2609.28473": {
-    "title": "On the Diffusibility of High-Dimensional Latents",
-    "arxiv_id": "2609.28473",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-25T14:58:22.278196"
-  },
-  "2609.30028v1": {
-    "title": "How does Adversarial Influence Scale in Multi-Agent Systems?",
-    "arxiv_id": "2609.30028v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-25T14:58:22.278196"
-  },
-  "2609.29912v1": {
-    "title": "Structured Pose-Conditioned Flow Matching for Generative 5G CSI Augmentation",
-    "arxiv_id": "2609.29912v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-25T14:58:22.278196"
-  },
-  "2609.29908v1": {
-    "title": "MorphIK: Morphology-Conditioned Neural Inverse Kinematics for Unknown Robots",
-    "arxiv_id": "2609.29908v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-25T14:58:22.278196"
-  },
-  "2609.29892v1": {
-    "title": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
-    "arxiv_id": "2609.29892v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-25T14:58:22.278196"
-  },
-  "2609.29772v1": {
-    "title": "WeatherDiagFlow: Evidence-Grounded Radar Nowcasting with Diagnostic Flow Refinement",
-    "arxiv_id": "2609.29772v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-25T14:58:22.278196"
-  },
-  "2609.29366v1": {
-    "title": "Epistemic-Probabilistic Model for Guarded Multi-Agent LLM Coordination",
-    "arxiv_id": "2609.29366v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-25T14:58:22.278196"
-  },
-  "2609.27321": {
-    "title": "Verifiable Hidden Dynamics Play: Generating Agentic RL Environments from Solved Mechanisms",
-    "arxiv_id": "2609.27321",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-25T14:58:22.278196"
-  },
   "2609.29964v1": {
     "title": "World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal",
     "arxiv_id": "2609.29964v1",
@@ -1474,5 +1426,77 @@
     "arxiv_id": "2610.24383",
     "tier": "worth_noting",
     "date_shown": "2026-10-24T13:50:04.622324"
+  },
+  "2610.32604v1": {
+    "title": "LLaCO: Continuous Diffusion for Large Language Models with Competition-Aware Semantic Scheduling",
+    "arxiv_id": "2610.32604v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-26T16:26:52.679457"
+  },
+  "2610.32851v1": {
+    "title": "Reimagining Enterprise RAG for Multi-Agent Systems: A Knowledge Layer That Organizes Before It Retrieves",
+    "arxiv_id": "2610.32851v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-26T16:26:52.679457"
+  },
+  "2610.32719v1": {
+    "title": "Cross-Scenario Controller Parameter Transformation from Real-World Driving Data through Flow Matching",
+    "arxiv_id": "2610.32719v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-26T16:26:52.679457"
+  },
+  "2610.32602v1": {
+    "title": "Trajectory Matching: Discrete Flow Matching with Structured Actions",
+    "arxiv_id": "2610.32602v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-26T16:26:52.679457"
+  },
+  "2610.32415v1": {
+    "title": "Can LLM Annotators Match Human Consistency? Benchmarking Human Agreement and Optimizing Multi-Agent with Contrastive Knowledge",
+    "arxiv_id": "2610.32415v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-26T16:26:52.679457"
+  },
+  "2610.32333v1": {
+    "title": "Beyond Final Outcomes: Quantifying Claim-Level Information Dynamics in Multi-Agent LLM Interaction",
+    "arxiv_id": "2610.32333v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-26T16:26:52.679457"
+  },
+  "2610.32326v1": {
+    "title": "TGR-EvoDAG: A DAG-based Multi-Agent Code Evolution Framework for Generative Recommendation on Tencent",
+    "arxiv_id": "2610.32326v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-26T16:26:52.679457"
+  },
+  "2610.32256v1": {
+    "title": "Representation Learning via Composite Subspace Flow Matching",
+    "arxiv_id": "2610.32256v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-26T16:26:52.679457"
+  },
+  "2610.23234": {
+    "title": "MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation",
+    "arxiv_id": "2610.23234",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-26T16:26:52.679457"
+  },
+  "2610.32002": {
+    "title": "DraMaze: A Multi-Agent Pipeline with Future-Aware Memory for Diverse Microdrama Script Generation",
+    "arxiv_id": "2610.32002",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-26T16:26:52.679457"
+  },
+  "2610.17821": {
+    "title": "FLOMSS: Generative Music Source Separation by Flow Matching",
+    "arxiv_id": "2610.17821",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-26T16:26:52.679457"
+  },
+  "2610.31198": {
+    "title": "Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models",
+    "arxiv_id": "2610.31198",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-26T16:26:52.679457"
   }
 }
