@@ -35,12 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-10-24T13:50:04.622324"
   },
-  "2609.29964v1": {
-    "title": "World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal",
-    "arxiv_id": "2609.29964v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-27T14:58:18.411066"
-  },
   "2609.30977v1": {
     "title": "Does Uniform Discrete Diffusion Need Time?",
     "arxiv_id": "2609.30977v1",
@@ -1498,5 +1492,89 @@
     "arxiv_id": "2610.31198",
     "tier": "worth_noting",
     "date_shown": "2026-10-26T16:26:52.679457"
+  },
+  "2610.35500v1": {
+    "title": "Test-Time Confidence Adaptation under RL-Induced Trajectory Shift",
+    "arxiv_id": "2610.35500v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-27T15:41:34.155713"
+  },
+  "2610.35804v1": {
+    "title": "Learning When to Commit: Schedule Distillation for Fast Diffusion Language Models",
+    "arxiv_id": "2610.35804v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-27T15:41:34.155713"
+  },
+  "2610.35801v1": {
+    "title": "FOCUS: Active Critic Learning for Long-Horizon Language Model Agents",
+    "arxiv_id": "2610.35801v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-27T15:41:34.155713"
+  },
+  "2610.35736v1": {
+    "title": "Preference-Guided Cooperation in Multi-Objective Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2610.35736v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-27T15:41:34.155713"
+  },
+  "2610.35690v1": {
+    "title": "EvoRouter: Cost-Efficient Multi-Agent Routing via Insight-Guided On-Policy Distillation",
+    "arxiv_id": "2610.35690v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-27T15:41:34.155713"
+  },
+  "2610.35679v1": {
+    "title": "CounterFlow: Target-Conditioned Flow Matching for Visual Counterfactuals",
+    "arxiv_id": "2610.35679v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-27T15:41:34.155713"
+  },
+  "2610.35652v1": {
+    "title": "Active Learning of Conditional Generative Models via the Transport Neural Tangent Kernel",
+    "arxiv_id": "2610.35652v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-27T15:41:34.155713"
+  },
+  "2610.35497v1": {
+    "title": "When Fine-Grained Credit Assignment Helps and Hurts: Multimodal Agentic Reinforcement Learning through Video Editing",
+    "arxiv_id": "2610.35497v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-27T15:41:34.155713"
+  },
+  "2610.35425v1": {
+    "title": "From Denoising Dynamics to Endpoint Uncertainty in Diffusion Language Models",
+    "arxiv_id": "2610.35425v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-27T15:41:34.155713"
+  },
+  "2610.35398v1": {
+    "title": "Belief-Conditioned Multi-Agent Actor Critic for Decentralized LLM Collaboration",
+    "arxiv_id": "2610.35398v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-27T15:41:34.155713"
+  },
+  "2610.35303v1": {
+    "title": "InterQ-RL: Interaction-Aware Correction of Execution Mismatch in Quantized Agentic RL",
+    "arxiv_id": "2610.35303v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-27T15:41:34.155713"
+  },
+  "2610.35201v1": {
+    "title": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+    "arxiv_id": "2610.35201v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-27T15:41:34.155713"
+  },
+  "2610.34467": {
+    "title": "DynaFlow: Learning Free-Form Multi-Agent Orchestration",
+    "arxiv_id": "2610.34467",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-27T15:41:34.155713"
+  },
+  "2610.18683": {
+    "title": "ProAS: A Progress-Aware Advantage Shaping Framework for Multi-Turn Agentic Reinforcement Learning",
+    "arxiv_id": "2610.18683",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-27T15:41:34.155713"
   }
 }
