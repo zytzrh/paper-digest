@@ -1576,5 +1576,83 @@
     "arxiv_id": "2610.18683",
     "tier": "worth_noting",
     "date_shown": "2026-10-27T15:41:34.155713"
+  },
+  "2610.36466": {
+    "title": "Nemotron-Labs-Diffusion-Uni: Elastic Self-Refining Unified Diffusion LLM with Cross-Paradigm On-Policy Distillation",
+    "arxiv_id": "2610.36466",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-28T16:25:05.341083"
+  },
+  "2610.37642v1": {
+    "title": "Metacognitive Decoding: Efficient Inference for Diffusion Language Agents",
+    "arxiv_id": "2610.37642v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-28T16:25:05.341083"
+  },
+  "2610.37609v1": {
+    "title": "EnvSched: Environment-Aware Scheduling for Rollout-Efficient Agent Reinforcement Learning",
+    "arxiv_id": "2610.37609v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-28T16:25:05.341083"
+  },
+  "2610.37441v1": {
+    "title": "Multi-Agent Reinforcement Learning of Co-Adaptive Hip Exoskeleton Control (MARL-Exo) for Metabolic Energy Reduction",
+    "arxiv_id": "2610.37441v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-28T16:25:05.341083"
+  },
+  "2610.37195v1": {
+    "title": "Action-Value Calibration via Continuation Sharing for Long-Horizon Agentic Reinforcement Learning",
+    "arxiv_id": "2610.37195v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-28T16:25:05.341083"
+  },
+  "2610.37159v1": {
+    "title": "Physics-Guided Flow Matching: A Generative AI Framework for Global Total Electron Content Forecasting",
+    "arxiv_id": "2610.37159v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-28T16:25:05.341083"
+  },
+  "2610.37115v1": {
+    "title": "Self-Regularized Flow Language Models",
+    "arxiv_id": "2610.37115v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-28T16:25:05.341083"
+  },
+  "2610.36940v1": {
+    "title": "TDLM: Adaptive Temporal Integration for Diffusion Language Models",
+    "arxiv_id": "2610.36940v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-28T16:25:05.341083"
+  },
+  "2610.36918v1": {
+    "title": "TrawMem: Reframing Agent Memory as Task-Oriented Role-Adaptive Workspaces",
+    "arxiv_id": "2610.36918v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-28T16:25:05.341083"
+  },
+  "2610.36901v1": {
+    "title": "HiLo-RD: Cross-Budget Self-Distillation for Masked Diffusion Language Models",
+    "arxiv_id": "2610.36901v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-28T16:25:05.341083"
+  },
+  "2610.34073": {
+    "title": "Memory Tax: Dissecting the Net Value of Agent Memory",
+    "arxiv_id": "2610.34073",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-28T16:25:05.341083"
+  },
+  "2610.24520": {
+    "title": "HABIT-Bench: Evaluating Habit Induction from Longitudinal Weak Evidence in Agent Memory",
+    "arxiv_id": "2610.24520",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-28T16:25:05.341083"
+  },
+  "2610.22543": {
+    "title": "On the SPOT: Enhancing Speculative Decoding for Diffusion Language Models via Commit-Order Prediction",
+    "arxiv_id": "2610.22543",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-28T16:25:05.341083"
   }
 }
