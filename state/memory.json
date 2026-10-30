@@ -35,66 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-10-24T13:50:04.622324"
   },
-  "2609.38133v1": {
-    "title": "Multi-Agent Flow Matching with Decoupled Generative Guidance",
-    "arxiv_id": "2609.38133v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-30T16:14:03.301502"
-  },
-  "2609.38066v1": {
-    "title": "Alpha Diffusion Language Models: Factorization Alone Is Not the Problem",
-    "arxiv_id": "2609.38066v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-30T16:14:03.301502"
-  },
-  "2609.37974v1": {
-    "title": "On Trajectory-Aware Training for Masked Diffusion Language Models",
-    "arxiv_id": "2609.37974v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-30T16:14:03.301502"
-  },
-  "2609.38049v1": {
-    "title": "Improving Function Space Flow Matching with Kernel Optimal Transport",
-    "arxiv_id": "2609.38049v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-30T16:14:03.301502"
-  },
-  "2609.37953v1": {
-    "title": "Topological Coherence for Self-evolving Multi-agent Systems",
-    "arxiv_id": "2609.37953v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-30T16:14:03.301502"
-  },
-  "2609.37934v1": {
-    "title": "GRFBrain: Graph-Structured Rectified Flows for EEG Dynamic Modeling",
-    "arxiv_id": "2609.37934v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-30T16:14:03.301502"
-  },
-  "2609.37924v1": {
-    "title": "Time-Anchored Diffusion Language Models: Latent-Space Caching for Fast Generation",
-    "arxiv_id": "2609.37924v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-30T16:14:03.301502"
-  },
-  "2609.37898v1": {
-    "title": "Guide, Then Let Go: Gap-Adaptive Teacher Scheduling for Sparse-Reward Agentic RL",
-    "arxiv_id": "2609.37898v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-30T16:14:03.301502"
-  },
-  "2609.36071": {
-    "title": "LongCat-DeepResearch Technical Report",
-    "arxiv_id": "2609.36071",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-30T16:14:03.301502"
-  },
-  "2609.33326": {
-    "title": "ANTMAN: Adaptive Need Tracking for Multi-Agent Navigation in Large Information Spaces",
-    "arxiv_id": "2609.33326",
-    "tier": "worth_noting",
-    "date_shown": "2026-09-30T16:14:03.301502"
-  },
   "2610.02193v1": {
     "title": "Hierarchical Continuous Diffusion Language Models",
     "arxiv_id": "2610.02193v1",
@@ -1504,5 +1444,83 @@
     "arxiv_id": "2610.22684",
     "tier": "worth_noting",
     "date_shown": "2026-10-29T16:33:57.171392"
+  },
+  "2610.40618v1": {
+    "title": "An ODE-based Sampler for Discrete Diffusion Models",
+    "arxiv_id": "2610.40618v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-30T16:31:17.845353"
+  },
+  "2610.40109v1": {
+    "title": "Coupled Guidance for Flow Matching",
+    "arxiv_id": "2610.40109v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-30T16:31:17.845353"
+  },
+  "2610.39927v1": {
+    "title": "Learning Calibrated Confidence for Multi-Agent Collaboration",
+    "arxiv_id": "2610.39927v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-30T16:31:17.845353"
+  },
+  "2610.39813v1": {
+    "title": "EvoTeam: Multi-Agent Collaboration via Evolving Teams",
+    "arxiv_id": "2610.39813v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-30T16:31:17.845353"
+  },
+  "2610.40533v1": {
+    "title": "Homebrewed SLMs: Autoregressive and Masked Diffusion Language Models Built at Home for Portuguese",
+    "arxiv_id": "2610.40533v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-30T16:31:17.845353"
+  },
+  "2610.40492v1": {
+    "title": "Agentic University: Collaborative Agents for Personalized Learning",
+    "arxiv_id": "2610.40492v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-30T16:31:17.845353"
+  },
+  "2610.40227v1": {
+    "title": "EpiAgent: Epistemic Self-Play for LLM Agents",
+    "arxiv_id": "2610.40227v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-30T16:31:17.845353"
+  },
+  "2610.40186v1": {
+    "title": "Locating and Closing Information Gaps in Multi-Agent Systems",
+    "arxiv_id": "2610.40186v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-30T16:31:17.845353"
+  },
+  "2610.40075v1": {
+    "title": "Learning Safe Flow Matching Robot Policies from Binary Feasibility Oracles",
+    "arxiv_id": "2610.40075v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-30T16:31:17.845353"
+  },
+  "2610.39853v1": {
+    "title": "KV Cache Quantization for Diffusion Language Models",
+    "arxiv_id": "2610.39853v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-30T16:31:17.845353"
+  },
+  "2610.39825v1": {
+    "title": "AegisFlow: Training-Free Non-Myopic Path-Safe Guided Flow Matching",
+    "arxiv_id": "2610.39825v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-30T16:31:17.845353"
+  },
+  "2610.39790v1": {
+    "title": "Long-Term Agent Memory through Complementary Curation and Consolidation",
+    "arxiv_id": "2610.39790v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-30T16:31:17.845353"
+  },
+  "2610.39264": {
+    "title": "Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps",
+    "arxiv_id": "2610.39264",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-30T16:31:17.845353"
   }
 }
