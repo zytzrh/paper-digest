@@ -801,7 +801,7 @@
     "title": "PFedMA: Who Should Join Next as Federated Multi-Agent Orchestration Evolves?",
     "arxiv_id": "2610.19458",
     "tier": "worth_noting",
-    "date_shown": "2026-10-16T14:29:42.209824"
+    "date_shown": "2026-10-31T15:35:29.607009"
   },
   "2610.22319v1": {
     "title": "A team of Gemini 4 Argon agents beats Minecraft",
@@ -1522,5 +1522,11 @@
     "arxiv_id": "2610.39264",
     "tier": "worth_noting",
     "date_shown": "2026-10-30T16:31:17.845353"
+  },
+  "2610.39293": {
+    "title": "Unlocking Any-Order Generation in Pretrained Autoregressive Image Models",
+    "arxiv_id": "2610.39293",
+    "tier": "worth_noting",
+    "date_shown": "2026-10-31T15:35:29.607009"
   }
 }
