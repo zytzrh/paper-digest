@@ -1456,5 +1456,47 @@
     "arxiv_id": "2610.39293",
     "tier": "worth_noting",
     "date_shown": "2026-10-31T15:35:29.607009"
+  },
+  "2610.42084v1": {
+    "title": "RangeSWA: Training-Free Length Extrapolation for Continuous Diffusion Language Models",
+    "arxiv_id": "2610.42084v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-02T19:57:23.221899"
+  },
+  "2610.42068v1": {
+    "title": "RAMA: Retrieval-Augmented Multi-Agent Routing with Episodic Memory for LEO Satellite Networks",
+    "arxiv_id": "2610.42068v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-02T19:57:23.221899"
+  },
+  "2610.41574v1": {
+    "title": "BYOD: Build Your Own DLM - Efficient Autoregressive-to-Diffusion Language Model Conversion",
+    "arxiv_id": "2610.41574v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-02T19:57:23.221899"
+  },
+  "2610.41563v1": {
+    "title": "ORION: An Outcome-Driven LLM Advisor for RL-Based Multi-Domain 6G Slice Placement",
+    "arxiv_id": "2610.41563v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-02T19:57:23.221899"
+  },
+  "2610.39276": {
+    "title": "MemSteer: Turning User Histories into Supervision for Agent Memory Optimization",
+    "arxiv_id": "2610.39276",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-02T19:57:23.221899"
+  },
+  "2610.31222": {
+    "title": "GLOW-FM: Efficient Generative Low-Light Image Enhancement with One-Step Latent Flow Matching",
+    "arxiv_id": "2610.31222",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-02T19:57:23.221899"
+  },
+  "2610.34722": {
+    "title": "CEPO: A General Framework for Improving Prompt Optimization in Multi-Agent Systems",
+    "arxiv_id": "2610.34722",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-02T19:57:23.221899"
   }
 }
