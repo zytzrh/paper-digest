@@ -1498,5 +1498,59 @@
     "arxiv_id": "2610.34722",
     "tier": "worth_noting",
     "date_shown": "2026-11-02T19:57:23.221899"
+  },
+  "2611.03454v1": {
+    "title": "Online Class Posteriors for Interpretable and Controllable Discrete Diffusion",
+    "arxiv_id": "2611.03454v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-03T17:29:52.091201"
+  },
+  "2610.35219": {
+    "title": "Multi-Agent Relay Thinking",
+    "arxiv_id": "2610.35219",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-03T17:29:52.091201"
+  },
+  "2610.40293": {
+    "title": "MAServeBench: Benchmarking Multi-Agent LLM Serving Systems with Hierarchical Collaboration Workloads",
+    "arxiv_id": "2610.40293",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-03T17:29:52.091201"
+  },
+  "2611.03301v1": {
+    "title": "An Axiomatic Framework for Reinforcement Learning in Open Multi-Agent Systems",
+    "arxiv_id": "2611.03301v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-03T17:29:52.091201"
+  },
+  "2611.03150v1": {
+    "title": "FlowBatt: Flow Matching for Probabilistic Battery Degradation Prediction",
+    "arxiv_id": "2611.03150v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-03T17:29:52.091201"
+  },
+  "2611.03066v1": {
+    "title": "Towards a Trustworthy and Governable Internet of Agentics: An Architectural Perspective on Protocols, Systems, and Services",
+    "arxiv_id": "2611.03066v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-03T17:29:52.091201"
+  },
+  "2611.02912v1": {
+    "title": "A State Change Is Local, Its Consequences Are Not: Dependency-Aware State Revision for Long-Term Agent Memory",
+    "arxiv_id": "2611.02912v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-03T17:29:52.091201"
+  },
+  "2610.41574": {
+    "title": "BYOD: Build Your Own DLM - Efficient Autoregressive-to-Diffusion Language Model Conversion",
+    "arxiv_id": "2610.41574",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-03T17:29:52.091201"
+  },
+  "2610.40191": {
+    "title": "Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement",
+    "arxiv_id": "2610.40191",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-03T17:29:52.091201"
   }
 }
