@@ -1552,5 +1552,59 @@
     "arxiv_id": "2610.40191",
     "tier": "worth_noting",
     "date_shown": "2026-11-03T17:29:52.091201"
+  },
+  "2611.05066v1": {
+    "title": "VIGOR: Visual Gain Ordering for Hallucination Mitigation in Multimodal Discrete Diffusion Language Models",
+    "arxiv_id": "2611.05066v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-04T17:43:15.279696"
+  },
+  "2610.39813": {
+    "title": "EvoTeam: Multi-Agent Collaboration via Evolving Teams",
+    "arxiv_id": "2610.39813",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-04T17:43:15.279696"
+  },
+  "2611.05266v1": {
+    "title": "Stabilizing On-Policy Targeted Guidance in Agentic Reinforcement Learning",
+    "arxiv_id": "2611.05266v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-04T17:43:15.279696"
+  },
+  "2611.05263v1": {
+    "title": "JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks",
+    "arxiv_id": "2611.05263v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-04T17:43:15.279696"
+  },
+  "2611.05202v1": {
+    "title": "Empirical Bayes Flow Matching for Continuous Cryo-EM Heterogeneity",
+    "arxiv_id": "2611.05202v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-04T17:43:15.279696"
+  },
+  "2611.04977v1": {
+    "title": "GeoFaham: Domain-Specialized Multi-Agent Geospatial Analytics for Disaster Response",
+    "arxiv_id": "2611.04977v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-04T17:43:15.279696"
+  },
+  "2611.04825v1": {
+    "title": "UniFlow: Unified Multi-Scale Flow Matching for Time Series Generation",
+    "arxiv_id": "2611.04825v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-04T17:43:15.279696"
+  },
+  "2611.04774v1": {
+    "title": "Cooperative Multi-Agent Reinforcement Learning with Submodular Trajectory Rewards",
+    "arxiv_id": "2611.04774v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-04T17:43:15.279696"
+  },
+  "2611.04556v1": {
+    "title": "Inter-Agent Influence: Evaluating Persuasion, Deception, and Coercion in Multi-Agent Systems",
+    "arxiv_id": "2611.04556v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-04T17:43:15.279696"
   }
 }
