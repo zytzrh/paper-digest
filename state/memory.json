@@ -35,318 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-10-24T13:50:04.622324"
   },
-  "2610.03641v1": {
-    "title": "IDRF: Inverse-Distilled Reward Fine-tuning of Masked Discrete Diffusion Models",
-    "arxiv_id": "2610.03641v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-05T19:02:11.419498"
-  },
-  "2610.03665v1": {
-    "title": "Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models",
-    "arxiv_id": "2610.03665v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-05T19:02:11.419498"
-  },
-  "2610.03604v1": {
-    "title": "Mastering Atari 2600 Games with Discovered Options",
-    "arxiv_id": "2610.03604v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-05T19:02:11.419498"
-  },
-  "2610.03483v1": {
-    "title": "AREX: Affine-Residual Exponential Integrator for Few-Step Sampling in Flow Matching",
-    "arxiv_id": "2610.03483v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-05T19:02:11.419498"
-  },
-  "2610.03326v1": {
-    "title": "Preserving Mathematical Reasoning in Compressed Diffusion Language Models via Trajectory-Aware Low-Rank Approximation",
-    "arxiv_id": "2610.03326v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-05T19:02:11.419498"
-  },
-  "2610.03320v1": {
-    "title": "Refinement Buys Intelligibility, Search Buys Identity: What Test-Time Compute Buys in Masked-Diffusion TTS",
-    "arxiv_id": "2610.03320v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-05T19:02:11.419498"
-  },
-  "2610.03223v1": {
-    "title": "AdaStep: Adaptive Step Credit Weighting for Agentic Reinforcement Learning",
-    "arxiv_id": "2610.03223v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-05T19:02:11.419498"
-  },
-  "2610.03202v1": {
-    "title": "Contextual Flow Matching: Adaptive Step Selection in Flow Models for Efficient Visual Generation",
-    "arxiv_id": "2610.03202v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-05T19:02:11.419498"
-  },
-  "2610.03132v1": {
-    "title": "Safe Streaming Flow Planning by Aligning Sampling Dynamics with Execution Dynamics",
-    "arxiv_id": "2610.03132v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-05T19:02:11.419498"
-  },
-  "2610.03095v1": {
-    "title": "Peer Influence across Heterogeneous AI Models",
-    "arxiv_id": "2610.03095v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-05T19:02:11.419498"
-  },
-  "2610.06830v1": {
-    "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
-    "arxiv_id": "2610.06830v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-06T16:28:31.432770"
-  },
-  "2610.06672v1": {
-    "title": "VideoTapestry: Query-Adaptive Memory Refinement for Multi-Agent Long-Video Understanding",
-    "arxiv_id": "2610.06672v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-06T16:28:31.432770"
-  },
-  "2610.06666v1": {
-    "title": "What Matters for Latent Reasoning with Flow Matching",
-    "arxiv_id": "2610.06666v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-06T16:28:31.432770"
-  },
-  "2610.06648v1": {
-    "title": "Representation-Space MMD for Diffusion Language Models",
-    "arxiv_id": "2610.06648v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-06T16:28:31.432770"
-  },
-  "2610.06520v1": {
-    "title": "Conditional Flow Matching for Single-Neuron Electrophysiology: Capturing Multimodal Responses Across Stimuli",
-    "arxiv_id": "2610.06520v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-06T16:28:31.432770"
-  },
-  "2610.06481v1": {
-    "title": "AECP: Artifact-Exclusive Communication Protocol for Multi-Agent Code Generation",
-    "arxiv_id": "2610.06481v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-06T16:28:31.432770"
-  },
-  "2610.06468v1": {
-    "title": "Latent Flow Matching for Molecular Graph Generation",
-    "arxiv_id": "2610.06468v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-06T16:28:31.432770"
-  },
-  "2610.06361v1": {
-    "title": "Capability-Driven Self-Evolution of Agent Memory",
-    "arxiv_id": "2610.06361v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-06T16:28:31.432770"
-  },
-  "2610.06259v1": {
-    "title": "OCL-PDE: A Generative Framework for PDE Inverse Problems with Observation-Complementary Latents",
-    "arxiv_id": "2610.06259v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-06T16:28:31.432770"
-  },
-  "2610.02480": {
-    "title": "MEA: A Reward-Driven Multi-Agent System for Faithful Model Explanations",
-    "arxiv_id": "2610.02480",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-06T16:28:31.432770"
-  },
-  "2610.05894": {
-    "title": "Noise Out, Bias In: Targeted Bias Injection in Diffusion Language Models via Closed-Loop Activation Steering",
-    "arxiv_id": "2610.05894",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-06T16:28:31.432770"
-  },
-  "2610.04137": {
-    "title": "Dynamic Harness Search: Building Multi-Agent Systems Per-Query via Prediction",
-    "arxiv_id": "2610.04137",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-06T16:28:31.432770"
-  },
-  "2610.08738v1": {
-    "title": "Denoising Hierarchical Representations: Joint Continuous Diffusion for Language Modeling",
-    "arxiv_id": "2610.08738v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2610.08430v1": {
-    "title": "NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale",
-    "arxiv_id": "2610.08430v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2610.08595v1": {
-    "title": "One for All, All for One: Coordinated Multi-Agent Diffusion Steering via Stochastic Optimal Control",
-    "arxiv_id": "2610.08595v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2610.08155v1": {
-    "title": "Token-Efficient Multi-Agent Collaboration via System One-Guided Computational Division of Labor",
-    "arxiv_id": "2610.08155v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2610.08108v1": {
-    "title": "Enhancing Diffusion Language Models with Autoregressive Post-Training Weights",
-    "arxiv_id": "2610.08108v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2610.08789v1": {
-    "title": "QF3: Fast Flow RL with Filtered Q-Gradients",
-    "arxiv_id": "2610.08789v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2610.08782v1": {
-    "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
-    "arxiv_id": "2610.08782v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2610.08717v1": {
-    "title": "Co-Evolving Paths and Flows via Path-Flow Alignment",
-    "arxiv_id": "2610.08717v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2610.08647v1": {
-    "title": "SquidAgent: Parallelize Wisely, Coordinate Efficiently",
-    "arxiv_id": "2610.08647v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2610.08586v1": {
-    "title": "MINDSET: Energy-based Schema Evolution for Long Conversational Agent Memory",
-    "arxiv_id": "2610.08586v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2610.08537v1": {
-    "title": "FlowCF: Sparse Counterfactual Explanations for Mixed-Type Tabular Data using Flow Matching",
-    "arxiv_id": "2610.08537v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2610.08510v1": {
-    "title": "Cylindrical Geodesic Flow Matching for Quasiperiodic Physiological Signal Transformation",
-    "arxiv_id": "2610.08510v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2610.08364v1": {
-    "title": "Transect: Retaining Observability for Long-Horizon LLM Agent Evaluations",
-    "arxiv_id": "2610.08364v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2610.08330v1": {
-    "title": "MoF: Preference-Aware Mixture Modeling for Black-Box LLM Personalization",
-    "arxiv_id": "2610.08330v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2610.08250v1": {
-    "title": "MASC: A Multi-Agent Self-Calibration Framework with Latent Construct Alignment for Consistent Client Role-Playing in Psychological Counseling",
-    "arxiv_id": "2610.08250v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2610.08106v1": {
-    "title": "ChartBmkAgent: Harness-Governed Multi-Agent Construction of Chart QA Benchmarks from Sparse Error-Taxonomy Specifications",
-    "arxiv_id": "2610.08106v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2610.08101v1": {
-    "title": "Beyond Corrected Memory: Execution Consistency in Multi-Agent Systems",
-    "arxiv_id": "2610.08101v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2610.00864": {
-    "title": "Kinematic MeanFlow: One-Step Action Generation Policy for Robotic Foundation Models",
-    "arxiv_id": "2610.00864",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2609.39822": {
-    "title": "Toward Real-Time VLAs: Stage-Aware Two-Step Flow Denoising and System-Level Evaluation",
-    "arxiv_id": "2609.39822",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2610.08048": {
-    "title": "DAEDALUS: Bootstrapping Agent Memory from Self-Generated Tasks",
-    "arxiv_id": "2610.08048",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-07T17:13:12.843895"
-  },
-  "2610.10071v1": {
-    "title": "HGP:An on-device personalized agent memory via hybrid graph storage",
-    "arxiv_id": "2610.10071v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-08T17:11:43.006437"
-  },
-  "2610.10468v1": {
-    "title": "A Society of Researchers: Designing Institutions for Populations of Autonomous Research Agents",
-    "arxiv_id": "2610.10468v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-08T17:11:43.006437"
-  },
-  "2610.10430v1": {
-    "title": "Conditional Flow Matching for Generation of 3D Multi-variable Instantaneous Urban Microclimate Fields",
-    "arxiv_id": "2610.10430v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-08T17:11:43.006437"
-  },
-  "2610.10302v1": {
-    "title": "Continual Graph Multi-Agent Reinforcement Learning",
-    "arxiv_id": "2610.10302v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-08T17:11:43.006437"
-  },
-  "2610.10265v1": {
-    "title": "Stale, Misattributed, or Late: Where Personal Memory Fails Before Generation",
-    "arxiv_id": "2610.10265v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-08T17:11:43.006437"
-  },
-  "2610.10184v1": {
-    "title": "Agentic AI-Assisted Modeling for Production Scheduling: Assessment in Constraint Programming",
-    "arxiv_id": "2610.10184v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-08T17:11:43.006437"
-  },
-  "2610.10126v1": {
-    "title": "Know the Shape, Find the Fault: Topology-Conditioned Diagnosis of Multi-Agent LLM Failures",
-    "arxiv_id": "2610.10126v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-08T17:11:43.006437"
-  },
-  "2610.10087v1": {
-    "title": "Multi-Agent Coordination via Support-Preserving Distillation",
-    "arxiv_id": "2610.10087v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-08T17:11:43.006437"
-  },
-  "2610.07258": {
-    "title": "Lineage-Aware Memory Governance: A Derivation-Gated Framework for Privacy-Preserving Column-Level Access Control in Enterprise AI Agents",
-    "arxiv_id": "2610.07258",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-08T17:11:43.006437"
-  },
-  "2610.09832": {
-    "title": "SkillForge: Co-Evolving Skills and Agents via Dynamic Skill Lifecycles",
-    "arxiv_id": "2610.09832",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-08T17:11:43.006437"
-  },
   "2610.12340v1": {
     "title": "Ambient Discrete Diffusion: Using the Wrong Data at the Right Time for Data Efficient Learning",
     "arxiv_id": "2610.12340v1",
@@ -1606,5 +1294,41 @@
     "arxiv_id": "2611.04556v1",
     "tier": "worth_noting",
     "date_shown": "2026-11-04T17:43:15.279696"
+  },
+  "2611.08362v1": {
+    "title": "SpecCTMC: Exact Speculative Simulation of Diffusion Language Model Continuous-Time Markov Chains",
+    "arxiv_id": "2611.08362v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-08T16:29:42.714238"
+  },
+  "2611.08341v1": {
+    "title": "Enhancing Local and Global Structure in Compressed AI Agent Memory",
+    "arxiv_id": "2611.08341v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-08T16:29:42.714238"
+  },
+  "2611.08307v1": {
+    "title": "Measured Coupling for Parallel Decoding in Diffusion Language Models",
+    "arxiv_id": "2611.08307v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-08T16:29:42.714238"
+  },
+  "2611.08196v1": {
+    "title": "SMART: State-based Multi Agent Reasoning Traces for Verification-oriented Problem-Solving",
+    "arxiv_id": "2611.08196v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-08T16:29:42.714238"
+  },
+  "2611.07932v1": {
+    "title": "AttnSR: Attention Step Reward for Long-Horizon Agentic RL",
+    "arxiv_id": "2611.07932v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-08T16:29:42.714238"
+  },
+  "2611.07783v1": {
+    "title": "PBPO: Prefix-Block Policy Optimization for Diffusion Language Models",
+    "arxiv_id": "2611.07783v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-08T16:29:42.714238"
   }
 }
