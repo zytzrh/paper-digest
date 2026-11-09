@@ -35,72 +35,6 @@
     "tier": "must_read",
     "date_shown": "2026-10-24T13:50:04.622324"
   },
-  "2610.12340v1": {
-    "title": "Ambient Discrete Diffusion: Using the Wrong Data at the Right Time for Data Efficient Learning",
-    "arxiv_id": "2610.12340v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-09T16:47:21.593766"
-  },
-  "2610.12436v1": {
-    "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
-    "arxiv_id": "2610.12436v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-09T16:47:21.593766"
-  },
-  "2610.12321v1": {
-    "title": "Spatial Pattern Formation from Multi-Agent Learning in Public Goods Dilemmas",
-    "arxiv_id": "2610.12321v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-09T16:47:21.593766"
-  },
-  "2610.12236v1": {
-    "title": "La-Ribo: RNA Co-Design via Geometry-Latent Flow Matching",
-    "arxiv_id": "2610.12236v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-09T16:47:21.593766"
-  },
-  "2610.12176v1": {
-    "title": "Recursive Self-Improvement through Multi-Agent Self-Supervision",
-    "arxiv_id": "2610.12176v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-09T16:47:21.593766"
-  },
-  "2610.12102v1": {
-    "title": "Few-Step Generation via Data-Space Iteration",
-    "arxiv_id": "2610.12102v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-09T16:47:21.593766"
-  },
-  "2610.12061v1": {
-    "title": "When Should Agents Think? Adaptive Reasoning via Cross-Turn Estimation",
-    "arxiv_id": "2610.12061v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-09T16:47:21.593766"
-  },
-  "2610.11959v1": {
-    "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
-    "arxiv_id": "2610.11959v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-09T16:47:21.593766"
-  },
-  "2610.04875": {
-    "title": "SpecFold: Folding Multi-Branch Redundancy for Faster Speculative Decoding in Diffusion Language Models",
-    "arxiv_id": "2610.04875",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-09T16:47:21.593766"
-  },
-  "2605.22949": {
-    "title": "MARGIN: Runtime Confidence Calibration for Multi-Agent Foundation Model Coordination",
-    "arxiv_id": "2605.22949",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-09T16:47:21.593766"
-  },
-  "2610.12299v1": {
-    "title": "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction",
-    "arxiv_id": "2610.12299v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-10T15:40:33.098978"
-  },
   "2610.13834v1": {
     "title": "On the Design Space of Continuous Diffusion Language Models",
     "arxiv_id": "2610.13834v1",
@@ -1330,5 +1264,41 @@
     "arxiv_id": "2611.07783v1",
     "tier": "worth_noting",
     "date_shown": "2026-11-08T16:29:42.714238"
+  },
+  "2611.09863v1": {
+    "title": "Flow-Guided Target-Space Alignment via Path Consistency",
+    "arxiv_id": "2611.09863v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-09T20:22:57.843403"
+  },
+  "2611.09721v1": {
+    "title": "MemoryDojo: Benchmarking Poisoning Through LLM Agent Memory",
+    "arxiv_id": "2611.09721v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-09T20:22:57.843403"
+  },
+  "2611.09568v1": {
+    "title": "Alignment by Confident Debate: Preference Learning from Multi-Agent Debate",
+    "arxiv_id": "2611.09568v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-09T20:22:57.843403"
+  },
+  "2611.09548v1": {
+    "title": "CoMoFlow: Controllable Protein Conformational Ensemble Generation via Explicit Collective-Mode Modeling",
+    "arxiv_id": "2611.09548v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-09T20:22:57.843403"
+  },
+  "2611.09239v1": {
+    "title": "DUET: Dual-Sparse Inference for Block Diffusion Language Models",
+    "arxiv_id": "2611.09239v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-09T20:22:57.843403"
+  },
+  "2611.09894": {
+    "title": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
+    "arxiv_id": "2611.09894",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-09T20:22:57.843403"
   }
 }
