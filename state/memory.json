@@ -1300,5 +1300,89 @@
     "arxiv_id": "2611.09894",
     "tier": "worth_noting",
     "date_shown": "2026-11-09T20:22:57.843403"
+  },
+  "2611.12068v1": {
+    "title": "MIRIX-2.0: Multi-Agent Memory System",
+    "arxiv_id": "2611.12068v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-10T17:27:24.140380"
+  },
+  "2611.12852v1": {
+    "title": "What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching",
+    "arxiv_id": "2611.12852v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-10T17:27:24.140380"
+  },
+  "2611.10690": {
+    "title": "JoVox: Joint Hierarchical Flow Matching for Lightweight Voxel Generation",
+    "arxiv_id": "2611.10690",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-10T17:27:24.140380"
+  },
+  "2611.12856v1": {
+    "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
+    "arxiv_id": "2611.12856v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-10T17:27:24.140380"
+  },
+  "2611.12705v1": {
+    "title": "Multi-Agent Screening: What Agreement and Acceptance Cannot Tell You",
+    "arxiv_id": "2611.12705v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-10T17:27:24.140380"
+  },
+  "2611.12552v1": {
+    "title": "SciMARS: Multi-Agent Recursive Self-Improvement for Closed-Loop Scientific Discovery",
+    "arxiv_id": "2611.12552v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-10T17:27:24.140380"
+  },
+  "2611.12314v1": {
+    "title": "A Modular Perspective for Modeling MARL Systems",
+    "arxiv_id": "2611.12314v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-10T17:27:24.140380"
+  },
+  "2611.12269v1": {
+    "title": "Agent4Crypto: A Dual-Reflective and Market-Feedback-Aligned LLM-Based Multi-Agent System for Cryptocurrency Trading",
+    "arxiv_id": "2611.12269v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-10T17:27:24.140380"
+  },
+  "2611.12222v1": {
+    "title": "PARIS: A multi-agent LLM framework for end-to-end, PRISMA-guided systematic literature reviews with pre-synthesis corpus quality assessment",
+    "arxiv_id": "2611.12222v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-10T17:27:24.140380"
+  },
+  "2611.12061v1": {
+    "title": "BARS: Beat-Adaptive Rap Synthesis via Flow Matching",
+    "arxiv_id": "2611.12061v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-10T17:27:24.140380"
+  },
+  "2611.12886": {
+    "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+    "arxiv_id": "2611.12886",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-10T17:27:24.140380"
+  },
+  "2611.05791": {
+    "title": "FlyHash for LLM Agent Memory: An Empirical Validation and a New Application",
+    "arxiv_id": "2611.05791",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-10T17:27:24.140380"
+  },
+  "2611.01729": {
+    "title": "ODE Policy: Robot Learning via Action Dynamics, Not Actions",
+    "arxiv_id": "2611.01729",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-10T17:27:24.140380"
+  },
+  "2611.09124": {
+    "title": "Toward the Era of Agentic Embodied Intelligence",
+    "arxiv_id": "2611.09124",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-10T17:27:24.140380"
   }
 }
