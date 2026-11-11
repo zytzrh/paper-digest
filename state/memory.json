@@ -1384,5 +1384,35 @@
     "arxiv_id": "2611.09124",
     "tier": "worth_noting",
     "date_shown": "2026-11-10T17:27:24.140380"
+  },
+  "2611.14387v1": {
+    "title": "Blurring the Block Boundaries: Overlapping Block Denoising for Efficient Diffusion Language Models",
+    "arxiv_id": "2611.14387v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-11T17:40:27.739271"
+  },
+  "2611.14017v1": {
+    "title": "Personalized Memory Rubrics: Learning What to Remember per User via Rubric-Guided Credit Assignment",
+    "arxiv_id": "2611.14017v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-11T17:40:27.739271"
+  },
+  "2611.14009v1": {
+    "title": "Coding Agent Memory Post-Training II: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via On-Policy Distillation",
+    "arxiv_id": "2611.14009v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-11T17:40:27.739271"
+  },
+  "2611.13742v1": {
+    "title": "Plug-and-Play ADMM for Inverse Problems with Flow Matching Denoiser",
+    "arxiv_id": "2611.13742v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-11T17:40:27.739271"
+  },
+  "2611.13995": {
+    "title": "Lipschitz-Controlled Flow Matching for Robust Image Restoration",
+    "arxiv_id": "2611.13995",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-11T17:40:27.739271"
   }
 }
