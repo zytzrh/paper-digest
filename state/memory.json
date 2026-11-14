@@ -3,103 +3,37 @@
     "title": "Large Language Models with Reinforcement Learning from Human Feedback Approach for Enhancing Explainable Sexism Detection",
     "arxiv_id": "",
     "tier": "must_read",
-    "date_shown": "2026-10-24T13:50:04.622324"
+    "date_shown": "2026-11-14T16:22:25.673632"
   },
   "2512.22925": {
     "title": "Argus: Token Aware Distributed LLM Inference Optimization",
     "arxiv_id": "2512.22925",
     "tier": "must_read",
-    "date_shown": "2026-10-24T13:50:04.622324"
+    "date_shown": "2026-11-14T16:22:25.673632"
   },
   "2506.08551": {
     "title": "DeepForm: Reasoning Large Language Model for Communication System Formulation",
     "arxiv_id": "2506.08551",
     "tier": "must_read",
-    "date_shown": "2026-10-24T13:50:04.622324"
+    "date_shown": "2026-11-14T16:22:25.673632"
   },
   "hash:42bb407ddaa2a80f": {
     "title": "Survey of uncertainty estimation in LLMs - Sources, methods, applications, and challenges",
     "arxiv_id": "",
     "tier": "must_read",
-    "date_shown": "2026-10-24T13:50:04.622324"
+    "date_shown": "2026-11-14T16:22:25.673632"
   },
   "2511.03166": {
     "title": "Measuring Aleatoric and Epistemic Uncertainty in LLMs: Empirical Evaluation on ID and OOD QA Tasks",
     "arxiv_id": "2511.03166",
     "tier": "must_read",
-    "date_shown": "2026-10-24T13:50:04.622324"
+    "date_shown": "2026-11-14T16:22:25.673632"
   },
   "hash:b393ca398012c489": {
     "title": "Conditional Contrastive Confidence-Based Uncertainty Quantification for LLMs",
     "arxiv_id": "",
     "tier": "must_read",
-    "date_shown": "2026-10-24T13:50:04.622324"
-  },
-  "2610.20597v1": {
-    "title": "Co-Evolving Acting and Forecasting for Language Agents",
-    "arxiv_id": "2610.20597v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-15T14:38:39.936885"
-  },
-  "2610.20548v1": {
-    "title": "PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios",
-    "arxiv_id": "2610.20548v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-15T14:38:39.936885"
-  },
-  "2610.20331v1": {
-    "title": "Are We Overthinking One-Step Generation?",
-    "arxiv_id": "2610.20331v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-15T14:38:39.936885"
-  },
-  "2610.20269v1": {
-    "title": "FlowSep-RF: Rectified Flow Matching for Single-Channel Radio-Frequency Signal Separation",
-    "arxiv_id": "2610.20269v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-15T14:38:39.936885"
-  },
-  "2610.20200v1": {
-    "title": "Drivers of LLM Consensus Formation Under Competing Incentives: A Simulation Study",
-    "arxiv_id": "2610.20200v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-15T14:38:39.936885"
-  },
-  "2610.20138v1": {
-    "title": "In-Context Batch Black-box Optimization via Flow Matching",
-    "arxiv_id": "2610.20138v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-15T14:38:39.936885"
-  },
-  "2610.20035v1": {
-    "title": "Weighted Adjoint Matching: Finetuning Flow Matching Models with Time-Dependent Control Cost",
-    "arxiv_id": "2610.20035v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-15T14:38:39.936885"
-  },
-  "2610.19920v1": {
-    "title": "MolHop: Scaffold-Hopping Molecular Design with Agentic Reinforcement Learning",
-    "arxiv_id": "2610.19920v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-15T14:38:39.936885"
-  },
-  "2610.19696": {
-    "title": "Share the Symbol, Not the Vector: Training-Free Fact Communication Across Language Models",
-    "arxiv_id": "2610.19696",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-15T14:38:39.936885"
-  },
-  "2610.18838": {
-    "title": "Scaling Online Optimal Transport Minibatches for Flow Matching",
-    "arxiv_id": "2610.18838",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-15T14:38:39.936885"
-  },
-  "2610.10787": {
-    "title": "NavGPT-3: Harnessing Context in a Hierarchical Navigation Runtime",
-    "arxiv_id": "2610.10787",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-15T14:38:39.936885"
+    "date_shown": "2026-11-14T16:22:25.673632"
   },
   "2610.22174v1": {
     "title": "Mosaic: Multi-Session Agentic Reinforcement Learning",
@@ -189,7 +123,7 @@
     "title": "PFedMA: Who Should Join Next as Federated Multi-Agent Orchestration Evolves?",
     "arxiv_id": "2610.19458",
     "tier": "worth_noting",
-    "date_shown": "2026-10-31T15:35:29.607009"
+    "date_shown": "2026-11-14T16:22:25.673632"
   },
   "2610.22319v1": {
     "title": "A team of Gemini 4 Argon agents beats Minecraft",
@@ -567,7 +501,7 @@
     "title": "CUA-Recovery: Benchmarking Error Recovery in Long-Horizon Computer-Use Agents",
     "arxiv_id": "2610.27645",
     "tier": "must_read",
-    "date_shown": "2026-10-24T13:50:04.622324"
+    "date_shown": "2026-11-14T16:22:25.673632"
   },
   "2610.25835": {
     "title": "Diffusion Language Models Change Speed Across Tasks and Languages",
@@ -1294,5 +1228,11 @@
     "arxiv_id": "2611.16574v1",
     "tier": "worth_noting",
     "date_shown": "2026-11-13T17:29:02.775024"
+  },
+  "2611.10439": {
+    "title": "Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction",
+    "arxiv_id": "2611.10439",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-14T16:22:25.673632"
   }
 }
