@@ -41,12 +41,6 @@
     "tier": "worth_noting",
     "date_shown": "2026-11-14T16:22:25.673632"
   },
-  "2610.22319v1": {
-    "title": "A team of Gemini 4 Argon agents beats Minecraft",
-    "arxiv_id": "2610.22319v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-17T13:26:08.058285"
-  },
   "2610.22138v1": {
     "title": "Believed but Not Said: Measuring Hidden Belief Collapse in Multi-Agent LLM Discussions",
     "arxiv_id": "2610.22138v1",
@@ -1180,5 +1174,65 @@
     "arxiv_id": "2611.16517",
     "tier": "worth_noting",
     "date_shown": "2026-11-15T16:46:46.996236"
+  },
+  "2611.18533v1": {
+    "title": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL",
+    "arxiv_id": "2611.18533v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-16T19:58:58.357539"
+  },
+  "2611.12068": {
+    "title": "MIRIX-2.0: Multi-Agent Memory System",
+    "arxiv_id": "2611.12068",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-16T19:58:58.357539"
+  },
+  "2611.18067v1": {
+    "title": "Agent-as-a-Judge",
+    "arxiv_id": "2611.18067v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-16T19:58:58.357539"
+  },
+  "2611.18543v1": {
+    "title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2611.18543v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-16T19:58:58.357539"
+  },
+  "2611.18150v1": {
+    "title": "Who Should Be on the Panel? Task-Conditioned Persona Selection for LLM Trading Agents",
+    "arxiv_id": "2611.18150v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-16T19:58:58.357539"
+  },
+  "2611.17917v1": {
+    "title": "When Cooperation Must Change: Semantic Strategy Unlearning in Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2611.17917v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-16T19:58:58.357539"
+  },
+  "2611.17883v1": {
+    "title": "Securing Multi-Agent Systems by Design",
+    "arxiv_id": "2611.17883v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-16T19:58:58.357539"
+  },
+  "2611.17820v1": {
+    "title": "Aligning AI Teams",
+    "arxiv_id": "2611.17820v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-16T19:58:58.357539"
+  },
+  "2611.17793v1": {
+    "title": "MASTARS: Multi-Agent Sequential Trajectory Augmentation with Return-Conditioned Subgoals",
+    "arxiv_id": "2611.17793v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-16T19:58:58.357539"
+  },
+  "2611.12901": {
+    "title": "Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding",
+    "arxiv_id": "2611.12901",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-16T19:58:58.357539"
   }
 }
