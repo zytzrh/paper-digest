@@ -41,18 +41,6 @@
     "tier": "worth_noting",
     "date_shown": "2026-11-14T16:22:25.673632"
   },
-  "2610.22138v1": {
-    "title": "Believed but Not Said: Measuring Hidden Belief Collapse in Multi-Agent LLM Discussions",
-    "arxiv_id": "2610.22138v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-18T13:44:50.210709"
-  },
-  "2610.21656": {
-    "title": "Data World: Scaling Data Environments from Scratch",
-    "arxiv_id": "2610.21656",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-18T13:44:50.210709"
-  },
   "2610.09872": {
     "title": "LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolving Markets",
     "arxiv_id": "2610.09872",
@@ -1234,5 +1222,53 @@
     "arxiv_id": "2611.12901",
     "tier": "worth_noting",
     "date_shown": "2026-11-16T19:58:58.357539"
+  },
+  "2611.21478v1": {
+    "title": "Jetriever: Shifting Agent Memory Retrieval from Similarity to Utility",
+    "arxiv_id": "2611.21478v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-17T18:55:44.982427"
+  },
+  "2611.21454v1": {
+    "title": "Comments on \"Deep Fréchet Regression\"",
+    "arxiv_id": "2611.21454v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-17T18:55:44.982427"
+  },
+  "2611.21439v1": {
+    "title": "A Reinforcement Learning Method to Navigate SMEFT Operator Space",
+    "arxiv_id": "2611.21439v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-17T18:55:44.982427"
+  },
+  "2611.21404v1": {
+    "title": "Efficient Modeling of Multi-Agent Systems via Structure-Aware Physics-Informed Learning",
+    "arxiv_id": "2611.21404v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-17T18:55:44.982427"
+  },
+  "2611.21250v1": {
+    "title": "Stream of Belief: Eliciting Collective Intelligence through Latent Belief Dynamics",
+    "arxiv_id": "2611.21250v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-17T18:55:44.982427"
+  },
+  "2611.21019v1": {
+    "title": "MemDoctor: Stage-wise Error Attribution and Repair for MLLM Agent Memory",
+    "arxiv_id": "2611.21019v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-17T18:55:44.982427"
+  },
+  "2611.20983v1": {
+    "title": "GRACE: Parallel Best-of-N Multi-Agent Analysis of Closed-Form Questions over Dataframes with Guardrail Selection and Adaptive Retry",
+    "arxiv_id": "2611.20983v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-17T18:55:44.982427"
+  },
+  "2611.20891v1": {
+    "title": "From Recursion to Convolution: Parallel Self-Improvement for Multi-Agent Systems",
+    "arxiv_id": "2611.20891v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-17T18:55:44.982427"
   }
 }
