@@ -41,48 +41,6 @@
     "tier": "worth_noting",
     "date_shown": "2026-11-14T16:22:25.673632"
   },
-  "2610.26789v1": {
-    "title": "Cooperative Multi-Agent Reinforcement Learning for Market Making on Prediction-Market Order Books",
-    "arxiv_id": "2610.26789v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-20T14:38:34.310540"
-  },
-  "2610.26671v1": {
-    "title": "PACT: Plan-Augmented Coordination via Trace-Graphs for Dynamic Multi-Agent Combinatorial Optimization",
-    "arxiv_id": "2610.26671v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-20T14:38:34.310540"
-  },
-  "2610.26542v1": {
-    "title": "Breaking Diffusion: Parallel Reasoning with Draft Refinement",
-    "arxiv_id": "2610.26542v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-20T14:38:34.310540"
-  },
-  "2610.26433v1": {
-    "title": "The Geometry of Agent Memory: Forecasting Retrieval-Bound Memory Failures, and Characterizing Its Limits",
-    "arxiv_id": "2610.26433v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-20T14:38:34.310540"
-  },
-  "2610.26286v1": {
-    "title": "Toward Online Robust Zero-Sum Markov Games with Function Approximation",
-    "arxiv_id": "2610.26286v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-20T14:38:34.310540"
-  },
-  "2610.06830": {
-    "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
-    "arxiv_id": "2610.06830",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-20T14:38:34.310540"
-  },
-  "2610.20597": {
-    "title": "Co-Evolving Acting and Forecasting for Language Agents",
-    "arxiv_id": "2610.20597",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-20T14:38:34.310540"
-  },
   "2610.28543v1": {
     "title": "Binary Discrete Diffusion: Candidate-Set Diffusion for Logic and Planning Tasks",
     "arxiv_id": "2610.28543v1",
@@ -1252,5 +1210,59 @@
     "arxiv_id": "2611.17610",
     "tier": "worth_noting",
     "date_shown": "2026-11-18T18:37:19.474478"
+  },
+  "2611.24845v1": {
+    "title": "Vibe-Trading: Towards Agent-Native Trading",
+    "arxiv_id": "2611.24845v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-19T18:49:57.461985"
+  },
+  "2611.24240v1": {
+    "title": "ViLFlow: Parallel Vision-Language Generation with Continuous Latent Flows",
+    "arxiv_id": "2611.24240v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-19T18:49:57.461985"
+  },
+  "2611.24839v1": {
+    "title": "Kaer: Security-Aware Replanning for Multi-Agent Systems",
+    "arxiv_id": "2611.24839v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-19T18:49:57.461985"
+  },
+  "2611.24764v1": {
+    "title": "Horizontal Flow Matching for Single-Cell Spatiotemporal Dynamics",
+    "arxiv_id": "2611.24764v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-19T18:49:57.461985"
+  },
+  "2611.24697v1": {
+    "title": "Depth Before Breadth: Reverse-to-Forward Curriculum with Advantage Decomposition for LLM Agent",
+    "arxiv_id": "2611.24697v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-19T18:49:57.461985"
+  },
+  "2611.24636v1": {
+    "title": "Clover-35B-A3B-Preview Technical Report",
+    "arxiv_id": "2611.24636v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-19T18:49:57.461985"
+  },
+  "2611.24422v1": {
+    "title": "Resolution as Attention for Efficient Agent Memory Perception",
+    "arxiv_id": "2611.24422v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-19T18:49:57.461985"
+  },
+  "2611.24290v1": {
+    "title": "Beyond Corpus-Driven Imitation: Evolving Musical Mindsets in the Agentic Orchestra via Quantum Reinforcement Learning",
+    "arxiv_id": "2611.24290v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-19T18:49:57.461985"
+  },
+  "2611.24221v1": {
+    "title": "Learning to Coordinate: LLM-Guided Workflow Evolution for Token-Efficient Red Teaming",
+    "arxiv_id": "2611.24221v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-19T18:49:57.461985"
   }
 }
