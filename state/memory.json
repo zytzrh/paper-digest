@@ -47,18 +47,6 @@
     "tier": "must_read",
     "date_shown": "2026-11-14T16:22:25.673632"
   },
-  "2610.25835": {
-    "title": "Diffusion Language Models Change Speed Across Tasks and Languages",
-    "arxiv_id": "2610.25835",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-24T13:50:04.622324"
-  },
-  "2610.24383": {
-    "title": "IF-MAP: Influence-Function-Inspired Agent Prioritization in Multi-Agent Systems",
-    "arxiv_id": "2610.24383",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-24T13:50:04.622324"
-  },
   "2610.32604v1": {
     "title": "LLaCO: Continuous Diffusion for Large Language Models with Competition-Aware Semantic Scheduling",
     "arxiv_id": "2610.32604v1",
@@ -1090,5 +1078,65 @@
     "arxiv_id": "2611.25895v1",
     "tier": "worth_noting",
     "date_shown": "2026-11-20T18:15:36.387289"
+  },
+  "2611.27865v1": {
+    "title": "SLICR: Strategy Logic-Guided Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2611.27865v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-23T21:52:57.486777"
+  },
+  "2611.27839v1": {
+    "title": "Beyond Self-Critique: Epistemic Convergence Control for Multi-Agent Research Verification",
+    "arxiv_id": "2611.27839v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-23T21:52:57.486777"
+  },
+  "2611.27653v1": {
+    "title": "Late-Time Dynamics of Flow Matching: Distance Geometry and Learning",
+    "arxiv_id": "2611.27653v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-23T21:52:57.486777"
+  },
+  "2611.27652v1": {
+    "title": "Auditing Post-Training Unlearning in Diffusion Language Models using Sparse Autoencoders",
+    "arxiv_id": "2611.27652v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-23T21:52:57.486777"
+  },
+  "2611.27631v1": {
+    "title": "Learning Inside Types: Epistemic Typestates for Safe Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2611.27631v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-23T21:52:57.486777"
+  },
+  "2611.27556v1": {
+    "title": "Bringing AI Assistance to the Beznau Nuclear Power Plant: A Hierarchical System of LLM Agents for Reactor Monitoring",
+    "arxiv_id": "2611.27556v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-23T21:52:57.486777"
+  },
+  "2611.27536v1": {
+    "title": "Open CDLM: A Benchmark and Library for Continuous Diffusion Language Models",
+    "arxiv_id": "2611.27536v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-23T21:52:57.486777"
+  },
+  "2611.27483v1": {
+    "title": "From Manufacturing Event Logs to Simulation: Enabling SMEs with Agentic AI for SimPy Simulation Generation",
+    "arxiv_id": "2611.27483v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-23T21:52:57.486777"
+  },
+  "2611.27368v1": {
+    "title": "Testing for Coordination Failures in Cooperative Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2611.27368v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-23T21:52:57.486777"
+  },
+  "2611.24636": {
+    "title": "Clover-35B-A3B-Preview Technical Report",
+    "arxiv_id": "2611.24636",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-23T21:52:57.486777"
   }
 }
