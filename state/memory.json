@@ -47,78 +47,6 @@
     "tier": "must_read",
     "date_shown": "2026-11-14T16:22:25.673632"
   },
-  "2610.32604v1": {
-    "title": "LLaCO: Continuous Diffusion for Large Language Models with Competition-Aware Semantic Scheduling",
-    "arxiv_id": "2610.32604v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-26T16:26:52.679457"
-  },
-  "2610.32851v1": {
-    "title": "Reimagining Enterprise RAG for Multi-Agent Systems: A Knowledge Layer That Organizes Before It Retrieves",
-    "arxiv_id": "2610.32851v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-26T16:26:52.679457"
-  },
-  "2610.32719v1": {
-    "title": "Cross-Scenario Controller Parameter Transformation from Real-World Driving Data through Flow Matching",
-    "arxiv_id": "2610.32719v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-26T16:26:52.679457"
-  },
-  "2610.32602v1": {
-    "title": "Trajectory Matching: Discrete Flow Matching with Structured Actions",
-    "arxiv_id": "2610.32602v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-26T16:26:52.679457"
-  },
-  "2610.32415v1": {
-    "title": "Can LLM Annotators Match Human Consistency? Benchmarking Human Agreement and Optimizing Multi-Agent with Contrastive Knowledge",
-    "arxiv_id": "2610.32415v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-26T16:26:52.679457"
-  },
-  "2610.32333v1": {
-    "title": "Beyond Final Outcomes: Quantifying Claim-Level Information Dynamics in Multi-Agent LLM Interaction",
-    "arxiv_id": "2610.32333v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-26T16:26:52.679457"
-  },
-  "2610.32326v1": {
-    "title": "TGR-EvoDAG: A DAG-based Multi-Agent Code Evolution Framework for Generative Recommendation on Tencent",
-    "arxiv_id": "2610.32326v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-26T16:26:52.679457"
-  },
-  "2610.32256v1": {
-    "title": "Representation Learning via Composite Subspace Flow Matching",
-    "arxiv_id": "2610.32256v1",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-26T16:26:52.679457"
-  },
-  "2610.23234": {
-    "title": "MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation",
-    "arxiv_id": "2610.23234",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-26T16:26:52.679457"
-  },
-  "2610.32002": {
-    "title": "DraMaze: A Multi-Agent Pipeline with Future-Aware Memory for Diverse Microdrama Script Generation",
-    "arxiv_id": "2610.32002",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-26T16:26:52.679457"
-  },
-  "2610.17821": {
-    "title": "FLOMSS: Generative Music Source Separation by Flow Matching",
-    "arxiv_id": "2610.17821",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-26T16:26:52.679457"
-  },
-  "2610.31198": {
-    "title": "Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models",
-    "arxiv_id": "2610.31198",
-    "tier": "worth_noting",
-    "date_shown": "2026-10-26T16:26:52.679457"
-  },
   "2610.35500v1": {
     "title": "Test-Time Confidence Adaptation under RL-Induced Trajectory Shift",
     "arxiv_id": "2610.35500v1",
@@ -1144,5 +1072,53 @@
     "arxiv_id": "2611.31063v1",
     "tier": "worth_noting",
     "date_shown": "2026-11-24T20:28:38.006557"
+  },
+  "2611.33098v1": {
+    "title": "Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performance",
+    "arxiv_id": "2611.33098v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-25T19:43:53.049518"
+  },
+  "2611.33005v1": {
+    "title": "Leto: Utility-Centric Agent Memory",
+    "arxiv_id": "2611.33005v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-25T19:43:53.049518"
+  },
+  "2611.32812v1": {
+    "title": "Breaking the Joint Action Space Dependence in Distributionally Robust Multi-Agent Reinforcement Learning",
+    "arxiv_id": "2611.32812v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-25T19:43:53.049518"
+  },
+  "2611.32645v1": {
+    "title": "TeamFlowRL: Online Policy Optimization of Decentralized Flow Policies for Multi-Agent Coordination",
+    "arxiv_id": "2611.32645v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-25T19:43:53.049518"
+  },
+  "2611.32496v1": {
+    "title": "Assessing Robustness to Catastrophic Forgetting in Continual Deep Reinforcement Learning for Cyber-Physical Systems",
+    "arxiv_id": "2611.32496v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-25T19:43:53.049518"
+  },
+  "2611.32416v1": {
+    "title": "On the Importance of Hidden-State Refinement in Masked Diffusion Language Models",
+    "arxiv_id": "2611.32416v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-25T19:43:53.049518"
+  },
+  "2611.32406v1": {
+    "title": "BEACON: Learning Observation-Conditioned Starting Points for Guided Conditional Flow Matching in Microscopy",
+    "arxiv_id": "2611.32406v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-25T19:43:53.049518"
+  },
+  "2611.32380v1": {
+    "title": "The Activity Geometry of Discrete Generative Sampling",
+    "arxiv_id": "2611.32380v1",
+    "tier": "worth_noting",
+    "date_shown": "2026-11-25T19:43:53.049518"
   }
 }
